@@ -8,19 +8,18 @@ It covers all the details about the game’s concept, design, assets and story.
 
 ## Notes / Todo
 
-* [ ]  Complete abstract
+* [ ] Complete abstract
+- [ ] Complete characters
 
-- [ ]  Complete characters
+- [ ] Complete game structure
 
-- [ ]  Complete game structure
+- [ ] Write dialogs
 
-- [ ]  Write dialogs
-
-- [ ]  Create list of assets
+- [ ] Create list of assets
 
 ## Abstract
 
-A mob murder witness is taken into a safe house by the police for five days before her testimony. She's protected by two police officers. One of them is on the mob murder's payroll and already staged a suicide for a witness twenty years ago. He first tries to scare her with the old story by leaving scary notes and scaring her. On the last day, his masquerade is dropped and he first kills the other officer and tries to kill the witness, but she can knock him down and escape.
+A mob murder witness is taken into a safe house by the police for five days before her testimony. She's protected by two police officers. One of them is on the mob murder's payroll and already staged a suicide for a witness eighteen years ago. He first tries to scare her with the old story by leaving scary notes and scaring her. On the last day, his masquerade is dropped and he first kills the other officer and tries to kill the witness, but she can knock him down and escape.
 
 ## Characters
 
@@ -52,7 +51,7 @@ Throughout the game, she is scared (her fears growing with the events)
 
 ### Calvin Andrews, a police officer
 
-Calvin is one of the two detectives that ought to protect Marjorie in the safe house. However, he's actually also on Varone's payroll and staged the suicide of Jacob Grimes twenty years ago. He tries to scare and eventually kill Marjorie (which is only revealed on the last day)
+Calvin is one of the two detectives that ought to protect Marjorie in the safe house. However, he's actually also on Varone's payroll and staged the suicide of Jacob Grimes eighteen years ago. He tries to scare and eventually kill Marjorie (which is only revealed on the last day)
 
 Superficially, he's a nice and caring man in his 50s. Father-figure type. And this is the (visual) progression that he goes through: Starting as nice and trustworthy and becoming mean and ruthless.
 
@@ -250,10 +249,16 @@ The end.
 
 #### Locations
 
+##### Kitchen
+
+##### Marjories room
+
+##### Dining room
+
+##### Living room
+
 ### Music
 
 ### Sound effects and ambient noises
 
 ## Credits
-
-
