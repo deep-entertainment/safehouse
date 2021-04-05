@@ -239,6 +239,50 @@ The end.
 
 ## Scenes
 
+### INTRODUCTION - BLACK SCREEN
+
+*Cutscene starts*
+
+Over the black starting credits, we hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.
+
+Fade in: "Day 1", Fade out.
+
+### HALL - MORNING
+
+MARJORIE, CALVIN and REBECA stand in front of the front door. We see a bagpack, a bag and a suitcase in front of them. The bagpack belongs to CALVIN, the bag to REBECA and the suitcase to MARJORIE.
+
+They stand there for a few seconds, looking around. MARJORIE is frightened, she is taking in the uncommon surroundings. REBECA is annoyed, she is filling out a form. CALVIN calmly looks around.
+
+> MARJORIE
+> 
+> So... this is it?
+
+> CALVIN
+> 
+> This is it.
+
+(beat)
+
+> REBECA (harsh)
+> 
+> Living room is right this way, kitchen to the left, the bathroom and the bedrooms are upstairs. Your room is just across the stairs. Can't miss it.
+
+REBECA takes her bag and walks off to the living room.
+
+(beat)
+
+CALVIN looks at Marjorie, nods friendly. MARJORIE tries a smile. CALVIN takes his bagpack and walks off to the living room.
+
+MARJORIE grabs her suitcase.
+
+### MARJORIE'S ROOM - MORNING
+
+MARJORIE enters the room, looks around, then puts her suitcase on the bed, opens it.
+
+*Cutscene ends*
+
+**PUZZLE 1.1**
+
 ## Dialogs
 
 ## List of assets
