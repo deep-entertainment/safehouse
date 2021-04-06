@@ -17,6 +17,14 @@ It covers all the details about the game’s concept, design, assets and story.
 
 - [ ] Create list of assets
 
+## Ideas
+
+These things still need to be either deleted or included into the scenes:
+
+* Calvin tries to scare Marjorie on various occasions (without her knowing) with the death of Jacob. These scares need to get bigger with each time
+
+* 
+
 ## Abstract
 
 A mob murder witness is taken into a safe house by the police for five days before her testimony. She's protected by two police officers. One of them is on the mob murder's payroll and already staged a suicide for a witness eighteen years ago. He first tries to scare her with the old story by leaving scary notes and scaring her. On the last day, his masquerade is dropped and he first kills the other officer and tries to kill the witness, but she can knock him down and escape.
@@ -191,15 +199,19 @@ The game is structured by chapters for each day.
 
 ### Day 1
 
-#### 08:00 am
+#### Morning
 
-Marjorie, Calvin and Rebeca arrive at the safe house in New Jersey. They make themselves at home. Marjorie goes upstairs in her bedroom to unpack as she overhears Rebeca complaining to Calvin about her "babysitting mission".
+Marjorie, Calvin and Rebeca arrive at the safe house in New Jersey. They make themselves at home. Marjorie goes upstairs in her bedroom to unpack. She had smuggled a phone into the safe house and calls her mother, gets interrupted by Rebeca, who screams at her, breaks her phone and storms off
 
-#### 1:00 pm
+#### Noon
+
+They talk over the dinner about what happened. Calvin tries to comfort Marjorie, Rebeca is still pouty of her.
+
+#### Afternoon
 
 Brianna visits
 
-#### 2:00 am (nightmare)
+#### Night (nightmare)
 
 Marjorie wakes up from a sound, sits up in her bed and sees Igino in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's already morning in day 2.
 
