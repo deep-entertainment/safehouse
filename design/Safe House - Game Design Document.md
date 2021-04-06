@@ -243,6 +243,8 @@ The end.
 
 *Cutscene starts*
 
+*SFX: Composition, see further description*
+
 Over the black starting credits, we hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.
 
 Fade in: "Day 1", Fade out.
@@ -251,7 +253,11 @@ Fade in: "Day 1", Fade out.
 
 MARJORIE, CALVIN and REBECA stand in front of the front door. We see a bagpack, a bag and a suitcase in front of them. The bagpack belongs to CALVIN, the bag to REBECA and the suitcase to MARJORIE.
 
-They stand there for a few seconds, looking around. MARJORIE is frightened, she is taking in the uncommon surroundings. REBECA is annoyed, she is filling out a form. CALVIN calmly looks around.
+They stand there for a few seconds, looking around. MARJORIE is frightened, she is taking in the uncommon surroundings. REBECA is annoyed, she is filling out a form. 
+
+*AMBIENT: Filling out a form*
+
+CALVIN calmly looks around.
 
 > MARJORIE
 > 
@@ -261,7 +267,7 @@ They stand there for a few seconds, looking around. MARJORIE is frightened, she 
 > 
 > This is it.
 
-(beat)
+(beat) *AMBIENT: (stop)*
 
 > REBECA (harsh)
 > 
@@ -269,15 +275,21 @@ They stand there for a few seconds, looking around. MARJORIE is frightened, she 
 
 REBECA takes her bag and walks off to the living room.
 
+*SFX: Walking on wooden floor*
+
 (beat)
 
 CALVIN looks at Marjorie, nods friendly. MARJORIE tries a smile. CALVIN takes his bagpack and walks off to the living room.
+
+*SFX: Walking on wooden floor*
 
 MARJORIE grabs her suitcase.
 
 ### MARJORIE'S ROOM - MORNING
 
 MARJORIE enters the room, looks around, then puts her suitcase on the bed, opens it.
+
+*SFX: Suitcase on bed, opening suitcase*
 
 *Cutscene ends*
 
@@ -291,19 +303,19 @@ Click on the suitcase.
 
 Click (unpack) the items in the suitcase. Those items are presented:
 
-* Shirts
+* Shirts (*SFX: Taking clothes*)
 
-* Sweaters
+* Sweaters (*SFX: Taking clothes*)
 
-* Today's newspaper (Featuring a big article about the trial of Igino *and* various other articles)
+* Today's newspaper (Featuring a big article about the trial of Igino *and* various other articles) (SFX: Unfolding paper)
   
   > MARJORIE
   > 
   > TODO
 
-* Pants
+* Pants (*SFX: Taking clothes*)
 
-When Marjorie unpacks the pants, her phone falls out and smashes on the floor into four pieces:
+When Marjorie unpacks the pants, her phone falls out and smashes on the floor into four pieces: (*SFX: Object crashing on floor*)
 
 * Phone
 
@@ -354,11 +366,11 @@ Find the four items by examining the things in the bedroom:
 
 Combine the items in the correct order with the phone:
 
-* SIM
+* SIM (*SFX: Inserting an object*)
 
-* Battery
+* Battery (*SFX: Inserting an object*)
 
-* Casing
+* Casing (*SFX: Inserting an object*)
 
 > MARJORIE
 > 
@@ -372,13 +384,13 @@ Combine the items in the correct order with the phone:
 
 Click the suitcase again and unpack further. Following items are unpacked:
 
-* Toiletries bag
+* Toiletries bag (*SFX: Taking clothes*)
 
-* Underwear
+* Underwear (*SFX: Taking clothes*)
 
-* Bras
+* Bras (*SFX: Taking clothes*)
 
-* Purse
+* Purse (*SFX: Taking clothes*)
 
 > MARJORIE
 > 
@@ -416,6 +428,8 @@ Open the purse. Closeup of the purse contains:
   > 
   > caTerp1llar
 
+*SFX: Dialtones, when buttons on phone are pressed*
+
 Using 4872 as the phone pin yields:
 
 > MARJORIE
@@ -426,25 +440,27 @@ Using RUBE(=7823) as the phone pin solves the puzzle
 
 ### MARJORIE'S ROOM - MORNING
 
-Marjorie dials, after some moments, we hear:
+*Cutscene starts*
+
+MARJORIE dials (*SFX: Dialtones*). After some moments, we hear:
 
 > MARJORIE (very emotional)
 > 
 > Mom? (beat) Hi, Mom. Yes, we arrived. (beat) Oh, it's okay, I guess. We're (...)
 
-We hear Rebeca from the outside:
+We hear REBECA from the outside:
 
 > REBECA
 > 
 > Marjorie, I have some shee--
 
-Rebeca has entered the door Marjorie's room and sees her on the phone.
+REBECA has entered the door MARJORIE'S room and sees her on the phone.
 
 > REBECA (shouting)
 > 
 > YOU IDIOT!
 
-She ruses to Marjorie, grabs the phone, slams it on the ground (which breaks it again) and then stomps her feet on the phone. Marjorie starts to cry.
+She rushes to MARJORIE, grabs the phone, slams it on the ground (which breaks it again) and then stomps her feet on the phone. MARJORIE starts to cry.
 
 > REBECA (shouting)
 > 
@@ -456,23 +472,99 @@ She walks up and down the room.
 > 
 > NOT only that I WASTE MY TIME AND FUCKING RISK MY LIFE babysitting her, she goes about and brings a FUCKING PHONE TO HER SAFE HOUSE.
 
-She turns around, pointing at Marjorie
+She turns around, pointing at MARJORIE
 
 > REBECA (getting really mean)
 > 
 > DO YOU WANT HIM TO KILL YOU RIGHT AWAY? WE COULD ALL SAVE SOME TIME IF YOU'D SAY.
 
-(beat, we hear Marjorie sobbing)
+(beat, we hear MARJORIE sobbing)
 
 > REBECA
 > 
 > CHRIST!
 
-She exists the room, slamming the door.
+She exists the room, slamming the door. (*SFX: Door slam*)
 
 Fadeout.
 
-## Dialogs
+### LIVING ROOM - NOON
+
+MARJORIE, REBECA and CALVIN are sitting on the dining table, eating takeaway chinese food. The mood is tense.
+
+*AMBIENT: People eating*
+
+> CALVIN (without looking up)
+> 
+> Rebeca?
+
+> REBECA (ignoring him)
+> 
+> (...)
+
+> CALVIN (looking at Rebeca)
+> 
+> Rebeca?
+
+> REBECA (grunts)
+> 
+> 'm sorry, I freaked 'cause you brought your fucking phone.
+
+> CALVIN (sighs)
+> 
+> What Rebeca *tries* to say, is:
+> 
+> We're here to protect you for the next five days, Marjorie. That's our *job*.
+> 
+> Key to that is, is that nobody knows where you are. You understand?
+
+> MARJORIE (shy)
+> 
+> ...Yes.
+
+> CALVIN
+> 
+> I know, this whole situation is scary and emotional for you, but you have to trust us. If you need to talk come to...
+
+CALVIN points at REBECA. (beat) CALVIN lowers his hand.
+
+> CALVIN (Cont'd)
+> 
+> Come to me. We're here for you if you need anything, okay?
+
+CALVIN smiles at MARJORIE.
+
+MARJORIE shyly smiles back.
+
+> MARJORIE
+> 
+> Thank you.
+
+MARJORIE turns to REBECA.
+
+> MARJORIE
+> 
+> And I'm sorry. Bringing the phone really was a dumb idea. I just... I just miss my mom and yes, this is all very scary for me.
+
+> REBECA
+> 
+> Yeah, whatever. Just try to not get killed, okay?
+> 
+> (beat)
+> 
+> At least not on my watch.
+
+Fadeout.
+
+### LIVING ROOM - AFTERNOON
+
+MARJORIE sits on the sofa with BRIANNA. There's BRIANNA's open suitcase on the couch table, BRIANNA opened a big folder on her lap.
+
+*Cutscene ends*
+
+#### PUZZLE 1.4: Talking to brianna
+
+Play dialog 1.1
 
 ## List of assets
 
@@ -521,5 +613,13 @@ Items:
 ### Music
 
 ### Sound effects and ambient noises
+
+#### Introduction (Composition)
+
+The introductory sequence will be a composition of various sound effects (see the description of the introduction) without further graphics, so the player's sole concentration is on the sound.
+
+#### Eating sounds (Ambient)
+
+People eating, ringing cutlery.
 
 ## Credits
