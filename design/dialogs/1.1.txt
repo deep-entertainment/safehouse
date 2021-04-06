@@ -1,0 +1,43 @@
+:: Intro
+BRIANNA
+Hello, Marjorie. I'm Brianna Allison, the DA for your case. We spoke earlier.
+[[Yes, I remember]]
+
+:: Yes, I remember
+BRIANNA
+How are you holding up?
+
+[[I'm scared.]]
+[[I'm doing okay.]]
+[[Fine, I guess|I'm doing okay.]]
+
+:: I'm scared.
+BRIANNA
+Yeah, I know. I'm sorry you have to go through all of this.
+
+[[Yeah|Holding up]]
+
+:: I'm doing okay.
+BRIANNA
+That's nice. It's a lot to take in I'm sure.
+
+[[Yes, it is.|Holding up]]
+
+:: Holding up
+BRIANNA
+It's only a few days, you can do this.
+
+[[If you say so]]
+
+:: If you say so
+BRIANNA
+So, let's start the preparation, shall we?
+
+[[Okay.]]
+
+:: Fine, I guess->I'm doing okay.
+Empty Text
+
+:: Okay.
+Empty Text
+
