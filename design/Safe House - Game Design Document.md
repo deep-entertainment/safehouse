@@ -564,7 +564,7 @@ MARJORIE sits on the sofa with BRIANNA. There's BRIANNA's open suitcase on the c
 
 #### PUZZLE 1.4: Talking to brianna
 
-Play dialog 1.1
+Play [dialog 1.1](dialogs/1.1.txt)
 
 ## List of assets
 
