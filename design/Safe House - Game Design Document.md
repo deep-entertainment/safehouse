@@ -281,7 +281,196 @@ MARJORIE enters the room, looks around, then puts her suitcase on the bed, opens
 
 *Cutscene ends*
 
-**PUZZLE 1.1**
+#### PUZZLE 1.1: Unpack
+
+Click on the suitcase.
+
+> MARJORIE
+> 
+> Well. Time to unpack I guess.
+
+Click (unpack) the items in the suitcase. Those items are presented:
+
+* Shirts
+
+* Sweaters
+
+* Today's newspaper (Featuring a big article about the trial of Igino *and* various other articles)
+  
+  > MARJORIE
+  > 
+  > TODO
+
+* Pants
+
+When Marjorie unpacks the pants, her phone falls out and smashes on the floor into four pieces:
+
+* Phone
+
+* Battery
+
+* Casing
+
+* SIM-Card
+
+They slide in all directions.
+
+> MARJORIE
+> 
+> TODO
+
+#### PUZZLE 1.2: Assembling the phone
+
+Find the four items by examining the things in the bedroom:
+
+* Bed
+  Finding the phone underneath it:
+  
+  > MARJORIE
+  > 
+  > Oh, there's the phone.
+
+* Wardrobe (finding the SIM-Card in front of it)
+  
+  > MARJORIE
+  > 
+  > There's that tiny phone card.
+
+* Nightstand (finding the casing)
+  
+  > MARJORIE
+  > 
+  > Here's the casing
+
+* Stool (finding the battery)
+  
+  > MARJORIE
+  > 
+  > Ah, there's the battery.
+
+> MARJORIE
+> 
+> I think that's all.
+
+Combine the items in the correct order with the phone:
+
+* SIM
+
+* Battery
+
+* Casing
+
+> MARJORIE
+> 
+> There. It works again.
+> 
+> (beat)
+> 
+> Ugh, now what was my PIN again. I always forget those.
+
+#### PUZZLE 1.3: Finding the PIN
+
+Click the suitcase again and unpack further. Following items are unpacked:
+
+* Toiletries bag
+
+* Underwear
+
+* Bras
+
+* Purse
+
+> MARJORIE
+> 
+> Ah, there's my purse. I had already packed it!
+
+Open the purse. Closeup of the purse contains:
+
+* Picture of Marjories mother
+  
+  > MARJORIE
+  > 
+  > My mom
+
+* Small amount of money
+  
+  > MARJORIE
+  > 
+  > I never carry around much cash, I use the credit card usually.
+
+* Credit card
+  
+  > MARJORIE
+  > 
+  > My card
+
+* A note
+  
+  > MARJORIE
+  > 
+  > Oh, that's my secret note. Yeah, I know you shouldn't write your passwords down, but my brain's a sieve. I wrote down
+  > 
+  > 4872
+  > 
+  > RUBE
+  > 
+  > caTerp1llar
+
+Using 4872 as the phone pin yields:
+
+> MARJORIE
+> 
+> No, that's my credit card pin. I can remember that, because I use it more often.
+
+Using RUBE(=7823) as the phone pin solves the puzzle
+
+### MARJORIE'S ROOM - MORNING
+
+Marjorie dials, after some moments, we hear:
+
+> MARJORIE (very emotional)
+> 
+> Mom? (beat) Hi, Mom. Yes, we arrived. (beat) Oh, it's okay, I guess. We're (...)
+
+We hear Rebeca from the outside:
+
+> REBECA
+> 
+> Marjorie, I have some shee--
+
+Rebeca has entered the door Marjorie's room and sees her on the phone.
+
+> REBECA (shouting)
+> 
+> YOU IDIOT!
+
+She ruses to Marjorie, grabs the phone, slams it on the ground (which breaks it again) and then stomps her feet on the phone. Marjorie starts to cry.
+
+> REBECA (shouting)
+> 
+> WHAT PART OF WITNESS PROTECTION DID YOU NOT UNDERSTAND, DUMBASS?
+
+She walks up and down the room.
+
+> REBECA
+> 
+> NOT only that I WASTE MY TIME AND FUCKING RISK MY LIFE babysitting her, she goes about and brings a FUCKING PHONE TO HER SAFE HOUSE.
+
+She turns around, pointing at Marjorie
+
+> REBECA (getting really mean)
+> 
+> DO YOU WANT HIM TO KILL YOU RIGHT AWAY? WE COULD ALL SAVE SOME TIME IF YOU'D SAY.
+
+(beat, we hear Marjorie sobbing)
+
+> REBECA
+> 
+> CHRIST!
+
+She exists the room, slamming the door.
+
+Fadeout.
 
 ## Dialogs
 
@@ -292,6 +481,34 @@ MARJORIE enters the room, looks around, then puts her suitcase on the bed, opens
 #### Sprites
 
 #### Locations
+
+##### Marjories Bedroom
+
+Items:
+
+* Bed
+  
+  > MARJORIE
+  > 
+  > My bed. The mattress is far too soft, it hurts my back.
+
+* Wardrobe
+  
+  > MARJORIE
+  > 
+  > A simple wardrobe for my clothes. It's only for a few days.
+
+* Nightstand
+  
+  > MARJORIE
+  > 
+  > A nightstand.
+
+* Stool
+  
+  > MARJORIE
+  > 
+  > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
 
 ##### Kitchen
 
