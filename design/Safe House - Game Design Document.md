@@ -602,19 +602,39 @@ MARJORIE turns to REBECA.
 > 
 > (beat)
 > 
-> At least not on my watch.
+> (to herself) At least not on my watch.
 
-Fadeout.
+They have finished eating.
+
+Marjorie rises.
+
+> MARJORIE
+> 
+> You know what? Let me handle this.
+
+> CALVIN
+> 
+> Thank you, Marjorie.
+
+*Cutscene ends*
+
+The player is free to roam the house. They should do the following to continue:
+
+* Get the leftovers from the table
+
+* Bring the leftovers to the waste paper basket in the kitchen
+
+* Wash the dishes and clean the cutlery in the kitchen
+
+* Talk to [Calvin](dialogs/calvin1.md)
+
+* Talk to Rebeca
 
 ### LIVING ROOM - AFTERNOON
 
 MARJORIE sits on the sofa with BRIANNA. There's BRIANNA's open suitcase on the couch table, BRIANNA opened a big folder on her lap.
 
-*Cutscene ends*
-
 #### PUZZLE 1.4: Talking to brianna
-
-Play [dialog 1.1](dialogs/1.1.txt)
 
 ## List of assets
 
