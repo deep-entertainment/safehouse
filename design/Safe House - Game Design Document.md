@@ -23,8 +23,6 @@ These things still need to be either deleted or included into the scenes:
 
 * Calvin tries to scare Marjorie on various occasions (without her knowing) with the death of Jacob. These scares need to get bigger with each time
 
-* When putting the phone together on day one, the phone displays a warning message, that it needs to be resetted by pressing a tiny button with a needle. She finds a hair needle in her purse to do this, but remarks, that a paperclip would've been better.
-
 * There's a locked drawer in Marjorie's room and on day two, Marjorie finds a key on her bed. Upon opening the drawer, she finds an old, scary make-up diary seemingly written by Jacob,  made up of two pages holding a paper clip. She takes the paper clip, remarking it could help her, when she gets her phone back.
 
 * Marjorie steals her phone back from Rebeca to research something online. However, Rebeca removed the SIM card. 
@@ -347,11 +345,7 @@ Click (unpack) the items in the suitcase. Those items are presented:
 
 * Sweaters (*SFX: Taking clothes*)
 
-* Today's newspaper (Featuring a big article about the trial of Igino *and* various other articles) (SFX: Unfolding paper)
-  
-  > MARJORIE
-  > 
-  > TODO
+* Today's newspaper (Featuring a big article about the trial of Igino *and* various other readable articles) (SFX: Unfolding paper)
 
 * Pants (*SFX: Taking clothes*)
 
@@ -367,9 +361,9 @@ When Marjorie unpacks the pants, her phone falls out and smashes on the floor in
 
 They slide in all directions.
 
-> MARJORIE
+> MARJORIE (shouts)
 > 
-> TODO
+> DAMN.
 
 #### PUZZLE 1.2: Assembling the phone
 
@@ -418,9 +412,9 @@ Combine the items in the correct order with the phone:
 > 
 > (beat)
 > 
-> Ugh, now what was my PIN again. I always forget those.
+> Ugh, it needs to be reset because of the crash. There's this tiny button on the side. I need something small. Like a paper clip or needle or something.
 
-#### PUZZLE 1.3: Finding the PIN
+#### PUZZLE 1.3: Resetting the phone
 
 Click the suitcase again and unpack further. Following items are unpacked:
 
@@ -456,6 +450,8 @@ Open the purse. Closeup of the purse contains:
   > 
   > My card
 
+* Hair pin
+
 * A note
   
   > MARJORIE
@@ -467,6 +463,20 @@ Open the purse. Closeup of the purse contains:
   > RUBE
   > 
   > caTerp1llar
+
+Take the hair pin and use it to reset the phone.
+
+> MARJORIE
+> 
+> It's a bit too big for the hole, a paper clip would be better. (beat) But... (tries) yes, it works.
+> 
+> Here we go.
+> 
+> (beat)
+> 
+> Ugh, now what was my PIN again. I always forget those.
+
+#### PUZZLE 1.4: Finding the PIN
 
 *SFX: Dialtones, when buttons on phone are pressed*
 
@@ -500,7 +510,7 @@ REBECA has entered the door MARJORIE'S room and sees her on the phone.
 > 
 > YOU IDIOT!
 
-She rushes to MARJORIE, grabs the phone, slams it on the ground (which breaks it again) and then stomps her feet on the phone. MARJORIE starts to cry.
+She rushes to MARJORIE, grabs the phone, rips of the SIM card, throws it out of the window and hides the phone. MARJORIE starts to cry.
 
 > REBECA (shouting)
 > 
