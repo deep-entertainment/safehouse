@@ -746,11 +746,11 @@ Igino Varone (shown left), the alleged head of "La Famiglia", the New York based
 
 District Attorney Brianna Allison tells the New York Standard that she will aim for a life sentence. "We have solid evidence", Misses Allison says, "We also have a witness, so I have no doubt that the jury will rule in our favor. It's time that we put an end to the business of La Famiglia!"
 
-The public case will be held on friday, 4pm, court room 10. Limit seats available.
+The trial will start on Friday, 4pm, court room 10.
 
 **HOMELESS SHELTER GOES UP IN FLAMES** by Jasmine Guyot
 
-East village - a building used as a homeless shelter burned down to the ground yesterday evening. Officer Greyson, first to be at the crime scene, told the New York Standard, that an arson can not be ruled out at this time and until the police has other leads, the remains of the shelter are treated like a crime scene. It's recommended to stay clear of the area because of the probable instability of the building. The gruesome numbers: 12 people died, 34 people with burn injuries were taken to Beth Israel Hospital.
+East village - a building used as a homeless shelter burnt down to the ground yesterday evening. Officer Mike Greyson, who was the first at the crime scene, told the New York Standard that arson can not be ruled out at this point. Until the police has other leads, the remains of the shelter will be treated as a crime scene. It's recommended to stay clear of the area due to the probable instability of the building. The gruesome numbers are as of yet: 12 casualties, 34 people with burn injuries, that have been taken to Beth Israel Hospital.
 
 **VISIT SWEDEN! A TRAVEL COMMENTARY** by Carol Reed
 
