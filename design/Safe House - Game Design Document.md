@@ -742,9 +742,9 @@ The articles read:
 
 **MOB BOSS ON TRIAL** by Tyrice Curtis
 
-Igino Varone (shown left), the alleged head of "La Famiglia", the New York based crime organization, will be on trial this friday afternoon after accuses arose of him killing a shop owner in the lower east side.
+Igino Varone (shown left), the alleged head of "La Famiglia", the New York based crime organization, will be on trial this friday afternoon after having been accused of killing a shop owner in the lower east side.
 
-District Attorney Brianna Allison told the New York Standard, that she will aim for life sentence. "We have solid evidence", Misses Allison says, "and a key witness that I have no doubt, the jury will decide in our favor. It is time, we put an end to the business of La Famiglia!"
+District Attorney Brianna Allison tells the New York Standard that she will aim for a life sentence. "We have solid evidence", Misses Allison says, "We also have a witness, so I have no doubt that the jury will rule in our favor. It's time that we put an end to the business of La Famiglia!"
 
 The public case will be held on friday, 4pm, court room 10. Limit seats available.
 
