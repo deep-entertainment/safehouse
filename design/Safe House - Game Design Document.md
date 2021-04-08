@@ -628,7 +628,7 @@ The player is free to roam the house. They should do the following to continue:
 
 * Talk to [Calvin](dialogs/calvin1.md)
 
-* Talk to Rebeca
+* Talk to [Rebeca](dialogs/rebeca1.md)
 
 ### LIVING ROOM - AFTERNOON
 
@@ -659,6 +659,40 @@ Items:
   > MARJORIE
   > 
   > A simple wardrobe for my clothes. It's only for a few days.
+
+* Upper Drawer (in wardrobe)
+  
+  > MARJORIE
+  > 
+  > Nothing in here.
+
+* Lower Drawer (in wardrobe)
+  
+  * if locked
+    
+    > MARJORIE
+    > 
+    > It's locked.
+  
+  * if used with key_drawer
+    
+    > MARJORIE
+    > 
+    > It fits! *SFX: Unlock*
+  
+  * if unlocked; if diary is not in inventory
+    
+    > MARJORIE
+    > 
+    > What's this? Some sort of... diary?
+    
+    Add diary to inventory
+  
+  * if unlocked; if diary is in inventory
+    
+    > MARJORIE
+    > 
+    > It's empty.
 
 * Nightstand
   

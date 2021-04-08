@@ -10,25 +10,37 @@ One random of
 
 # greeting1
 
-Marjorie: Can I ask you something, Calvin?
+> MARJORIE
+> 
+> Can I ask you something, Calvin?
 
-Calvin: Sure. What's up?
+> CALVIN
+> 
+> Sure. What's on your mind?
 
 [Questions](#Questions)
 
 # greeting2
 
-Marjorie: Calvin?
+> MARJORIE
+> 
+> Calvin?
 
-Calvin: Yes, Marjorie?
+> CALVIN
+> 
+> Yes, Marjorie?
 
 [Questions](#Questions)
 
 # greeting3
 
-Marjorie: Do you have a second, Calvin?
+> MARJORIE
+> 
+> Do you have a second, Calvin?
 
-Calvin: Absolutely. What's up?
+> CALVIN
+> 
+> Absolutely. What's on your mind?
 
 [Questions](#Questions)
 
@@ -40,62 +52,120 @@ Calvin: Absolutely. What's up?
 
 * [Do you often use this house?](#abouthouse)
 
+* [Thank you, Calvin.](#thanks)
+
 # apology
 
-Calvin: It's okay, Marjorie. It's your first witness protection, I presume? *laughs*
+> CALVIN
+> 
+> It's okay, Marjorie. It's your first witness protection, I presume? *laughs*
 
-Marjorie: *laughs* Yes, it is.
+> MARJORIE (laughs)
+> 
+> Yes, it is.
 
-Calvin: See? All is good. You just have to be careful. It's only five days.
+> CALVIN
+> 
+> See? All is good. You just have to be careful. It's only five days.
 
-Marjorie: Yes.
+> MARJORIE
+> 
+> Yes.
 
-Calvin: Marjorie?
+> CALVIN
+> 
+> Marjorie?
 
-Marjorie: Yes?
+> MARJORIE
+> 
+> Yes?
 
-Calvin: You got this.
+> CALVIN
+> 
+> You got this.
 
-Marjorie: I... yes. Yes, I got this. Thanks, Calvin.
+> MARJORIE
+> 
+> I... yes. Yes, I got this. Thanks, Calvin.
 
 [Questions](#Questions)
 
 # howdoesthiswork
 
-Calvin: Well, we sit and wait.
+> CALVIN
+> 
+> Well, we sit and wait.
 
-Marjorie: Nothing more?
+> MARJORIE
+> 
+> Nothing more?
 
-Calvin: Nothing more.
+> CALVIN
+> 
+> Nothing more.
+> 
+> (beat)
+> 
+> Well, in the best case at least. We all hope, nothing happens again.
 
-Calvin: Well, in the best case at least. We all hope, nothing happens again.
+> MARJORIE
+> 
+> Again?
 
-Marjorie: Again?
+> CALVIN
+> 
+> Hm?
 
-Calvin: Hm?
+> MARJORIE
+> 
+> You said, you hope, that nothing happens *again*?
 
-Marjorie: You said, you hope, that nothing happens *again*?
+> CALVIN
+> 
+> I did?
 
-Calvin: I did?
+> MARJORIE
+> 
+> Yes.
 
-Marjorie: Yes.
+> CALVIN
+> 
+> I... I meant... Look, Marjorie. This is a tense situation. We just stay put and wait until the trial and then it's over. Easy as that.
 
-Calvin: I... I meant... Look, Marjorie. This is a tense situation. We just stay put and wait until the trial and then it's over. Easy as that.
-
-Marjorie: Okay.
+> MARJORIE
+> 
+> Okay.
 
 [Questions](#Questions)
 
 # abouthouse
 
-Calvin: Not *often*, but sometimes. There are several objects used like this one.
+> CALVIN
+> 
+> Not *often*, but sometimes. We have several objects like this.
 
-Marjorie: It's neat.
+> MARJORIE
+> 
+> It's neat.
 
-Calvin: Yes... Yes, I guess it is *neat*. Never thought of it this way, actually. It's just my job, you know.
+> CALVIN
+> 
+> Yes... Yes, I guess it is *neat*. Never thought of it this way, actually. I'm only here, when I'm on the clock.
 
-Marjorie: I guess. It's a bit more for me.
+> MARJORIE
+> 
+> I guess. It's a bit more for me.
 
-Calvin: Yeah... I see.
+> CALVIN
+> 
+> Yeah... I see.
 
 [Questions](#Questions)
+
+# thanks
+
+> CALVIN
+> 
+> Anytime. If you need something, we're here for you.
+
+END
