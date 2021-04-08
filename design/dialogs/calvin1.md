@@ -106,11 +106,11 @@ One random of
 > 
 > (beat)
 > 
-> Well, in the best case at least. We all hope, nothing happens again.
+> Well, in the best case at least. Let's just hope nothing happens. (to himself) Unlike last time.
 
 > MARJORIE
 > 
-> Again?
+> Last time?
 
 > CALVIN
 > 
@@ -118,7 +118,7 @@ One random of
 
 > MARJORIE
 > 
-> You said, you hope, that nothing happens *again*?
+> You said, you hope, that nothing happens *unlike last time*?
 
 > CALVIN
 > 
