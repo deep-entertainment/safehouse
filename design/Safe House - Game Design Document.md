@@ -642,6 +642,24 @@ MARJORIE sits on the sofa with BRIANNA. There's BRIANNA's open suitcase on the c
 
 #### Sprites
 
+#### Items
+
+* Smartphone (rather cheap), complete
+
+* Smartphone (rather cheap), without back cover, battery and SIM card
+
+* Smartphone battery
+
+* Smartphone back cover
+
+* SIM card
+
+* Purse
+
+* Hair pin
+
+* 
+
 #### Locations
 
 ##### Marjories Bedroom
@@ -714,16 +732,53 @@ Items:
 
 ##### Living room
 
+#### Closeups
+
+##### Newspaper
+
+A typical New York newspaper called "New York Standard". There's a big article with a photo of Igino, and several articles around it.
+
+The articles read:
+
+**MOB BOSS ON TRIAL** by Tyrice Curtis
+
+Igino Varone (shown left), the alleged head of "La Famiglia", the New York based crime organization, will be on trial this friday afternoon after accuses arose of him killing a shop owner in the lower east side.
+
+District Attorney Brianna Allison told the New York Standard, that she will aim for life sentence. "We have solid evidence", Misses Allison says, "and a key witness that I have no doubt, the jury will decide in our favor. It is time, we put an end to the business of La Famiglia!"
+
+The public case will be held on friday, 4pm, court room 10. Limit seats available.
+
+**HOMELESS SHELTER GOES UP IN FLAMES** by Jasmine Guyot
+
+East village - a building used as a homeless shelter burned down to the ground yesterday evening. Officer Greyson, first to be at the crime scene, told the New York Standard, that an arson can not be ruled out at this time and until the police has other leads, the remains of the shelter are treated like a crime scene. It's recommended to stay clear of the area because of the probable instability of the building. The gruesome numbers: 12 people died, 34 people with burn injuries were taken to Beth Israel Hospital.
+
+**VISIT SWEDEN! A TRAVEL COMMENTARY** by Carol Reed
+
+New York Standard reporter Carol Reed is abroad in Europe and tells all about the nicest places in the old world.
+
+This time, Carol visits the town of Norrköping, just about 120 miles east of Stockholm, Sweden's capital. Read all about Sweden's wonderful countryside and art on page 14.
+
+**POLICE NOTICES**
+
+New York City police are investigating after a dumpster was found Monday night filled with dozens of pounds of cocaine. Police says the 60 pounds of cocaine was estimated to be worth $6.6 million and that it had been sold in Los Angeles.
+A suspect is in police custody awaiting a court appearance.
+
+**BEST BBQ-RECIPES BY STAR-CHEF OLIVER KARDUM**
+
+In this edition only. See page 15!
+
+Additionally, the following ads are visible:
+
+* **GRAND OPENING! PHILIPP URLICH EXHIBITION AT THE MARK FERRARI GALLERY**
+
+* **CHOLMONDELEY MOTORS - LOW PRICES, GREAT CARS**
+
+* **JORDAN BEN - YOUR EXPERT FOR TAROT AND PSYCHIC CONSULTATION**
+
+* **BIGGE'S BIG BOUNCY BOWL - FUN FOR THE WHOLE FAMILY. ASK ABOUT OUR BIRTHDAY SPECIALS!**
+
 ### Music
 
 ### Sound effects and ambient noises
-
-#### Introduction (Composition)
-
-The introductory sequence will be a composition of various sound effects (see the description of the introduction) without further graphics, so the player's sole concentration is on the sound.
-
-#### Eating sounds (Ambient)
-
-People eating, ringing cutlery.
 
 ## Credits

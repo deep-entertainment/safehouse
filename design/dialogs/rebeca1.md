@@ -48,7 +48,7 @@ One random of
 
 * [I just wanted to apologize again. About the phone?](#apologize)
 * [Can you give me my phone back?](#phone)
-* [How long are you with the police?](#career)
+* [How long have you been with the police?](#career)
 * [Thanks, Rebeca.](#thanks)
 
 # apologize
