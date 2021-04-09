@@ -227,7 +227,7 @@ The game is structured by chapters for each day.
 
 #### Morning
 
-Marjorie, Calvin and Rebeca arrive at the safe house in New Jersey. They make themselves at home. Marjorie goes upstairs in her bedroom to unpack. She had smuggled a phone into the safe house and calls her mother, gets interrupted by Rebeca, who screams at her, breaks her phone and storms off
+Marjorie, Calvin and Rebeca arrive at the safe house in New Jersey. They make themselves at home. Marjorie goes upstairs in her bedroom to unpack. She had smuggled a phone into the safe house and calls her mother, gets interrupted by Rebeca, who screams at her, grabs her phone and storms off.
 
 #### Noon
 
@@ -235,27 +235,81 @@ They talk over the dinner about what happened. Calvin tries to comfort Marjorie,
 
 #### Afternoon
 
-Brianna visits
+Brianna visits and reveals the Igino backstory.
 
-#### Night (nightmare)
+#### Evening
 
-Marjorie wakes up from a sound, sits up in her bed and sees Igino in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's already morning in day 2.
+Marjorie goes up to her room to find a noose hanging from the ceiling. She screams, runs away and into Calvin in the hall. Calvin calms her down, tells her to wait in the hall, goes into her room and quickly removes the noose (unknown to the player). At the same time, Rebeca arrived and rushes up behind Calvin.
+
+Calvin and Rebeca came back and tell Marjorie, that there's no noose and she must've hallucinated. Calvin manages to calm her down, Rebeca is angry again.
 
 ### Day 2
 
+#### Morning
+
+Marjorie, Calvin and Rebeca eat breakfast. Calvin reads the New York Standard. In the dialog, Marjorie tries to gather more information about Igino and La Famiglia.
+
+After finishing the breakfast, Marjorie goes into her room and finds the drawer key on her bed.
+
+She unlocks the locked drawer with it and finds the fake diary of Jacob Grimes. Downstairs, she finds Rebeca and talks to her. She reveals, that Jacob Grimes was found dead in Marjorie's room 18 years ago. (It is not yet revealed, that Jacob hang himself or that Calvin was assigned to that case)
+
+As Rebeca doesn't tell her more, Marjorie wants to investigate. She needs her phone for that.
+
+Rebeca sits on the couch, Marjorie's phone sticking out of one of her pockets. Marjorie needs to walk into the kitchen and look through the hatch to get it in the right moment.
+
+But her SIM is gone, so she needs wifi. There actually is a wifi in the house used by the detectives, but it's locked.
+
+Marjorie traces the signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to find the password.
+
+She logs into the wifi and searches for "Jacob Grimes" to find that he had hung himself in her room 18 years ago and that Calvin was assigned to that case.
+
 #### 11:00 am
 
-Brianna visits
-
-#### 7:00 pm
+Brianna visits and Marjorie asks her about Jacob's story.
 
 #### 2:40 am (nightmare)
 
+Marjorie wakes up from a sound, sits up in her bed and sees Igino in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's early morning in day 3.
+
 ### Day 3
+
+#### Early morning
+
+Marjorie sits in her bed. Her room is dark, only the dim light of the windows sheds some light into their side of the room.
+
+Marjorie gets up to find the light switch, but the lamp can't be turned on because the bulb has blown. 
+
+She finds the lamp, but it's too high for her. She finds a stepladder in one cupboard of the kitchen and uses it to get to the lamp.
+
+She finds the lamp and unscrews the bulb, then goes into the lower hall where she finds a matching bulb, turns of the light to cool down the bulb, waits a few seconds in the darkness and then unscrews the bulb.
+
+Upon screwing in the bulb into her lamp again, the light immediately flashes on and she sees, that there's a hook hidden in the shade of her lamp. There's something on the hook, but it's too tiny to see.
+
+She finds a magnifying glass in a drawer in the kitchen.
+
+She inspects the hook with the magnifying glass and finds hemp fibres. Slowly she realizes, that somebody tries to scare her and that the noose actually *was* there on the evening of day 1.
+
+She wants to investigate, if somebody left fingerprints there. She suspects Rebeca.
+
+#### Morning
+
+Marjorie and Calvin sit and eat breakfast. Rebeca is at the now open cupboard in the living room. Calvin tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
+
+As they are eating, Marjorie tries to grill Rebeca to find out wether she tries to scare her. They get into an argue, Calvin gets in between and Rebeca storms off (still leaving the cupboard unlocked)
+
+After breakfast, Marjorie again takes the dishes to the kitchen.
+
+In the trash she finds a make-up brush.
+
+She additionally gathers adhesive tape from a drawer in the hall, the fingerprint powder from the unlocked cupboard.
+
+As she's back in her room after getting all the things, Brianna arrives and she is interrupted.
 
 #### 11:45 am
 
-Brianna visits
+Brianna visits and Marjorie questions her about Rebeca.
+
+
 
 ### Day 4
 
@@ -644,21 +698,79 @@ MARJORIE sits on the sofa with BRIANNA. There's BRIANNA's open suitcase on the c
 
 #### Items
 
-* Smartphone (rather cheap), complete
+* smartphone: Smartphone (rather cheap), complete
+  
+  * If smartphone_reset:
+    
+    > MARJORIE
+    > 
+    > My phone. It's a rather old model, but... it works.
+  
+  * If smartphone_pin:
+    
+    > MARJORIE
+    > 
+    > It asks for my PIN.
 
-* Smartphone (rather cheap), without back cover, battery and SIM card
+* smartphone_incomplete: Smartphone (rather cheap), without back cover, battery and SIM card
+  
+  * If examined
+    
+    > MARJORIE
+    > 
+    > (grunt) I'm so clumsy. I hope, it isn't broken.
+  
+  * If all items have been added
+    
+    > MARJORIE
+    > 
+    > There, it's booting up. At least the screen's not broken.
 
-* Smartphone battery
+* battery: Smartphone battery
+  
+  > MARJORIE
+  > 
+  > It's the battery of my phone.
 
-* Smartphone back cover
+* cover: Smartphone back cover
+  
+  > MARJORIE
+  > 
+  > It's the back of my smartphone.
 
-* SIM card
+* simcard: SIM card
+  
+  > MARJORIE
+  > 
+  > That's the tiny card so I can call somebody.
 
-* Purse
+* purse: Purse
+  open purse closeup
 
-* Hair pin
+* hairpin: Hair pin
+  
+  > MARJORIE
+  > A tiny hair pin
 
-* 
+* diary: Diary
+  
+  * If not paperclip in inventory:
+    
+    > MARJORIE
+    > 
+    > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
+    
+    add paperclip to inventory
+    
+    show diary closeup
+  
+  * If paperclip in inventory: show diary closeup
+
+* paperclip: Paper Clip
+  
+  > MARJORIE
+  > 
+  > A paper clip. It held the diary pages together.
 
 #### Locations
 
@@ -712,6 +824,73 @@ Items:
     > 
     > It's empty.
 
+* Lamp
+  
+  * If working
+    
+    > MARJORIE
+    > 
+    > The light is a bit too bright for my taste, but it's all I got.
+  
+  * If not working
+    
+    > MARJORIE
+    > 
+    > Oh, the bulb's dead. I need to replace it
+    
+    Marjorie unscrews the bulb. Add broken_bulb to inventory
+    
+    > MARJORIE
+    > 
+    > Huh? What is this? There's a sturdy hook in the lamp screen. And there's something on it, but I can't make it out.
+  
+  * If used with broken_bulb
+    
+    > MARJORIE
+    > 
+    > I need to find a working lightbulb.
+  
+  * If used with bulb
+    
+    > MARJORIE
+    > 
+    > There we go.
+  
+  * If used with magnifying glass, but bulb is still missing
+    
+    > MARJORIE
+    > 
+    > That won't work, it's too dark.
+  
+  * If used with magnifying glass
+    
+    > MARJORIE
+    > 
+    > Those... Those are fibres. Hemp fibres.
+    > I... Then I wasn't hallucinating... There was really a noose hanging there. 
+    > 
+    > Oh my god. What the fuck is going on here? The noose, the diary. Is somebody trying to creep me out?
+  
+  * If used with magnifying glass (again)
+    
+    > MARJORIE
+    > 
+    > Hemp fibres. From the noose. They give me the creeps.
+  
+  * If used with fingerprintset_incomplete
+    
+    > MARJORIE
+    > 
+    > I don't have all the neccessary items for the fingerprint kit.
+  
+  * If used with fingerprintset
+    
+    > MARJORIE
+    > 
+    > Okay... here we go. Yes. I got a print. Now, I need to compare it.
+    
+    Add fingerprint to inventory
+
 * Nightstand
   
   > MARJORIE
@@ -728,7 +907,9 @@ Items:
 
 ##### Marjories room
 
-##### Dining room
+##### Hall
+
+##### Upstairs Hall
 
 ##### Living room
 
@@ -754,14 +935,18 @@ East village - a building used as a homeless shelter burnt down to the ground ye
 
 **VISIT SWEDEN! A TRAVEL COMMENTARY** by Carol Reed
 
-New York Standard reporter Carol Reed is abroad in Europe and tells all about the nicest places in the old world.
+New York Standard's own Carol Reed is travelling Europe and reports all about the nicest destinations in the old world.
 
 This time, Carol visits the town of Norrköping, just about 120 miles east of Stockholm, Sweden's capital. Read all about Sweden's wonderful countryside and art on page 14.
 
 **POLICE NOTICES**
 
-New York City police are investigating after a dumpster was found Monday night filled with dozens of pounds of cocaine. Police says the 60 pounds of cocaine was estimated to be worth $6.6 million and that it had been sold in Los Angeles.
-A suspect is in police custody awaiting a court appearance.
+New York City police are investigating after a dumpster was found Monday night filled with dozens of pounds of cocaine. Police says the 60 pounds of cocaine was estimated to be worth $6.6 million.
+A person, suspected of a crime related to the incident, is held in police custody awaiting a court hearing.
+
+##### Diary
+
+
 
 **BEST BBQ-RECIPES BY STAR-CHEF OLIVER KARDUM**
 
