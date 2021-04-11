@@ -385,7 +385,7 @@ Marjorie talks to her, gets a cloth and Rebecas mobile from the kitchen, gives t
 
 ### Day 5
 
-#### Somewhen
+#### Afternoon
 
 Marjorie sits with Brianna. They talk about Calvin. In the end, Marjorie confirms to Brianna, that she will appear in court and make her testimony.
 
