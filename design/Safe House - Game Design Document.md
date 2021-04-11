@@ -21,35 +21,7 @@ It covers all the details about the game’s concept, design, assets and story.
 
 These things still need to be either deleted or included into the scenes:
 
-* Calvin tries to scare Marjorie on various occasions (without her knowing) with the death of Jacob. These scares need to get bigger with each time
-
-* There's a locked drawer in Marjorie's room and on day two, Marjorie finds a key on her bed. Upon opening the drawer, she finds an old, scary make-up diary seemingly written by Jacob,  made up of two pages holding a paper clip. She takes the paper clip, remarking it could help her, when she gets her phone back.
-
-* Marjorie steals her phone back from Rebeca to research something online. However, Rebeca removed the SIM card. 
-
-* Because of this, Marjorie still has no internet connection because of the missing SIM card. Marjorie finds a wifi though but has to get the password for it. She traces the wifi signal back to a place somewhere she has to break open to find the router. On the back of the router, the password is noted
-
-* On the first evening, Marjorie finds a hanging noose in her room. When she rushes out, she runs into the arms of Calvin, who tells her to stay out, goes into her room (secretly removes the noose he previously put there) and tells her, that nothing's there. He comforts her and tells her, that she is frightened and her mind plays tricks on her
-
-* There's a cupboard with a compartment used by the cops in the living room which contains an old fingerprint kit with only the fingerprint powder left in it and a magnifying glass (among other items like vests, emergency information, etc.) The compartment is unlocked on day two and Marjorie takes out the magnifying glass. She comments on the powder, that she doesn't need it.
-
-* On day two the lightbulb in her room goes off and she has to find a new one. There's one in the hall, but she has to turn it off and wait for a few moments until she can use it.
-
-* Later, when she changes the lightbulb in her room, she finds a sturdy hook inside her lamp. She inspects it with a magnifying glass and finds fresh hemp fibers on it and gets suspicious
-
-* On day three, the compartnent of the cupboard in the living room, is locked and Marjorie uses the pin to break it open. She takes the fingerprint powder.
-
-* Because she's so mean to her, Marjorie suspects Rebeca to be the one who tries to scare her. She assembles a fingerdust kit from the following items:
-  
-  * Fingerprint powder
-  
-  * Adhesive tape (from a drawer in the kitchen)
-  
-  * Old makeup brush in a wastepaper basket
-
-* She gets fingerprints by taking it from a glass she tricked Rebeca to drink from
-
-* On day five, morning, she gets the fingerprints from the lamp and compares them with Rebeca's, but they don't match. Then the finale unwinds.
+n/a
 
 ## Abstract
 
