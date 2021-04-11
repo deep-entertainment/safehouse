@@ -25,7 +25,7 @@ n/a
 
 ## Abstract
 
-A mob murder witness is taken into a safe house by the police for five days before her testimony. She's protected by two police officers. One of them is on the mob murder's payroll and already staged a suicide for a witness eighteen years ago. He first tries to scare her with the old story by leaving scary notes and scaring her. On the last day, his masquerade is dropped and he first kills the other officer and tries to kill the witness, but she can knock him down and escape.
+A mob murder witness is taken into a safe house by the police for five days before her testimony. She's protected by two police officers. One of them is on the mob murder's payroll and already staged a suicide for a witness eighteen years ago. He first tries to scare her with the old story by leaving scary notes and scaring her. On the fourth day, his masquerade is dropped and he first tries to kill the other officer, but the witness interrupts him, then he tries to kill her, but she can hold him back and is saved in the last minute by the other officer.
 
 ## Characters
 
