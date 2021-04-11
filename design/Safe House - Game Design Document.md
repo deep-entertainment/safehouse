@@ -61,6 +61,8 @@ A mob murder witness is taken into a safe house by the police for five days befo
 
 Marjorie is a black woman, aged 34. At the beginning of the game, she is calm and shy and insecure. Through the events in the game, she becomes confident and strong.
 
+Because Rebeca is very rough to her, she begins to suspect, that she tries to scare her, but ultimatively, it's Calvin that tries to attack her and this gets settled in the very last scene.
+
 Throughout the game, she is scared (her fears growing with the events)
 
 * Age: 34
@@ -113,7 +115,7 @@ Superficially, he's a nice and caring man in his 50s. Father-figure type. And th
 
 Rebeca is one of the two police officers that ought to protect Marjorie in the safe house.
 
-She's young, rough and harsh and she's not really happy spending five days "babysitting" Marjorie like she puts it. Throughout the events (especially on the fourth and fifth day) she becomes helping and warm.
+She's young, rough and harsh and she's not really happy spending five days "babysitting" Marjorie like she puts it. After the event with the noose she gets suspcious of Calvin and investigates behind his back which leads to a standoff of them two on day four.
 
 Because she finds about about Calvin's motives, she is killed by him on the fifth day.
 
@@ -223,6 +225,62 @@ Calvin weaves in the story of Jacob to scare Marjorie, leaving scary notes and s
 
 The game is structured by chapters for each day.
 
+### Basic structure
+
+* Day 1
+  
+  * Phone incident
+  
+  * Getting to know each other
+  
+  * Brianna: Igino
+  
+  * Noose Incident
+
+* Day 2
+  
+  * Lock combination / Opening the drawer / Diary
+  
+  * Getting back the phone / wifi / investigating about Jacob
+  
+  * Brianna: Jacob
+  
+  * Nightmare
+
+* Day 3
+  
+  * Replacing the lightbulb
+  
+  * Finding hook / Fingerprint kit / Getting Fingerprints from the hook
+  
+  * Brianna: Rebeca
+  
+  * Getting Fingerprints from Rebeca / Comparing
+  
+  * Matching Fingerprints
+
+* Day 4 (night)
+  
+  * Marjorie awakes from a fight downstairs
+  
+  * She goes down to find Calvin fighting with Rebeca
+  
+  * Calvin shoots Rebeca
+  
+  * Calvin chases Marjorie
+  
+  * Marjorie barricades herself in her room
+  
+  * Just before Calvin breaks through, we hear a shot
+  
+  * Then Rebeca's voice is heard
+  
+  * Marjorie tells her about her suspect, but she can come clear
+
+* Day 5 (epilogue)
+  
+  * Brianna: Calvin
+
 ### Day 1
 
 #### Morning
@@ -241,7 +299,7 @@ Brianna visits and reveals the Igino backstory.
 
 Marjorie goes up to her room to find a noose hanging from the ceiling. She screams, runs away and into Calvin in the hall. Calvin calms her down, tells her to wait in the hall, goes into her room and quickly removes the noose (unknown to the player). At the same time, Rebeca arrived and rushes up behind Calvin.
 
-Calvin and Rebeca came back and tell Marjorie, that there's no noose and she must've hallucinated. Calvin manages to calm her down, Rebeca is angry again.
+Calvin and Rebeca came back and tell Marjorie, that there's no noose and she must've hallucinated. Calvin manages to calm her down, Rebeca is strangely quiet and absent minded.
 
 ### Day 2
 
@@ -249,9 +307,9 @@ Calvin and Rebeca came back and tell Marjorie, that there's no noose and she mus
 
 Marjorie, Calvin and Rebeca eat breakfast. Calvin reads the New York Standard. In the dialog, Marjorie tries to gather more information about Igino and La Famiglia.
 
-After finishing the breakfast, Marjorie goes into her room and finds the drawer key on her bed.
+After finishing the breakfast, Marjorie goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads to the combination of the padlock on the drawer in her room.
 
-She unlocks the locked drawer with it and finds the fake diary of Jacob Grimes. Downstairs, she finds Rebeca and talks to her. She reveals, that Jacob Grimes was found dead in Marjorie's room 18 years ago. (It is not yet revealed, that Jacob hang himself or that Calvin was assigned to that case)
+She opens the lock with it and finds the fake diary of Jacob Grimes. Downstairs, she finds Rebeca and talks to her. She reveals, that Jacob Grimes was found dead in Marjorie's room 18 years ago. (It is not yet revealed, that Jacob hang himself or that Calvin was assigned to that case)
 
 As Rebeca doesn't tell her more, Marjorie wants to investigate. She needs her phone for that.
 
@@ -259,7 +317,7 @@ Rebeca sits on the couch, Marjorie's phone sticking out of one of her pockets. M
 
 But her SIM is gone, so she needs wifi. There actually is a wifi in the house used by the detectives, but it's locked.
 
-Marjorie traces the signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to find the password.
+Marjorie traces the signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
 
 She logs into the wifi and searches for "Jacob Grimes" to find that he had hung himself in her room 18 years ago and that Calvin was assigned to that case.
 
@@ -295,9 +353,9 @@ She wants to investigate, if somebody left fingerprints there. She suspects Rebe
 
 Marjorie and Calvin sit and eat breakfast. Rebeca is at the now open cupboard in the living room. Calvin tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
 
-As they are eating, Marjorie tries to grill Rebeca to find out wether she tries to scare her. They get into an argue, Calvin gets in between and Rebeca storms off (still leaving the cupboard unlocked)
+As they are eating, Marjorie tries to grill Rebeca to find out wether she tries to scare her. They get into an argue, Calvin gets in between and something he says triggers something in Rebeca, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
 
-After breakfast, Marjorie again takes the dishes to the kitchen.
+After breakfast, Marjorie again takes the dishes to the kitchen. She wonders that the supplies seem to be fully stocked.
 
 In the trash she finds a make-up brush.
 
@@ -305,27 +363,31 @@ She additionally gathers adhesive tape from a drawer in the hall, the fingerprin
 
 As she's back in her room after getting all the things, Brianna arrives and she is interrupted.
 
-#### 11:45 am
+#### Afternoon
 
 Brianna visits and Marjorie questions her about Rebeca.
 
+#### Evening
 
+In the meantime, Rebeca is back. Marjorie gets the fingerprints from the hook and tricks Rebeca into drinking from a glass that Marjorie snatches and gets her fingerprints off.
+
+She compares the fingerprints and they match. She's now convinced, that Rebeca is trying to scare her.
 
 ### Day 4
 
-2:00 pm
+#### Early morning
 
-Brianna visits
+Marjorie wakes up to the sound of a fight. She walks down to find Calvin shooting Rebeca. Calvin turns around and goes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
+
+Calvin at first tries to sweet talk her, but ultimatively looses his nerves and screams at her. He shoots and pushes against the door. The cupboard moves and the door opens. Calvin comes in, but is gunned down by the wounded Rebeca, who breaks down.
+
+Marjorie talks to her, gets a cloth and Rebecas mobile from the kitchen, gives the cloth to Rebeca to still the wound and calls 911.
 
 ### Day 5
 
-#### 09:12 am
+#### Somewhen
 
-Marjorie wakes up to the sound of a shot. She walks down to find Rebeca in a pool of blood on the kitchen floor. Rebeca tells her in her last moments, that Calvin staged Jacob's death. Marjorie tries to run to the door, but Calvin appears, Marjorie flees up the stairs and locks her room.
-
-(TODO fights Calvin)
-
-With Calvin knocked out she storms down to find Brianna.
+Marjorie sits with Brianna. They talk about Calvin. In the end, Marjorie confirms to Brianna, that she will appear in court and make her testimony.
 
 The end.
 
@@ -686,9 +748,9 @@ The player is free to roam the house. They should do the following to continue:
 
 ### LIVING ROOM - AFTERNOON
 
-MARJORIE sits on the sofa with BRIANNA. There's BRIANNA's open suitcase on the couch table, BRIANNA opened a big folder on her lap.
+MARJORIE sits on the sofa with BRIANNA. BRIANNA's open suitcase lies on the couch table, BRIANNA opened a big folder on her lap. MARJORIE is nervous.
 
-#### PUZZLE 1.4: Talking to brianna
+[They talk.](dialogs/brianna1.md)
 
 ## List of assets
 
@@ -945,8 +1007,6 @@ New York City police are investigating after a dumpster was found Monday night f
 A person, suspected of a crime related to the incident, is held in police custody awaiting a court hearing.
 
 ##### Diary
-
-
 
 **BEST BBQ-RECIPES BY STAR-CHEF OLIVER KARDUM**
 
