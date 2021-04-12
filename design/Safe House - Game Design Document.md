@@ -311,9 +311,9 @@ Marjorie gets up to find the light switch, but the lamp can't be turned on becau
 
 She finds the lamp, but it's too high for her. She finds a stepladder in one cupboard of the kitchen and uses it to get to the lamp.
 
-She finds the lamp and unscrews the bulb, then goes into the lower hall where she finds a matching bulb, turns of the light to cool down the bulb, waits a few seconds in the darkness and then unscrews the bulb.
+She finds the lamp and unscrews the bulb, then goes into the lower hall where she finds a matching bulb, but it's too hot to touch. She fetches a cleaning cloth from the kitchen and unscrews it with that.
 
-Upon screwing in the bulb into her lamp again, the light immediately flashes on and she sees, that there's a hook hidden in the shade of her lamp. There's something on the hook, but it's too tiny to see.
+Upon screwing in the bulb into her lamp again, the light immediately flashes on and she sees, that the lamp hangs on a sturdy hook. There's also something on the hook, but it's too tiny to see.
 
 She finds a magnifying glass in a drawer in the kitchen.
 
@@ -705,6 +705,8 @@ Marjorie rises.
 > Thank you, Marjorie.
 
 *Cutscene ends*
+
+#### Puzzle 1.5: Exploring
 
 The player is free to roam the house. They should do the following to continue:
 

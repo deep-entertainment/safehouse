@@ -52,6 +52,8 @@ One random of
 
 * [Do you often use this house?](#abouthouse)
 
+* if looked at padlock on drawer: [Why is there a padlock on one of the drawers in my room?](#padlock)
+
 * [Thank you, Calvin.](#thanks)
 
 # apology
@@ -159,6 +161,34 @@ One random of
 > CALVIN
 > 
 > Yeah... I see.
+
+[Questions](#Questions)
+
+# padlock
+
+> CALVIN
+> 
+> A padlock?
+
+> MARJORIE
+> 
+> Yes.
+
+> CALVIN
+> 
+> That's strange.
+
+> MARJORIE
+> 
+> Indeed.
+
+> CALVIN
+> 
+> Well, I don't know the combination if that's what you're asking.
+
+> MARJORIE
+> 
+> Hm. Okay. Thanks.
 
 [Questions](#Questions)
 

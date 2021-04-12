@@ -49,6 +49,7 @@ One random of
 * [I just wanted to apologize again. About the phone?](#apologize)
 * [Can you give me my phone back?](#phone)
 * [How long have you been with the police?](#career)
+* if looked at padlock on drawer: [I've noticed a padlock on one of the drawers in my room?](#padlock)
 * [Thanks, Rebeca.](#thanks)
 
 # apologize
@@ -130,6 +131,42 @@ One random of
 > MARJORIE
 > 
 > Anyways...
+
+[Questions](#Questions)
+
+# padlock
+
+> REBECA
+> 
+> A padlock?
+
+> MARJORIE
+> 
+> Yes, hanging on the drawer.
+
+> REBECA
+> 
+> Never noticed it. Did you open it?
+
+> MARJORIE
+> 
+> Can't.
+
+> REBECA
+> 
+> Weird.
+
+> MARJORIE
+> 
+> So you don't know something about it?
+
+> REBECA
+> 
+> Nope.
+
+> MARJORIE
+> 
+> Hm. Okay.
 
 [Questions](#Questions)
 
