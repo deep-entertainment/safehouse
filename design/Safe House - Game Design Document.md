@@ -293,11 +293,11 @@ Marjorie traces the signal to a loose board in the upstairs hall. She gets a kni
 
 She logs into the wifi and searches for "Jacob Grimes" to find that he had hung himself in her room 18 years ago and that Calvin was assigned to that case.
 
-#### 11:00 am
+#### Noon
 
 Brianna visits and Marjorie asks her about Jacob's story.
 
-#### 2:40 am (nightmare)
+#### Night
 
 Marjorie wakes up from a sound, sits up in her bed and sees Igino in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's early morning in day 3.
 
@@ -371,11 +371,13 @@ The end.
 
 *SFX: Composition, see further description*
 
+*Music: None*
+
 Over the black starting credits, we hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.
 
 Fade in: "Day 1", Fade out.
 
-### HALL - MORNING
+### DAY1 - HALL - MORNING
 
 MARJORIE, CALVIN and REBECA stand in front of the front door. We see a bagpack, a bag and a suitcase in front of them. The bagpack belongs to CALVIN, the bag to REBECA and the suitcase to MARJORIE.
 
@@ -411,7 +413,9 @@ CALVIN looks at Marjorie, nods friendly. MARJORIE tries a smile. CALVIN takes hi
 
 MARJORIE grabs her suitcase.
 
-### MARJORIE'S ROOM - MORNING
+### DAY1 - MARJORIE'S ROOM - MORNING
+
+*MUSIC: Marjorie theme. Calming, relaxed*
 
 MARJORIE enters the room, looks around, then puts her suitcase on the bed, opens it.
 
@@ -576,9 +580,11 @@ Using 4872 as the phone pin yields:
 
 Using RUBE(=7823) as the phone pin solves the puzzle
 
-### MARJORIE'S ROOM - MORNING
+### DAY1 - MARJORIE'S ROOM - MORNING
 
 *Cutscene starts*
+
+*MUSIC: The music gets dramatic and will culmulate when Rebeca finds Marjorie, then it underlines the shouting of Rebeca and emotions of Marjorie, ending with a dramatic Marjorie theme line and a hard stop*
 
 MARJORIE dials (*SFX: Dialtones*). After some moments, we hear:
 
@@ -622,15 +628,17 @@ She turns around, pointing at MARJORIE
 > 
 > CHRIST!
 
-She exists the room, slamming the door. (*SFX: Door slam*)
+She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
 
-Fadeout.
+*Fadeout*
 
-### LIVING ROOM - NOON
+### DAY1 - LIVING ROOM - NOON
 
 MARJORIE, REBECA and CALVIN are sitting on the dining table, eating takeaway chinese food. The mood is tense.
 
 *AMBIENT: People eating*
+
+*MUSIC: Calvin theme with a jazzy backtune*
 
 > CALVIN (without looking up)
 > 
@@ -720,11 +728,135 @@ The player is free to roam the house. They should do the following to continue:
 
 * Talk to [Rebeca](dialogs/rebeca1.md)
 
-### LIVING ROOM - AFTERNOON
+### DAY1 - LIVING ROOM - AFTERNOON
+
+*MUSIC: Brianna theme. Soft, calming*
 
 MARJORIE sits on the sofa with BRIANNA. BRIANNA's open suitcase lies on the couch table, BRIANNA opened a big folder on her lap. MARJORIE is nervous.
 
 [They talk.](dialogs/brianna1.md)
+
+### DAY1 - LIVING ROOM - EVENING
+
+*Cutscene starts*
+
+*MUSIC: None*
+
+CALVIN and REBECA sit on opposite ends of the sofa with CALVIN sitting closer to the hall.
+
+MARJORIE stands behind them.
+
+> MARJORIE
+> 
+> (yawns) Allright, I'm up to bed. Have a good night.
+
+> CALVIN
+> 
+> You too
+
+> REBECA
+> 
+> Bye
+
+MARJORIE exits the living room, goes through the hall, up the stairs, through the upper hall into her room to find...
+
+A noose dangling from the lamp. 
+
+*MUSIC: horror string slide merging into Marjorie tune*
+
+MARJORIE screams, then runs out of her room, down the stairs. In the lower hall, she bumps into CALVIN.
+
+> CALVIN (concerned)
+> 
+> What is it?
+
+> MARJORIE (freaked out, shouting)
+> 
+> THERE'S A NOOSE IN MY ROOM! OH MY GOD!
+
+CALVIN runs past her up the stairs, draws his gun. REBECA arrives.
+
+> REBECA (tense)
+> 
+> A NOOSE?
+
+> MARJORIE
+> 
+> YES. FROM THE LAMP. OH MY **GOD**
+
+REBECA runs past her up the stairs. Seconds pass.
+
+*MUSIC: Rumbling bass with shriek Marjorie tunes, then: quiet.*
+
+> CALVIN (from above)
+> 
+> Marjorie?
+
+> MARJORIE
+> 
+> Yes?
+
+> CALVIN
+> 
+> Can you come up please?
+
+MARJORIE climbs the stairs, passes the upper hall to see CALVIN and REBECA in her room, but no noose. CALVIN is panting, but calm. REBECA is looking at CALVIN with an irritated look.
+
+> MARJORIE
+> 
+> What the
+
+> CALVIN (interrupts, calm)
+> 
+> Marjorie? Is everything alright?
+
+> MARJORIE (starts to cry)
+> 
+> THERE WAS A NOOSE! A FUCKING NOOSE! I'M NOT CRAZY!
+
+> CALVIN (goes to her, embraces her)
+> 
+> It's okay, it's okay.
+
+> MARJORIE (into his jacket, distressed)
+> 
+> I'm not crazy. It was there.
+
+REBECA snaps out, then exits the room. CALVIN looks after her.
+
+MARJORIE sobs.
+
+*Fadeout*
+
+## DAY 2 - MORNING - LIVING ROOM
+
+Fade in: "Day 2", Fade out.
+
+*Cutscene ends*
+
+*MUSIC: Calvin-theme, calm*
+
+*AMBIENT: Eating sounds*
+
+MARJORIE, CALVIN and REBECA are having breakfast at the table. There's toast, scrambled eggs, bacon and jam. The bacon is next to REBECA. CALVIN reads a "New York Standard" paper and randomly sips from a cup of coffee, REBECA is eating Muesli out of a bowl and staring out of the window. MARJORIE tries to make conversation.
+
+A [dialog](dialogs/day2breakfast.md) unfolds.
+
+*Cutscene starts*
+
+After it, we fade out, and fade in again. REBECA now sits against the wall with the hatch, reading a file. CALVIN has put the paper on the desk and reads. MARJORIE stands.
+
+> MARJORIE
+> 
+> Let me put myself to use and clean this up.
+
+> CALVIN
+> 
+> Thank you, Marjorie.
+
+*Cutscene ends*
+
+
 
 ## List of assets
 

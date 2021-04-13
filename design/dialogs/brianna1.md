@@ -6,7 +6,7 @@
 
 > MARJORIE
 > 
-> Yes, I know who you are. Calvin told me, that you'll come.
+> Yes, I know who you are. Calvin told me that you'll come.
 
 > BRIANNA
 > 
@@ -84,11 +84,11 @@
 
 > MARJORIE
 > 
-> Seven, seven thirty pm.
+> 7-7:30 pm
 
 > BRIANNA
 > 
-> Seven or seven thirty? Remember to be as precise as possible. Leave them no room for doubt.
+> Seven or seven thirty? Can you pinpoint the incident more exactly? The time frame might prove to be important.
 
 > MARJORIE
 > 
@@ -148,7 +148,7 @@
 
 > MARJORIE
 > 
-> I don't know. This Varone guy kept shouting: "You think you can fuck with me? You really think you can fuck with me". Those kind of words
+> I don't know. This Varone guy kept shouting: "You think you can fuck with me? You really think you can fuck with me". Those kind of words.
 
 > BRIANNA
 > 
@@ -311,3 +311,5 @@ Brianna is quiet.
 > MARJORIE
 > 
 > Okay.
+
+END
