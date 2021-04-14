@@ -29,11 +29,11 @@ A mob murder witness is taken into a safe house by the police for five days befo
 
 ## Characters
 
-### Marjorie Tailor, the main character
+### *MARJORIE* Tailor, the main character
 
-Marjorie is a black woman, aged 34. At the beginning of the game, she is calm and shy and insecure. Through the events in the game, she becomes confident and strong.
+*MARJORIE* is a black woman, aged 34. At the beginning of the game, she is calm and shy and insecure. Through the events in the game, she becomes confident and strong.
 
-Because Rebeca is very rough to her, she begins to suspect, that she tries to scare her, but ultimatively, it's Calvin that tries to attack her and this gets settled in the very last scene.
+Because *REBECA* is very rough to her, she begins to suspect, that she tries to scare her, but ultimatively, it's *CALVIN* that tries to attack her and this gets settled in the very last scene.
 
 Throughout the game, she is scared (her fears growing with the events)
 
@@ -57,9 +57,9 @@ Throughout the game, she is scared (her fears growing with the events)
   
   * Pink shoes
 
-### Calvin Andrews, a police officer
+### *CALVIN* Andrews, a police officer
 
-Calvin is one of the two detectives that ought to protect Marjorie in the safe house. However, he's actually also on Varone's payroll and staged the suicide of Jacob Grimes eighteen years ago. He tries to scare and eventually kill Marjorie (which is only revealed on the last day)
+*CALVIN* is one of the two detectives that ought to protect *MARJORIE* in the safe house. However, he's actually also on Varone's payroll and staged the suicide of *JACOB* Grimes eighteen years ago. He tries to scare and eventually kill *MARJORIE* (which is only revealed on the last day)
 
 Superficially, he's a nice and caring man in his 50s. Father-figure type. And this is the (visual) progression that he goes through: Starting as nice and trustworthy and becoming mean and ruthless.
 
@@ -83,13 +83,13 @@ Superficially, he's a nice and caring man in his 50s. Father-figure type. And th
   
   * Black shoes
 
-### Rebeca Pliego, a police officer
+### *REBECA* Pliego, a police officer
 
-Rebeca is one of the two police officers that ought to protect Marjorie in the safe house.
+*REBECA* is one of the two police officers that ought to protect *MARJORIE* in the safe house.
 
-She's young, rough and harsh and she's not really happy spending five days "babysitting" Marjorie like she puts it. After the event with the noose she gets suspcious of Calvin and investigates behind his back which leads to a standoff of them two on day four.
+She's young, rough and harsh and she's not really happy spending five days "babysitting" *MARJORIE* like she puts it. After the event with the noose she gets suspcious of *CALVIN* and investigates behind his back which leads to a standoff of them two on day four.
 
-Because she finds about about Calvin's motives, she is killed by him on the fifth day.
+Because she finds about about *CALVIN*'s motives, she is killed by him on the fifth day.
 
 * Age: 28
 
@@ -111,13 +111,13 @@ Because she finds about about Calvin's motives, she is killed by him on the fift
   
   * black shoes
 
-### Brianna Allison, district attorney
+### *BRIANNA* Allison, district attorney
 
-Brianna is the district attorney in the case where Marjorie is the key witness. She's a tough dog in the courtroom, but caring and cautious when she speaks with Marjorie.
+*BRIANNA* is the district attorney in the case where *MARJORIE* is the key witness. She's a tough dog in the courtroom, but caring and cautious when she speaks with *MARJORIE*.
 
-She visits the house each day to prepare Marjorie for her testimony and on the fifth day, she rescues Marjorie after she knocked out Calvin.
+She visits the house each day to prepare *MARJORIE* for her testimony and on the fifth day, she rescues *MARJORIE* after she knocked out *CALVIN*.
 
-She doesn't have much character progression. Her character is used to tell the back story of the murder through her talks with Marjorie and as the last safe resort and trust in the juridical system in the last scene.
+She doesn't have much character progression. Her character is used to tell the back story of the murder through her talks with *MARJORIE* and as the last safe resort and trust in the juridical system in the last scene.
 
 * Age: 42
 
@@ -139,11 +139,11 @@ She doesn't have much character progression. Her character is used to tell the b
   
   * Black high heels
 
-### Igino Varone, mob boss
+### *IGINO* Varone, mob boss
 
-Igino is the head of the New York City mafia. He's ruthless, mean, egocentric and has a god complex.
+*IGINO* is the head of the New York City mafia. He's ruthless, mean, egocentric and has a god complex.
 
-Marjorie witnessed him shooting a shop owner in cold blood.
+*MARJORIE* witnessed him shooting a shop owner in cold blood.
 
 He's only barely seen in the game in nightmare scenes.
 
@@ -167,11 +167,11 @@ He's only barely seen in the game in nightmare scenes.
   
   * brown leather boots
 
-### Jacob Grimes, former witness (dead)
+### *JACOB* Grimes, former witness (dead)
 
-Jacob was a witness for another murder by Igino twenty years ago. He was found strangled while on witness protection. The death was called suicide, although it was staged by Calvin.
+*JACOB* was a witness for another murder by *IGINO* twenty years ago. He was found strangled while on witness protection. The death was called suicide, although it was staged by *CALVIN*.
 
-Calvin weaves in the story of Jacob to scare Marjorie, leaving scary notes and staging scary events.
+*CALVIN* weaves in the story of *JACOB* to scare *MARJORIE*, leaving scary notes and staging scary events.
 
 * Age: 16
 
@@ -205,7 +205,7 @@ The game is structured by chapters for each day.
   
   * Getting to know each other
   
-  * Brianna: Igino
+  * *BRIANNA*: *IGINO*
   
   * Noose Incident
 
@@ -213,9 +213,9 @@ The game is structured by chapters for each day.
   
   * Lock combination / Opening the drawer / Diary
   
-  * Getting back the phone / wifi / investigating about Jacob
+  * Getting back the phone / wifi / investigating about *JACOB*
   
-  * Brianna: Jacob
+  * *BRIANNA*: *JACOB*
   
   * Nightmare
 
@@ -225,89 +225,89 @@ The game is structured by chapters for each day.
   
   * Finding hook / Fingerprint kit / Getting Fingerprints from the hook
   
-  * Brianna: Rebeca
+  * *BRIANNA*: *REBECA*
   
-  * Getting Fingerprints from Rebeca / Comparing
+  * Getting Fingerprints from *REBECA* / Comparing
   
   * Matching Fingerprints
 
 * Day 4 (night)
   
-  * Marjorie awakes from a fight downstairs
+  * *MARJORIE* awakes from a fight downstairs
   
-  * She goes down to find Calvin fighting with Rebeca
+  * She goes down to find *CALVIN* fighting with *REBECA*
   
-  * Calvin shoots Rebeca
+  * *CALVIN* shoots *REBECA*
   
-  * Calvin chases Marjorie
+  * *CALVIN* chases *MARJORIE*
   
-  * Marjorie barricades herself in her room
+  * *MARJORIE* barricades herself in her room
   
-  * Just before Calvin breaks through, we hear a shot
+  * Just before *CALVIN* breaks through, we hear a shot
   
-  * Then Rebeca's voice is heard
+  * Then *REBECA*'s voice is heard
   
-  * Marjorie tells her about her suspect, but she can come clear
+  * *MARJORIE* tells her about her suspect, but she can come clear
 
 * Day 5 (epilogue)
   
-  * Brianna: Calvin
+  * *BRIANNA*: *CALVIN*
 
 ### Day 1
 
 #### Morning
 
-Marjorie, Calvin and Rebeca arrive at the safe house in New Jersey. They make themselves at home. Marjorie goes upstairs in her bedroom to unpack. She had smuggled a phone into the safe house and calls her mother, gets interrupted by Rebeca, who screams at her, grabs her phone and storms off.
+*MARJORIE*, *CALVIN* and *REBECA* arrive at the safe house in New Jersey. They make themselves at home. *MARJORIE* goes upstairs in her bedroom to unpack. She had smuggled a phone into the safe house and calls her mother, gets interrupted by *REBECA*, who screams at her, grabs her phone and storms off.
 
 #### Noon
 
-They talk over the dinner about what happened. Calvin tries to comfort Marjorie, Rebeca is still pouty of her.
+They talk over the dinner about what happened. *CALVIN* tries to comfort *MARJORIE*, *REBECA* is still pouty of her.
 
 #### Afternoon
 
-Brianna visits and reveals the Igino backstory.
+*BRIANNA* visits and reveals the *IGINO* backstory.
 
 #### Evening
 
-Marjorie goes up to her room to find a noose hanging from the ceiling. She screams, runs away and into Calvin in the hall. Calvin calms her down, tells her to wait in the hall, goes into her room and quickly removes the noose (unknown to the player). At the same time, Rebeca arrived and rushes up behind Calvin.
+*MARJORIE* goes up to her room to find a noose hanging from the ceiling. She screams, runs away and into *CALVIN* in the hall. *CALVIN* calms her down, tells her to wait in the hall, goes into her room and quickly removes the noose (unknown to the player). At the same time, *REBECA* arrived and rushes up behind *CALVIN*.
 
-Calvin and Rebeca came back and tell Marjorie, that there's no noose and she must've hallucinated. Calvin manages to calm her down, Rebeca is strangely quiet and absent minded.
+*CALVIN* and *REBECA* came back and tell *MARJORIE*, that there's no noose and she must've hallucinated. *CALVIN* manages to calm her down, *REBECA* is strangely quiet and absent minded.
 
 ### Day 2
 
 #### Morning
 
-Marjorie, Calvin and Rebeca eat breakfast. Calvin reads the New York Standard. In the dialog, Marjorie tries to gather more information about Igino and La Famiglia.
+*MARJORIE*, *CALVIN* and *REBECA* eat breakfast. *CALVIN* reads the New York Standard. In the dialog, *MARJORIE* tries to gather more information about *IGINO* and La Famiglia.
 
-After finishing the breakfast, Marjorie goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads to the combination of the padlock on the drawer in her room.
+After finishing the breakfast, *MARJORIE* goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads to the combination of the padlock on the drawer in her room.
 
-She opens the lock with it and finds the fake diary of Jacob Grimes. Downstairs, she finds Rebeca and talks to her. She reveals, that Jacob Grimes was found dead in Marjorie's room 18 years ago. (It is not yet revealed, that Jacob hang himself or that Calvin was assigned to that case)
+She opens the lock with it and finds the fake diary of *JACOB* Grimes. Downstairs, she finds *REBECA* and talks to her. She reveals, that *JACOB* Grimes was found dead in *MARJORIE*'s room 18 years ago. (It is not yet revealed, that *JACOB* hang himself or that *CALVIN* was assigned to that case)
 
-As Rebeca doesn't tell her more, Marjorie wants to investigate. She needs her phone for that.
+As *REBECA* doesn't tell her more, *MARJORIE* wants to investigate. She needs her phone for that.
 
-Rebeca sits on the couch, Marjorie's phone sticking out of one of her pockets. Marjorie needs to walk into the kitchen and look through the hatch to get it in the right moment.
+*REBECA* sits on the couch, *MARJORIE*'s phone sticking out of one of her pockets. *MARJORIE* needs to walk into the kitchen and look through the hatch to get it in the right moment.
 
 But her SIM is gone, so she needs wifi. There actually is a wifi in the house used by the detectives, but it's locked.
 
-Marjorie traces the signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
+*MARJORIE* traces the signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
 
-She logs into the wifi and searches for "Jacob Grimes" to find that he had hung himself in her room 18 years ago and that Calvin was assigned to that case.
+She logs into the wifi and searches for "*JACOB* Grimes" to find that he had hung himself in her room 18 years ago and that *CALVIN* was assigned to that case.
 
 #### Noon
 
-Brianna visits and Marjorie asks her about Jacob's story.
+*BRIANNA* visits and *MARJORIE* asks her about *JACOB*'s story.
 
 #### Night
 
-Marjorie wakes up from a sound, sits up in her bed and sees Igino in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's early morning in day 3.
+*MARJORIE* wakes up from a sound, sits up in her bed and sees *IGINO* in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's early morning in day 3.
 
 ### Day 3
 
 #### Early morning
 
-Marjorie sits in her bed. Her room is dark, only the dim light of the windows sheds some light into their side of the room.
+*MARJORIE* sits in her bed. Her room is dark, only the dim light of the windows sheds some light into their side of the room.
 
-Marjorie gets up to find the light switch, but the lamp can't be turned on because the bulb has blown. 
+*MARJORIE* gets up to find the light switch, but the lamp can't be turned on because the bulb has blown. 
 
 She finds the lamp, but it's too high for her. She finds a stepladder in one cupboard of the kitchen and uses it to get to the lamp.
 
@@ -319,47 +319,47 @@ She finds a magnifying glass in a drawer in the kitchen.
 
 She inspects the hook with the magnifying glass and finds hemp fibres. Slowly she realizes, that somebody tries to scare her and that the noose actually *was* there on the evening of day 1.
 
-She wants to investigate, if somebody left fingerprints there. She suspects Rebeca.
+She wants to investigate, if somebody left fingerprints there. She suspects *REBECA*.
 
 #### Morning
 
-Marjorie and Calvin sit and eat breakfast. Rebeca is at the now open cupboard in the living room. Calvin tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
+*MARJORIE* and *CALVIN* sit and eat breakfast. *REBECA* is at the now open cupboard in the living room. *CALVIN* tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
 
-As they are eating, Marjorie tries to grill Rebeca to find out wether she tries to scare her. They get into an argue, Calvin gets in between and something he says triggers something in Rebeca, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
+As they are eating, *MARJORIE* tries to grill *REBECA* to find out wether she tries to scare her. They get into an argue, *CALVIN* gets in between and something he says triggers something in *REBECA*, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
 
-After breakfast, Marjorie again takes the dishes to the kitchen. She wonders that the supplies seem to be fully stocked.
+After breakfast, *MARJORIE* again takes the dishes to the kitchen. She wonders that the supplies seem to be fully stocked.
 
 In the trash she finds a make-up brush.
 
 She additionally gathers adhesive tape from a drawer in the hall, the fingerprint powder from the unlocked cupboard.
 
-As she's back in her room after getting all the things, Brianna arrives and she is interrupted.
+As she's back in her room after getting all the things, *BRIANNA* arrives and she is interrupted.
 
 #### Afternoon
 
-Brianna visits and Marjorie questions her about Rebeca.
+*BRIANNA* visits and *MARJORIE* questions her about *REBECA*.
 
 #### Evening
 
-In the meantime, Rebeca is back. Marjorie gets the fingerprints from the hook and tricks Rebeca into drinking from a glass that Marjorie snatches and gets her fingerprints off.
+In the meantime, *REBECA* is back. *MARJORIE* gets the fingerprints from the hook and tricks *REBECA* into drinking from a glass that *MARJORIE* snatches and gets her fingerprints off.
 
-She compares the fingerprints and they match. She's now convinced, that Rebeca is trying to scare her.
+She compares the fingerprints and they match. She's now convinced, that *REBECA* is trying to scare her.
 
 ### Day 4
 
 #### Early morning
 
-Marjorie wakes up to the sound of a fight. She walks down to find Calvin shooting Rebeca. Calvin turns around and goes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
+*MARJORIE* wakes up to the sound of a fight. She walks down to find *CALVIN* shooting *REBECA*. *CALVIN* turns around and goes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
 
-Calvin at first tries to sweet talk her, but ultimatively looses his nerves and screams at her. He shoots and pushes against the door. The cupboard moves and the door opens. Calvin comes in, but is gunned down by the wounded Rebeca, who breaks down.
+*CALVIN* at first tries to sweet talk her, but ultimatively looses his nerves and screams at her. He shoots and pushes against the door. The cupboard moves and the door opens. *CALVIN* comes in, but is gunned down by the wounded *REBECA*, who breaks down.
 
-Marjorie talks to her, gets a cloth and Rebecas mobile from the kitchen, gives the cloth to Rebeca to still the wound and calls 911.
+*MARJORIE* talks to her, gets a cloth and *REBECA*s mobile from the kitchen, gives the cloth to *REBECA* to still the wound and calls 911.
 
 ### Day 5
 
 #### Afternoon
 
-Marjorie sits with Brianna. They talk about Calvin. In the end, Marjorie confirms to Brianna, that she will appear in court and make her testimony.
+*MARJORIE* sits with *BRIANNA*. They talk about *CALVIN*. In the end, *MARJORIE* confirms to *BRIANNA*, that she will appear in court and make her testimony.
 
 The end.
 
@@ -379,45 +379,45 @@ Fade in: "Day 1", Fade out.
 
 ### DAY1 - HALL - MORNING
 
-MARJORIE, CALVIN and REBECA stand in front of the front door. We see a bagpack, a bag and a suitcase in front of them. The bagpack belongs to CALVIN, the bag to REBECA and the suitcase to MARJORIE.
+*MARJORIE*, *CALVIN* and *REBECA* stand in front of the front door. We see a bagpack, a bag and a suitcase in front of them. The bagpack belongs to *CALVIN*, the bag to *REBECA* and the suitcase to *MARJORIE*.
 
-They stand there for a few seconds, looking around. MARJORIE is frightened, she is taking in the uncommon surroundings. REBECA is annoyed, she is filling out a form. 
+They stand there for a few seconds, looking around. *MARJORIE* is frightened, she is taking in the uncommon surroundings. *REBECA* is annoyed, she is filling out a form. 
 
 *AMBIENT: Filling out a form*
 
-CALVIN calmly looks around.
+*CALVIN* calmly looks around.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > So... this is it?
 
-> CALVIN
+> *CALVIN*
 > 
 > This is it.
 
 (beat) *AMBIENT: (stop)*
 
-> REBECA (harsh)
+> *REBECA* (harsh)
 > 
 > Living room is right this way, kitchen to the left, the bathroom and the bedrooms are upstairs. Your room is just across the stairs. Can't miss it.
 
-REBECA takes her bag and walks off to the living room.
+*REBECA* takes her bag and walks off to the living room.
 
 *SFX: Walking on wooden floor*
 
 (beat)
 
-CALVIN looks at Marjorie, nods friendly. MARJORIE tries a smile. CALVIN takes his bagpack and walks off to the living room.
+*CALVIN* looks at *MARJORIE*, nods friendly. *MARJORIE* tries a smile. *CALVIN* takes his bagpack and walks off to the living room.
 
 *SFX: Walking on wooden floor*
 
-MARJORIE grabs her suitcase.
+*MARJORIE* grabs her suitcase.
 
-### DAY1 - MARJORIE'S ROOM - MORNING
+### DAY1 - *MARJORIE*'S ROOM - MORNING
 
-*MUSIC: Marjorie theme. Calming, relaxed*
+*MUSIC: *MARJORIE* theme. Calming, relaxed*
 
-MARJORIE enters the room, looks around, then puts her suitcase on the bed, opens it.
+*MARJORIE* enters the room, looks around, then puts her suitcase on the bed, opens it.
 
 *SFX: Suitcase on bed, opening suitcase*
 
@@ -427,7 +427,7 @@ MARJORIE enters the room, looks around, then puts her suitcase on the bed, opens
 
 Click on the suitcase.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Well. Time to unpack I guess.
 
@@ -437,23 +437,23 @@ Click (unpack) the items in the suitcase. Those items are presented:
 
 * Sweaters (*SFX: Taking clothes*)
 
-* Today's newspaper (Featuring a big article about the trial of Igino *and* various other readable articles) (SFX: Unfolding paper)
+* Today's newspaper (Featuring a big article about the trial of *IGINO* *and* various other readable articles) (SFX: Unfolding paper)
 
 * Pants (*SFX: Taking clothes*)
 
-When Marjorie unpacks the pants, her phone falls out and smashes on the floor into four pieces: (*SFX: Object crashing on floor*)
+When *MARJORIE* unpacks the pants, her phone falls out and smashes on the floor into four pieces: (*SFX: Object crashing on floor*)
 
-* Phone
+* `phone`
 
-* Battery
+* `battery`
 
-* Casing
+* `cover`
 
-* SIM-Card
+* `simcard`
 
 They slide in all directions.
 
-> MARJORIE (shouts)
+> *MARJORIE* (shouts)
 > 
 > DAMN.
 
@@ -462,43 +462,49 @@ They slide in all directions.
 Find the four items by examining the things in the bedroom:
 
 * Bed
-  Finding the phone underneath it:
+  Finding the `smartphone_incomplete` underneath it:
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > Oh, there's the phone.
-
-* Wardrobe (finding the SIM-Card in front of it)
   
-  > MARJORIE
+  Add `smartphone_incomplete`
+
+* Wardrobe (finding the `simcard` in front of it)
+  
+  > *MARJORIE*
   > 
   > There's that tiny phone card.
-
-* Nightstand (finding the casing)
   
-  > MARJORIE
+  Add `simcard`
+
+* Nightstand (finding the `cover`)
+  
+  > *MARJORIE*
   > 
-  > Here's the casing
-
-* Stool (finding the battery)
+  > Here's the cover.
   
-  > MARJORIE
+  Add `cover`
+
+* Stool (finding the `battery`)
+  
+  > *MARJORIE*
   > 
   > Ah, there's the battery.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I think that's all.
 
 Combine the items in the correct order with the phone:
 
-* SIM (*SFX: Inserting an object*)
+* `simcard` (*SFX: Inserting an object*)
 
-* Battery (*SFX: Inserting an object*)
+* `battery` (*SFX: Inserting an object*)
 
-* Casing (*SFX: Inserting an object*)
+* `cover` (*SFX: Inserting an object*)
 
-> MARJORIE
+> *MARJORIE*
 > 
 > There. It works again.
 > 
@@ -516,37 +522,41 @@ Click the suitcase again and unpack further. Following items are unpacked:
 
 * Bras (*SFX: Taking clothes*)
 
-* Purse (*SFX: Taking clothes*)
+* `purse` (*SFX: Taking clothes*)
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Ah, there's my purse. I had already packed it!
 
-Open the purse. Closeup of the purse contains:
+Open the `purse`. Closeup of the purse contains:
 
-* Picture of Marjories mother
+* Picture of *MARJORIE*s mother
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > My mom
 
 * Small amount of money
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > I never carry around much cash, I use the credit card usually.
 
 * Credit card
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > My card
 
-* Hair pin
+* `Hairpin`
+  
+  > *MARJORIE*
+  > 
+  > That may be useful.
 
 * A note
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > Oh, that's my secret note. Yeah, I know you shouldn't write your passwords down, but my brain's a sieve. I wrote down
   > 
@@ -556,9 +566,9 @@ Open the purse. Closeup of the purse contains:
   > 
   > caTerp1llar
 
-Take the hair pin and use it to reset the phone.
+Take the `hairpin` and use it to reset the phone.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > It's a bit too big for the hole, a paper clip would be better. (beat) But... (tries) yes, it works.
 > 
@@ -574,57 +584,57 @@ Take the hair pin and use it to reset the phone.
 
 Using 4872 as the phone pin yields:
 
-> MARJORIE
+> *MARJORIE*
 > 
 > No, that's my credit card pin. I can remember that, because I use it more often.
 
 Using RUBE(=7823) as the phone pin solves the puzzle
 
-### DAY1 - MARJORIE'S ROOM - MORNING
+### DAY1 - *MARJORIE*'S ROOM - MORNING
 
 *Cutscene starts*
 
-*MUSIC: The music gets dramatic and will culmulate when Rebeca finds Marjorie, then it underlines the shouting of Rebeca and emotions of Marjorie, ending with a dramatic Marjorie theme line and a hard stop*
+*MUSIC: The music gets dramatic and will culmulate when *REBECA* finds *MARJORIE*, then it underlines the shouting of *REBECA* and emotions of *MARJORIE*, ending with a dramatic *MARJORIE* theme line and a hard stop*
 
-MARJORIE dials (*SFX: Dialtones*). After some moments, we hear:
+*MARJORIE* dials (*SFX: Dialtones*). After some moments, we hear:
 
-> MARJORIE (very emotional)
+> *MARJORIE* (very emotional)
 > 
 > Mom? (beat) Hi, Mom. Yes, we arrived. (beat) Oh, it's okay, I guess. We're (...)
 
-We hear REBECA from the outside:
+We hear *REBECA* from the outside:
 
-> REBECA
+> *REBECA*
 > 
-> Marjorie, I have some shee--
+> *MARJORIE*, I have some shee--
 
-REBECA has entered the door MARJORIE'S room and sees her on the phone.
+*REBECA* has entered the door *MARJORIE*'S room and sees her on the phone.
 
-> REBECA (shouting)
+> *REBECA* (shouting)
 > 
 > YOU IDIOT!
 
-She rushes to MARJORIE, grabs the phone, rips of the SIM card, throws it out of the window and hides the phone. MARJORIE starts to cry.
+She rushes to *MARJORIE*, grabs the phone, rips of the SIM card, throws it out of the window and hides the phone. *MARJORIE* starts to cry.
 
-> REBECA (shouting)
+> *REBECA* (shouting)
 > 
 > WHAT PART OF WITNESS PROTECTION DID YOU NOT UNDERSTAND, DUMBASS?
 
 She walks up and down the room.
 
-> REBECA
+> *REBECA*
 > 
 > NOT only that I WASTE MY TIME AND FUCKING RISK MY LIFE babysitting her, she goes about and brings a FUCKING PHONE TO HER SAFE HOUSE.
 
-She turns around, pointing at MARJORIE
+She turns around, pointing at *MARJORIE*
 
-> REBECA (getting really mean)
+> *REBECA* (getting really mean)
 > 
 > DO YOU WANT HIM TO KILL YOU RIGHT AWAY? WE COULD ALL SAVE SOME TIME IF YOU'D SAY.
 
-(beat, we hear MARJORIE sobbing)
+(beat, we hear *MARJORIE* sobbing)
 
-> REBECA
+> *REBECA*
 > 
 > CHRIST!
 
@@ -634,65 +644,65 @@ She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
 
 ### DAY1 - LIVING ROOM - NOON
 
-MARJORIE, REBECA and CALVIN are sitting on the dining table, eating takeaway chinese food. The mood is tense.
+*MARJORIE*, *REBECA* and *CALVIN* are sitting on the dining table, eating takeaway chinese food. The mood is tense.
 
 *AMBIENT: People eating*
 
-*MUSIC: Calvin theme with a jazzy backtune*
+*MUSIC: *CALVIN* theme with a jazzy backtune*
 
-> CALVIN (without looking up)
+> *CALVIN* (without looking up)
 > 
-> Rebeca?
+> *REBECA*?
 
-> REBECA (ignoring him)
+> *REBECA* (ignoring him)
 > 
 > (...)
 
-> CALVIN (looking at Rebeca)
+> *CALVIN* (looking at *REBECA*)
 > 
-> Rebeca?
+> *REBECA*?
 
-> REBECA (grunts)
+> *REBECA* (grunts)
 > 
 > 'm sorry, I freaked 'cause you brought your fucking phone.
 
-> CALVIN (sighs)
+> *CALVIN* (sighs)
 > 
-> What Rebeca *tries* to say, is:
+> What *REBECA* *tries* to say, is:
 > 
-> We're here to protect you for the next five days, Marjorie. That's our *job*.
+> We're here to protect you for the next five days, *MARJORIE*. That's our *job*.
 > 
 > Key to that is, is that nobody knows where you are. You understand?
 
-> MARJORIE (shy)
+> *MARJORIE* (shy)
 > 
 > ...Yes.
 
-> CALVIN
+> *CALVIN*
 > 
 > I know, this whole situation is scary and emotional for you, but you have to trust us. If you need to talk come to...
 
-CALVIN points at REBECA. (beat) CALVIN lowers his hand.
+*CALVIN* points at *REBECA*. (beat) *CALVIN* lowers his hand.
 
-> CALVIN (Cont'd)
+> *CALVIN* (Cont'd)
 > 
 > Come to me. We're here for you if you need anything, okay?
 
-CALVIN smiles at MARJORIE.
+*CALVIN* smiles at *MARJORIE*.
 
-MARJORIE shyly smiles back.
+*MARJORIE* shyly smiles back.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Thank you.
 
-MARJORIE turns to REBECA.
+*MARJORIE* turns to *REBECA*.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > And I'm sorry. Bringing the phone really was a dumb idea. I just... I just miss my mom and yes, this is all very scary for me.
 
-> REBECA
+> *REBECA*
 > 
 > Yeah, whatever. Just try to not get killed, okay?
 > 
@@ -702,39 +712,39 @@ MARJORIE turns to REBECA.
 
 They have finished eating.
 
-Marjorie rises.
+*MARJORIE* rises.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > You know what? Let me handle this.
 
-> CALVIN
+> *CALVIN*
 > 
-> Thank you, Marjorie.
+> Thank you, *MARJORIE*.
 
 *Cutscene ends*
 
-#### Puzzle 1.5: Exploring
+#### PUZZLE 1.5: Exploring
 
 The player is free to roam the house. They should do the following to continue:
 
-* Get the leftovers from the table
+* Take the `day1_leftovers` and `day1_dishes` from the table
 
-* Bring the leftovers to the waste paper basket in the kitchen
+* Bring the `day1_leftovers` to the waste paper basket in the kitchen
 
-* Wash the dishes and clean the cutlery in the kitchen
+* Clean the `day1_dishes` in the kitchen sink
 
-* Talk to [Calvin](dialogs/calvin1.md)
+* Talk to [*CALVIN*](dialogs/*CALVIN*1.md)
 
-* Talk to [Rebeca](dialogs/rebeca1.md)
+* Talk to [*REBECA*](dialogs/*REBECA*1.md)
 
 ### DAY1 - LIVING ROOM - AFTERNOON
 
-*MUSIC: Brianna theme. Soft, calming*
+*MUSIC: *BRIANNA* theme. Soft, calming*
 
-MARJORIE sits on the sofa with BRIANNA. BRIANNA's open suitcase lies on the couch table, BRIANNA opened a big folder on her lap. MARJORIE is nervous.
+*MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
 
-[They talk.](dialogs/brianna1.md)
+[They talk.](dialogs/*BRIANNA*1.md)
 
 ### DAY1 - LIVING ROOM - EVENING
 
@@ -742,89 +752,89 @@ MARJORIE sits on the sofa with BRIANNA. BRIANNA's open suitcase lies on the couc
 
 *MUSIC: None*
 
-CALVIN and REBECA sit on opposite ends of the sofa with CALVIN sitting closer to the hall.
+*CALVIN* and *REBECA* sit on opposite ends of the sofa with *CALVIN* sitting closer to the hall.
 
-MARJORIE stands behind them.
+*MARJORIE* stands behind them.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > (yawns) Allright, I'm up to bed. Have a good night.
 
-> CALVIN
+> *CALVIN*
 > 
 > You too
 
-> REBECA
+> *REBECA*
 > 
 > Bye
 
-MARJORIE exits the living room, goes through the hall, up the stairs, through the upper hall into her room to find...
+*MARJORIE* exits the living room, goes through the hall, up the stairs, through the upper hall into her room to find...
 
 A noose dangling from the lamp. 
 
-*MUSIC: horror string slide merging into Marjorie tune*
+*MUSIC: horror string slide merging into *MARJORIE* tune*
 
-MARJORIE screams, then runs out of her room, down the stairs. In the lower hall, she bumps into CALVIN.
+*MARJORIE* screams, then runs out of her room, down the stairs. In the lower hall, she bumps into *CALVIN*.
 
-> CALVIN (concerned)
+> *CALVIN* (concerned)
 > 
 > What is it?
 
-> MARJORIE (freaked out, shouting)
+> *MARJORIE* (freaked out, shouting)
 > 
 > THERE'S A NOOSE IN MY ROOM! OH MY GOD!
 
-CALVIN runs past her up the stairs, draws his gun. REBECA arrives.
+*CALVIN* runs past her up the stairs, draws his gun. *REBECA* arrives.
 
-> REBECA (tense)
+> *REBECA* (tense)
 > 
 > A NOOSE?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > YES. FROM THE LAMP. OH MY **GOD**
 
-REBECA runs past her up the stairs. Seconds pass.
+*REBECA* runs past her up the stairs. Seconds pass.
 
-*MUSIC: Rumbling bass with shriek Marjorie tunes, then: quiet.*
+*MUSIC: Rumbling bass with shriek *MARJORIE* tunes, then: quiet.*
 
-> CALVIN (from above)
+> *CALVIN* (from above)
 > 
-> Marjorie?
+> *MARJORIE*?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes?
 
-> CALVIN
+> *CALVIN*
 > 
 > Can you come up please?
 
-MARJORIE climbs the stairs, passes the upper hall to see CALVIN and REBECA in her room, but no noose. CALVIN is panting, but calm. REBECA is looking at CALVIN with an irritated look.
+*MARJORIE* climbs the stairs, passes the upper hall to see *CALVIN* and *REBECA* in her room, but no noose. *CALVIN* is panting, but calm. *REBECA* is looking at *CALVIN* with an irritated look.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > What the
 
-> CALVIN (interrupts, calm)
+> *CALVIN* (interrupts, calm)
 > 
-> Marjorie? Is everything alright?
+> *MARJORIE*? Is everything alright?
 
-> MARJORIE (starts to cry)
+> *MARJORIE* (starts to cry)
 > 
 > THERE WAS A NOOSE! A FUCKING NOOSE! I'M NOT CRAZY!
 
-> CALVIN (goes to her, embraces her)
+> *CALVIN* (goes to her, embraces her)
 > 
 > It's okay, it's okay.
 
-> MARJORIE (into his jacket, distressed)
+> *MARJORIE* (into his jacket, distressed)
 > 
 > I'm not crazy. It was there.
 
-REBECA snaps out, then exits the room. CALVIN looks after her.
+*REBECA* snaps out, then exits the room. *CALVIN* looks after her.
 
-MARJORIE sobs.
+*MARJORIE* sobs.
 
 *Fadeout*
 
@@ -834,29 +844,41 @@ Fade in: "Day 2", Fade out.
 
 *Cutscene ends*
 
-*MUSIC: Calvin-theme, calm*
+*MUSIC: *CALVIN*-theme, calm*
 
 *AMBIENT: Eating sounds*
 
-MARJORIE, CALVIN and REBECA are having breakfast at the table. There's toast, scrambled eggs, bacon and jam. The bacon is next to REBECA. CALVIN reads a "New York Standard" paper and randomly sips from a cup of coffee, REBECA is eating Muesli out of a bowl and staring out of the window. MARJORIE tries to make conversation.
+*MARJORIE*, *CALVIN* and *REBECA* are having breakfast at the table. There's toast, scrambled eggs, bacon and jam. The bacon is next to *REBECA*. *CALVIN* reads a "New York Standard" paper and randomly sips from a cup of coffee, *REBECA* is eating Muesli out of a bowl and staring out of the window. *MARJORIE* tries to make conversation.
 
 A [dialog](dialogs/day2breakfast.md) unfolds.
 
 *Cutscene starts*
 
-After it, we fade out, and fade in again. REBECA now sits against the wall with the hatch, reading a file. CALVIN has put the paper on the desk and reads. MARJORIE stands.
+After it, we fade out, and fade in again. *REBECA* now sits against the wall with the hatch, reading a file. *CALVIN* has put the paper on the desk and reads. *MARJORIE* stands.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Let me put myself to use and clean this up.
 
-> CALVIN
+> *CALVIN*
 > 
-> Thank you, Marjorie.
+> Thank you, *MARJORIE*.
 
 *Cutscene ends*
 
+The player can explore freely now. 
 
+(Optional) Take the `day2_dishes` and the `day2_leftovers` from the table. Put the `day2_leftovers` into the trash can, clean the `day2_dishes` in the kitchen sink.
+
+They have to complete the following puzzles:
+
+#### PUZZLE 2.1: The Diary
+
+Go up to *MARJORIE*s room, find the `gruesome_note`.
+
+Solve the note puzzle TODO
+
+Open the padlock of the drawer using the combination. Find the `diary`.
 
 ## List of assets
 
@@ -866,101 +888,122 @@ After it, we fade out, and fade in again. REBECA now sits against the wall with 
 
 #### Items
 
-* smartphone: Smartphone (rather cheap), complete
-  
-  * If smartphone_reset:
-    
-    > MARJORIE
-    > 
-    > My phone. It's a rather old model, but... it works.
-  
-  * If smartphone_pin:
-    
-    > MARJORIE
-    > 
-    > It asks for my PIN.
+##### `smartphone`
 
-* smartphone_incomplete: Smartphone (rather cheap), without back cover, battery and SIM card
-  
-  * If examined
-    
-    > MARJORIE
-    > 
-    > (grunt) I'm so clumsy. I hope, it isn't broken.
-  
-  * If all items have been added
-    
-    > MARJORIE
-    > 
-    > There, it's booting up. At least the screen's not broken.
+Smartphone (rather cheap), complete
 
-* battery: Smartphone battery
+* If smartphone_reset:
   
-  > MARJORIE
+  > *MARJORIE*
   > 
-  > It's the battery of my phone.
+  > My phone. It's a rather old model, but... it works.
 
-* cover: Smartphone back cover
+* If smartphone_pin:
   
-  > MARJORIE
+  > *MARJORIE*
   > 
-  > It's the back of my smartphone.
+  > It asks for my PIN.
 
-* simcard: SIM card
+##### `smartphone_incomplete`
+
+Smartphone (rather cheap). Requires `battery`, `cover`, `simcard`
+
+* If examined
   
-  > MARJORIE
+  > *MARJORIE*
   > 
-  > That's the tiny card so I can call somebody.
+  > (grunt) I'm so clumsy. I hope, it isn't broken.
 
-* purse: Purse
-  open purse closeup
-
-* hairpin: Hair pin
+* On adding the last item
   
-  > MARJORIE
-  > A tiny hair pin
-
-* diary: Diary
-  
-  * If not paperclip in inventory:
-    
-    > MARJORIE
-    > 
-    > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
-    
-    add paperclip to inventory
-    
-    show diary closeup
-  
-  * If paperclip in inventory: show diary closeup
-
-* paperclip: Paper Clip
-  
-  > MARJORIE
+  > *MARJORIE*
   > 
-  > A paper clip. It held the diary pages together.
+  > There, it's booting up. At least the screen's not broken.
+  
+  Remove `smartphone_incomplete`. Add `smartphone`
+
+##### `battery`
+
+Smartphone battery
+
+> *MARJORIE*
+> 
+> It's the battery of my phone.
+
+##### `cover`
+
+Smartphone back cover
+
+> *MARJORIE*
+> 
+> It's the back of my smartphone.
+
+##### `simcard`
+
+SIM card
+
+> *MARJORIE*
+> 
+> That's the tiny card so I can call somebody.
+
+##### `purse`
+
+Purse
+
+open purse closeup
+
+##### `hairpin`
+
+Hair pin
+
+> *MARJORIE*
+> A tiny hair pin
+
+##### `diary`
+
+Diary
+
+* If not `paperclip` in inventory:
+  
+  > *MARJORIE*
+  > 
+  > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
+  
+  add `paperclip` to inventory
+  
+  show diary closeup
+
+* If `paperclip` in inventory: show diary closeup
+
+##### `paperclip`
+
+Paper Clip
+
+> *MARJORIE*
+> 
+> A paper clip. It held the diary pages together.
 
 #### Locations
 
-##### Marjories Bedroom
+##### *MARJORIE*s Bedroom
 
 Items:
 
 * Bed
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > My bed. The mattress is far too soft, it hurts my back.
 
 * Wardrobe
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > A simple wardrobe for my clothes. It's only for a few days.
 
 * Upper Drawer (in wardrobe)
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > Nothing in here.
 
@@ -968,19 +1011,19 @@ Items:
   
   * if locked
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > It's locked.
   
   * if used with key_drawer
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > It fits! *SFX: Unlock*
   
   * if unlocked; if diary is not in inventory
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > What's this? Some sort of... diary?
     
@@ -988,7 +1031,7 @@ Items:
   
   * if unlocked; if diary is in inventory
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > It's empty.
 
@@ -996,43 +1039,43 @@ Items:
   
   * If working
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > The light is a bit too bright for my taste, but it's all I got.
   
   * If not working
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > Oh, the bulb's dead. I need to replace it
     
-    Marjorie unscrews the bulb. Add broken_bulb to inventory
+    *MARJORIE* unscrews the bulb. Add broken_bulb to inventory
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > Huh? What is this? There's a sturdy hook in the lamp screen. And there's something on it, but I can't make it out.
   
   * If used with broken_bulb
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > I need to find a working lightbulb.
   
   * If used with bulb
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > There we go.
   
   * If used with magnifying glass, but bulb is still missing
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > That won't work, it's too dark.
   
   * If used with magnifying glass
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > Those... Those are fibres. Hemp fibres.
     > I... Then I wasn't hallucinating... There was really a noose hanging there. 
@@ -1041,19 +1084,19 @@ Items:
   
   * If used with magnifying glass (again)
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > Hemp fibres. From the noose. They give me the creeps.
   
   * If used with fingerprintset_incomplete
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > I don't have all the neccessary items for the fingerprint kit.
   
   * If used with fingerprintset
     
-    > MARJORIE
+    > *MARJORIE*
     > 
     > Okay... here we go. Yes. I got a print. Now, I need to compare it.
     
@@ -1061,19 +1104,19 @@ Items:
 
 * Nightstand
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > A nightstand.
 
 * Stool
   
-  > MARJORIE
+  > *MARJORIE*
   > 
   > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
 
 ##### Kitchen
 
-##### Marjories room
+##### *MARJORIE*s room
 
 ##### Hall
 
@@ -1085,15 +1128,15 @@ Items:
 
 ##### Newspaper
 
-A typical New York newspaper called "New York Standard". There's a big article with a photo of Igino, and several articles around it.
+A typical New York newspaper called "New York Standard". There's a big article with a photo of *IGINO*, and several articles around it.
 
 The articles read:
 
 **MOB BOSS ON TRIAL** by Tyrice Curtis
 
-Igino Varone (shown left), the alleged head of "La Famiglia", the New York based crime organization, will be on trial this friday afternoon after having been accused of killing a shop owner in the lower east side.
+*IGINO* Varone (shown left), the alleged head of "La Famiglia", the New York based crime organization, will be on trial this friday afternoon after having been accused of killing a shop owner in the lower east side.
 
-District Attorney Brianna Allison tells the New York Standard that she will aim for a life sentence. "We have solid evidence", Misses Allison says, "We also have a witness, so I have no doubt that the jury will rule in our favor. It's time that we put an end to the business of La Famiglia!"
+District Attorney *BRIANNA* Allison tells the New York Standard that she will aim for a life sentence. "We have solid evidence", Misses Allison says, "We also have a witness, so I have no doubt that the jury will rule in our favor. It's time that we put an end to the business of La Famiglia!"
 
 The trial will start on Friday, 4pm, court room 10.
 
@@ -1112,8 +1155,6 @@ This time, Carol visits the town of Norrköping, just about 120 miles east of St
 New York City police are investigating after a dumpster was found Monday night filled with dozens of pounds of cocaine. Police says the 60 pounds of cocaine was estimated to be worth $6.6 million.
 A person, suspected of a crime related to the incident, is held in police custody awaiting a court hearing.
 
-##### Diary
-
 **BEST BBQ-RECIPES BY STAR-CHEF OLIVER KARDUM**
 
 In this edition only. See page 15!
@@ -1127,6 +1168,8 @@ Additionally, the following ads are visible:
 * **JORDAN BEN - YOUR EXPERT FOR TAROT AND PSYCHIC CONSULTATION**
 
 * **BIGGE'S BIG BOUNCY BOWL - FUN FOR THE WHOLE FAMILY. ASK ABOUT OUR BIRTHDAY SPECIALS!**
+
+#### Diary
 
 ### Music
 

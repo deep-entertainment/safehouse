@@ -100,7 +100,7 @@
 
 > MARJORIE
 > 
-> I got into the shop and said hi to... To Jazir.
+> I walked into the shop and said hi to... To Jazir.
 
 > BRIANNA
 > 
