@@ -10,11 +10,11 @@ One random of
 
 # greeting1
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Rebeca?
 
-> REBECA
+> *REBECA*
 > 
 > Uh-huh?
 
@@ -22,11 +22,11 @@ One random of
 
 # greeting2
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Do you have a second, Rebeca?
 
-> REBECA
+> *REBECA*
 > 
 > Yeah, I guess.
 
@@ -34,11 +34,11 @@ One random of
 
 # greeting3
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Can I ask you something, Rebeca?
 
-> REBECA (grunting)
+> *REBECA* (grunting)
 > 
 > If you must.
 
@@ -54,31 +54,31 @@ One random of
 
 # apologize
 
-> REBECA
+> *REBECA*
 > 
 > Yeah, whatever
 
-> MARJORIE
+> *MARJORIE*
 > 
 > It was really a dumb idea, I guess.
 
-> REBECA
+> *REBECA*
 > 
 > Hell yeah! You know, it's not only the police that can track those things down! *Especially* organized crime fuckers have *huge* resources!
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I wasn't aware of that.
 
-> REBECA
+> *REBECA*
 > 
 > Well now you are. Just stay put, okay?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Okay.
 
-> REBECA
+> *REBECA*
 > 
 > Okay.
 
@@ -86,49 +86,49 @@ One random of
 
 # phone
 
-> REBECA
+> *REBECA*
 > 
 > Negative.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Oh, come on. There are some games on there I could play.
 
-> REBECA
+> *REBECA*
 > 
 > Should've thought about that before you put us all in danger here!
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes. (beat) Okay. (beat) Sorry.
 
-> REBECA (grunts)
+> *REBECA* (grunts)
 
 [Questions](#Questions)
 
 # career
 
-> REBECA
+> *REBECA*
 > 
 > Signed up right after turning 21.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Sound's like you really wanted this job?
 
-> REBECA
+> *REBECA*
 > 
 > Yup. My mom was a cop. I've grown up with the Force, so to say.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I never knew what I wanted to become. Well, aside from a pet doctor and a princess. (laughs)
 
-> REBECA
+> *REBECA*
 > 
 > (...)
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Anyways...
 
@@ -136,35 +136,35 @@ One random of
 
 # padlock
 
-> REBECA
+> *REBECA*
 > 
 > A padlock?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes, hanging on the drawer.
 
-> REBECA
+> *REBECA*
 > 
 > Never noticed it. Did you open it?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Can't.
 
-> REBECA
+> *REBECA*
 > 
 > Weird.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > So you don't know something about it?
 
-> REBECA
+> *REBECA*
 > 
 > Nope.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Hm. Okay.
 
@@ -172,7 +172,7 @@ One random of
 
 # thanks
 
-> REBECA
+> *REBECA*
 > 
 > Whatever
 

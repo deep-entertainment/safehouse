@@ -1,314 +1,314 @@
 # Start
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Marjorie, I'm Brianna Alison. I'm the district attorney and will lead the case against Igino Varone.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes, I know who you are. Calvin told me that you'll come.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > I see. (beat) (friendly) So. Have you settled in?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Well... yes. I guess. It's... It is like it is.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Yes, I understand. It's not easy.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > No, it isn't.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > But you manage?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I... Yes, I got this.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Great. Thank you so much for your support.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I hope it helps.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Oh, it definitely does. So, if it's okay with you, can we go back to last Friday please?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes, okay.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > I know it's hard, Marjorie. But can you please tell me what happened?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Again?
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Yes. I have to prepare you for the time during the trial. You will have to repeat it there as well and be prepared for questions from the defense attorney.
 
-> MARJORIE (sighs)
+> *MARJORIE* (sighs)
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Yes, I know. I try to protect you at all times, but there will be questions the judge will allow and that you have to answer. Do you understand?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes. I guess.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Okay, so what happened on Friday?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Well, I was out of milk and went to the Shop-O down the street.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > What time was it?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > 7-7:30 pm
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Seven or seven thirty? Can you pinpoint the incident more exactly? The time frame might prove to be important.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > It was seven thirty. I watched a comedy show I regularly watch and it had just finished, so I was on the street at seven thirty pm. Five minutes to the Shop-O.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Good. Continue.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I walked into the shop and said hi to... To Jazir.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Jazir Bijarani? The man who owned the shop?
 
-> MARJORIE (sad)
+> *MARJORIE* (sad)
 > 
 > Yes. Jazir.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Okay, please continue.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I went to the fridge to get some milk when I heard an argue over at the counter.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > You're doing great, Marjorie.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > There... I saw Jazir with the guy they arrested.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Do you know his name?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Varone.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Please say his full name.
 
-> MARJORIE (sighs)
+> *MARJORIE* (sighs)
 > 
 > Igino Varone. He was shouting at Jazir. He was furious. I guess, he didn't know I was around.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > What were they arguing about?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I don't know. This Varone guy kept shouting: "You think you can fuck with me? You really think you can fuck with me". Those kind of words.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > And Jazir?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > He was terrified. I mean, we all know who Igino Varone is. You don't want him shouting at you.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > What do you mean that you all know who he is?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > He's "La Famiglia". He's doing all sorts of stuff. Killing people, selling drugs, prostitution...
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Marjorie, we don't have any proof of *those* kind of things.
 
-> MARJORIE (angry)
+> *MARJORIE* (angry)
 > 
 > But everybody *knows* he does that!
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Maybe, but we have to concentrate on this specific case for which we have *your* word and a few dozen clues. Okay?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Okay.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Great. Thank you. So Mr. Bijarani was terrified.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes. And he said, that he didn't know what Varone was talking about. And then... (still shocked from the events)
 > 
 > All of the sudden he drew a gun and pointed at him, I quickly hid behind a shelf.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > How far was this shelf away from the counter?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I don't know. It was the second row in the back where the fridges were. I guess... I guess maybe 30 feet or something.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Okay, go on.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > So I hid and Varone kept on shouting and then... (pauses)
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Should we take a break?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > No, it's... It's fine. Thank you.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Okay.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Then he shot. BAM BAM BAM. Three times. (sobbing) He shot Jazir three times. There was blood everywhere.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > What did you do then?
 
-> MARJORIE (still sobbing)
+> *MARJORIE* (still sobbing)
 > 
 > I was in shock. I still hid behind the shelf. I didn't (sob) scream, I... why didn't I scream? I lost track of time. Then I looked to the counter again, but Varone was gone. I went to (sob) I went to Jazir and... all this blood. (she cries)
 
 Some seconds pass and we just hear Marjorie crying and sobbing. Then:
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Can you continue?
 
-> MARJORIE (still sobbing, but getting herself together)
+> *MARJORIE* (still sobbing, but getting herself together)
 > 
 > Yes... yes, okay. (breath) Jazir wasn't breathing anymore, so I took the phone and called 911.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > And then?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > What do you mean?
 
-> BRIANNA
+> *BRIANNA*
 > 
 > You have to tell things exactly and completely as they were. If you leave things out, the defense will rip you open on those.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Okay I... I freaked. It was all too much, you know?
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Yes, I understand. What did you do?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I just ran. I ran home and locked my doors. I expected to get shot every second. I only opened when the police knocked as they were questioning the neighborhood.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Okay. I think, they will ask you why you didn't stay and help Jazi
 
-> MARJORIE (interrupts shouting)
+> *MARJORIE* (interrupts shouting)
 > 
 > HE WAS FUCKING DEAD!
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Yes, I know. I can understand that. Please calm down.
 
-> MARJORIE (still shouting)
+> *MARJORIE* (still shouting)
 > 
 > I SAW HIM DIE!
 
 Brianna is quiet.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > FUCK! (pauses) They will ask something like that?
 
-> BRIANNA
+> *BRIANNA*
 > 
 > Look, you're the witness. That makes you the defense's enemy. If they can't prove, that you're lying, they have to render you unreliable.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Okay.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > The best thing is to stay calm and I know how hard that is. Stay calm and answer their questions truthfully.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Okay. I'll try.
 
-> BRIANNA
+> *BRIANNA*
 > 
 > I know. Thank you so much for helping us!
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Okay.
 

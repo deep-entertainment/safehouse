@@ -10,11 +10,11 @@ One random of
 
 # greeting1
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Can I ask you something, Calvin?
 
-> CALVIN
+> *CALVIN*
 > 
 > Sure. What's on your mind?
 
@@ -22,11 +22,11 @@ One random of
 
 # greeting2
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Calvin?
 
-> CALVIN
+> *CALVIN*
 > 
 > Yes, Marjorie?
 
@@ -34,11 +34,11 @@ One random of
 
 # greeting3
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Do you have a second, Calvin?
 
-> CALVIN
+> *CALVIN*
 > 
 > Absolutely. What's on your mind?
 
@@ -58,35 +58,35 @@ One random of
 
 # apology
 
-> CALVIN
+> *CALVIN*
 > 
 > It's okay, Marjorie. It's your first witness protection, I presume? *laughs*
 
-> MARJORIE (laughs)
+> *MARJORIE* (laughs)
 > 
 > Yes, it is.
 
-> CALVIN
+> *CALVIN*
 > 
 > See? All is good. You just have to be careful. It's only five days.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes.
 
-> CALVIN
+> *CALVIN*
 > 
 > Marjorie?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes?
 
-> CALVIN
+> *CALVIN*
 > 
 > You got this.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I... yes. Yes, I got this. Thanks, Calvin.
 
@@ -94,15 +94,15 @@ One random of
 
 # howdoesthiswork
 
-> CALVIN
+> *CALVIN*
 > 
 > Well, we sit and wait.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Nothing more?
 
-> CALVIN
+> *CALVIN*
 > 
 > Nothing more.
 > 
@@ -110,31 +110,31 @@ One random of
 > 
 > Well, in the best case at least. Let's just hope nothing happens. (to himself) Unlike last time.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Last time?
 
-> CALVIN
+> *CALVIN*
 > 
 > Hm?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > You said, you hope, that nothing happens *unlike last time*?
 
-> CALVIN
+> *CALVIN*
 > 
 > I did?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes.
 
-> CALVIN
+> *CALVIN*
 > 
 > I... I meant... Look, Marjorie. This is a tense situation. We just stay put and wait until the trial and then it's over. Easy as that.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Okay.
 
@@ -142,23 +142,23 @@ One random of
 
 # abouthouse
 
-> CALVIN
+> *CALVIN*
 > 
 > Not *often*, but sometimes. We have several objects like this.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > It's neat.
 
-> CALVIN
+> *CALVIN*
 > 
 > Yes... Yes, I guess it is *neat*. Never thought of it this way, actually. I'm only here, when I'm on the clock.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > I guess. It's a bit more for me.
 
-> CALVIN
+> *CALVIN*
 > 
 > Yeah... I see.
 
@@ -166,27 +166,27 @@ One random of
 
 # padlock
 
-> CALVIN
+> *CALVIN*
 > 
 > A padlock?
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Yes.
 
-> CALVIN
+> *CALVIN*
 > 
 > That's strange.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Indeed.
 
-> CALVIN
+> *CALVIN*
 > 
 > Well, I don't know the combination if that's what you're asking.
 
-> MARJORIE
+> *MARJORIE*
 > 
 > Hm. Okay. Thanks.
 
@@ -194,7 +194,7 @@ One random of
 
 # thanks
 
-> CALVIN
+> *CALVIN*
 > 
 > Anytime. If you need something, we're here for you.
 
