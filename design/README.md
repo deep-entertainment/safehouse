@@ -29,3 +29,8 @@ To open the house plan, you need the software [Sweet Home 3D](http://www.sweetho
   
   * Get all characters
     `ggrep -oP '(?<!\*)\*([A-Z]+)\*(?!\*)' Safe\ House\ -\ Game\ Design\ Document.md | sort | uniq`
+
+* Dialogs: Use the > quotation formatting. Begin with the speaking character. Leave an empty line when the speaker changes
+  
+  * Get all dialogs
+    `awk '/^> \*([A-Z]+)\*/{flag=1}/^[^>]/{flag=0}flag' Safe\ House\ -\ Game\ Design\ Document.md`
