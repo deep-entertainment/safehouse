@@ -1,5 +1,4 @@
 # Safe House - Game Design Document
-
 ## Introduction
 
 This is the game design document for "Safe House", an atmospheric point and click thriller.
@@ -8,15 +7,12 @@ It covers all the details about the game’s concept, design, assets and story.
 
 ## Notes / Todo
 
-* [ ] Complete abstract
-- [ ] Complete characters
-
-- [ ] Complete game structure
-
-- [ ] Write dialogs
-
-- [ ] Create list of assets
-
+* [x] Complete abstract
+* [ ] Complete characters
+* [ ] Complete game structure
+* [ ] Write dialogs
+* [ ] Complete items descriptions and interactions
+* [ ] Complete room descriptions and interactions
 ## Ideas
 
 These things still need to be either deleted or included into the scenes:
@@ -281,7 +277,7 @@ They talk over the dinner about what happened. *CALVIN* tries to comfort *MARJOR
 
 After finishing the breakfast, *MARJORIE* goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads to the combination of the padlock on the drawer in her room.
 
-She opens the lock with it and finds the fake diary of *JACOB* Grimes. Downstairs, she finds *REBECA* and talks to her. She reveals, that *JACOB* Grimes was found dead in *MARJORIE*'s room 18 years ago. (It is not yet revealed, that *JACOB* hang himself or that *CALVIN* was assigned to that case)
+She opens the lock with it and finds the fake diary of *JACOB* Grimes. Downstairs, she finds *REBECA* and talks to her. She reveals, that *JACOB* Grimes was found dead 18 years ago. (It is not yet revealed, that *JACOB* hang himself or that *CALVIN* was assigned to that case)
 
 As *REBECA* doesn't tell her more, *MARJORIE* wants to investigate. She needs her phone for that.
 
@@ -293,7 +289,7 @@ But her SIM is gone, so she needs wifi. There actually is a wifi in the house us
 
 She logs into the wifi and searches for "*JACOB* Grimes" to find that he had hung himself in her room 18 years ago and that *CALVIN* was assigned to that case.
 
-#### Noon
+#### Afternoon
 
 *BRIANNA* visits and *MARJORIE* asks her about *JACOB*'s story.
 
@@ -335,7 +331,7 @@ She additionally gathers adhesive tape from a drawer in the hall, the fingerprin
 
 As she's back in her room after getting all the things, *BRIANNA* arrives and she is interrupted.
 
-#### Afternoon
+#### Noon
 
 *BRIANNA* visits and *MARJORIE* questions her about *REBECA*.
 
@@ -379,9 +375,9 @@ Fade in: "Day 1", Fade out.
 
 ### DAY1 - HALL - MORNING
 
-*MARJORIE*, *CALVIN* and *REBECA* stand in front of the front door. We see a bagpack, a bag and a suitcase in front of them. The bagpack belongs to *CALVIN*, the bag to *REBECA* and the suitcase to *MARJORIE*.
+*MARJORIE*, *CALVIN* and *REBECA* stand in the `HALL`, in front of the front door. We see a bagpack, a bag and a suitcase in front of them. The bagpack belongs to *CALVIN*, the bag to *REBECA* and the suitcase to *MARJORIE*.
 
-They stand there for a few seconds, looking around. *MARJORIE* is frightened, she is taking in the uncommon surroundings. *REBECA* is annoyed, she is filling out a form. 
+They stand there for a few seconds, looking around. *MARJORIE* is frightened, she is taking in the uncommon surroundings. *REBECA* is annoyed, she is filling out a form.
 
 *AMBIENT: Filling out a form*
 
@@ -401,23 +397,23 @@ They stand there for a few seconds, looking around. *MARJORIE* is frightened, sh
 > 
 > Living room is right this way, kitchen to the left, the bathroom and the bedrooms are upstairs. Your room is just across the stairs. Can't miss it.
 
-*REBECA* takes her bag and walks off to the living room.
+*REBECA* takes her bag and walks off to the `LIVING_ROOM`.
 
 *SFX: Walking on wooden floor*
 
 (beat)
 
-*CALVIN* looks at *MARJORIE*, nods friendly. *MARJORIE* tries a smile. *CALVIN* takes his bagpack and walks off to the living room.
+*CALVIN* looks at *MARJORIE*, nods friendly. *MARJORIE* tries a smile. *CALVIN* takes his bagpack and walks off to the `LIVING_ROOM` as well.
 
 *SFX: Walking on wooden floor*
 
 *MARJORIE* grabs her suitcase.
 
-### DAY1 - *MARJORIE*'S ROOM - MORNING
+### DAY1 - BEDROOM - MORNING
 
 *MUSIC: *MARJORIE* theme. Calming, relaxed*
 
-*MARJORIE* enters the room, looks around, then puts her suitcase on the bed, opens it.
+*MARJORIE* enters the `BEDROOM`, looks around, then puts her `suitcase` on the bed, opens it.
 
 *SFX: Suitcase on bed, opening suitcase*
 
@@ -425,13 +421,13 @@ They stand there for a few seconds, looking around. *MARJORIE* is frightened, sh
 
 #### PUZZLE 1.1: Unpack
 
-Click on the suitcase.
+Click on the `suitcase`.
 
 > *MARJORIE*
 > 
 > Well. Time to unpack I guess.
 
-Click (unpack) the items in the suitcase. Those items are presented:
+Click (unpack) the items in the `suitcase`. Those items are presented in order:
 
 * Shirts (*SFX: Taking clothes*)
 
@@ -441,9 +437,9 @@ Click (unpack) the items in the suitcase. Those items are presented:
 
 * Pants (*SFX: Taking clothes*)
 
-When *MARJORIE* unpacks the pants, her phone falls out and smashes on the floor into four pieces: (*SFX: Object crashing on floor*)
+When *MARJORIE* unpacks the pants, her `smartphone` falls out and smashes on the floor into four pieces: (*SFX: Object crashing on floor*)
 
-* `phone`
+* `smartphone_incomplete`
 
 * `battery`
 
@@ -459,9 +455,9 @@ They slide in all directions.
 
 #### PUZZLE 1.2: Assembling the phone
 
-Find the four items by examining the things in the bedroom:
+Find the four items by examining the things in the `BEDROOM`:
 
-* Bed
+* `bed`
   Finding the `smartphone_incomplete` underneath it:
   
   > *MARJORIE*
@@ -470,7 +466,7 @@ Find the four items by examining the things in the bedroom:
   
   Add `smartphone_incomplete`
 
-* Wardrobe (finding the `simcard` in front of it)
+* `wardrobe` (finding the `simcard` in front of it)
   
   > *MARJORIE*
   > 
@@ -478,7 +474,7 @@ Find the four items by examining the things in the bedroom:
   
   Add `simcard`
 
-* Nightstand (finding the `cover`)
+* `nightstand` (finding the `cover`)
   
   > *MARJORIE*
   > 
@@ -486,7 +482,7 @@ Find the four items by examining the things in the bedroom:
   
   Add `cover`
 
-* Stool (finding the `battery`)
+* `stool` (finding the `battery`)
   
   > *MARJORIE*
   > 
@@ -496,7 +492,7 @@ Find the four items by examining the things in the bedroom:
 > 
 > I think that's all.
 
-Combine the items in the correct order with the phone:
+Combine the items with the `smartphone_incomplete`:
 
 * `simcard` (*SFX: Inserting an object*)
 
@@ -514,7 +510,7 @@ Combine the items in the correct order with the phone:
 
 #### PUZZLE 1.3: Resetting the phone
 
-Click the suitcase again and unpack further. Following items are unpacked:
+Click the `suitcase` again and unpack further. Following items are unpacked:
 
 * Toiletries bag (*SFX: Taking clothes*)
 
@@ -528,7 +524,7 @@ Click the suitcase again and unpack further. Following items are unpacked:
 > 
 > Ah, there's my purse. I had already packed it!
 
-Open the `purse`. Closeup of the purse contains:
+Open the `purse`. Closeup of the `purse` contains:
 
 * Picture of *MARJORIE*s mother
   
@@ -566,7 +562,7 @@ Open the `purse`. Closeup of the purse contains:
   > 
   > caTerp1llar
 
-Take the `hairpin` and use it to reset the phone.
+Take the `hairpin` and use it to reset the `smartphone`.
 
 > *MARJORIE*
 > 
@@ -582,15 +578,15 @@ Take the `hairpin` and use it to reset the phone.
 
 *SFX: Dialtones, when buttons on phone are pressed*
 
-Using 4872 as the phone pin yields:
+Using 4872 as the pin yields:
 
 > *MARJORIE*
 > 
 > No, that's my credit card pin. I can remember that, because I use it more often.
 
-Using RUBE(=7823) as the phone pin solves the puzzle
+Using RUBE(=7823) as the pin solves the puzzle
 
-### DAY1 - *MARJORIE*'S ROOM - MORNING
+### DAY1 - BEDROOM - MORNING
 
 *Cutscene starts*
 
@@ -608,7 +604,7 @@ We hear *REBECA* from the outside:
 > 
 > *MARJORIE*, I have some shee--
 
-*REBECA* has entered the door *MARJORIE*'S room and sees her on the phone.
+*REBECA* has entered the door and sees her on the phone.
 
 > *REBECA* (shouting)
 > 
@@ -630,7 +626,7 @@ She turns around, pointing at *MARJORIE*
 
 > *REBECA* (getting really mean)
 > 
-> DO YOU WANT HIM TO KILL YOU RIGHT AWAY? WE COULD ALL SAVE SOME TIME IF YOU'D SAY.
+> DO YOU WANT HIM TO KILL YOU RIGHT AWAY? WE COULD ALL SAVE SOME TIME IN THAT CASE.
 
 (beat, we hear *MARJORIE* sobbing)
 
@@ -644,7 +640,7 @@ She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
 
 ### DAY1 - LIVING ROOM - NOON
 
-*MARJORIE*, *REBECA* and *CALVIN* are sitting on the dining table, eating takeaway chinese food. The mood is tense.
+*MARJORIE*, *REBECA* and *CALVIN* are sitting on the `dining_table`, eating takeaway chinese food. The mood is tense.
 
 *AMBIENT: People eating*
 
@@ -664,7 +660,7 @@ She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
 
 > *REBECA* (grunts)
 > 
-> 'm sorry, I freaked 'cause you brought your fucking phone.
+> (slurry) 'm sorry, I freaked 'cause you brought your fucking phone.
 
 > *CALVIN* (sighs)
 > 
@@ -672,7 +668,7 @@ She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
 > 
 > We're here to protect you for the next five days, *MARJORIE*. That's our *job*.
 > 
-> Key to that is, is that nobody knows where you are. You understand?
+> Key to that, is that nobody knows where you are. You understand?
 
 > *MARJORIE* (shy)
 > 
@@ -700,7 +696,7 @@ She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
 
 > *MARJORIE*
 > 
-> And I'm sorry. Bringing the phone really was a dumb idea. I just... I just miss my mom and yes, this is all very scary for me.
+> And I'm sorry. Bringing the phone really was a dumb idea. I just... I just miss my mom and yes, this is all very creepy for me.
 
 > *REBECA*
 > 
@@ -730,9 +726,9 @@ The player is free to roam the house. They should do the following to continue:
 
 * Take the `day1_leftovers` and `day1_dishes` from the table
 
-* Bring the `day1_leftovers` to the waste paper basket in the kitchen
+* Bring the `day1_leftovers` to the waste paper basket in the `KITCHEN`
 
-* Clean the `day1_dishes` in the kitchen sink
+* Clean the `day1_dishes` in the `kitchen_sink`
 
 * Talk to [*CALVIN*](dialogs/*CALVIN*1.md)
 
@@ -758,7 +754,7 @@ The player is free to roam the house. They should do the following to continue:
 
 > *MARJORIE*
 > 
-> (yawns) Allright, I'm up to bed. Have a good night.
+> (yawns) Allright, I'm off to bed. Have a good night.
 
 > *CALVIN*
 > 
@@ -768,13 +764,13 @@ The player is free to roam the house. They should do the following to continue:
 > 
 > Bye
 
-*MARJORIE* exits the living room, goes through the hall, up the stairs, through the upper hall into her room to find...
+*MARJORIE* exits the living room, goes through the `HALL`, up the stairs, through the `UPPER_HALL` into the `BEDROOM` to find...
 
 A noose dangling from the lamp. 
 
-*MUSIC: horror string slide merging into *MARJORIE* tune*
+*MUSIC: horror string slide merging into MARJORIE tune*
 
-*MARJORIE* screams, then runs out of her room, down the stairs. In the lower hall, she bumps into *CALVIN*.
+*MARJORIE* screams, then runs out of the `BEDROOM`, down the stairs. In the `HALL`, she bumps into *CALVIN*.
 
 > *CALVIN* (concerned)
 > 
@@ -792,7 +788,7 @@ A noose dangling from the lamp.
 
 > *MARJORIE*
 > 
-> YES. FROM THE LAMP. OH MY **GOD**
+> YES. BY THE LAMP. OH MY **GOD**
 
 *REBECA* runs past her up the stairs. Seconds pass.
 
@@ -810,7 +806,7 @@ A noose dangling from the lamp.
 > 
 > Can you come up please?
 
-*MARJORIE* climbs the stairs, passes the upper hall to see *CALVIN* and *REBECA* in her room, but no noose. *CALVIN* is panting, but calm. *REBECA* is looking at *CALVIN* with an irritated look.
+*MARJORIE* climbs the stairs, passes the `UPPER_HALL` to see *CALVIN* and *REBECA* in the `BEDROOM`, but no noose. *CALVIN* is panting, but calm. *REBECA* is looking at *CALVIN* with an irritated look.
 
 > *MARJORIE*
 > 
@@ -838,7 +834,7 @@ A noose dangling from the lamp.
 
 *Fadeout*
 
-## DAY 2 - MORNING - LIVING ROOM
+### DAY 2 - MORNING - LIVING ROOM
 
 Fade in: "Day 2", Fade out.
 
@@ -856,6 +852,8 @@ A [dialog](dialogs/day2breakfast.md) unfolds.
 
 After it, we fade out, and fade in again. *REBECA* now sits against the wall with the hatch, reading a file. *CALVIN* has put the paper on the desk and reads. *MARJORIE* stands.
 
+*MUSIC: *MARJORIE*-theme, calm*
+
 > *MARJORIE*
 > 
 > Let me put myself to use and clean this up.
@@ -868,17 +866,202 @@ After it, we fade out, and fade in again. *REBECA* now sits against the wall wit
 
 The player can explore freely now. 
 
-(Optional) Take the `day2_dishes` and the `day2_leftovers` from the table. Put the `day2_leftovers` into the trash can, clean the `day2_dishes` in the kitchen sink.
+(Optional) Take the `day2_dishes` and the `day2_leftovers` from the table. Go into the `KITCHEN`. Put the `day2_leftovers` into the `trash_can`, clean the `day2_dishes` in the `kitchen_sink`.
 
 They have to complete the following puzzles:
 
 #### PUZZLE 2.1: The Diary
 
-Go up to *MARJORIE*s room, find the `gruesome_note`.
+Go up to `BEDROOM`, find the `gruesome_note`.
 
-Solve the note puzzle TODO
+Solve the note puzzle to get the combination.
 
-Open the padlock of the drawer using the combination. Find the `diary`.
+Open the `padlock` at the `drawer` using the combination. Find the `diary`. Read the `diary`.
+Go to the `LIVING_ROOM` and [talk to *REBECA*](dialogs/rebeca3.md).
+
+#### PUZZLE 2.2: Getting the phone back
+
+Go into the `KITCHEN` and look through the `hatch`. The scene is switched to `LIVING_ROOM` with *MARJORIE* looking through the hatch. Wait for the right moment to snatch the `smartphone` out of *REBECA*s `pocket`.
+
+#### PUZZLE 2.3: Finding the wifi router
+
+Turn on the `smartphone`, it shows no mobile connection, but an accessible wifi. Connecting to it requires a password though.
+
+The wifi signal display is set to 2 of 4 bars in the `KITCHEN` and the `LIVING ROOM`. It shows 3 of 4 bars in the `HALL` and the `BEDROOM`. It shows 4 of 4 bars in the `UPPER HALL`.
+
+Looking at the `smartphone` and selecting the wifi signal in the  `UPPER HALL`  reveals a `loose_board`. It can be pried loose using a `knife` from the `KITCHEN`. Under the `loose_board` the `wifi_router` is revealed. When turning it around, a wifi password is revealed. 
+
+*SFX: mobile keyboard sounds while typing the following* 
+
+Entering into the `smartphone` doesn't work though.
+
+In the `trash_can` in the `KITCHEN` you find the `password_note`, which, combined with the password under the `wifi_router`,  reveals the actual wifi password. Enter it in the `smartphone` to connect to the wifi.
+
+> *MARJORIE*
+>
+> There. Now, let's see what happened to Jacob Grimes. (pause)
+>
+> (to herself) Grimes, Grimes, Gri- Jacob Grimes. There you are. A New York Standard article from eighteen years ago.
+>
+> (reading) "Jacob Grimes, witness in the La Famiglia trial on the murder of Yared Mike Getahun, was found dead this Thursday afternoon while in (stops) witness protection of the New York police."
+>
+> (puts down the `smartphone` briefly, then continues to read)
+>
+> "His body was found in his bedroom, where he apparently hung himself. 'We can only assume, that the pressure and stress of the events took more to him than was apparent to us. I deeply regret that we couldn't foresee this and helped Jacob more', said (stops) Detective Calvin Andrews."
+
+*MARJORIE*  puts down the `smartphone`. Blackout.
+
+### DAY 2 - AFTERNOON - LIVING ROOM
+
+*MUSIC: *BRIANNA* theme. Soft, calming*
+
+*MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
+
+[They talk.](dialogs/brianna2.md)
+
+### DAY 2 - NIGHT - BEDROOM
+
+*Cutscene starts*
+
+*MUSIC: None*
+
+*AMBIENT: None*
+
+It's night. We see the `BEDROOM` only lit from the windows to the left. We see part of the bed with very hard shadows. *MARJORIE* lies in the bed. After a few seconds, Marjorie wakes up and rises in bed.
+
+*SOUND: Creaking bed*
+
+Suddenly, the bedroom is lit up, we see *IGINO* standing in the door, slowly rising a gun. *MARJORIE* opens her mouth as if to scream, but no scream is heard.
+
+*MUSIC: Panic!*
+
+### DAY 3 - EARLY MORNING - BEDROOM
+
+We switch back to the dark `BEDROOM` and barely see the small explosion of the lightbulb, which makes a *SOUND: Plop*, which makes it blur to the gun scene.
+
+*MUSIC: None*
+
+*MARJORIE* startles up, screams. Then realizes, that she's safe. *MARJORIE* rises. She tries to turn on the `lamp` using the `light_switch`, which doesn't work.
+
+> *MARJORIE*
+>
+> Hm. Guess the bulb's dead.
+
+*Cutscene ends*
+
+*MUSIC: Eerie, very few notes. "Night atmosphere". Not too scary though.*
+
+#### PUZZLE 3.1 - Fixing the lamp
+
+Go into the `KITCHEN`, get the `stepladder` from one of the `cupboard`s. Use the `stepladder` with the `lamp`. *MARJORIE* walks up the `stepladder` and unscrews the `broken_bulb`.
+
+You can use the `broken_bulb` with all the lights in the house. Only a lamp in the  `HALL` matches. But it's too hot to touch. Find a `cloth` in the `KITCHEN` and use it to unscrew the `bulb`.
+
+Screw the `bulb` into the `lamp` in the `BEDROOM`.
+
+*Cutscene starts*
+
+*MUSIC: Get's more eerie and downright scary*
+
+The light flashes on and *MARJORIE* gasps, startles, leans back and falls down the `stepladder` onto the floor.
+
+> *MARJORIE*
+>
+> What the-?
+
+She rises again, climbs the `stepladder` again and looks up. The screen switches to the closeup of the lamp: We see, that the lamps hangs on a study metallic hook.
+
+*MUSIC: Horror strings*
+
+> *MARJORIE*
+>
+> That's... that's the hook the noose was hanging from. Are you fucking kidding me?
+>
+> What's that on the hook?
+
+*MUSIC: back to "Night atmosphere"*
+
+*Cutscene ends*
+
+#### PUZZLE 3.2 - Inspecting the hook
+
+Get the `magnifying_glass` from a `drawer` in the `KITCHEN`.
+
+Use the `magnifying_glass` with the `tiny_thing` on the hook.
+
+*Cutscene starts*
+
+*MUSIC: Marjorie theme, will swell up during her monologue, then cut off when Marjorie shuts off the light*
+
+> *MARJORIE*
+>
+> What. The. Fuck? That's hemp. So there *was* an actual noose hanging here?
+
+*MARJORIE* climbs down the ladder and goes up and down the room.
+
+> *MARJORIE*
+>
+> I can't believe it. That's... (back and forth) but... but why? (back and forth) Is it about my testimony? (back and forth) I can't fucking believe it. (stops in the middle of the room) Does she want to scare me? Is she involved in this? (goes to the light switch) Nuh-uh, bitch. You can't scare me. Not. (hand on the light switch) Me.
+
+Blackout.
+
+### DAY 3 - MORNING - LIVING ROOM
+
+*MUSIC: Marjorie theme, jazzy background*
+
+*MARJORIE* and *CALVIN* sit and eat breakfast. *REBECA* is at the now open cupboard in the living room, fiddling around with its contents.
+
+> *CALVIN*
+>
+> Rebeca? Are you coming?
+
+No answer.
+
+> *CALVIN*
+>
+> *Rebeca*?
+
+> *REBECA* (grunts)
+>
+> *Fine*.
+
+She comes over without locking the cupboard, drops down at the table and starts munching Muesli again.
+
+A dialog unfolds.
+
+> REBECA
+>
+> *Whatever! I'm out here. We need groceries!*
+
+*REBECA* exits.
+
+*Cutscene ends*
+
+* Take the `day3_dishes` and clean them in the `KITCHEN`
+
+#### PUZZLE 3.3: Getting the fingerprint kit
+
+Take the `makeup_brush` from the trashcan in the kitchen. Take the `tape` from a `drawer` in the `HALL`. Get the `fingerprint_powder` from the `cupboard_unlocked` in the `LIVINGROOM`.
+
+Go to the `BEDROOM`.
+
+*Cutscene starts*
+
+*SOUND: closing door* 
+
+> *BRIANNA*
+>
+> Marjorie? I'm here.
+
+Marjorie takes a look at the lamp, sighs.
+
+> *MARJORIE*
+>
+> *Coming!*
+
+### DAY 3 - NOON - LIVING ROOM
+
+
 
 ## List of assets
 
@@ -928,7 +1111,7 @@ Smartphone battery
 
 > *MARJORIE*
 > 
-> It's the battery of my phone.
+> It's the battery from my phone.
 
 ##### `cover`
 
@@ -936,7 +1119,7 @@ Smartphone back cover
 
 > *MARJORIE*
 > 
-> It's the back of my smartphone.
+> It's the back from my smartphone.
 
 ##### `simcard`
 
@@ -944,7 +1127,7 @@ SIM card
 
 > *MARJORIE*
 > 
-> That's the tiny card so I can call somebody.
+> That's the tiny card I need to call somebody.
 
 ##### `purse`
 
@@ -999,7 +1182,7 @@ Items:
   
   > *MARJORIE*
   > 
-  > A simple wardrobe for my clothes. It's only for a few days.
+  > A simple wardrobe for my clothes. I'll only be here for a few days.
 
 * Upper Drawer (in wardrobe)
   
@@ -1169,7 +1352,21 @@ Additionally, the following ads are visible:
 
 * **BIGGE'S BIG BOUNCY BOWL - FUN FOR THE WHOLE FAMILY. ASK ABOUT OUR BIRTHDAY SPECIALS!**
 
-#### Diary
+#### `diary`
+
+#### `gruesome_note`
+
+The gruesome note is a worn-out paper with what appears to be an eerie child poem that goes like this:
+
+The itsy, bitsy spider
+went up the pyramid
+down came the sphere
+and rolled right over it.
+
+Then fell the cube and
+crushed it right and then, so
+the really ugly spider
+could never climb again.
 
 ### Music
 
