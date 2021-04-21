@@ -13,6 +13,9 @@ It covers all the details about the game’s concept, design, assets and story.
 * [ ] Write dialogs
 * [ ] Complete items descriptions and interactions
 * [ ] Complete room descriptions and interactions
+ * [ ] Complete puzzle 3.5
+ * [ ] Write puzzle 3.6
+
 ## Ideas
 
 These things still need to be either deleted or included into the scenes:
@@ -506,7 +509,7 @@ Combine the items with the `smartphone_incomplete`:
 > 
 > (beat)
 > 
-> Ugh, it needs to be reset because of the crash. There's this tiny button on the side. I need something small. Like a paper clip or needle or something.
+> Ugh, it needs to be reset due to the crash. There's this tiny button on the side. I need something small. Like a paper clip or needle or something.
 
 #### PUZZLE 1.3: Resetting the phone
 
@@ -1001,9 +1004,13 @@ Use the `magnifying_glass` with the `tiny_thing` on the hook.
 
 > *MARJORIE*
 >
-> I can't believe it. That's... (back and forth) but... but why? (back and forth) Is it about my testimony? (back and forth) I can't fucking believe it. (stops in the middle of the room) Does she want to scare me? Is she involved in this? (goes to the light switch) Nuh-uh, bitch. You can't scare me. Not. (hand on the light switch) Me.
+> I can't believe it. That's... (back and forth) but... but why? (back and forth) Is it about my testimony? (back and forth) I can't fucking believe it. (stops in the middle of the room) Does she want to scare me? Is she involved in this? (goes to the light switch) Nuh-uh, bitch. You can't scare me. Not. (hand on the light switch)
 
 Blackout.
+
+> *MARJORIE*
+>
+> Me.
 
 ### DAY 3 - MORNING - LIVING ROOM
 
@@ -1061,7 +1068,59 @@ Marjorie takes a look at the lamp, sighs.
 
 ### DAY 3 - NOON - LIVING ROOM
 
+*MUSIC: *BRIANNA* theme. Soft, calming*
 
+*MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
+
+They talk.
+
+### DAY 3 - EVENING - LIVING ROOM
+
+*REBECA* reenters the `LIVINGROOM`, she seems confused.
+
+> *MARJORIE*
+>
+> (suspicious) Got everything you wanted? (referring to getting groceries)
+
+*REBECA* subtly startles and looks at *MARJORIE*
+
+> *REBECA*
+>
+> Huh?
+
+> *MARJORIE*
+>
+> The groceries?
+
+> *REBECA*
+>
+> (still confused) Gro- (realizes) oh yeah. Yeah.
+
+*REBECA* exits the `LIVINGROOM` and enters the `KITCHEN`.
+
+#### PUZZLE 3.4: Lifting fingerprints
+
+Go to the `BEDROOM`. Combine the following items:
+
+* `tape`
+* `fingerprint_powder`
+* `makeup_brush`
+
+This will yield the `makeshift_fingerprint_kit`.
+
+Use the `makeshift_fingerprint_kit` with the `hook` to get `hook_fingerprints`.
+
+#### PUZZLE 3.5: Getting fingerprints from Rebeca
+
+Go to the `KITCHEN`. *REBECA* stands to the right, looking out the window.
+
+Open one of the `cupboard`s and get `glass`. 
+
+TODO: Complete puzzle 3.5
+
+#### PUZZLE 3.6: Combine fingerprints
+
+TODO: Write puzzle 3.6
 
 ## List of assets
 
