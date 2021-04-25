@@ -324,7 +324,7 @@ She wants to investigate, if somebody left fingerprints there. She suspects *REB
 
 *MARJORIE* and *CALVIN* sit and eat breakfast. *REBECA* is at the now open cupboard in the living room. *CALVIN* tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
 
-As they are eating, *MARJORIE* tries to grill *REBECA* to find out wether she tries to scare her. They get into an argue, *CALVIN* gets in between and something he says triggers something in *REBECA*, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
+As they are eating, *MARJORIE* tries to grill *REBECA* to find out wether she tries to scare her. At the same time, *REBECA* tries to test Calvin to find out more. They get into an argue, *CALVIN* gets in between and something he says triggers something in *REBECA*, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
 
 After breakfast, *MARJORIE* again takes the dishes to the kitchen. She wonders that the supplies seem to be fully stocked.
 
@@ -1034,13 +1034,75 @@ No answer.
 
 She comes over without locking the cupboard, drops down at the table and starts munching Muesli again.
 
-A dialog unfolds.
+A [dialog](dialogs/day3breakfast.md) unfolds.
 
-> REBECA
+> *CALVIN*
 >
-> *Whatever! I'm out here. We need groceries!*
+> Ladies, please!
 
-*REBECA* exits.
+> *REBECA*
+>
+> (shouting) I WOULD IF YOU WOULD TRY TO GROW UP, MISSY!
+
+> *CALVIN*
+>
+> (louder) *Ladies!*
+
+> *MARJORIE*
+>
+> (shouting) OH I'D GROW UP IF YOU WOULD BE MORE EMPATHIC THAN  A BLOCK OF...
+
+> *CALVIN*
+>
+> (shouting) LADIES! CAN WE PLEASE CALM DOWN AGAIN?
+
+> *REBECA*
+>
+> (shouting) TELL THAT TO HER!
+
+> *CALVIN*
+>
+> (shouting) I'M TELLING THAT TO EACH OF YOU. STOP THAT! I DON'T WANT TO LOCK YOU UP IN YOUR ROOMS LIKE I DID WITH JACOB!
+
+Quiet. *REBECA* stares at *CALVIN*. Seconds pass.
+
+> *REBECA*
+>
+> (snaps out of it, looks around) We need groceries.
+
+*REBECA* storms off. Seconds pass.
+
+> *CALVIN*
+>
+> I'm... I'm sorry.
+
+> *MARJORIE*
+>
+> No, please. I'm sorry. This was... I was...
+
+> *CALVIN*
+>
+> It's okay, Marjorie. It's really hard, I know.
+
+Seconds pass. *CALVIN* starts to clean the table.
+
+> *MARJORIE*
+>
+> Ah, you know what? Why don't you sit down and I take care of the dishes again? As an apology.
+
+> *CALVIN*
+>
+> You don't need to apologize, you know?
+
+> *MARJORIE*
+>
+> Thank you, but still... I just need something to do.
+
+> *CALVIN*
+>
+> Okay then. Thank you.
+
+He sits down again.
 
 *Cutscene ends*
 
@@ -1058,7 +1120,7 @@ Go to the `BEDROOM`.
 
 > *BRIANNA*
 >
-> Marjorie? I'm here.
+> (shouting up) Marjorie? I'm here.
 
 Marjorie takes a look at the lamp, sighs.
 
