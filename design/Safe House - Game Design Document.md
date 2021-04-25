@@ -575,7 +575,7 @@ Take the `hairpin` and use it to reset the `smartphone`.
 > 
 > (beat)
 > 
-> Ugh, now what was my PIN again. I always forget those.
+> Ugh, now what was my PIN again? I always forget stuff like that.
 
 #### PUZZLE 1.4: Finding the PIN
 
@@ -605,7 +605,7 @@ We hear *REBECA* from the outside:
 
 > *REBECA*
 > 
-> *MARJORIE*, I have some shee--
+> *MARJORIE*, I have some shee...
 
 *REBECA* has entered the door and sees her on the phone.
 
@@ -1114,9 +1114,9 @@ Use the `makeshift_fingerprint_kit` with the `hook` to get `hook_fingerprints`.
 
 Go to the `KITCHEN`. *REBECA* stands to the right, looking out the window.
 
-Open one of the `cupboard`s and get `glass`. 
+[Talk to Rebeca](dialogs/rebeca3.md)
 
-TODO: Complete puzzle 3.5
+Use the `smartphone` to search for a recipe for a virgin 
 
 #### PUZZLE 3.6: Combine fingerprints
 
