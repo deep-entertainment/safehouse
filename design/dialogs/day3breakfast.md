@@ -1,3 +1,7 @@
+# Comment
+
+This dialog is the showdown between Marjorie and Rebeca. On a meta level, it is also the key point for Rebeca where she starts to seriously doubt Calvin motives. She finally storms off. To Marjorie and the player, this looks as if she's angry at them. Actually, Rebeca walks out and investigates more into the case of Jacob Grimes, which lead to the fight between Calvin and her on day 4.
+
 # Start
 
 > *MARJORIE*

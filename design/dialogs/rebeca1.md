@@ -1,3 +1,7 @@
+# Comment
+
+This dialog introduces Rebeca to the player. It characterizes her as mean, tense and unempathic. The player shouldn't really like her at this point.
+
 # Start
 
 One random of

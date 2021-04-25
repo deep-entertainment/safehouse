@@ -1,3 +1,13 @@
+# Comment
+
+This dialog is used to introduce the atmosphere and tensions between the three main characters. We start characterizing them as follows:
+
+* Marjorie: shy, nervous, tense. She also has a bad conscience about what happened with the phone before. She tries to overcome all this by being talkative
+* Calvin: calm, helpful, nice, understandable. This is all a front, but it has to be believable to the player at that point
+* Rebeca: mean, tense, angry
+
+We also push up the tension between Marjorie and Rebeca more.
+
 # Start
 
 > *MARJORIE*

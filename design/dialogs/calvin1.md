@@ -1,3 +1,7 @@
+# Comment
+
+This dialog introduces Calvin to the player. Its purpose is to characterize Calvin as caring, understanding and helpful. This is the image, that Calvin wants to show Marjorie and the player is tricked to think the same about him at first.
+
 # Start
 
 One random of

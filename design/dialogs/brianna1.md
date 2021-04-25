@@ -1,3 +1,7 @@
+# Comment
+
+This non-interactive dialog shows Brianna introducing herself and going through Marjorie's testimony. It depicts the extreme stress, Marjorie is in and how horrific the event was.
+
 # Start
 
 > *BRIANNA*

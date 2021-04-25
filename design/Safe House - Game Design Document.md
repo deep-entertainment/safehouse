@@ -168,7 +168,7 @@ He's only barely seen in the game in nightmare scenes.
 
 ### *JACOB* Grimes, former witness (dead)
 
-*JACOB* was a witness of another murder by *IGINO* killing an opposing drug dealer eighteen years ago. He was found strangled while on witness protection. The death was called suicide, although it was staged by *CALVIN*.
+*JACOB* was a witness of another murder by *IGINO* killing an opposing drug dealer called Derek Cole eighteen years ago. He was found strangled while on witness protection. The death was called suicide, although it was staged by *CALVIN*.
 
 *CALVIN* weaves in the story of *JACOB* to scare *MARJORIE*, leaving scary notes and staging scary events.
 
@@ -733,9 +733,9 @@ The player is free to roam the house. They should do the following to continue:
 
 * Clean the `day1_dishes` in the `kitchen_sink`
 
-* Talk to [*CALVIN*](dialogs/*CALVIN*1.md)
+* Talk to [*CALVIN*](dialogs/calvin1.md)
 
-* Talk to [*REBECA*](dialogs/*REBECA*1.md)
+* Talk to [*REBECA*](dialogs/rebeca1.md)
 
 ### DAY1 - LIVING ROOM - AFTERNOON
 
@@ -743,7 +743,7 @@ The player is free to roam the house. They should do the following to continue:
 
 *MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
 
-[They talk.](dialogs/*BRIANNA*1.md)
+[They talk.](dialogs/brianna1.md)
 
 ### DAY1 - LIVING ROOM - EVENING
 
@@ -880,7 +880,7 @@ Go up to `BEDROOM`, find the `gruesome_note`.
 Solve the note puzzle to get the combination.
 
 Open the `padlock` at the `drawer` using the combination. Find the `diary`. Read the `diary`.
-Go to the `LIVING_ROOM` and [talk to *REBECA*](dialogs/rebeca3.md).
+Go to the `LIVING_ROOM` and [talk to *REBECA*](dialogs/rebeca2.md).
 
 #### PUZZLE 2.2: Getting the phone back
 
@@ -1477,6 +1477,8 @@ Additionally, the following ads are visible:
 
 The diary is just an old ring-bound notepad with ballpen scriblings on it. They are readable of course, but show the rising pressure and tension of the writer. It's fake though. It wasn't *actually* written by Jacob Grimes, it's something Calvin uses to scare Marjorie. Each day starts a new page.
 
+On the first page it reads: "JG's diary"
+
 ##### Tuesday
 
 The attorney said, I should write this. It may help me to concentrate. I never wrote a diary and it feels weird. Anyways, here goes.
@@ -1528,3 +1530,11 @@ could never climb again.
 ### Sound effects and ambient noises
 
 ## Credits
+
+### Written by
+
+Dennis Ploeger
+
+### Creative Consultant
+
+Mikael Nyqvist
