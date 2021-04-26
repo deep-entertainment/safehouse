@@ -1188,7 +1188,59 @@ Go to the `KITCHEN`. *REBECA* stands to the right, looking out the window.
 
 [Talk to Rebeca](dialogs/rebeca3.md)
 
-Use the `smartphone` to search for a recipe for a virgin 
+Use the `smartphone` to search for a recipe for a virgin mary.
+
+Get the following items:
+
+* `glass` from a cupboard in the `KITCHEN`
+* `knife` from the drawer in the `KITCHEN`
+* `lemon` from a bowl in the `LIVINGROOM`
+* `tomatoes` and `jalapeno_peppers` from the fridge in the `KITCHEN`
+* `hammer` from a drawer in the `HALL`
+* `salt` and `pepper` from the table in the `LIVINGROOM`
+
+Combine:
+
+* `hammer` with `tomatoes` to get `mashed_tomatoes`
+* `mashed_tomatoes` with `glass`
+* `lemon` with `knife` to get `half_lemon`
+* `half_lemon` with `glass`
+* `salt` with `glass`
+* `pepper` with `glass`
+* `knife` with `jalapeno_peppers` to get `cut_peppers`
+* `cut_peppers` with `glass`
+
+After combining `mashed_tomatoes`, `half_lemon`, `salt`, `pepper`and `cut_peppers` are combined with `glass` the player gets the `makeshift_virgin_mary`.
+
+Give `makeshift_virgin_mary` to *REBECA*.
+
+> *REBECA*
+>
+> Huh? What? Is that...
+
+> *MARJORIE*
+>
+> A makeshift Virgin Mary. As a peace offer.
+
+> *REBECA*
+>
+> That's... That's actually really nice. Thank you.
+
+> *MARJORIE*
+>
+> You're welcome.
+
+*REBECA* drinks.
+
+> *REBECA*
+>
+> Not as good as in my favorite club, but still very good. Thanks, Marjorie.
+
+> *MARJORIE*
+>
+> Here, let me take that.
+
+Takes the `used_glass` from *REBECA*.
 
 #### PUZZLE 3.6: Combine fingerprints
 
