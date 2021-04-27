@@ -13,7 +13,7 @@ It covers all the details about the game’s concept, design, assets and story.
 * [ ] Write dialogs
 * [ ] Complete items descriptions and interactions
 * [ ] Complete room descriptions and interactions
- * [ ] Complete puzzle 3.5
+ * [x] Complete puzzle 3.5
  * [ ] Write puzzle 3.6
 
 ## Ideas
