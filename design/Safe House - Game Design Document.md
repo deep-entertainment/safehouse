@@ -503,7 +503,7 @@ Combine the items with the `smartphone_incomplete`:
 > 
 > (beat)
 > 
-> Ugh, it needs to be reset due to the crash. There's this tiny button on the side. I need something small. Like a paper clip or needle or something.
+> Ugh, it needs to be reset due to the clash. There's this tiny button on the side. I need something small. Like a paper clip or needle or something.
 
 #### PUZZLE 1.3: Resetting the phone
 
@@ -727,11 +727,11 @@ Fadeout
 
 > *CALVIN*
 > 
-> You too
+> You too.
 
 > *REBECA*
 > 
-> Bye
+> Bye.
 
 *MARJORIE* exits the `LIVING_ROOM`, goes through the `HALL`, up the stairs, through the `UPPER_HALL` into the `BEDROOM` to find...
 
@@ -1065,7 +1065,7 @@ Seconds pass. *CALVIN* starts to clean the table.
 
 > *MARJORIE*
 >
-> Ah, you know what? Why don't you sit down and I take care of the dishes again? As an apology.
+> Ah, you know what? Why don't you sit down, and I take care of the dishes again? As an apology.
 
 > *CALVIN*
 >
@@ -1191,7 +1191,7 @@ Give `makeshift_virgin_mary` to *REBECA*.
 
 > *REBECA*
 >
-> That's... That's actually really nice. Thank you.
+> That's... That's genuinely nice. Thank you.
 
 > *MARJORIE*
 >
@@ -1270,7 +1270,7 @@ Go down into the `LIVING_ROOM` to see light in the kitchen and the door opened. 
 
 > *CALVIN*
 >
-> (shouting) Of course it's money! It's always the money. A good conscience doesn't pay the bills!
+> (shouting) Of course it's money! It's always the money. A good conscience doesn't pay any bills!
 
 > *REBECA*
 >
@@ -1344,11 +1344,11 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
-> Well, a man gotta make a pay nowadays!
+> Well, a man's gotta provide for himself!
 
 > *MARJORIE*
 >
-> (shouting) Did you even kill Jacob?
+> (shouting) Did you kill Jacob too?
 
 > *CALVIN*
 >
@@ -1372,17 +1372,17 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
-> It was the same with you. Why didn't you just chicken out like the others?
+> It's the same with you. Why didn't you just chicken out like they usually do?
 
 > *MARJORIE*
 >
-> (shouting) The others?
+> (shouting) Usually?
 >
-> (quiet) There were... others?
+> (quiet) Usually do? How many times have you pulled these tricks?
 
 > *CALVIN*
 >
-> Like I said. I have done a lot of these assignments.
+> I've been in the force longe than you've been alive, missy.
 
 *CALVIN* steps a bit closer
 
@@ -1398,7 +1398,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
-> You should've just be scared enough to cancel your testimony. That was the plan.
+> You should've just been scared enough to cancel your testimony. That was the plan.
 
 *CALVIN* points his gun at *MARJORIE*.
 
@@ -1456,7 +1456,7 @@ We see the `COURTHOUSE_ROOM`. *MARJORIE* sits on one end of the table, *BRIANNA*
 
 > *BRIANNA*
 >
-> I'm so sorry about what happene...
+> I'm so sorry about what happen...
 
 > *MARJORIE*
 >
@@ -1464,15 +1464,15 @@ We see the `COURTHOUSE_ROOM`. *MARJORIE* sits on one end of the table, *BRIANNA*
 
 > *BRIANNA*
 >
-> I just don't know how Calvin could do that all those times. This is a disaster.
+> I just don't understand how Calvin could do that all those times. This is a disaster.
 
 > *MARJORIE*
 >
-> Why?
+> No doubt.
 
 > *BRIANNA*
 >
-> Because we have to revisit all the old cases. Each and every one where the witness bailed out in the last second. And that's a lot.
+> And we have to revisit all the old cases. Each and every one where the witness bailed out in the last second. And that's a lot.
 
 > *MARJORIE*
 >
