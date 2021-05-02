@@ -187,13 +187,13 @@ After the two questions are asked:
 
 > *REBECA*
 >
-> (shouting) YOU CAN ALWAYS TALK TO US INSTEAD.
+> (shouting) You can always talk to us instead.
 
 *REBECA* stood up.
 
 > *MARJORIE*
 >
-> (shouting) AS IF YOU ARE INTERESTED IN TALKING TO ME!
+> (shouting) As if you would be interested in talking to me!
 
 *MARJORIE* stood up.
 

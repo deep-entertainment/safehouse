@@ -34,7 +34,7 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 
 > *MARJORIE*
 > 
-> I... Yes, I got this.
+> I... (reassuring herself) Yes, I got this.
 
 > *BRIANNA*
 > 
@@ -64,7 +64,9 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 > 
 > Yes. I have to prepare you for the time during the trial. You will have to repeat it there as well and be prepared for questions from the defense attorney.
 
-> *MARJORIE* (sighs)
+> *MARJORIE* 
+>
+> (sighs)
 
 > *BRIANNA*
 > 
@@ -110,9 +112,9 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 > 
 > Jazir Bijarani? The man who owned the shop?
 
-> *MARJORIE* (sad)
+> *MARJORIE* 
 > 
-> Yes. Jazir.
+> (sad) Yes. Jazir.
 
 > *BRIANNA*
 > 
@@ -142,9 +144,9 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 > 
 > Please say his full name.
 
-> *MARJORIE* (sighs)
+> *MARJORIE* 
 > 
-> Igino Varone. He was shouting at Jazir. He was furious. I guess, he didn't know I was around.
+> (sighs) Igino Varone. He was shouting at Jazir. He was furious. I guess, he didn't know I was around.
 
 > *BRIANNA*
 > 
@@ -174,13 +176,13 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 > 
 > Marjorie, we don't have any proof of *those* kind of things.
 
-> *MARJORIE* (angry)
+> *MARJORIE* 
 > 
-> But everybody *knows* he does that!
+> (angry) But everybody *knows* he does that!
 
 > *BRIANNA*
 > 
-> Maybe, but we have to concentrate on this specific case for which we have *your* word and a few dozen clues. Okay?
+> (calming her down) Maybe, but we have to concentrate on this specific case for which we have *your* word and a few dozen clues. Okay?
 
 > *MARJORIE*
 > 
@@ -194,7 +196,7 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 > 
 > Yes. And he said, that he didn't know what Varone was talking about. And then... (still shocked from the events)
 > 
-> All of the sudden he drew a gun and pointed at him, I quickly hid behind a shelf.
+> All of the sudden... he drew a gun and... pointed at him, I quickly hid behind a shelf.
 
 > *BRIANNA*
 > 
@@ -232,9 +234,9 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 > 
 > What did you do then?
 
-> *MARJORIE* (still sobbing)
+> *MARJORIE* 
 > 
-> I was in shock. I still hid behind the shelf. I didn't (sob) scream, I... why didn't I scream? I lost track of time. Then I looked to the counter again, but Varone was gone. I went to (sob) I went to Jazir and... all this blood. (she cries)
+> (still sobbing) I was in shock. I still hid behind the shelf. I didn't (sob) scream, I... why didn't I scream? I lost track of time. Then I looked to the counter again, but Varone was gone. I went to (sob) I went to Jazir and... all this blood. (she cries)
 
 Some seconds pass and we just hear Marjorie crying and sobbing. Then:
 
@@ -274,23 +276,27 @@ Some seconds pass and we just hear Marjorie crying and sobbing. Then:
 > 
 > Okay. I think, they will ask you why you didn't stay and help Jazi
 
-> *MARJORIE* (interrupts shouting)
+> *MARJORIE* 
 > 
-> HE WAS FUCKING DEAD!
+> (interrupts shouting) HE WAS FUCKING DEAD!
 
 > *BRIANNA*
 > 
-> Yes, I know. I can understand that. Please calm down.
+> (Trying to calm her down) Yes, I know. I can understand that. Please calm down.
 
-> *MARJORIE* (still shouting)
+> *MARJORIE* 
 > 
-> I SAW HIM DIE!
+> (still shouting) I SAW HIM DIE!
 
 Brianna is quiet.
 
 > *MARJORIE*
-> 
-> FUCK! (pauses) They will ask something like that?
+>
+> FUCK! 
+>
+> (pauses) 
+>
+> They will ask something like that?
 
 > *BRIANNA*
 > 

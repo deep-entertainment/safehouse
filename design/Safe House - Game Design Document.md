@@ -14,7 +14,8 @@ It covers all the details about the game’s concept, design, assets and story.
 * [ ] Complete items descriptions and interactions
 * [ ] Complete room descriptions and interactions
  * [x] Complete puzzle 3.5
- * [ ] Write puzzle 3.6
+ * [x] Write puzzle 3.6
+ * [ ] Add the things Rebeca noticed about Calvin into the final dialog
 
 ## Ideas
 
@@ -96,7 +97,9 @@ Superficially, he's a nice and caring man in his 50s. Father-figure type. And th
 
 *REBECA* is one of the two police officers that ought to protect *MARJORIE* in the safe house.
 
-She's young, rough and harsh and she's not really happy spending five days "babysitting" *MARJORIE* like she puts it. After the event with the noose she gets suspcious of *CALVIN* and investigates behind his back which leads to a standoff of them two on day four.
+She's young, rough and harsh and she's not really happy spending five days "babysitting" *MARJORIE* like she puts it. She comes from a family tradition of police officers, because her father and grandfather were highly renowned police officers.
+
+After the event with the noose she gets suspcious of *CALVIN* and investigates behind his back which leads to a standoff of them two on day four.
 
 Because she finds about about *CALVIN*'s motives, she is killed by him on the fifth day.
 
@@ -378,31 +381,38 @@ The end.
 
 *Cutscene starts*
 
-*SFX: Composition, see further description*
+*SFX: We hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.*
 
 *Music: None*
 
-Over the black starting credits, we hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.
+Starting credits:
 
-Fade in: "Day 1", Fade out.
+* deep entertainment presents
+* VA Marjorie
+* VA Calvin
+* VA Rebeca
+* VA Brianna
+* Safe House
+
+> *MARJORIE*
+>
+> So... this is it?
+
+> *CALVIN*
+>
+> This is it.
+
+Fade in.
 
 ### DAY1 - HALL - MORNING
 
-*MARJORIE*, *CALVIN* and *REBECA* stand in the `HALL`, in front of the front door. We see a bagpack, a bag and a suitcase in front of them. The bagpack belongs to *CALVIN*, the bag to *REBECA* and the suitcase to *MARJORIE*.
+*MARJORIE*, *CALVIN* and *REBECA* stand in the `HALL`, in front of the `front_door`. We see a bagpack, a bag and a `suitcase` in front of them. The bagpack belongs to *CALVIN*, the bag to *REBECA* and the `suitcase` to *MARJORIE*.
 
 They stand there for a few seconds, looking around. *MARJORIE* is frightened, she is taking in the uncommon surroundings. *REBECA* is annoyed, she is filling out a form.
 
 *AMBIENT: Filling out a form*
 
 *CALVIN* calmly looks around.
-
-> *MARJORIE*
-> 
-> So... this is it?
-
-> *CALVIN*
-> 
-> This is it.
 
 (beat) *AMBIENT: (stop)*
 
@@ -420,13 +430,13 @@ They stand there for a few seconds, looking around. *MARJORIE* is frightened, sh
 
 *SFX: Walking on wooden floor*
 
-*MARJORIE* grabs her suitcase.
+*MARJORIE* grabs her `suitcase`.
 
 ### DAY1 - BEDROOM - MORNING
 
-*MUSIC: *MARJORIE* theme. Calming, relaxed*
+*MUSIC: Marjorie theme. Calming, relaxed*
 
-*MARJORIE* enters the `BEDROOM`, looks around, then puts her `suitcase` on the bed, opens it.
+*MARJORIE* enters the `BEDROOM`, looks around, then puts her `suitcase` on the `bedroom_bed`, opens it.
 
 *SFX: Suitcase on bed, opening suitcase*
 
@@ -434,7 +444,7 @@ They stand there for a few seconds, looking around. *MARJORIE* is frightened, sh
 
 #### PUZZLE 1.1: Unpack
 
-Click on the `suitcase`.
+Click on the `suitcase`. Switch to `CLOSEUP_SUITCASE`
 
 > *MARJORIE*
 > 
@@ -446,7 +456,7 @@ Click (unpack) the items in the `suitcase`. Those items are presented in order:
 
 * Sweaters (*SFX: Taking clothes*)
 
-* Today's newspaper (Featuring a big article about the trial of *IGINO* *and* various other readable articles) (SFX: Unfolding paper)
+* Today's newspaper. Swiches to `CLOSEUP_NEWSPAPER` (*SFX: Unfolding paper*)
 
 * Pants (*SFX: Taking clothes*)
 
@@ -470,36 +480,10 @@ They slide in all directions.
 
 Find the four items by examining the things in the `BEDROOM`:
 
-* `bed`
-  Finding the `smartphone_incomplete` underneath it:
-  
-  > *MARJORIE*
-  > 
-  > Oh, there's the phone.
-  
-  Add `smartphone_incomplete`
-
-* `wardrobe` (finding the `simcard` in front of it)
-  
-  > *MARJORIE*
-  > 
-  > There's that tiny phone card.
-  
-  Add `simcard`
-
-* `nightstand` (finding the `cover`)
-  
-  > *MARJORIE*
-  > 
-  > Here's the cover.
-  
-  Add `cover`
-
-* `stool` (finding the `battery`)
-  
-  > *MARJORIE*
-  > 
-  > Ah, there's the battery.
+* `bedroom_bed`
+* `bedroom_wardrobe`
+* `bedroom_nightstand`
+* `bedroom_stool`
 
 > *MARJORIE*
 > 
@@ -537,43 +521,7 @@ Click the `suitcase` again and unpack further. Following items are unpacked:
 > 
 > Ah, there's my purse. I had already packed it!
 
-Open the `purse`. Closeup of the `purse` contains:
-
-* Picture of *MARJORIE*s mother
-  
-  > *MARJORIE*
-  > 
-  > My mom
-
-* Small amount of money
-  
-  > *MARJORIE*
-  > 
-  > I never carry around much cash, I use the credit card usually.
-
-* Credit card
-  
-  > *MARJORIE*
-  > 
-  > My card
-
-* `Hairpin`
-  
-  > *MARJORIE*
-  > 
-  > That may be useful.
-
-* A note
-  
-  > *MARJORIE*
-  > 
-  > Oh, that's my secret note. Yeah, I know you shouldn't write your passwords down, but my brain's a sieve. I wrote down
-  > 
-  > 4872
-  > 
-  > RUBE
-  > 
-  > caTerp1llar
+Open the `purse`. Switch to `CLOSEUP_PURSE`
 
 Take the `hairpin` and use it to reset the `smartphone`.
 
@@ -591,6 +539,8 @@ Take the `hairpin` and use it to reset the `smartphone`.
 
 *SFX: Dialtones, when buttons on phone are pressed*
 
+Find the note in the `purse`. 
+
 Using 4872 as the pin yields:
 
 > *MARJORIE*
@@ -603,13 +553,13 @@ Using RUBE(=7823) as the pin solves the puzzle
 
 *Cutscene starts*
 
-*MUSIC: The music gets dramatic and will culmulate when *REBECA* finds *MARJORIE*, then it underlines the shouting of *REBECA* and emotions of *MARJORIE*, ending with a dramatic *MARJORIE* theme line and a hard stop*
+*MUSIC: The music gets dramatic and will culmulate when REBECA finds MARJORIE, then it underlines the shouting of REBECA and emotions of MARJORIE, ending with a dramatic MARJORIE theme line and a hard stop*
 
 *MARJORIE* dials (*SFX: Dialtones*). After some moments, we hear:
 
-> *MARJORIE* (very emotional)
-> 
-> Mom? (beat) Hi, Mom. Yes, we arrived. (beat) Oh, it's okay, I guess. We're (...)
+> *MARJORIE* 
+>
+> (very emotional) Mom? (beat) Hi, Mom. Yes, we arrived. (beat) Oh, it's okay, I guess. We're...
 
 We hear *REBECA* from the outside:
 
@@ -619,33 +569,33 @@ We hear *REBECA* from the outside:
 
 *REBECA* has entered the door and sees her on the phone.
 
-> *REBECA* (shouting)
-> 
-> YOU IDIOT!
+> *REBECA* 
+>
+> (shouting) You idiot!
 
-She rushes to *MARJORIE*, grabs the phone, rips of the SIM card, throws it out of the window and hides the phone. *MARJORIE* starts to cry.
+She rushes to *MARJORIE*, grabs the `smartphone`, rips of the `simcard`, throws it out of the window and hides the `smartphone`. *MARJORIE* starts to cry.
 
-> *REBECA* (shouting)
-> 
-> WHAT PART OF WITNESS PROTECTION DID YOU NOT UNDERSTAND, DUMBASS?
+> *REBECA* 
+>
+> (shouting) What part of witness protection did you not understand, dumbass?
 
 She walks up and down the room.
 
 > *REBECA*
 > 
-> NOT only that I WASTE MY TIME AND FUCKING RISK MY LIFE babysitting her, she goes about and brings a FUCKING PHONE TO HER SAFE HOUSE.
+> (shouting) NOT only that I WASTE MY TIME AND FUCKING RISK MY LIFE babysitting her, she goes about and brings a FUCKING PHONE TO HER SAFE HOUSE.
 
 She turns around, pointing at *MARJORIE*
 
-> *REBECA* (getting really mean)
-> 
-> DO YOU WANT HIM TO KILL YOU RIGHT AWAY? WE COULD ALL SAVE SOME TIME IN THAT CASE.
+> *REBECA* 
+>
+> (getting really mean) Do you want him to kill you right away? We could all save some time in that case.
 
 (beat, we hear *MARJORIE* sobbing)
 
 > *REBECA*
 > 
-> CHRIST!
+> (shouting) Christ!
 
 She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
 
@@ -653,49 +603,53 @@ She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
 
 ### DAY1 - LIVING ROOM - NOON
 
-*MARJORIE*, *REBECA* and *CALVIN* are sitting on the `dining_table`, eating takeaway chinese food. The mood is tense.
+*MARJORIE*, *REBECA* and *CALVIN* are sitting on the `living_room_table`, eating takeaway chinese food. `day1_leftovers` and `day1_dishes` are on the `living_room_table`. The mood is tense.
 
 *AMBIENT: People eating*
 
-*MUSIC: *CALVIN* theme with a jazzy backtune*
+*MUSIC: CALVIN theme with a jazzy backtune*
 
-> *CALVIN* (without looking up)
-> 
-> *REBECA*?
+> *CALVIN* 
+>
+> (without looking up) REBECA?
 
-> *REBECA* (ignoring him)
-> 
-> (...)
+> *REBECA* 
+>
+> (ignoring him)
 
-> *CALVIN* (looking at *REBECA*)
-> 
-> *REBECA*?
+> *CALVIN* 
+>
+> (looking at *REBECA*) REBECA?
 
-> *REBECA* (grunts)
-> 
+> *REBECA* 
+>
+> (grunts)
+>
 > (slurry) 'm sorry, I freaked 'cause you brought your fucking phone.
 
-> *CALVIN* (sighs)
-> 
-> What *REBECA* *tries* to say, is:
-> 
-> We're here to protect you for the next five days, *MARJORIE*. That's our *job*.
-> 
+> *CALVIN* 
+>
+> (sighs)
+>
+> What REBECA *tries* to say, is:
+>
+> We're here to protect you for the next five days, MARJORIE. That's our *job*.
+>
 > Key to that, is that nobody knows where you are. You understand?
 
-> *MARJORIE* (shy)
+> *MARJORIE* 
 > 
-> ...Yes.
+> (shy) ...Yes.
 
 > *CALVIN*
 > 
 > I know, this whole situation is scary and emotional for you, but you have to trust us. If you need to talk come to...
 
-*CALVIN* points at *REBECA*. (beat) *CALVIN* lowers his hand.
+*CALVIN* points at him, then *REBECA*. (beat) *CALVIN* lowers his hand.
 
-> *CALVIN* (Cont'd)
+> *CALVIN* 
 > 
-> Come to me. We're here for you if you need anything, okay?
+> (Cont'd) Come to me. We're here for you if you need anything, okay?
 
 *CALVIN* smiles at *MARJORIE*.
 
@@ -729,7 +683,7 @@ They have finished eating.
 
 > *CALVIN*
 > 
-> Thank you, *MARJORIE*.
+> Thank you, Marjorie.
 
 *Cutscene ends*
 
@@ -737,9 +691,9 @@ They have finished eating.
 
 The player is free to roam the house. They should do the following to continue:
 
-* Take the `day1_leftovers` and `day1_dishes` from the table
+* Take the `day1_leftovers` and `day1_dishes` from the `living_room_table`
 
-* Bring the `day1_leftovers` to the waste paper basket in the `KITCHEN`
+* Bring the `day1_leftovers` to the `kitchen_trashcan`
 
 * Clean the `day1_dishes` in the `kitchen_sink`
 
@@ -754,6 +708,8 @@ The player is free to roam the house. They should do the following to continue:
 *MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
 
 [They talk.](dialogs/brianna1.md)
+
+Fadeout
 
 ### DAY1 - LIVING ROOM - EVENING
 
@@ -777,39 +733,39 @@ The player is free to roam the house. They should do the following to continue:
 > 
 > Bye
 
-*MARJORIE* exits the living room, goes through the `HALL`, up the stairs, through the `UPPER_HALL` into the `BEDROOM` to find...
+*MARJORIE* exits the `LIVING_ROOM`, goes through the `HALL`, up the stairs, through the `UPPER_HALL` into the `BEDROOM` to find...
 
-A noose dangling from the lamp. 
+A `noose` dangling from the lamp. 
 
-*MUSIC: horror string slide merging into MARJORIE tune*
+*MUSIC: horror string slide merging into a rumbling and hectic MARJORIE tune*
 
-*MARJORIE* screams, then runs out of the `BEDROOM`, down the stairs. In the `HALL`, she bumps into *CALVIN*.
+*MARJORIE* screams, then runs out of the `BEDROOM`, through the `UPPER_HALL`, down the stairs. In the `HALL`, she bumps into *CALVIN*.
 
-> *CALVIN* (concerned)
-> 
-> What is it?
+> *CALVIN* 
+>
+> (concerned) What is it?
 
-> *MARJORIE* (freaked out, shouting)
-> 
-> THERE'S A NOOSE IN MY ROOM! OH MY GOD!
+> *MARJORIE* 
+>
+> (freaked out, shouting) There's a noose in my room! Oh my god!
 
 *CALVIN* runs past her up the stairs, draws his gun. *REBECA* arrives.
 
-> *REBECA* (tense)
-> 
-> A NOOSE?
+> *REBECA* 
+>
+> (tense) A noose?
 
 > *MARJORIE*
 > 
-> YES. BY THE LAMP. OH MY **GOD**
+> (shouting) Yes. By the lamp. Oh my *GOD*.
 
 *REBECA* runs past her up the stairs. Seconds pass.
 
-*MUSIC: Rumbling bass with shriek *MARJORIE* tunes, then: quiet.*
+*MUSIC: Rumbling bass with shriek MARJORIE tunes, then: quiet.*
 
 > *CALVIN* (from above)
 > 
-> *MARJORIE*?
+> Marjorie?
 
 > *MARJORIE*
 > 
@@ -823,23 +779,23 @@ A noose dangling from the lamp.
 
 > *MARJORIE*
 > 
-> What the
+> What the?
 
 > *CALVIN* (interrupts, calm)
 > 
-> *MARJORIE*? Is everything alright?
+> Marjorie? Is everything alright?
 
-> *MARJORIE* (starts to cry)
-> 
-> THERE WAS A NOOSE! A FUCKING NOOSE! I'M NOT CRAZY!
+> *MARJORIE* 
+>
+> (starts to cry, shouts) There was a noose! A fucking noose! I'm not crazy!
 
-> *CALVIN* (goes to her, embraces her)
-> 
-> It's okay, it's okay.
+> *CALVIN* 
+>
+> (goes to her, embraces her) It's okay, it's okay.
 
-> *MARJORIE* (into his jacket, distressed)
-> 
-> I'm not crazy. It was there.
+> *MARJORIE* 
+>
+> (into his jacket, distressed) I'm not crazy. It was there.
 
 *REBECA* snaps out, then exits the room. *CALVIN* looks after her.
 
@@ -849,11 +805,9 @@ A noose dangling from the lamp.
 
 ### DAY 2 - MORNING - LIVING ROOM
 
-Fade in: "Day 2", Fade out.
-
 *Cutscene ends*
 
-*MUSIC: *CALVIN*-theme, calm*
+*MUSIC: CALVIN-theme, calm*
 
 *AMBIENT: Eating sounds*
 
@@ -863,9 +817,9 @@ A [dialog](dialogs/day2breakfast.md) unfolds.
 
 *Cutscene starts*
 
-After it, we fade out, and fade in again. *REBECA* now sits against the wall with the hatch, reading a file. *CALVIN* has put the paper on the desk and reads. *MARJORIE* stands.
+After it, we fade out, and fade in again. *REBECA* now sits against the wall with the hatch, reading a file. *CALVIN* has put the paper on the desk and reads. *MARJORIE* stands. `day2_dishes` and the `day2_leftovers` are on the `living_room_table`.
 
-*MUSIC: *MARJORIE*-theme, calm*
+*MUSIC: Marjorie-theme, calm*
 
 > *MARJORIE*
 > 
@@ -873,15 +827,15 @@ After it, we fade out, and fade in again. *REBECA* now sits against the wall wit
 
 > *CALVIN*
 > 
-> Thank you, *MARJORIE*.
+> Thank you, Marjorie.
 
 *Cutscene ends*
 
-The player can explore freely now. 
+The player can explore freely now.
 
-(Optional) Take the `day2_dishes` and the `day2_leftovers` from the table. Go into the `KITCHEN`. Put the `day2_leftovers` into the `trash_can`, clean the `day2_dishes` in the `kitchen_sink`.
+(Optional) Take the `day2_dishes` and the `day2_leftovers` from the table. Go into the `KITCHEN`. Put the `day2_leftovers` into the `kitchen_trash_can`, clean the `day2_dishes` in the `kitchen_sink`.
 
-They have to complete the following puzzles:
+The player has to complete the following puzzles:
 
 #### PUZZLE 2.1: The Diary
 
@@ -890,43 +844,44 @@ Go up to `BEDROOM`, find the `gruesome_note`.
 Solve the note puzzle to get the combination.
 
 Open the `padlock` at the `drawer` using the combination. Find the `diary`. Read the `diary`.
-Go to the `LIVING_ROOM` and [talk to *REBECA*](dialogs/rebeca2.md).
+
+Go to the `LIVING_ROOM`. *CALVIN* is gone. [Talk to *REBECA*](dialogs/rebeca2.md).
 
 #### PUZZLE 2.2: Getting the phone back
 
-Go into the `KITCHEN` and look through the `hatch`. The scene is switched to `LIVING_ROOM` with *MARJORIE* looking through the hatch. Wait for the right moment to snatch the `smartphone` out of *REBECA*s `pocket`.
+Go into the `KITCHEN` and look through the `kitchen_hatch`. The scene is switched to `LIVING_ROOM` with *MARJORIE* looking through the `living_room_hatch`. Wait for the right moment to snatch the `smartphone` out of *REBECA*s `pocket`.
 
 #### PUZZLE 2.3: Finding the wifi router
 
-Turn on the `smartphone`, it shows no mobile connection, but an accessible wifi. Connecting to it requires a password though.
+Turn on the `smartphone`. Switch to `CLOSEUP_SMARTPHONE`, it shows no mobile connection, but an accessible wifi. Connecting to it requires a password though.
 
 The wifi signal display is set to 2 of 4 bars in the `KITCHEN` and the `LIVING ROOM`. It shows 3 of 4 bars in the `HALL` and the `BEDROOM`. It shows 4 of 4 bars in the `UPPER HALL`.
 
-Looking at the `smartphone` and selecting the wifi signal in the  `UPPER HALL`  reveals a `loose_board`. It can be pried loose using a `knife` from the `KITCHEN`. Under the `loose_board` the `wifi_router` is revealed. When turning it around, a wifi password is revealed. 
+Looking at the `smartphone` and selecting the wifi signal in the  `UPPER HALL`  reveals a `upper_hall_loose_board`. It can be pried loose using a `knife` from the `KITCHEN`. Under the `upper_hall_loose_board` the `upper_hall_wifi_router` is revealed. Using it switches to `CLOSEUP_WIFI_ROUTER` When turning it around, a wifi password is revealed. 
 
 *SFX: mobile keyboard sounds while typing the following* 
 
-Entering into the `smartphone` doesn't work though.
+Entering the password as-is into the `smartphone` doesn't work though.
 
-In the `trash_can` in the `KITCHEN` you find the `password_note`, which, combined with the password under the `wifi_router`,  reveals the actual wifi password. Enter it in the `smartphone` to connect to the wifi.
+In the `kitchen_trash_can` you find the `password_note`, which, mentally combined with the password under the `upper_hall_wifi_router`,  reveals the actual wifi password. Enter it into the `smartphone` to connect to the wifi.
 
 > *MARJORIE*
 >
 > There. Now, let's see what happened to Jacob Grimes. (pause)
 >
-> (to herself) Grimes, Grimes, Gri- Jacob Grimes. There you are. A New York Standard article from eighteen years ago.
+> (to herself) Grimes, Grimes, Gri... Jacob Grimes. There you are. A New York Standard article from eighteen years ago.
 >
-> (reading) "Jacob Grimes, witness in the La Famiglia trial on the murder of Yared Mike Getahun, was found dead this Thursday afternoon while in (stops) witness protection of the New York police."
+> (reading) "Jacob Grimes, witness in the La Famiglia trial on the murder of Yared Mike Getahun, was found dead this Thursday afternoon while in (stops) witness protection of the New York Police."
 >
 > (puts down the `smartphone` briefly, then continues to read)
 >
-> "His body was found in his bedroom, where he apparently hung himself. 'We can only assume, that the pressure and stress of the events took more to him than was apparent to us. I deeply regret that we couldn't foresee this and helped Jacob more', said (stops) Detective Calvin Andrews."
+> "His body was found in his bedroom, where he apparently had hung himself. 'We can only assume, that the pressure and stress of the events affected him more than we realized. I deeply regret that we couldn't foresee this and help Jacob more', says (stops) Detective Calvin Andrews."
 
 *MARJORIE*  puts down the `smartphone`. Blackout.
 
 ### DAY 2 - AFTERNOON - LIVING ROOM
 
-*MUSIC: *BRIANNA* theme. Soft, calming*
+*MUSIC: Brianna theme. Soft, calming*
 
 *MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
 
@@ -954,11 +909,11 @@ We switch back to the dark `BEDROOM` and barely see the small explosion of the l
 
 *MUSIC: None*
 
-*MARJORIE* startles up, screams. Then realizes, that she's safe. *MARJORIE* rises. She tries to turn on the `lamp` using the `light_switch`, which doesn't work.
+*MARJORIE* startles up, screams. Then realizes, that she's safe. *MARJORIE* rises. She tries to turn on the `bedroom_lamp` using the `bedroom_light_switch`, which doesn't work.
 
 > *MARJORIE*
 >
-> Hm. Guess the bulb's dead.
+> Hm. I guess the bulb's dead.
 
 *Cutscene ends*
 
@@ -966,11 +921,11 @@ We switch back to the dark `BEDROOM` and barely see the small explosion of the l
 
 #### PUZZLE 3.1 - Fixing the lamp
 
-Go into the `KITCHEN`, get the `stepladder` from one of the `cupboard`s. Use the `stepladder` with the `lamp`. *MARJORIE* walks up the `stepladder` and unscrews the `broken_bulb`.
+Go into the `KITCHEN`, get the `stepladder` from the `kitchen_left_cupboard`. Use the `stepladder` with the `bedroom_lamp`. *MARJORIE* walks up the `stepladder` and unscrews the `broken_bulb`.
 
-You can use the `broken_bulb` with all the lights in the house. Only a lamp in the  `HALL` matches. But it's too hot to touch. Find a `cloth` in the `KITCHEN` and use it to unscrew the `bulb`.
+You can use the `broken_bulb` with all the lights in the house. Only the bulb from the `hall_lamp` matches. But it's too hot to touch. Find a `cloth` in the `KITCHEN` and use it to unscrew the `bulb`.
 
-Screw the `bulb` into the `lamp` in the `BEDROOM`.
+Screw the `bulb` into the `bedroom_lamp`
 
 *Cutscene starts*
 
@@ -980,15 +935,17 @@ The light flashes on and *MARJORIE* gasps, startles, leans back and falls down t
 
 > *MARJORIE*
 >
-> What the-?
+> What the?
 
-She rises again, climbs the `stepladder` again and looks up. The screen switches to the closeup of the lamp: We see, that the lamps hangs on a study metallic hook.
+She rises again, climbs the `stepladder` again and looks up. The screen switches to `CLOSEUP_BEDROOM_LAMP`: We see, that the lamps hangs on a sturdy metallic hook.
 
 *MUSIC: Horror strings*
 
 > *MARJORIE*
 >
 > That's... that's the hook the noose was hanging from. Are you fucking kidding me?
+>
+> (pause)
 >
 > What's that on the hook?
 
@@ -998,7 +955,7 @@ She rises again, climbs the `stepladder` again and looks up. The screen switches
 
 #### PUZZLE 3.2 - Inspecting the hook
 
-Get the `magnifying_glass` from a `drawer` in the `KITCHEN`.
+Get the `magnifying_glass` from the  `kitchen_right_drawer`.
 
 Use the `magnifying_glass` with the `tiny_thing` on the hook.
 
@@ -1014,7 +971,17 @@ Use the `magnifying_glass` with the `tiny_thing` on the hook.
 
 > *MARJORIE*
 >
-> I can't believe it. That's... (back and forth) but... but why? (back and forth) Is it about my testimony? (back and forth) I can't fucking believe it. (stops in the middle of the room) Does she want to scare me? Is she involved in this? (goes to the light switch) Nuh-uh, bitch. You can't scare me. Not. (hand on the light switch)
+> I can't believe it. That's... (back and forth) 
+>
+> but... but why? (back and forth) 
+>
+> Is it about my testimony? (back and forth) 
+>
+> I can't fucking believe it. (stops in the middle of the room) 
+>
+> Does she want to scare me? Is she involved in this? (goes to the light switch) 
+>
+> Nuh-uh, bitch. You can't scare me. Not. (hand on the light switch)
 
 Blackout.
 
@@ -1026,7 +993,7 @@ Blackout.
 
 *MUSIC: Marjorie theme, jazzy background*
 
-*MARJORIE* and *CALVIN* sit and eat breakfast. *REBECA* is at the now open cupboard in the living room, fiddling around with its contents.
+*MARJORIE* and *CALVIN* sit and eat breakfast. *REBECA* is at the now open `living_room_cupboard` making it `living_room_cupboard_unlocked`, fiddling around with its contents.
 
 > *CALVIN*
 >
@@ -1052,7 +1019,7 @@ A [dialog](dialogs/day3breakfast.md) unfolds.
 
 > *REBECA*
 >
-> (shouting) I WOULD IF YOU WOULD TRY TO GROW UP, MISSY!
+> (shouting) I would if you would try to grow up, missy!
 
 > *CALVIN*
 >
@@ -1060,19 +1027,19 @@ A [dialog](dialogs/day3breakfast.md) unfolds.
 
 > *MARJORIE*
 >
-> (shouting) OH I'D GROW UP IF YOU WOULD BE MORE EMPATHIC THAN  A BLOCK OF...
+> (shouting) Oh, I'd grow up if you would be more empathic than a block of...
 
 > *CALVIN*
 >
-> (shouting) LADIES! CAN WE PLEASE CALM DOWN AGAIN?
+> (shouting) Ladies! Can we please calm down again?
 
 > *REBECA*
 >
-> (shouting) TELL THAT TO HER!
+> (shouting) Tell that to her!
 
 > *CALVIN*
 >
-> (shouting) I'M TELLING THAT TO EACH OF YOU. STOP THAT! I DON'T WANT TO LOCK YOU UP IN YOUR ROOMS LIKE I DID WITH JACOB!
+> (shouting) I'm telling that to each of you. Stop that! I don't want to lock you up in your room!
 
 Quiet. *REBECA* stares at *CALVIN*. Seconds pass.
 
@@ -1120,7 +1087,7 @@ He sits down again.
 
 #### PUZZLE 3.3: Getting the fingerprint kit
 
-Take the `makeup_brush` from the trashcan in the kitchen. Take the `tape` from a `drawer` in the `HALL`. Get the `fingerprint_powder` from the `cupboard_unlocked` in the `LIVINGROOM`.
+Take the `makeup_brush` from the `kitchen_trashcan`. Take the `tape` from a `hall_drawer`. Get the `fingerprint_powder` from the `living_room_cupboard_unlocked`.
 
 Go to the `BEDROOM`.
 
@@ -1140,15 +1107,15 @@ Marjorie takes a look at the lamp, sighs.
 
 ### DAY 3 - NOON - LIVING ROOM
 
-*MUSIC: *BRIANNA* theme. Soft, calming*
+*MUSIC: BRIANNA theme. Soft, calming*
 
 *MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
 
-They talk.
+[They talk](dialogs/brianna3.md).
 
 ### DAY 3 - EVENING - LIVING ROOM
 
-*REBECA* reenters the `LIVINGROOM`, she seems confused.
+*REBECA* reenters the `LIVING_ROOM`, she seems confused.
 
 > *MARJORIE*
 >
@@ -1166,7 +1133,7 @@ They talk.
 
 > *REBECA*
 >
-> (still confused) Gro- (realizes) oh yeah. Yeah.
+> (still confused) Gro... (realizes) oh yeah. Yeah.
 
 *REBECA* exits the `LIVINGROOM` and enters the `KITCHEN`.
 
@@ -1242,9 +1209,366 @@ Give `makeshift_virgin_mary` to *REBECA*.
 
 Takes the `used_glass` from *REBECA*.
 
-#### PUZZLE 3.6: Combine fingerprints
+#### PUZZLE 3.6: Comparing fingerprints
 
-TODO: Write puzzle 3.6
+* Use the `makeshift_fingerprint_kit` with `used_glass` to get `rebeka_fingerprints`
+* Use `rebeka_fingerprints` with `hook_fingerprints`
+
+This puzzle consists of two panes (the two tapes with fingerprints). One of the panes is movable and has to be adjusted (rotated, panned) so that the two fingerprints match.
+
+*Cutscene starts*
+
+> *MARJORIE*
+>
+> They... they match.
+>
+> (pause)
+>
+> You. Bitch.
+
+Fadeout.
+
+### DAY 4 - EARLY MORNING - BEDROOM
+
+*MUSIC: none*
+
+We fadein to the night view of the `BEDROOM` and see *MARJORIE* sleeping.
+
+After some seconds, we hear glass breaking downstairs and *MARJORIE* startles up.
+
+> *MARJORIE*
+>
+> (to herself) What the?
+
+We hear muffled shouts from downstairs.
+
+*MARJORIE* gets up.
+
+*Cutscene ends*
+
+Go down into the `LIVING_ROOM` to see light in the kitchen and the door opened. Here, we can clearly hear the shouting:
+
+*MUSIC: Calvin theme, shrieking*
+
+*Cutscene starts*
+
+> *REBECA*
+>
+> (shouting) What the fuck, Calvin? You're a cop! Doesn't that mean anything to you?
+
+*MARJORIE* ducks down and slowly approaches the kitchen.
+
+> *CALVIN*
+>
+> (shouting) The fuck it means to me! Did you have a look at your paycheck recently, Officer Pliego?
+
+> *REBECA*
+>
+> (shouting) And that would make you switch sides? Money? Come on, Calvin! That's so cliché!
+
+*MARJORIE* reaches the kitchen and we switch to the `KITCHEN` with her looking in. *REBECA* has backed up to the right side of the screen. *CALVIN* is in the middle of the room.
+
+> *CALVIN*
+>
+> (shouting) Of course it's money! It's always the money. A good conscience doesn't pay the bills!
+
+> *REBECA*
+>
+> (shouting) Didn't you think somebody would find out eventually?
+
+> *CALVIN*
+>
+> (suddenly calm, diabolic) Oh, I made sure nobody would find out. At least nobody alive...
+
+*CALVIN* raises a gun at *REBECA*. *MARJORIE* screams. We quickly switch back to the `LIVING_ROOM`. A shot is heard.
+
+*MUSIC: Calvin theme, hectic, chasing*
+
+*SFX: Gunshot*
+
+*Cutscene ends*
+
+#### PUZZLE 4.1: Survive!
+
+From this on we need to hurry. Staying in the `LIVING_ROOM`, the `HALL`, the `UPPER_HALL` or the (unboarded) `BEDROOM` more than 5 seconds will make *CALVIN* appear and shoot. If that happens, we're taken back to the beginning of this puzzle.
+
+Go through the `HALL`, the `UPPER_HALL` into the `BEDROOM`. Close the `bedroom_door` and use the `bedroom_wardrobe` to push it in front of the door.
+
+*Cutscene starts* 
+
+*MUSIC: Calvin theme, changing between shrieking and hectic*
+
+*MARJORIE* goes to the left of her room. Then we hear *CALVIN* banging on the `door`.
+
+> *CALVIN*
+>
+> (shouting) Marjorie! Open up!
+
+Seconds pass, *CALVIN* banging on the `bedroom_door`.
+
+> *CALVIN*
+>
+> (shouting) Open up! This is the police! (laughs)
+>
+> (falling back to his "nice" voice) Listen, Marjorie! I'm really sorry, I really am! You just happened to be at the wrong place at the wrong time I'm afraid.
+
+*CALVIN* banging on the `bedroom_door`.
+
+> *CALVIN*
+>
+> (shouting) Come on, Mister Varone can't have you testifying!
+
+> *MARJORIE*
+>
+> (shouting) I trusted you, Calvin!
+
+*CALVIN* banging on the `bedroom_door`. The `bedroom_wardobe` is shaking.
+
+> *CALVIN*
+>
+> (shouting) Yeah, like I said, I'm sorry!
+
+> *MARJORIE*
+>
+> (shouting) You killed Rebeca!
+
+> *CALVIN*
+>
+> (shouting) She was getting to close! She knew...
+
+> *MARJORIE*
+>
+> (shouting) She knew that you are a fucking bastard!
+
+*CALVIN* banging on the `bedroom_door`. The `bedroom_wardrobe` is moving.
+
+> *CALVIN*
+>
+> Well, a man gotta make a pay nowadays!
+
+> *MARJORIE*
+>
+> (shouting) Did you even kill Jacob?
+
+> *CALVIN*
+>
+> Ahh, the kid.
+
+*CALVIN* banging on the `bedroom_door`. The `bedroom_wardrobe` moves some step away, the `bedroom_door` is visible.
+
+> *CALVIN*
+>
+> He just didn't want to listen, that punk.
+
+> *MARJORIE*
+>
+> (shouting) Why did you have to kill them?
+
+> *CALVIN*
+>
+> Because there was no other way!
+
+*CALVIN* banging on the `bedroom_door`. The `bedroom_wardrobe` gives in, moves further away and the `bedroom_door` swings open. *CALVIN* comes in.
+
+> *CALVIN*
+>
+> It was the same with you. Why didn't you just chicken out like the others?
+
+> *MARJORIE*
+>
+> (shouting) The others?
+>
+> (quiet) There were... others?
+
+> *CALVIN*
+>
+> Like I said. I have done a lot of these assignments.
+
+*CALVIN* steps a bit closer
+
+> *CALVIN*
+>
+> Igino Varone is a... busy man.
+
+*CALVIN* raises his gun.
+
+> *MARJORIE*
+>
+> (cries out) NO!
+
+> *CALVIN*
+>
+> You should've just be scared enough to cancel your testimony. That was the plan.
+
+*CALVIN* points his gun at *MARJORIE*.
+
+> *MARJORIE*
+>
+> (cries) nooo.
+
+> *CALVIN*
+>
+> So this is on you, Marjorie, I'm afraid. And poor Rebeca killed you. Ah well, what a mess.
+>
+> Goodbye, Marjorie.
+
+> *MARJORIE*
+>
+> NO!
+
+The screen flashes white, a *SFX: Gunshot* is heard.
+
+We see the `BEDROOM` again. *CALVIN* still stands in the middle of the room, with the raised gun. *MARJORIE* is on the left.
+
+Suddenly *CALVIN* lowers his arm, we see blood on his shirt, he goes to his knees and then breaks down.
+
+A wounded *REBECA* limps into the room, looks at *CALVIN*s body, then breaks down as well.
+
+Blackout.
+
+### DAY 5 - BLACK SCREEN
+
+> *MARJORIE*
+>
+> (spoken as in the intro) So this is it?
+
+(beat)
+
+> *BRIANNA*
+>
+> This is it.
+
+### DAY 5 - NOON - COURTHOUSE ROOM
+
+We see the `COURTHOUSE_ROOM`. *MARJORIE* sits on one end of the table, *BRIANNA* beside her.
+
+> *MARJORIE*
+>
+> (exhales)
+
+> *BRIANNA*
+>
+> You okay?
+
+> *MARJORIE*
+>
+> Yes, I guess.
+
+> *BRIANNA*
+>
+> I'm so sorry about what happene...
+
+> *MARJORIE*
+>
+> It's okay, Brianna.
+
+> *BRIANNA*
+>
+> I just don't know how Calvin could do that all those times. This is a disaster.
+
+> *MARJORIE*
+>
+> Why?
+
+> *BRIANNA*
+>
+> Because we have to revisit all the old cases. Each and every one where the witness bailed out in the last second. And that's a lot.
+
+> *MARJORIE*
+>
+> All because of that fuck.
+
+Silence.
+
+> *MARJORIE*
+>
+> Oh, how's Rebeca?
+
+> *BRIANNA*
+>
+> She is... recovering. She sends her regards.
+
+> *MARJORIE*
+>
+> (surprised) She did?
+
+> *BRIANNA*
+>
+> Yeah. Specifically, she said "Kick this fucker's ass!"
+
+> *MARJORIE*
+>
+> (laughs) Yeah, that sounds more like her.
+
+They laugh.
+
+> *MARJORIE*
+>
+> She saved my life.
+
+> *BRIANNA*
+>
+> I guess so. She said, on that evening with the noose, Calvin came rushing out of your bedroom with something tacked in his suit, but when he came back it was gone.
+>
+> And then Calvin said something about locking you up.
+
+> *MARJORIE*
+>
+> (nodding) When we were fighting. I remember.
+
+> *BRIANNA*
+>
+> Yes, and it came to Rebecas mind, that Jacob was locked up as well and then she really got suspicious and started to investigate.
+
+> *MARJORIE*
+>
+> (to herself) The groceries!
+
+> *BRIANNA*
+>
+> What?
+
+> *MARJORIE*
+>
+> Rebeca said she was about to get groceries but the cupboards were full. She was investigating then.
+
+> *BRIANNA*
+>
+> Yeah and the next morning they got into a... fight. But you know the details.
+
+> *MARJORIE*
+>
+> Yes. (pause)
+>
+> I need to apologize to Rebeca when she's out of the hospital. I suspected that the one trying to scare me was her. I even found her fingerprints on the hook in my room.
+
+> *BRIANNA*
+>
+> I guess she did some investigating of her own there.
+
+> *MARJORIE*
+>
+> I guess so.
+
+Pause.
+
+> *BRIANNA*
+>
+> You're ready?
+
+> *MARJORIE*
+>
+> Yeah.
+>
+> Let's... (smiling) Let's kick ass.
+
+They rise.
+
+Fadeout.
+
+*MUSIC: Credits music. A happy and triumphant Marjorie theme*
+
+The end. Roll the credits.
 
 ## List of assets
 
@@ -1353,27 +1677,45 @@ Paper Clip
 
 ##### *MARJORIE*s Bedroom
 
-Items:
+###### Items
 
-* Bed
+* `bedroom_bed`
   
-  > *MARJORIE*
-  > 
-  > My bed. The mattress is far too soft, it hurts my back.
-
-* Wardrobe
+  * Default
   
-  > *MARJORIE*
-  > 
-  > A simple wardrobe for my clothes. I'll only be here for a few days.
+    > *MARJORIE*
+    >
+    > My bed. The mattress is far too soft, it hurts my back.
+  
+  * When looking for the smartphone parts
+  
+    > Oh, there's the phone.
+  
+    Add `smartphone_incomplete`
 
-* Upper Drawer (in wardrobe)
+* `bedroom_wardrobe`
+  
+  * Default
+  
+    > *MARJORIE*
+    >
+    > A simple wardrobe for my clothes. I'll only be here for a few days.
+  
+  * When looking for the smartphone parts
+  
+    > *MARJORIE*
+    >
+    > There's that tiny phone card.
+  
+    Add `simcard`
+  
+* `bedroom_wardrobe_drawer_upper`
   
   > *MARJORIE*
   > 
   > Nothing in here.
 
-* Lower Drawer (in wardrobe)
+* `bedroom_wardrobe_drawer_lower`
   
   * if locked
     
@@ -1401,7 +1743,7 @@ Items:
     > 
     > It's empty.
 
-* Lamp
+* `bedroom_lamp`
   
   * If working
     
@@ -1468,17 +1810,37 @@ Items:
     
     Add fingerprint to inventory
 
-* Nightstand
+* `bedroom_nightstand`
   
-  > *MARJORIE*
-  > 
-  > A nightstand.
-
-* Stool
+  * Default
   
-  > *MARJORIE*
-  > 
-  > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
+    > *MARJORIE*
+    >
+    > A nightstand.
+  
+  * When looking for the smartphone parts
+  
+    > *MARJORIE*
+    >
+    > Here's the cover.
+  
+    Add `cover`
+  
+* `bedroom_stool`
+  
+  * Default
+  
+    > *MARJORIE*
+    >
+    > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
+  
+  * When looking for the smartphone parts
+  
+    > *MARJORIE*
+    >
+    > Ah, there's the battery.
+  
+    Add `battery`
 
 ##### Kitchen
 
@@ -1535,13 +1897,13 @@ Additionally, the following ads are visible:
 
 * **BIGGE'S BIG BOUNCY BOWL - FUN FOR THE WHOLE FAMILY. ASK ABOUT OUR BIRTHDAY SPECIALS!**
 
-#### `diary`
+##### `diary`
 
 The diary is just an old ring-bound notepad with ballpen scriblings on it. They are readable of course, but show the rising pressure and tension of the writer. It's fake though. It wasn't *actually* written by Jacob Grimes, it's something Calvin uses to scare Marjorie. Each day starts a new page.
 
 On the first page it reads: "JAYGEE's diary"
 
-##### Tuesday
+###### Tuesday
 
 The attorney said I should write this. It may help me to concentrate. I never wrote a diary and it feels weird. Anyways, here goes.
 
@@ -1551,7 +1913,7 @@ Bah. It's soooooo boring. There's nothing to do.
 
 The cops are alright though. They are nice.
 
-##### Wednesday
+###### Wednesday
 
 If I wouldn't be out there I wouldn't have seen that Italian killing Derek. I guess, Derek was fucking with La Famiglia's business in the Bronx. That idiot.
 
@@ -1559,7 +1921,7 @@ And then I even went to the cops. ME! What was I thinking? And now, La Famiglia 
 
 I hope I'm safe here. The house is not nice. It's creepy. It's fucking with my head.
 
-##### Thursdy
+###### Thursdy
 
 Fuck!  I'm not safe here. The cops are no help. The Famiglia bastards are on their way. I can feel it.
 
@@ -1567,13 +1929,13 @@ They want my head. They don't accept if somebody speaks up. They're far too powe
 
 Fuck! FUCK!
 
-##### Frid
+###### Frid
 
 They're downstairs, damnit! I can hear them. They're calling me. THEY WANT MY HEAD.  
 
 But I won't let them. No, sir. I'm gonna lock my room.
 
-#### `gruesome_note`
+##### `gruesome_note`
 
 The gruesome note is a worn-out paper with what appears to be an eerie child poem that goes like this:
 
@@ -1583,9 +1945,49 @@ down came the sphere
 and rolled right over it.
 
 Then fell the cube and
-crushed it right and then, so
+crushed it right and then,
 the really ugly spider
 could never climb again.
+
+##### `CLOSEUP_PURSE`
+
+* Picture of *MARJORIE*s mother
+
+  > *MARJORIE*
+  >
+  > My mom
+
+* Small amount of money
+
+  > *MARJORIE*
+  >
+  > I never carry around much cash, I use the credit card usually.
+
+* Credit card
+
+  > *MARJORIE*
+  >
+  > My card
+
+* `hairpin`
+
+  > *MARJORIE*
+  >
+  > That may be useful.
+
+  Add `hairpin`
+
+* A note
+
+  > *MARJORIE*
+  >
+  > Oh, that's my secret note. Yeah, I know you shouldn't write your passwords down, but my brain's a sieve. I wrote down
+  >
+  > 4872
+  >
+  > RUBE
+  >
+  > caTerp1llar
 
 ### Music
 
