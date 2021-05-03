@@ -8,22 +8,16 @@ It covers all the details about the game’s concept, design, assets and story.
 ## Notes / Todo
 
 * [x] Complete abstract
-* [ ] Complete characters
-* [ ] Complete game structure
-* [ ] Write dialogs
+* [x] Complete characters
+* [x] Complete game structure
+* [ ] Complete dialogs
 * [ ] Complete items descriptions and interactions
-* [ ] Complete room descriptions and interactions
+* [ ] Complete location descriptions and interactions
  * [x] Complete puzzle 3.5
  * [x] Write puzzle 3.6
- * [ ] Add the things Rebeca noticed about Calvin into the final dialog
+ * [x] Add the things Rebeca noticed about Calvin into the final dialog
 
-## Ideas
-
-These things still need to be either deleted or included into the scenes:
-
-n/a
-
-## Abstract
+## Short abstract
 
 A mob murder witness is taken into a safe house by the police for five days before her testimony. Although she's protected by two police officers, the house might not be as safe as everybody thinks.
 
@@ -105,7 +99,7 @@ Because she finds about about *CALVIN*'s motives, she is killed by him on the fi
 
 * Age: 28
 
-* Gender: cis female
+* Gender: cis female or non-binary
 
 * Height: 170 cm
 
@@ -127,13 +121,13 @@ Because she finds about about *CALVIN*'s motives, she is killed by him on the fi
 
 *BRIANNA* is the district attorney in the case where *MARJORIE* is the key witness. She's a tough dog in the courtroom, but caring and cautious when she speaks with *MARJORIE*.
 
-She visits the house each day to prepare *MARJORIE* for her testimony and on the fifth day, she rescues *MARJORIE* after she knocked out *CALVIN*.
+She visits the house each day to prepare *MARJORIE* for her testimony and on the fifth day.
 
 She doesn't have much character progression. Her character is used to tell the back story of the murder through her talks with *MARJORIE* and as the last safe resort and trust in the juridical system in the last scene.
 
 * Age: 42
 
-* Gender: cis female
+* Gender: cis female or non-binary
 
 * Height: 173 cm
 
@@ -157,7 +151,7 @@ She doesn't have much character progression. Her character is used to tell the b
 
 *MARJORIE* witnessed him shooting a shop owner in cold blood.
 
-He's only barely seen in the game in nightmare scenes.
+He's only barely seen in the game in a nightmare scene, but he's the glooming shadow in the background throughout the game.
 
 * Age: 68
 
@@ -183,7 +177,7 @@ He's only barely seen in the game in nightmare scenes.
 
 *JACOB* was a witness of another murder by *IGINO* killing an opposing drug dealer called Derek Cole eighteen years ago. He was found strangled while on witness protection. The death was called suicide, although it was staged by *CALVIN*.
 
-*CALVIN* weaves in the story of *JACOB* to scare *MARJORIE*, leaving scary notes and staging scary events.
+*CALVIN* weaves in the story of *JACOB* to scare *MARJORIE*, leaving scary notes and staging scary events. Jacob isn't actually seen in the game, but a picture of him could maybe inserted in a report *MARJORIE* finds online.
 
 * Age: 16
 
@@ -207,63 +201,9 @@ He's only barely seen in the game in nightmare scenes.
 
 ## Game structure
 
-The game is structured by chapters for each day.
+The game is structured by chapters for each day. The chapters aren't visible to the player though and can only be made out by the change of scenery with morning/noon/evening/night scenes.
 
-### Basic structure
-
-* Day 1
-  
-  * Phone incident
-  
-  * Getting to know each other
-  
-  * *BRIANNA*: *IGINO*
-  
-  * Noose Incident
-
-* Day 2
-  
-  * Lock combination / Opening the drawer / Diary
-  
-  * Getting back the phone / wifi / investigating about *JACOB*
-  
-  * *BRIANNA*: *JACOB*
-  
-  * Nightmare
-
-* Day 3
-  
-  * Replacing the lightbulb
-  
-  * Finding hook / Fingerprint kit / Getting Fingerprints from the hook
-  
-  * *BRIANNA*: *REBECA*
-  
-  * Getting Fingerprints from *REBECA* / Comparing
-  
-  * Matching Fingerprints
-
-* Day 4 (night)
-  
-  * *MARJORIE* awakes from a fight downstairs
-  
-  * She goes down to find *CALVIN* fighting with *REBECA*
-  
-  * *CALVIN* shoots *REBECA*
-  
-  * *CALVIN* chases *MARJORIE*
-  
-  * *MARJORIE* barricades herself in her room
-  
-  * Just before *CALVIN* breaks through, we hear a shot
-  
-  * Then *REBECA*'s voice is heard
-  
-  * *MARJORIE* tells her about her suspect, but she can come clear
-
-* Day 5 (epilogue)
-  
-  * *BRIANNA*: *CALVIN*
+This is a short overwie of the different scenes:
 
 ### Day 1
 
@@ -375,7 +315,7 @@ She compares the fingerprints and they match. She's now convinced, that *REBECA*
 
 The end.
 
-## Scenes
+## Scene description
 
 ### INTRODUCTION - BLACK SCREEN
 
@@ -807,7 +747,7 @@ A `noose` dangling from the lamp.
 
 *Cutscene ends*
 
-*MUSIC: CALVIN-theme, calm*
+*MUSIC: Calvin theme, calm*
 
 *AMBIENT: Eating sounds*
 
@@ -1107,7 +1047,7 @@ Marjorie takes a look at the lamp, sighs.
 
 ### DAY 3 - NOON - LIVING ROOM
 
-*MUSIC: BRIANNA theme. Soft, calming*
+*MUSIC: Brianna theme. Soft, calming*
 
 *MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
 
@@ -1322,7 +1262,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > (shouting) I trusted you, Calvin!
 
-*CALVIN* banging on the `bedroom_door`. The `bedroom_wardobe` is shaking.
+*CALVIN* banging on the `bedroom_door`. The `bedroom_wardrobe` is shaking.
 
 > *CALVIN*
 >
@@ -1574,25 +1514,277 @@ The end. Roll the credits.
 
 ### Graphical assets
 
-#### Sprites
-
 #### Items
 
-##### `smartphone`
+##### `battery`
 
-Smartphone (rather cheap), complete
+Smartphone battery
 
-* If smartphone_reset:
+> *MARJORIE*
+> 
+> It's the battery from my phone.
+
+##### `bedroom_bed`
+
+* Default
+  
+  > *MARJORIE*
+  >
+  > My bed. The mattress is far too soft, it hurts my back.
+  
+* When looking for the smartphone parts
+  
+  > Oh, there's the phone.
+  
+	Add `smartphone_incomplete`
+
+##### `bedroom_door`
+##### `bedroom_lamp`
+
+* If working
+
+  > *MARJORIE*
+  > 
+  > The light is a bit too bright for my taste, but it's all I got.
+
+* If not working
+
+  > *MARJORIE*
+  > 
+  > Oh, the bulb's dead. I need to replace it
+
+	*MARJORIE* unscrews the bulb. Add broken_bulb to inventory
+
+  > *MARJORIE*
+  > 
+  > Huh? What is this? There's a sturdy hook in the lamp screen. And there's something on it, but I can't make it out.
+
+* If used with broken_bulb
+
+  > *MARJORIE*
+  > 
+  > I need to find a working lightbulb.
+
+* If used with bulb
+
+  > *MARJORIE*
+  > 
+  > There we go.
+
+* If used with magnifying glass, but bulb is still missing
+
+  > *MARJORIE*
+  > 
+  > That won't work, it's too dark.
+
+* If used with magnifying glass
+
+  > *MARJORIE*
+  > 
+  > Those... Those are fibres. Hemp fibres.
+  > I... Then I wasn't hallucinating... There was really a noose hanging there. 
+  > 
+  > Oh my god. What the fuck is going on here? The noose, the diary. Is somebody trying to creep me out?
+
+* If used with magnifying glass (again)
+
+  > *MARJORIE*
+  > 
+  > Hemp fibres. From the noose. They give me the creeps.
+
+* If used with fingerprintset_incomplete
+
+  > *MARJORIE*
+  > 
+  > I don't have all the neccessary items for the fingerprint kit.
+
+* If used with fingerprintset
+
+  > *MARJORIE*
+  > 
+  > Okay... here we go. Yes. I got a print. Now, I need to compare it.
+
+	Add fingerprint to inventory
+
+##### `bedroom_light_switch`
+##### `bedroom_nightstand`
+
+* Default
+
+  > *MARJORIE*
+  >
+  > A nightstand.
+
+* When looking for the smartphone parts
+
+  > *MARJORIE*
+  >
+  > Here's the cover.
+
+	Add `cover`
+
+##### `bedroom_stool`
+
+* Default
+
+  > *MARJORIE*
+  >
+  > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
+
+* When looking for the smartphone parts
+
+  > *MARJORIE*
+  >
+  > Ah, there's the battery.
+
+  Add `battery`
+
+##### `bedroom_wardrobe`
+
+* Default
+  
+  > *MARJORIE*
+  >
+  > A simple wardrobe for my clothes. I'll only be here for a few days.
+  
+* When looking for the smartphone parts
+  
+  > *MARJORIE*
+  >
+  > There's that tiny phone card.
+  
+  Add `simcard`
+
+##### `bedroom_wardrobe_drawer_lower`
+
+* if locked
+
+  > *MARJORIE*
+  > 
+  > It's locked.
+
+* if used with key_drawer
+
+  > *MARJORIE*
+  > 
+  > It fits! *SFX: Unlock*
+
+* if unlocked; if diary is not in inventory
+
+  > *MARJORIE*
+  > 
+  > What's this? Some sort of... diary?
+
+  Add diary to inventory
+
+* if unlocked; if diary is in inventory
+
+  > *MARJORIE*
+  > 
+  > It's empty.
+
+##### `bedroom_wardrobe_drawer_upper`
+
+> *MARJORIE*
+> 
+> Nothing in here.
+
+##### `broken_bulb`
+##### `bulb`
+##### `cloth`
+##### `cover`
+
+Smartphone back cover
+
+> *MARJORIE*
+> 
+> It's the back from my smartphone.
+
+##### `cut_peppers`
+##### `diary`
+
+* If not `paperclip` in inventory:
   
   > *MARJORIE*
   > 
-  > My phone. It's a rather old model, but... it works.
-
-* If smartphone_pin:
+  > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
   
-  > *MARJORIE*
-  > 
-  > It asks for my PIN.
+  add `paperclip` to inventory
+  
+  show diary closeup
+
+* If `paperclip` in inventory: show `CLOSEUP_DIARY`
+
+##### `door`
+##### `drawer`
+##### `fingerprint_powder`
+##### `front_door`
+##### `glass`
+##### `gruesome_note`
+
+Open `CLOSEUP_GRUESOME_NOTE`
+
+##### `hairpin`
+
+Hair pin
+
+> *MARJORIE*
+> A tiny hair pin
+
+##### `half_lemon`
+##### `hall_drawer`
+##### `hall_lamp`
+##### `hammer`
+##### `hook_fingerprints`
+##### `hook`
+##### `jalapeno_peppers`
+##### `kitchen_hatch`
+##### `kitchen_left_cupboard`
+##### `kitchen_right_drawer`
+##### `kitchen_sink`
+##### `kitchen_trash_can`
+##### `kitchen_trashcan`
+##### `knife`
+##### `lemon`
+##### `living_room_cupboard_unlocked`
+##### `living_room_cupboard`
+##### `living_room_hatch`
+##### `living_room_table`
+##### `magnifying_glass`
+##### `makeshift_fingerprint_kit`
+##### `makeshift_virgin_mary`
+##### `makeup_brush`
+##### `mashed_tomatoes`
+##### `noose`
+##### `padlock`
+##### `paperclip`
+
+##### `paperclip`
+
+Paper Clip
+
+> *MARJORIE*
+> 
+> A paper clip. It held the diary pages together.
+
+##### `password_note`
+##### `pepper`
+##### `pocket`
+##### `purse`
+
+Purse
+
+open `CLOSEUP_PURSE`
+
+##### `rebeka_fingerprints`
+##### `salt`
+##### `simcard`
+
+SIM card
+
+> *MARJORIE*
+> 
+> That's the tiny card I need to call somebody.
 
 ##### `smartphone_incomplete`
 
@@ -1612,249 +1804,76 @@ Smartphone (rather cheap). Requires `battery`, `cover`, `simcard`
   
   Remove `smartphone_incomplete`. Add `smartphone`
 
-##### `battery`
 
-Smartphone battery
+##### `smartphone`
 
-> *MARJORIE*
-> 
-> It's the battery from my phone.
+Smartphone (rather cheap), complete
 
-##### `cover`
-
-Smartphone back cover
-
-> *MARJORIE*
-> 
-> It's the back from my smartphone.
-
-##### `simcard`
-
-SIM card
-
-> *MARJORIE*
-> 
-> That's the tiny card I need to call somebody.
-
-##### `purse`
-
-Purse
-
-open purse closeup
-
-##### `hairpin`
-
-Hair pin
-
-> *MARJORIE*
-> A tiny hair pin
-
-##### `diary`
-
-Diary
-
-* If not `paperclip` in inventory:
+* If smartphone_reset:
   
   > *MARJORIE*
   > 
-  > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
-  
-  add `paperclip` to inventory
-  
-  show diary closeup
+  > My phone. It's a rather old model, but... it works.
 
-* If `paperclip` in inventory: show diary closeup
-
-##### `paperclip`
-
-Paper Clip
-
-> *MARJORIE*
-> 
-> A paper clip. It held the diary pages together.
-
-#### Locations
-
-##### *MARJORIE*s Bedroom
-
-###### Items
-
-* `bedroom_bed`
-  
-  * Default
-  
-    > *MARJORIE*
-    >
-    > My bed. The mattress is far too soft, it hurts my back.
-  
-  * When looking for the smartphone parts
-  
-    > Oh, there's the phone.
-  
-    Add `smartphone_incomplete`
-
-* `bedroom_wardrobe`
-  
-  * Default
-  
-    > *MARJORIE*
-    >
-    > A simple wardrobe for my clothes. I'll only be here for a few days.
-  
-  * When looking for the smartphone parts
-  
-    > *MARJORIE*
-    >
-    > There's that tiny phone card.
-  
-    Add `simcard`
-  
-* `bedroom_wardrobe_drawer_upper`
+* If smartphone_pin:
   
   > *MARJORIE*
   > 
-  > Nothing in here.
+  > It asks for my PIN.
 
-* `bedroom_wardrobe_drawer_lower`
-  
-  * if locked
-    
-    > *MARJORIE*
-    > 
-    > It's locked.
-  
-  * if used with key_drawer
-    
-    > *MARJORIE*
-    > 
-    > It fits! *SFX: Unlock*
-  
-  * if unlocked; if diary is not in inventory
-    
-    > *MARJORIE*
-    > 
-    > What's this? Some sort of... diary?
-    
-    Add diary to inventory
-  
-  * if unlocked; if diary is in inventory
-    
-    > *MARJORIE*
-    > 
-    > It's empty.
+##### `stepladder`
+##### `suitcase`
+##### `tape`
+##### `tiny_thing`
+##### `tomatoes`
+##### `upper_hall_loose_board`
+##### `upper_hall_wifi_router`
+##### `used_glass`
 
-* `bedroom_lamp`
-  
-  * If working
-    
-    > *MARJORIE*
-    > 
-    > The light is a bit too bright for my taste, but it's all I got.
-  
-  * If not working
-    
-    > *MARJORIE*
-    > 
-    > Oh, the bulb's dead. I need to replace it
-    
-    *MARJORIE* unscrews the bulb. Add broken_bulb to inventory
-    
-    > *MARJORIE*
-    > 
-    > Huh? What is this? There's a sturdy hook in the lamp screen. And there's something on it, but I can't make it out.
-  
-  * If used with broken_bulb
-    
-    > *MARJORIE*
-    > 
-    > I need to find a working lightbulb.
-  
-  * If used with bulb
-    
-    > *MARJORIE*
-    > 
-    > There we go.
-  
-  * If used with magnifying glass, but bulb is still missing
-    
-    > *MARJORIE*
-    > 
-    > That won't work, it's too dark.
-  
-  * If used with magnifying glass
-    
-    > *MARJORIE*
-    > 
-    > Those... Those are fibres. Hemp fibres.
-    > I... Then I wasn't hallucinating... There was really a noose hanging there. 
-    > 
-    > Oh my god. What the fuck is going on here? The noose, the diary. Is somebody trying to creep me out?
-  
-  * If used with magnifying glass (again)
-    
-    > *MARJORIE*
-    > 
-    > Hemp fibres. From the noose. They give me the creeps.
-  
-  * If used with fingerprintset_incomplete
-    
-    > *MARJORIE*
-    > 
-    > I don't have all the neccessary items for the fingerprint kit.
-  
-  * If used with fingerprintset
-    
-    > *MARJORIE*
-    > 
-    > Okay... here we go. Yes. I got a print. Now, I need to compare it.
-    
-    Add fingerprint to inventory
 
-* `bedroom_nightstand`
-  
-  * Default
-  
-    > *MARJORIE*
-    >
-    > A nightstand.
-  
-  * When looking for the smartphone parts
-  
-    > *MARJORIE*
-    >
-    > Here's the cover.
-  
-    Add `cover`
-  
-* `bedroom_stool`
-  
-  * Default
-  
-    > *MARJORIE*
-    >
-    > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
-  
-  * When looking for the smartphone parts
-  
-    > *MARJORIE*
-    >
-    > Ah, there's the battery.
-  
-    Add `battery`
+#### Locations / Closeups
 
-##### Kitchen
+##### `BEDROOM`
+##### `CLOSEUP_BEDROOM_LAMP`
+##### `CLOSEUP_DIARY`
 
-##### *MARJORIE*s room
+The diary is just an old ring-bound notepad with ballpen scriblings on it. They are readable of course, but show the rising pressure and tension of the writer. It's fake though. It wasn't *actually* written by Jacob Grimes, it's something Calvin uses to scare Marjorie. Each day starts a new page.
 
-##### Hall
+On the first page it reads: "JAYGEE's diary"
 
-##### Upstairs Hall
+###### Tuesday
 
-##### Living room
+The attorney said I should write this. It may help me to concentrate. I never wrote a diary and it feels weird. Anyways, here goes.
 
-#### Closeups
+It's okay here. The house is nice. But I don't want to be here. Why the hell did I need to tag that wall on Cooper Avenue? Couldn't I just stay home? Just for one fucking night?
 
-##### Newspaper
+Bah. It's soooooo boring. There's nothing to do.
+
+The cops are alright though. They are nice.
+
+###### Wednesday
+
+If I wouldn't be out there I wouldn't have seen that Italian killing Derek. I guess, Derek was fucking with La Famiglia's business in the Bronx. That idiot.
+
+And then I even went to the cops. ME! What was I thinking? And now, La Famiglia is on my ass. I can feel it. They don't want me speaking up.
+
+I hope I'm safe here. The house is not nice. It's creepy. It's fucking with my head.
+
+###### Thursdy
+
+Fuck!  I'm not safe here. The cops are no help. The Famiglia bastards are on their way. I can feel it.
+
+They want my head. They don't accept if somebody speaks up. They're far too powerful. They're everywhere.
+
+Fuck! FUCK!
+
+###### Frid
+
+They're downstairs, damnit! I can hear them. They're calling me. THEY WANT MY HEAD.  
+
+But I won't let them. No, sir. I'm gonna lock my room.
+
+##### `CLOSEUP_NEWSPAPER`
 
 A typical New York newspaper called "New York Standard". There's a big article with a photo of *IGINO*, and several articles around it.
 
@@ -1897,45 +1916,7 @@ Additionally, the following ads are visible:
 
 * **BIGGE'S BIG BOUNCY BOWL - FUN FOR THE WHOLE FAMILY. ASK ABOUT OUR BIRTHDAY SPECIALS!**
 
-##### `diary`
-
-The diary is just an old ring-bound notepad with ballpen scriblings on it. They are readable of course, but show the rising pressure and tension of the writer. It's fake though. It wasn't *actually* written by Jacob Grimes, it's something Calvin uses to scare Marjorie. Each day starts a new page.
-
-On the first page it reads: "JAYGEE's diary"
-
-###### Tuesday
-
-The attorney said I should write this. It may help me to concentrate. I never wrote a diary and it feels weird. Anyways, here goes.
-
-It's okay here. The house is nice. But I don't want to be here. Why the hell did I need to tag that wall on Cooper Avenue? Couldn't I just stay home? Just for one fucking night?
-
-Bah. It's soooooo boring. There's nothing to do.
-
-The cops are alright though. They are nice.
-
-###### Wednesday
-
-If I wouldn't be out there I wouldn't have seen that Italian killing Derek. I guess, Derek was fucking with La Famiglia's business in the Bronx. That idiot.
-
-And then I even went to the cops. ME! What was I thinking? And now, La Famiglia is on my ass. I can feel it. They don't want me speaking up.
-
-I hope I'm safe here. The house is not nice. It's creepy. It's fucking with my head.
-
-###### Thursdy
-
-Fuck!  I'm not safe here. The cops are no help. The Famiglia bastards are on their way. I can feel it.
-
-They want my head. They don't accept if somebody speaks up. They're far too powerful. They're everywhere.
-
-Fuck! FUCK!
-
-###### Frid
-
-They're downstairs, damnit! I can hear them. They're calling me. THEY WANT MY HEAD.  
-
-But I won't let them. No, sir. I'm gonna lock my room.
-
-##### `gruesome_note`
+##### `CLOSEUP_GRUESOME_NOTE`
 
 The gruesome note is a worn-out paper with what appears to be an eerie child poem that goes like this:
 
@@ -1989,9 +1970,67 @@ could never climb again.
   >
   > caTerp1llar
 
+##### `CLOSEUP_SMARTPHONE`
+##### `CLOSEUP_SUITCASE`
+##### `CLOSEUP_WIFI_ROUTER`
+##### `COURTHOUSE_ROOM`
+##### `HALL`
+##### `KITCHEN`
+##### `LIVINGROOM`
+##### `LIVING_ROOM`
+##### `UPPER_HALL`
+
 ### Music
 
+The idea for the music is, that the characters Marjorie, Calvin and Brianna have themes. Each of these themes have different variations and reprises, that are used throughout the game to gently hint which character is currently in focus of the game.
+
+The themes should reflect the characters personalities or functions in the game:
+
+* Marjorie: caring, emotional. As Marjorie is the main character of the game, it should be the most "catchy" theme
+* Calvin: Calvin is a two-sided character. On the surface, he's caring and helpful, but under the surface lies a deeply immoral and greedy persona
+* Brianna: Brianna's character represents the law and gives structure to the game
+
+Here's a list of all music references in the game (search for MUSIC:)
+
+* Brianna theme. Soft, calming
+* CALVIN theme with a jazzy backtune
+* Calvin theme, calm
+* Calvin theme, changing between shrieking and hectic
+* Calvin theme, hectic, chasing
+* Calvin theme, shrieking
+* Credits music. A happy and triumphant Marjorie theme
+* Eerie, very few notes. "Night atmosphere". Not too scary though.
+* Get's more eerie and downright scary
+* Horror strings
+* Marjorie theme, jazzy background
+* Marjorie theme, will swell up during her monologue, then cut off when Marjorie shuts off the light
+* Marjorie theme. Calming, relaxed
+* Marjorie-theme, calm
+* None
+* Panic!
+* Rumbling bass with shriek MARJORIE tunes, then: quiet.
+* The music gets dramatic and will culmulate when REBECA finds MARJORIE, then it underlines the shouting of REBECA and emotions of MARJORIE, ending with a dramatic MARJORIE theme line and a hard stop
+* back to "Night atmosphere"
+* horror string slide merging into a rumbling and hectic MARJORIE tune
+* none
+
 ### Sound effects and ambient noises
+
+Here's a list of all sound effect references in the game:
+
+* Dialtones
+* Dialtones, when buttons on phone are pressed
+* Door slam
+* Gunshot
+* Inserting an object
+* Object crashing on floor
+* Suitcase on bed, opening suitcase
+* Taking clothes
+* Unfolding paper
+* Unlock
+* Walking on wooden floor
+* We hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.
+* mobile keyboard sounds while typing the following
 
 ## Credits
 

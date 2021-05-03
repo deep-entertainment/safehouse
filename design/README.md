@@ -22,7 +22,7 @@ To open the house plan, you need the software [Sweet Home 3D](http://www.sweetho
   
 * *MUSIC: * (Music) Music descriptions
   * Gather all music descriptions into a list:
-    `ggrep -oP '\*MUSIC: ([^*]+)\*' Safe\ House\ -\ Game\ Design\ Document.md | sed -re 's/\*SFX: ([^*]+)\*/* \1/gi' | sort | uniq`
+    `ggrep -oP '\*MUSIC: ([^*]+)\*' Safe\ House\ -\ Game\ Design\ Document.md | sed -re 's/\*MUSIC: ([^*]+)\*/* \1/gi' | sort | uniq`
   
 * ALLCAPS: Character names
   * Get all characters
@@ -31,7 +31,6 @@ To open the house plan, you need the software [Sweet Home 3D](http://www.sweetho
 * Dialogs: Use the > quotation formatting. Begin with the speaking character. Leave an empty line when the speaker changes
   * Get all dialogs
     `awk '/^> \*([A-Z]+)\*/{flag=1}/^[^>]/{flag=0}flag' Safe\ House\ -\ Game\ Design\ Document.md`
-    
   
 * TODO: Use TODO:<text> to mark things to do.
 
