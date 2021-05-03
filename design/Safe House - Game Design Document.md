@@ -1316,7 +1316,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
-> (shouting) Come on, Mister Varone can't have you testifying!
+> (shouting) Let's face it, Mister Varone won't accept your blabbermouth in court!
 
 > *MARJORIE*
 >
@@ -1334,7 +1334,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
-> (shouting) She was getting to close! She knew...
+> (shouting) She was getting too close! She was getting suspicious...
 
 > *MARJORIE*
 >
@@ -1358,7 +1358,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
-> He just didn't want to listen, that punk.
+> He just didn't get the message, that little punk.
 
 > *MARJORIE*
 >
@@ -1382,7 +1382,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
-> I've been in the force longe than you've been alive, missy.
+> I've been in the force longer than you've been alive, missy.
 
 *CALVIN* steps a bit closer
 
@@ -1398,7 +1398,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
-> You should've just been scared enough to cancel your testimony. That was the plan.
+> You should have just been so petrified that you'd retract your testimony. But you're too stubborn for your own good.
 
 *CALVIN* points his gun at *MARJORIE*.
 
