@@ -29,7 +29,7 @@ A mob murder witness is taken into a safe house by the police for five days befo
 
 ## Abstract
 
-A mob murder witness is taken into a safe house by the police for five days before her testimony. She's protected by two police officers. One of them is on the mob murder's payroll and already staged a suicide for a witness eighteen years ago. He first tries to scare her with the old story by leaving scary notes and scaring her. On the fourth day, his masquerade is dropped and he first tries to kill the other officer, but the witness interrupts him, then he tries to kill her, but she can hold him back and is saved in the last minute by the other officer.
+A mob murder witness is taken into a safe house by the police for five days before her court appearance. She's protected by two police officers. One of them is on the mob murder's payroll and has already staged a suicide of a witness 18 years ago. He first tries to scare the witness with the story about the suicice by leaving scary notes and intimidating her. On the fourth day, his masquerade is dropped, and he first tries to kill the other officer. The witness interrupts him, and then he tries to kill her, but she can hold him back and is saved in the last minute by the other officer.
 
 ## Characters
 
@@ -37,7 +37,7 @@ A mob murder witness is taken into a safe house by the police for five days befo
 
 *MARJORIE* is a black woman, aged 34. At the beginning of the game, she is calm and shy and insecure. Through the events in the game, she becomes confident and strong.
 
-Because *REBECA* is very rough to her, she begins to suspect, that she tries to scare her, but ultimatively, it's *CALVIN* that tries to attack her and this gets settled in the very last scene.
+Because *REBECA* is very rough to her, she begins to suspect, that she tries to scare her, but ultimatively, it's *CALVIN* that tries to attack her, and this gets settled in the very last scene.
 
 Throughout the game, she is scared (her fears growing with the events)
 
@@ -65,7 +65,7 @@ Throughout the game, she is scared (her fears growing with the events)
 
 *CALVIN* is one of the two detectives that ought to protect *MARJORIE* in the safe house. However, he's actually also on Varone's payroll and staged the suicide of *JACOB* Grimes eighteen years ago. He tries to scare and eventually kill *MARJORIE* (which is only revealed on the last day)
 
-Superficially, he's a nice and caring man in his 50s. Father-figure type. And this is the (visual) progression that he goes through: Starting as nice and trustworthy and becoming mean and ruthless.
+Superficially, he's a nice and caring man in his 50s. Father-figure type. This is the (visual) progression that he goes through: Starting as nice and trustworthy and becoming mean and ruthless.
 
 * Age: 57
 
@@ -91,7 +91,7 @@ Superficially, he's a nice and caring man in his 50s. Father-figure type. And th
 
 *REBECA* is one of the two police officers that ought to protect *MARJORIE* in the safe house.
 
-She's young, rough and harsh and she's not really happy spending five days "babysitting" *MARJORIE* like she puts it. She comes from a family tradition of police officers, because her father and grandfather were highly renowned police officers.
+She's young, rough and harsh and she's not really happy spending five days "babysitting" *MARJORIE* like she puts it. She comes from a family tradition of police officers, and her father and grandfather were highly renowned police officers.
 
 After the event with the noose she gets suspcious of *CALVIN* and investigates behind his back which leads to a standoff of them two on day four.
 
@@ -119,11 +119,11 @@ Because she finds about about *CALVIN*'s motives, she is killed by him on the fi
 
 ### *BRIANNA* Allison, district attorney
 
-*BRIANNA* is the district attorney in the case where *MARJORIE* is the key witness. She's a tough dog in the courtroom, but caring and cautious when she speaks with *MARJORIE*.
+*BRIANNA* is the district attorney in the case where *MARJORIE* is the key witness. She's a tough dog in the courtroom, but caring and cautious when she speaks to *MARJORIE*.
 
-She visits the house each day to prepare *MARJORIE* for her testimony and on the fifth day.
+She visits the house each day to prepare *MARJORIE* for her testimony.
 
-She doesn't have much character progression. Her character is used to tell the back story of the murder through her talks with *MARJORIE* and as the last safe resort and trust in the juridical system in the last scene.
+She doesn't have much character progression. Her character is used to tell the back story of the murder through her talks with *MARJORIE*, and as the last safe resort and trust in the juridical system in the last scene.
 
 * Age: 42
 
@@ -147,11 +147,11 @@ She doesn't have much character progression. Her character is used to tell the b
 
 ### *IGINO* Varone, mob boss
 
-*IGINO* is the head of the New York City mafia. He's ruthless, mean, egocentric and has a god complex.
+*IGINO* is the head of the New York City mafia. He's ruthless, mean, egocentric, and has a god complex.
 
 *MARJORIE* witnessed him shooting a shop owner in cold blood.
 
-He's only barely seen in the game in a nightmare scene, but he's the glooming shadow in the background throughout the game.
+He's only only briefly seen in the game in a nightmare scene, but he's the glooming shadow in the background throughout the game.
 
 * Age: 68
 
@@ -175,9 +175,9 @@ He's only barely seen in the game in a nightmare scene, but he's the glooming sh
 
 ### *JACOB* Grimes, former witness (dead)
 
-*JACOB* was a witness of another murder by *IGINO* killing an opposing drug dealer called Derek Cole eighteen years ago. He was found strangled while on witness protection. The death was called suicide, although it was staged by *CALVIN*.
+*JACOB* was a witness of another murder by *IGINO* killing an opposing drug dealer called Derek Cole eighteen years ago. He was found strangled while in witness protection. The death was labeled suicide, although it was staged by *CALVIN*.
 
-*CALVIN* weaves in the story of *JACOB* to scare *MARJORIE*, leaving scary notes and staging scary events. Jacob isn't actually seen in the game, but a picture of him could maybe inserted in a report *MARJORIE* finds online.
+*CALVIN* weaves in the story of *JACOB* to scare *MARJORIE*, leaving scary notes and staging scary events. Jacob isn't actually seen in the game, but a picture of him could maybe be inserted in a report that *MARJORIE* finds online.
 
 * Age: 16
 
@@ -201,19 +201,19 @@ He's only barely seen in the game in a nightmare scene, but he's the glooming sh
 
 ## Game structure
 
-The game is structured by chapters for each day. The chapters aren't visible to the player though and can only be made out by the change of scenery with morning/noon/evening/night scenes.
+The game is structured by chapters for each day. The chapters aren't visible to the player though, and can only be distinguished by the change of scenery with morning/noon/evening/night scenes.
 
-This is a short overwie of the different scenes:
+This is a short overwiev of the different scenes:
 
 ### Day 1
 
 #### Morning
 
-*MARJORIE*, *CALVIN* and *REBECA* arrive at the safe house in New Jersey. They make themselves at home. *MARJORIE* goes upstairs in her bedroom to unpack. She had smuggled a phone into the safe house and calls her mother, gets interrupted by *REBECA*, who screams at her, grabs her phone and storms off.
+*MARJORIE*, *CALVIN* and *REBECA* arrive at the safe house in New Jersey. They make themselves at home. *MARJORIE* goes upstairs in her bedroom to unpack. She has smuggled a phone into the safe house and calls her mother, gets interrupted by *REBECA*, who screams at her, grabs her phone and storms off.
 
 #### Noon
 
-They talk over the dinner about what happened. *CALVIN* tries to comfort *MARJORIE*, *REBECA* is still pouty of her.
+They talk over the dinner about what happened. *CALVIN* tries to comfort *MARJORIE*. *REBECA* is still irked at Marjorie.
 
 #### Afternoon
 
@@ -221,9 +221,9 @@ They talk over the dinner about what happened. *CALVIN* tries to comfort *MARJOR
 
 #### Evening
 
-*MARJORIE* goes up to her room to find a noose hanging from the ceiling. She screams, runs away and into *CALVIN* in the hall. *CALVIN* calms her down, tells her to wait in the hall, goes into her room and quickly removes the noose (unknown to the player). At the same time, *REBECA* arrived and rushes up behind *CALVIN*.
+*MARJORIE* goes up to her room to find a noose hanging from the ceiling. She screams, runs away and bumps into *CALVIN* in the hall. *CALVIN* calms her down, tells her to wait in the hall, goes into her room and quickly removes the noose (unknown to the player). At the same time, *REBECA* arrives and rushes up behind *CALVIN*.
 
-*CALVIN* and *REBECA* came back and tell *MARJORIE*, that there's no noose and she must've hallucinated. *CALVIN* manages to calm her down, *REBECA* is strangely quiet and absent minded.
+*CALVIN* and *REBECA* come back and tell *MARJORIE* that there's no noose and she must have been hallucinating. *CALVIN* manages to calm her down. *REBECA* is strangely quiet and absent minded.
 
 ### Day 2
 
@@ -231,17 +231,17 @@ They talk over the dinner about what happened. *CALVIN* tries to comfort *MARJOR
 
 *MARJORIE*, *CALVIN* and *REBECA* eat breakfast. *CALVIN* reads the New York Standard. In the dialog, *MARJORIE* tries to gather more information about *IGINO* and La Famiglia.
 
-After finishing the breakfast, *MARJORIE* goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads to the combination of the padlock on the drawer in her room.
+After finishing the breakfast, *MARJORIE* goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads her to the combination of the padlock on the drawer in her room.
 
-She opens the lock with it and finds the fake diary of *JACOB* Grimes. Downstairs, she finds *REBECA* and talks to her. She reveals, that *JACOB* Grimes was found dead 18 years ago. (It is not yet revealed, that *JACOB* hang himself or that *CALVIN* was assigned to that case)
+She opens the lock with it and finds the fake diary of *JACOB* Grimes. Downstairs, she finds *REBECA* and talks to her. She reveals that *JACOB* Grimes was found dead 18 years ago. (It is not yet revealed, that *JACOB* hung himself or that *CALVIN* was assigned to that case)
 
 As *REBECA* doesn't tell her more, *MARJORIE* wants to investigate. She needs her phone for that.
 
 *REBECA* sits on the couch, *MARJORIE*'s phone sticking out of one of her pockets. *MARJORIE* needs to walk into the kitchen and look through the hatch to get it in the right moment.
 
-But her SIM is gone, so she needs wifi. There actually is a wifi in the house used by the detectives, but it's locked.
+Marjorie's SIM is gone, so she needs wifi. There actually is wifi in the house used by the detectives, but it's locked.
 
-*MARJORIE* traces the signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
+*MARJORIE* traces the wifi signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
 
 She logs into the wifi and searches for "*JACOB* Grimes" to find that he had hung himself in her room 18 years ago and that *CALVIN* was assigned to that case.
 
@@ -259,31 +259,31 @@ She logs into the wifi and searches for "*JACOB* Grimes" to find that he had hun
 
 *MARJORIE* sits in her bed. Her room is dark, only the dim light of the windows sheds some light into their side of the room.
 
-*MARJORIE* gets up to find the light switch, but the lamp can't be turned on because the bulb has blown. 
+*MARJORIE* gets up to find the light switch, but the lamp can't be turned on since the bulb has blown. 
 
 She finds the lamp, but it's too high for her. She finds a stepladder in one cupboard of the kitchen and uses it to get to the lamp.
 
-She finds the lamp and unscrews the bulb, then goes into the lower hall where she finds a matching bulb, but it's too hot to touch. She fetches a cleaning cloth from the kitchen and unscrews it with that.
+She unscrews the bulb in the lamp, and then goes into the lower hall where she finds a matching bulb, which is too hot to touch. She fetches a cleaning cloth from the kitchen, and unscrews it with that.
 
-Upon screwing in the bulb into her lamp again, the light immediately flashes on and she sees, that the lamp hangs on a sturdy hook. There's also something on the hook, but it's too tiny to see.
+Upon screwing in the bulb into her lamp again, the light immediately switches on, and she sees that the lamp hangs on a sturdy hook. There's also something on the hook, but it's too tiny to see.
 
 She finds a magnifying glass in a drawer in the kitchen.
 
 She inspects the hook with the magnifying glass and finds hemp fibres. Slowly she realizes, that somebody tries to scare her and that the noose actually *was* there on the evening of day 1.
 
-She wants to investigate, if somebody left fingerprints there. She suspects *REBECA*.
+She wants to investigate if somebody left fingerprints there. She suspects *REBECA*.
 
 #### Morning
 
 *MARJORIE* and *CALVIN* sit and eat breakfast. *REBECA* is at the now open cupboard in the living room. *CALVIN* tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
 
-As they are eating, *MARJORIE* tries to grill *REBECA* to find out wether she tries to scare her. At the same time, *REBECA* tries to test Calvin to find out more. They get into an argue, *CALVIN* gets in between and something he says triggers something in *REBECA*, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
+As they are eating, *MARJORIE* tries to grill *REBECA* to find out wether she tries to scare her. At the same time, *REBECA* tries to test Calvin to find out more. They get into an argument. *CALVIN* gets in between them and something he says triggers something in *REBECA*, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
 
-After breakfast, *MARJORIE* again takes the dishes to the kitchen. She wonders that the supplies seem to be fully stocked.
+After breakfast, *MARJORIE* again takes the dishes to the kitchen. She wonders why the supplies seem to be fully stocked.
 
 In the trash she finds a make-up brush.
 
-She additionally gathers adhesive tape from a drawer in the hall, the fingerprint powder from the unlocked cupboard.
+She additionally gathers adhesive tape from a drawer in the hall, and the fingerprint powder from the unlocked cupboard.
 
 As she's back in her room after getting all the things, *BRIANNA* arrives and she is interrupted.
 
@@ -295,23 +295,23 @@ As she's back in her room after getting all the things, *BRIANNA* arrives and sh
 
 In the meantime, *REBECA* is back. *MARJORIE* gets the fingerprints from the hook and tricks *REBECA* into drinking from a glass that *MARJORIE* snatches and gets her fingerprints off.
 
-She compares the fingerprints and they match. She's now convinced, that *REBECA* is trying to scare her.
+She compares the fingerprints, and they match. She's now convinced that *REBECA* is trying to scare her.
 
 ### Day 4
 
 #### Early morning
 
-*MARJORIE* wakes up to the sound of a fight. She walks down to find *CALVIN* shooting *REBECA*. *CALVIN* turns around and goes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
+*MARJORIE* wakes up to the sound of a fight. She walks down to find *CALVIN* shooting *REBECA*. *CALVIN* turns around and comes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
 
-*CALVIN* at first tries to sweet talk her, but ultimatively looses his nerves and screams at her. He shoots and pushes against the door. The cupboard moves and the door opens. *CALVIN* comes in, but is gunned down by the wounded *REBECA*, who breaks down.
+*CALVIN* first tries to sweet-talk her, but ultimatively looses his nerves and screams at her. He shoots and pushes against the door. The cupboard moves and the door opens. *CALVIN* comes in, but is gunned down by the wounded *REBECA*, who breaks down.
 
-*MARJORIE* talks to her, gets a cloth and *REBECA*s mobile from the kitchen, gives the cloth to *REBECA* to still the wound and calls 911.
+*MARJORIE* talks to her, gets a cloth and *REBECA*s mobile from the kitchen, gives the cloth to *REBECA* to stop the bleeding, and calls 911.
 
 ### Day 5
 
 #### Afternoon
 
-*MARJORIE* sits with *BRIANNA*. They talk about *CALVIN*. In the end, *MARJORIE* confirms to *BRIANNA*, that she will appear in court and make her testimony.
+*MARJORIE* sits with *BRIANNA*. They talk about *CALVIN*. In the end, *MARJORIE* confirms to *BRIANNA* that she will appear in court and make her testimony.
 
 The end.
 
