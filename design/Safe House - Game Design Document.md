@@ -29,7 +29,7 @@ A mob murder witness is taken into a safe house by the police for five days befo
 
 ## Abstract
 
-A mob murder witness is taken into a safe house by the police for five days before her court appearance. She's protected by two police officers. One of them is on the mob murder's payroll and has already staged a suicide of a witness 18 years ago. He first tries to scare the witness with the story about the suicice by leaving scary notes and intimidating her. On the fourth day, his masquerade is dropped, and he first tries to kill the other officer. The witness interrupts him, and then he tries to kill her, but she can hold him back and is saved in the last minute by the other officer.
+A mob murder witness is taken into a safe house by the police for five days before her court appearance. She's protected by two police officers. One of them is on the mob murder's payroll and has already staged a suicide of a witness 18 years ago. He first tries to scare the witness with the story about the suicide by leaving scary notes and intimidating her. On the fourth day, his masquerade is dropped, and he first tries to kill the other officer. The witness interrupts him, and then he tries to kill her, but she can hold him back and is saved in the last minute by the other officer.
 
 ## Characters
 
@@ -151,7 +151,7 @@ She doesn't have much character progression. Her character is used to tell the b
 
 *MARJORIE* witnessed him shooting a shop owner in cold blood.
 
-He's only only briefly seen in the game in a nightmare scene, but he's the glooming shadow in the background throughout the game.
+He's only briefly seen in the game in a nightmare scene, but he's the glooming shadow in the background throughout the game.
 
 * Age: 68
 
@@ -203,7 +203,7 @@ He's only only briefly seen in the game in a nightmare scene, but he's the gloom
 
 The game is structured by chapters for each day. The chapters aren't visible to the player though, and can only be distinguished by the change of scenery with morning/noon/evening/night scenes.
 
-This is a short overwiev of the different scenes:
+This is a short overview of the different scenes:
 
 ### Day 1
 
@@ -239,7 +239,7 @@ As *REBECA* doesn't tell her more, *MARJORIE* wants to investigate. She needs he
 
 *REBECA* sits on the couch, *MARJORIE*'s phone sticking out of one of her pockets. *MARJORIE* needs to walk into the kitchen and look through the hatch to get it in the right moment.
 
-Marjorie's SIM is gone, so she needs wifi. There actually is wifi in the house used by the detectives, but it's locked.
+*MARJORIE*'s SIM is gone, so she needs wifi. There actually is wifi in the house used by the detectives, but it's locked.
 
 *MARJORIE* traces the wifi signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
 
@@ -304,8 +304,6 @@ She compares the fingerprints, and they match. She's now convinced that *REBECA*
 *MARJORIE* wakes up to the sound of a fight. She walks down to find *CALVIN* shooting *REBECA*. *CALVIN* turns around and comes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
 
 *CALVIN* first tries to sweet-talk her, but ultimatively looses his nerves and screams at her. He shoots and pushes against the door. The cupboard moves and the door opens. *CALVIN* comes in, but is gunned down by the wounded *REBECA*, who breaks down.
-
-*MARJORIE* talks to her, gets a cloth and *REBECA*s mobile from the kitchen, gives the cloth to *REBECA* to stop the bleeding, and calls 911.
 
 ### Day 5
 
@@ -783,7 +781,7 @@ Go up to `BEDROOM`, find the `gruesome_note`.
 
 Solve the note puzzle to get the combination.
 
-Open the `padlock` at the `drawer` using the combination. Find the `diary`. Read the `diary`.
+Open the `padlock` at the `bedroom_wardrobe_drawer_lower` using the combination. Find the `diary`. Read the `diary`.
 
 Go to the `LIVING_ROOM`. *CALVIN* is gone. [Talk to *REBECA*](dialogs/rebeca2.md).
 
@@ -849,7 +847,7 @@ We switch back to the dark `BEDROOM` and barely see the small explosion of the l
 
 *MUSIC: None*
 
-*MARJORIE* startles up, screams. Then realizes, that she's safe. *MARJORIE* rises. She tries to turn on the `bedroom_lamp` using the `bedroom_light_switch`, which doesn't work.
+*MARJORIE* startles up, screams. Then realizes, that she's safe. *MARJORIE* rises. She tries to turn on the `bedroom_lamp` using the `bedroom_light_switch` (*SFX: light switch*), which doesn't work.
 
 > *MARJORIE*
 >
@@ -1027,7 +1025,7 @@ He sits down again.
 
 #### PUZZLE 3.3: Getting the fingerprint kit
 
-Take the `makeup_brush` from the `kitchen_trashcan`. Take the `tape` from a `hall_drawer`. Get the `fingerprint_powder` from the `living_room_cupboard_unlocked`.
+Take the `makeup_brush` from the `kitchen_trashcan`. Take the `tape` from a `hall_cupboard_drawer`. Get the `fingerprint_powder` from the `living_room_cupboard_unlocked`.
 
 Go to the `BEDROOM`.
 
@@ -1087,7 +1085,7 @@ Go to the `BEDROOM`. Combine the following items:
 
 This will yield the `makeshift_fingerprint_kit`.
 
-Use the `makeshift_fingerprint_kit` with the `hook` to get `hook_fingerprints`.
+Use the `makeshift_fingerprint_kit` with the `bedroom_hook` to get `hook_fingerprints`.
 
 #### PUZZLE 3.5: Getting fingerprints from Rebeca
 
@@ -1238,7 +1236,7 @@ Go through the `HALL`, the `UPPER_HALL` into the `BEDROOM`. Close the `bedroom_d
 
 *MUSIC: Calvin theme, changing between shrieking and hectic*
 
-*MARJORIE* goes to the left of her room. Then we hear *CALVIN* banging on the `door`.
+*MARJORIE* goes to the left of her room. Then we hear *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
@@ -1518,13 +1516,17 @@ The end. Roll the credits.
 
 ##### `battery`
 
-Smartphone battery
+A smartphone battery from a phone where you can actually switch batteries.
 
-> *MARJORIE*
-> 
-> It's the battery from my phone.
+* Default
+
+  >*MARJORIE*
+  >
+  >It's the battery from my phone.
 
 ##### `bedroom_bed`
+
+A very basic bed with a wooden frame, a white mattress, white pillow and a red blanket.
 
 * Default
   
@@ -1539,7 +1541,20 @@ Smartphone battery
 	Add `smartphone_incomplete`
 
 ##### `bedroom_door`
+
+The door to Marjorie's bedroom. We need an open and closed state here. The open state shows part of the `UPPER_HALL`.
+
+* Default
+
+  Opens/Closes the door
+
+##### `bedroom_hook`
+
+A sturdy, metallic hook.
+
 ##### `bedroom_lamp`
+
+A hanging lamp with a lampshade that hides a sturdy hook that the lamp is attached to. The light is only visible in the night scenes and accentuates the area around the door, but doesn't cast hard shadows for the rest of the room.
 
 * If working
 
@@ -1607,13 +1622,31 @@ Smartphone battery
 	Add fingerprint to inventory
 
 ##### `bedroom_light_switch`
-##### `bedroom_nightstand`
+
+A common light switch, clearly visible beside the door.
 
 * Default
 
   > *MARJORIE*
   >
-  > A nightstand.
+  > I think, the light's fine as it is.
+
+* On day 3 early morning when the bulb's dead
+  *SFX: light switch*
+
+  > *MARJORIE*
+  >
+  > Nothing. The bulb is dead.
+
+##### `bedroom_nightstand`
+
+A very basic nightstand. Just a wooden block with a drawer.
+
+* Default
+
+  > *MARJORIE*
+  >
+  > A nightstand. There's nothing interesting in the drawer.
 
 * When looking for the smartphone parts
 
@@ -1625,11 +1658,19 @@ Smartphone battery
 
 ##### `bedroom_stool`
 
+A very basic wooden stool. Ikea-style.
+
 * Default
 
   > *MARJORIE*
   >
   > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
+
+* On day 3 early morning when searching for a way to reach the lamp
+
+  > *MARJORIE*
+  >
+  > I'm not gonna use that. It looks as if it would break just by looking at it.
 
 * When looking for the smartphone parts
 
@@ -1640,6 +1681,8 @@ Smartphone battery
   Add `battery`
 
 ##### `bedroom_wardrobe`
+
+A very basic wooden wardrobe, two doors and under that two drawers.
 
 * Default
   
@@ -1657,6 +1700,8 @@ Smartphone battery
 
 ##### `bedroom_wardrobe_drawer_lower`
 
+The lower drawer of the wardrobe. We need a closed and an open state here.
+
 * if locked
 
   > *MARJORIE*
@@ -1670,12 +1715,15 @@ Smartphone battery
   > It fits! *SFX: Unlock*
 
 * if unlocked; if diary is not in inventory
+  *SFX: Drawer open*
 
   > *MARJORIE*
   > 
-  > What's this? Some sort of... diary?
+  > What's this?
 
-  Add diary to inventory
+  Add `diary` to inventory
+
+  *SFX: Drawer closed*
 
 * if unlocked; if diary is in inventory
 
@@ -1685,23 +1733,61 @@ Smartphone battery
 
 ##### `bedroom_wardrobe_drawer_upper`
 
+The upper drawer of the wardrobe.
+
 > *MARJORIE*
 > 
-> Nothing in here.
+> There's nothing in here.
 
 ##### `broken_bulb`
+
+A broken lightbulb. It isn't smashed, but has a burnt inside.
+
+* Default
+
+  > *MARJORIE*
+  >
+  > Well that bulb is certainly dead and gone.
+
 ##### `bulb`
+
+A working lightbulb.
+
+* Default
+
+  > *MARJORIE*
+  >
+  > That light bulb seems to be working
+
 ##### `cloth`
+
+A simple cotton cloth.
+
+* Default
+
+  > *MARJORIE*
+  >
+  > A cloth. I'm not gonna clean this place up, though.
+
 ##### `cover`
 
-Smartphone back cover
+The back cover of the `smartphone`.
 
 > *MARJORIE*
 > 
-> It's the back from my smartphone.
+> It's the back of my smartphone.
 
 ##### `cut_peppers`
+
+The `jalapeno_peppers` cut into slices.
+
+> *MARJORIE*
+>
+> Those look hot. I need to watch out to not touch them and my eyes after that.
+
 ##### `diary`
+
+Not really a diary, but rather loose pages. We need two states here: Pages held with a paperclip and the loose pages themselves.
 
 * If not `paperclip` in inventory:
   
@@ -1715,30 +1801,132 @@ Smartphone back cover
 
 * If `paperclip` in inventory: show `CLOSEUP_DIARY`
 
-##### `door`
-##### `drawer`
 ##### `fingerprint_powder`
+
+A black powder.
+
+> *MARJORIE*
+>
+> Some black powder I got from that fingerprint set.
+
 ##### `front_door`
+
+The front door of the house. It's partly transparent and shows the outside. There are windows next to it showing more of the outside. The outside is sunny and welcoming in day scenes and eerie in the night scenes.
+
+* Default
+
+  > *MARJORIE*
+  >
+  > I can't leave now. I'm in danger outside.
+
+* On day 4, early morning
+
+  > *MARJORIE*
+  >
+  > Shit! It's locked. I can't get out.
+
 ##### `glass`
+
+A common basic and cheap drinking glass.
+
+> *MARJORIE*
+>
+> I can mix something in there.
+
 ##### `gruesome_note`
+
+A worn-out paper.
 
 Open `CLOSEUP_GRUESOME_NOTE`
 
 ##### `hairpin`
 
-Hair pin
+A hair pin.
 
 > *MARJORIE*
 > A tiny hair pin
 
 ##### `half_lemon`
-##### `hall_drawer`
+
+The `lemon`, cut in half.
+
+> *MARJORIE*
+> I've cut the lemon in half.
+
+##### `hall_cupboard_drawer`
+
+The drawer of a basic cupboard that can be used to e.g. put keys on. We need two states here: open and closed.
+
+* Default
+  Marjorie opens the drawer *SFX: opening drawer*
+
+  > *MARJORIE*
+  >
+  > There's a tape in here. I'll take it.
+
+  Add `tape`
+
+  *SFX: closing drawer*
+
+* When `tape` in inventory
+
+  > *MARJORIE*
+  >
+  > Nothing more in here.
+
 ##### `hall_lamp`
+
+A wall lamp. The light is only seen in night scens and illuminates the room and accentuates the wall and the ceiling over it.
+
+* Default
+
+  > *MARJORIE*
+  >
+  > That actually looks quite comfy.
+
+* On day 3, early morning
+
+  > *MARJORIE*
+  >
+  > Ah. That lamps seems to have the bulb I need. But it's too hot!
+
+* On day 3, early morning when used with cloth
+  *SFX: Screwing a bulb*
+
+  > *MARJORIE*
+  >
+  > There we go.
+
+  Add `bulb`
+
 ##### `hammer`
+
+A standard hammer.
+
+> *MARJORIE*
+>
+> I'm not a DIY-girl. I'd hammer my thumb with this one certainly.
+
 ##### `hook_fingerprints`
-##### `hook`
+
+Fingerprints on a tape.
+
+> *MARJORIE*
+>
+> I took those from the hook.
+
 ##### `jalapeno_peppers`
+
+Three red jalapeno peppers.
+
+> *MARJORIE*
+>
+> I'm not a fan of hot food.
+
 ##### `kitchen_hatch`
+
+A hole in the kitchen leading to the living room.
+
 ##### `kitchen_left_cupboard`
 ##### `kitchen_right_drawer`
 ##### `kitchen_sink`
