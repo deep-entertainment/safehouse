@@ -1,0 +1,13 @@
+[remap]
+
+importer="image"
+type="Image"
+path="res://.import/Bedroom_scalemap.png-eaea90e433ad44612ab8a178f6ab9cad.image"
+
+[deps]
+
+source_file="res://scenes/bedroom/Bedroom_scalemap.png"
+dest_files=[ "res://.import/Bedroom_scalemap.png-eaea90e433ad44612ab8a178f6ab9cad.image" ]
+
+[params]
+
