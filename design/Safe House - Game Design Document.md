@@ -51,7 +51,7 @@ Throughout the game, she is scared (her fears growing with the events)
 
 * Eyes: brown
 
-* Hair: Short, brown
+* Hair: Short, black
 
 * Skin tone: brown
 
