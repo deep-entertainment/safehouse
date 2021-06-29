@@ -1,8 +1,0 @@
-.import/
-logs/
-*.translation
-device/quick_save.esc
-
-# Platform specific metadata files
-.DS_Store
-thumbs.db
