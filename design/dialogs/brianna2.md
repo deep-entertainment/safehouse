@@ -45,7 +45,7 @@ It is pointed out, that:
 
 > *MARJORIE*
 >
-> Do you know Jacob Grimes?
+> Do you know about Jacob Grimes?
 
 > *BRIANNA*
 >
@@ -71,7 +71,7 @@ It is pointed out, that:
 
 > *MARJORIE*
 >
-> (still shouting) He was killed by the same people I should testify against!
+> (still shouting) He was killed by the same people you want me to testify against!
 
 > *BRIANNA*
 >
@@ -105,7 +105,7 @@ It is pointed out, that:
 
 > *MARJORIE*
 >
-> What was his case?
+> What was that case about?
 
 > *BRIANNA*
 >
@@ -125,7 +125,7 @@ It is pointed out, that:
 
 # Questions
 
-* [I understand, Jacob was in witness protection as well?](#witnessprotection)
+* [I take it that Jacob was in witness protection as well?](#witnessprotection)
 * If asked previous question: [Was it about Varone as well?](#varone)
 * [Jacob hung himself?](#suicide)
 * [Thank you for sharing, Brianna.](#end)
@@ -134,11 +134,11 @@ It is pointed out, that:
 
 > *BRIANNA*
 >
-> Yes, he was. In this house actually. It was the first time we used it as a safehouse.
+> Yes, he was. He was kept in this house actually. It was the first time we used it as a safehouse.
 
 > *MARJORIE*
 >
-> So he... He stayed in the very room I'm in?
+> So he... He stayed in the very same room I'm in?
 
 > *BRIANNA*
 >
@@ -186,7 +186,7 @@ It is pointed out, that:
 
 > *MARJORIE*
 >
-> I already read, that Calvin was involved.
+> I've already read that Calvin was involved.
 
 > *BRIANNA*
 >
@@ -200,7 +200,7 @@ It is pointed out, that:
 
 > *MARJORIE*
 >
-> But it was definitely *Jacob* who killed himself?
+> But Jacob did definitely kill himself?
 
 > *BRIANNA*
 >
@@ -212,7 +212,7 @@ It is pointed out, that:
 
 > *BRIANNA*
 >
-> Don't tell noone, please. This could get me in trouble.
+> Don't tell anyone, please. This could get me in trouble.
 
 > *MARJORIE*
 >
