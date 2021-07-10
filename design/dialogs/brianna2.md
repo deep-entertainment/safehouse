@@ -218,4 +218,12 @@ It is pointed out, that:
 >
 > I swear.
 
+> *BRIANNA*
+>
+> Great. Let's continue preparing you for the trial, shall we?
+
+> *MARJORIE*
+>
+> (sigh) Okay.
+
 END
