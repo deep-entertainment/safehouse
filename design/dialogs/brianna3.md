@@ -4,7 +4,7 @@ In this brianna dialog, Marjorie asks Brianna about Rebeca, because she's her ma
 
 Things to establish here:
 
-* Rebeca's backstory as a police enthusiast, a very sucessful graduate of the police academy
+* Rebeca's backstory as a police enthusiast, a very sucessful graduate of the police Academy
 * Rebeca is overly correct and has a strong sense for justice
 * Rebeca has had some complaints about not acting appropriately in some cases because she can be quite hot-headed (which Marjorie jumps on), but all were minor issues
 
@@ -24,9 +24,9 @@ Things to establish here:
 
 > *BRIANNA*
 >
-> I believe so.
+> I can imagine that.
 >
-> (beat) So. Should we continue?
+> (beat) Ok then. Should we continue?
 
 > *MARJORIE*
 >
@@ -48,7 +48,7 @@ Things to establish here:
 
 # questions
 
-* [How well do you know her?](howwell)
+* [How well do you know her?](#howwell)
 * [She doesn't seem to like me.](#doesntlike)
 
 After both questions were answered, the dialog continues:
@@ -67,7 +67,7 @@ After both questions were answered, the dialog continues:
 
 > *MARJORIE*
 >
-> (ignoring her) So. Are we going to repeat everything again today?
+> (ignoring her) Allright. Are we going to repeat everything again today?
 
 > *BRIANNA*
 >
@@ -91,7 +91,7 @@ END
 
 > *BRIANNA*
 >
-> (Reluctantly) That Rebeca is a highly trained and competent officer. She graduated as one of the best in the academy.
+> (Reluctantly) That Rebeca is a highly trained and competent officer. She graduated as one of the best in the Academy.
 
 > *MARJORIE*
 >
@@ -129,7 +129,7 @@ END
 
 > *MARJORIE*
 >
-> (grunt) "correct"
+> (grunt) "Correct..."
 
 > *BRIANNA*
 >
@@ -149,7 +149,7 @@ END
 
 > *BRIANNA*
 >
-> (sigh) She has had some complaints about not acting properly because she can be hot-headed at time.
+> (sigh) She has had some complaints about not acting properly because she can be hot-headed at times.
 
 > *MARJORIE*
 >
