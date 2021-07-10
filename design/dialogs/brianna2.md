@@ -15,3 +15,207 @@ It is pointed out, that:
 
 # Start
 
+> *BRIANNA*
+>
+> Marjorie! Nice to see you again. How was your first night?
+
+> *MARJORIE*
+>
+> ...
+
+> *BRIANNA*
+>
+> Marjorie?
+
+> *MARJORIE*
+>
+> (dark) It was... (beat) okay.
+
+> *BRIANNA*
+>
+> Are you alright, Marjorie?
+
+> *MARJORIE*
+>
+> Can I ask you something?
+
+> *BRIANNA*
+>
+> Of course.
+
+> *MARJORIE*
+>
+> Do you know Jacob Grimes?
+
+> *BRIANNA*
+>
+> (shocked) (beat)
+>
+> (haltingly) I know his case, yes.
+
+> *MARJORIE*
+>
+> You should've told me about him.
+
+> *BRIANNA*
+>
+> Marjorie...
+
+> *MARJORIE*
+>
+> (interrupting, shouting) You should've fucking told me about him!
+
+> *BRIANNA*
+>
+> That was eighteen years ago!
+
+> *MARJORIE*
+>
+> (still shouting) He was killed by the same people I should testify against!
+
+> *BRIANNA*
+>
+> (getting louder) He killed himself!
+
+> *MARJORIE*
+>
+> (still shouting) They made him do that!
+
+> *BRIANNA*
+>
+> (shouting) No! We did that!
+
+*pause*
+
+> *BRIANNA*
+>
+> (quiet again) We didn't know about his condition.
+
+> *MARJORIE*
+>
+> What do you mean? Condition?
+
+> *BRIANNA*
+>
+> He was... He was too stressed out and we didn't realize that. We kept pushing and pushing him because we wanted to have a solid case against La Famiglia for once.
+>
+> But we pushed too much. And he couldn't take it anymore.
+
+*pause*
+
+> *MARJORIE*
+>
+> What was his case?
+
+> *BRIANNA*
+>
+> I'm not allowed to tell you...
+
+> *MARJORIE*
+>
+> (interrupts) Brianna, please, I need to know.
+
+*pause*
+
+> *BRIANNA*
+>
+> (sigh) Okay. What do you want to know?
+
+[Questions](#Questions)
+
+# Questions
+
+* [I understand, Jacob was in witness protection as well?](#witnessprotection)
+* If asked previous question: [Was it about Varone as well?](#varone)
+* [Jacob hung himself?](#suicide)
+* [Thank you for sharing, Brianna.](#end)
+
+# witnessprotection
+
+> *BRIANNA*
+>
+> Yes, he was. In this house actually. It was the first time we used it as a safehouse.
+
+> *MARJORIE*
+>
+> So he... He stayed in the very room I'm in?
+
+> *BRIANNA*
+>
+> (realizes) I... I guess so, yes. Oh god, Marjorie.
+
+> *MARJORIE*
+>
+> (pause, then confident) It's okay.
+
+[Questions](#Questions)
+
+# varone
+
+> *BRIANNA*
+>
+> (dark) It is always about him.
+>
+> Jacob was a lowlife, a little gangbanger. A street kid who took the wrong turn.
+>
+> There was this drug dealer in his gang... (thinks) Derek. Yes, Derek Cole was his name. And well, he was in an area that belongs to La Famiglia.
+
+> *MARJORIE*
+>
+> Bad idea.
+
+> *BRIANNA*
+>
+> Bad idea.
+>
+> Jacob saw Varone... taking care of the problem.
+
+> *MARJORIE*
+>
+> (whispering) Oh fuck.
+
+[Questions](#questions)
+
+# suicide
+
+> *BRIANNA*
+>
+> (shocked from Marjorie's directness) Yyyes, yes he did.
+>
+> (calms herself) Calv... I mean the police officers found him hanging in his bedroom on the day of the trial.
+
+> *MARJORIE*
+>
+> I already read, that Calvin was involved.
+
+> *BRIANNA*
+>
+> He was devastated.
+
+> *MARJORIE*
+>
+> I believe so.
+
+*pause*
+
+> *MARJORIE*
+>
+> But it was definitely *Jacob* who killed himself?
+
+> *BRIANNA*
+>
+> Yes. Calvin had to break his door when he wasn't responding.
+
+[Questions](#questions)
+
+# end
+
+> *BRIANNA*
+>
+> Don't tell noone, please. This could get me in trouble.
+
+> *MARJORIE*
+>
+> I swear.
+
+END
