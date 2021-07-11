@@ -67,7 +67,7 @@ It is pointed out, that:
 
 > *BRIANNA*
 >
-> That was eighteen years ago!
+> That was 18 years ago!
 
 > *MARJORIE*
 >
@@ -154,9 +154,9 @@ It is pointed out, that:
 
 > *BRIANNA*
 >
-> (dark) It is always about him.
+> (dark) It's always about him.
 >
-> Jacob was a lowlife, a little gangbanger. A street kid who took the wrong turn.
+> Jacob was a lowlife, a cheap gangbanger. A street kid who took the wrong turn.
 >
 > There was this drug dealer in his gang... (thinks) Derek. Yes, Derek Cole was his name. And well, he was in an area that belongs to La Famiglia.
 
@@ -180,7 +180,7 @@ It is pointed out, that:
 
 > *BRIANNA*
 >
-> (shocked from Marjorie's directness) Yyyes, yes he did.
+> (shocked from Marjorie's directness) Y-yes, yes he did.
 >
 > (calms herself) Calv... I mean the police officers found him hanging in his bedroom on the day of the trial.
 

@@ -83,7 +83,7 @@ END
 
 > *BRIANNA*
 >
-> Me? Not well actually. We met the first time on this case. But I've read her file.
+> Me? Not well actually. We met for the first time on this case. But I've read her file.
 
 > *MARJORIE*
 >
@@ -91,7 +91,7 @@ END
 
 > *BRIANNA*
 >
-> (Reluctantly) That Rebeca is a highly trained and competent officer. She graduated as one of the best in the Academy.
+> (Reluctantly) That Rebeca is a highly trained and competent officer. She graduated as one of the best of the year in the Academy.
 
 > *MARJORIE*
 >
@@ -115,7 +115,7 @@ END
 
 > *BRIANNA*
 >
-> She's... she's not very hearty.
+> She's... she's not a people person.
 
 > *MARJORIE*
 >
