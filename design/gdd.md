@@ -10,7 +10,7 @@ It covers all the details about the game’s concept, design, assets and story.
 * [x] Complete abstract
 * [x] Complete characters
 * [x] Complete game structure
-* [ ] Complete dialogs
+* [x] Complete dialogs
 * [ ] Complete items descriptions and interactions
 * [ ] Complete location descriptions and interactions
  * [x] Complete puzzle 3.5
@@ -673,7 +673,7 @@ Fadeout
 
 *MARJORIE* exits the `LIVING_ROOM`, goes through the `HALL`, up the stairs, through the `UPPER_HALL` into the `BEDROOM` to find...
 
-A `noose` dangling from the lamp. 
+A noose dangling from the lamp. 
 
 *MUSIC: horror string slide merging into a rumbling and hectic MARJORIE tune*
 
@@ -1518,33 +1518,48 @@ The end. Roll the credits.
 
 A smartphone battery from a phone where you can actually switch batteries.
 
-* Default
+- Look
 
   >*MARJORIE*
   >
   >It's the battery from my phone.
 
+- Use
+
+  n/a
+
+
 ##### `bedroom_bed`
 
 A very basic bed with a wooden frame, a white mattress, white pillow and a red blanket.
 
-* Default
+- Look
   
   > *MARJORIE*
   >
-  > My bed. The mattress is far too soft, it hurts my back.
+  > My bed. The mattress is too soft, it hurts my back.
   
-* When looking for the smartphone parts
+- Look (When looking for the smartphone parts)
   
   > Oh, there's the phone.
   
 	Add `smartphone_incomplete`
+	
+- Use
+
+  > *MARJORIE*
+  > I'm not sleepy right now.
 
 ##### `bedroom_door`
 
 The door to Marjorie's bedroom. We need an open and closed state here. The open state shows part of the `UPPER_HALL`.
 
-* Default
+- Look
+
+  > *MARJORIE*
+  > This leads to the upper hall.
+
+- Use
 
   Opens/Closes the door
 
@@ -1552,218 +1567,229 @@ The door to Marjorie's bedroom. We need an open and closed state here. The open 
 
 A sturdy, metallic hook.
 
+- Look
+
+  > *MARJORIE*
+  > Creepy.
+
+- Use
+  > *MARJORIE*
+  > (creeped out) No thank you.
+
 ##### `bedroom_lamp`
 
 A hanging lamp with a lampshade that hides a sturdy hook that the lamp is attached to. The light is only visible in the night scenes and accentuates the area around the door, but doesn't cast hard shadows for the rest of the room.
 
-* If working
+- Look
+	- If lamp is working
 
-  > *MARJORIE*
-  > 
-  > The light is a bit too bright for my taste, but it's all I got.
+    > *MARJORIE*
+	> The light is a bit too bright for my taste, but it's all I got.
 
-* If not working
+	- If lamp is not working
 
-  > *MARJORIE*
-  > 
-  > Oh, the bulb's dead. I need to replace it
+	  > *MARJORIE*
+	  > 
+	  > Oh, the bulb's dead. I need to replace it
 
-	*MARJORIE* unscrews the bulb. Add broken_bulb to inventory
+		*MARJORIE* unscrews the bulb. Add `broken_bulb` to inventory.
+		
+	- If bulb was replaced before
 
-  > *MARJORIE*
-  > 
-  > Huh? What is this? There's a sturdy hook in the lamp screen. And there's something on it, but I can't make it out.
+		Show `CLOSEUP_BEDROOM_LAMP`
+		
+- Use
 
-* If used with broken_bulb
-
-  > *MARJORIE*
-  > 
-  > I need to find a working lightbulb.
-
-* If used with bulb
-
-  > *MARJORIE*
-  > 
-  > There we go.
-
-* If used with magnifying glass, but bulb is still missing
-
-  > *MARJORIE*
-  > 
-  > That won't work, it's too dark.
-
-* If used with magnifying glass
-
-  > *MARJORIE*
-  > 
-  > Those... Those are fibres. Hemp fibres.
-  > I... Then I wasn't hallucinating... There was really a noose hanging there. 
-  > 
-  > Oh my god. What the fuck is going on here? The noose, the diary. Is somebody trying to creep me out?
-
-* If used with magnifying glass (again)
-
-  > *MARJORIE*
-  > 
-  > Hemp fibres. From the noose. They give me the creeps.
-
-* If used with fingerprintset_incomplete
-
-  > *MARJORIE*
-  > 
-  > I don't have all the neccessary items for the fingerprint kit.
-
-* If used with fingerprintset
-
-  > *MARJORIE*
-  > 
-  > Okay... here we go. Yes. I got a print. Now, I need to compare it.
-
-	Add fingerprint to inventory
+	> *MARJORIE*
+	> There is no switch on the lamp itself.
 
 ##### `bedroom_light_switch`
 
 A common light switch, clearly visible beside the door.
 
-* Default
+- Look
 
-  > *MARJORIE*
-  >
-  > I think, the light's fine as it is.
+	> *MARJORIE*
+	> The light switch for my bedroom.
 
-* On day 3 early morning when the bulb's dead
-  *SFX: light switch*
+- Use
 
-  > *MARJORIE*
-  >
-  > Nothing. The bulb is dead.
+	- Default
+
+	  > *MARJORIE*
+	  >
+	  > I think, the light's fine as it is.
+
+	- On day 3 early morning when the bulb's dead
+  	*SFX: light switch*
+
+	  > *MARJORIE*
+	  >
+	  > Nothing. The bulb is dead.
 
 ##### `bedroom_nightstand`
 
 A very basic nightstand. Just a wooden block with a drawer.
 
-* Default
+- Look
+	- Default
 
-  > *MARJORIE*
-  >
-  > A nightstand. There's nothing interesting in the drawer.
+	  > *MARJORIE*
+	  >
+	  > A nightstand. There's nothing interesting in the drawer.
 
-* When looking for the smartphone parts
+	- When looking for the smartphone parts
 
-  > *MARJORIE*
-  >
-  > Here's the cover.
+	  > *MARJORIE*
+	  >
+	  > Here's the cover.
 
-	Add `cover`
+		Add `cover`
+		
+- Use
+	*SFX: Drawer being opened and then closed*
+	> *MARJORIE*
+	> Nope. Nothing.
 
 ##### `bedroom_stool`
 
 A very basic wooden stool. Ikea-style.
 
-* Default
+- Look | Use
 
-  > *MARJORIE*
-  >
-  > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
+	- Default
 
-* On day 3 early morning when searching for a way to reach the lamp
+	  > *MARJORIE*
+	  >
+	  > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
 
-  > *MARJORIE*
-  >
-  > I'm not gonna use that. It looks as if it would break just by looking at it.
+	- On day 3 early morning when searching for a way to reach the lamp
 
-* When looking for the smartphone parts
+	  > *MARJORIE*
+	  >
+	  > I'm not gonna use that. It looks as if it would break just by looking at it.
 
-  > *MARJORIE*
-  >
-  > Ah, there's the battery.
+	- When looking for the smartphone parts
 
-  Add `battery`
+	  > *MARJORIE*
+	  >
+	  > Ah, there's the battery.
+
+	  Add `battery`
 
 ##### `bedroom_wardrobe`
 
-A very basic wooden wardrobe, two doors and under that two drawers.
+A very basic wooden wardrobe, just two doors and two drawers under that. The lower drawer has a padlock attached to it.
 
-* Default
+- Look
+	- Default
+
+	  > *MARJORIE*
+	  >
+	  > A simple wardrobe for my clothes. I'll only be here for a few days.
   
-  > *MARJORIE*
-  >
-  > A simple wardrobe for my clothes. I'll only be here for a few days.
-  
-* When looking for the smartphone parts
-  
-  > *MARJORIE*
-  >
-  > There's that tiny phone card.
-  
-  Add `simcard`
+	- When looking for the smartphone parts
+
+	  > *MARJORIE*
+	  >
+	  > There's that tiny phone card.
+
+	  Add `simcard`
 
 ##### `bedroom_wardrobe_drawer_lower`
 
 The lower drawer of the wardrobe. We need a closed and an open state here.
 
-* if locked
+- Look
+	> *MARJORIE*
+	> A drawer. With a padlock on it. (beat) Strange.
 
-  > *MARJORIE*
-  > 
-  > It's locked.
+- Use
+	- if locked
 
-* if used with key_drawer
+	  > *MARJORIE*
+	  > 
+	  > It's locked.
 
-  > *MARJORIE*
-  > 
-  > It fits! *SFX: Unlock*
+	- if unlocked and diary is not in inventory
+	  *SFX: Drawer open*
 
-* if unlocked; if diary is not in inventory
-  *SFX: Drawer open*
+	  > *MARJORIE*
+	  > 
+	  > What's this?
 
-  > *MARJORIE*
-  > 
-  > What's this?
+	  Add `diary` to inventory
 
-  Add `diary` to inventory
+	  *SFX: Drawer closed*
 
-  *SFX: Drawer closed*
+	- if unlocked and diary is in inventory:
 
-* if unlocked; if diary is in inventory
-
-  > *MARJORIE*
-  > 
-  > It's empty.
+	  > *MARJORIE*
+	  > 
+	  > It's empty.
 
 ##### `bedroom_wardrobe_drawer_upper`
 
 The upper drawer of the wardrobe.
 
-> *MARJORIE*
-> 
-> There's nothing in here.
+* Look | Use
+
+	> *MARJORIE*
+	> 
+	> There's nothing in here.
 
 ##### `broken_bulb`
 
 A broken lightbulb. It isn't smashed, but has a burnt inside.
 
-* Default
+- Look
 
   > *MARJORIE*
   >
   > Well that bulb is certainly dead and gone.
 
+- Use 
+
+	- If used with `bedroom_lamp`
+
+	  > *MARJORIE*
+	  > I need to find a working lightbulb.
+
+
 ##### `bulb`
 
 A working lightbulb.
 
-* Default
+- Look
+  > *MARJORIE*
+  > That light bulb seems to be working
+
+- Use
+- If used with `bedroom_lamp`
 
   > *MARJORIE*
-  >
-  > That light bulb seems to be working
+  > 
+  > There we...
+
+   *MUSIC: (stops)*
+   
+   > *MARJORIE*
+   > 
+   > (gasps)
+
+  *MUSIC: eerie tunes from the Marjorie theme*
+  
+  Show `CLOSEUP_BEDROOM_LAMP`
+  
+  > *MARJORIE*
+  > 
+  > What the fuck is happening here?
 
 ##### `cloth`
 
 A simple cotton cloth.
 
-* Default
+- Look
 
   > *MARJORIE*
   >
@@ -1773,33 +1799,46 @@ A simple cotton cloth.
 
 The back cover of the `smartphone`.
 
-> *MARJORIE*
-> 
-> It's the back of my smartphone.
+- Look
+
+	> *MARJORIE*
+	> 
+	> It's the back of my smartphone.
 
 ##### `cut_peppers`
 
 The `jalapeno_peppers` cut into slices.
 
-> *MARJORIE*
->
-> Those look hot. I need to watch out to not touch them and my eyes after that.
+- Look
+
+	> *MARJORIE*
+	>
+	> Those look hot. I need to watch out to not touch them and my eyes after that.
+
+##### `day1_dishes`
+##### `day1_leftovers`
+##### `day2_dishes`
+##### `day2_leftovers`
+##### `day3_dishes`
 
 ##### `diary`
 
-Not really a diary, but rather loose pages. We need two states here: Pages held with a paperclip and the loose pages themselves.
+Not really a diary, but rather loose pages held together with a paperclip at first. We need two states here: Pages held with a paperclip and the loose pages themselves.
 
-* If not `paperclip` in inventory:
+- Look
+	- if not `paperclip` in inventory:
   
-  > *MARJORIE*
-  > 
-  > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
+	  > *MARJORIE*
+	  > 
+	  > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
   
-  add `paperclip` to inventory
+	  Add `paperclip` to inventory
   
-  show diary closeup
+	  Show `CLOSEUP_DIARY`
 
-* If `paperclip` in inventory: show `CLOSEUP_DIARY`
+	- If `paperclip` in inventory:
+	
+	   Show `CLOSEUP_DIARY`
 
 ##### `fingerprint_powder`
 
@@ -1813,17 +1852,20 @@ A black powder.
 
 The front door of the house. It's partly transparent and shows the outside. There are windows next to it showing more of the outside. The outside is sunny and welcoming in day scenes and eerie in the night scenes.
 
-* Default
+- Look
 
-  > *MARJORIE*
-  >
-  > I can't leave now. I'm in danger outside.
+	> *MARJORIE*
+	> It's the front door.
 
-* On day 4, early morning
-
-  > *MARJORIE*
-  >
-  > Shit! It's locked. I can't get out.
+- Use
+	- Default
+	  > *MARJORIE*
+	  >
+	  > I can't leave now. I'm in danger outside.
+	- On day 4, early morning
+	  > *MARJORIE*
+	  >
+	  > Shit! It's locked. I can't get out.
 
 ##### `glass`
 
@@ -1925,11 +1967,63 @@ Three red jalapeno peppers.
 
 ##### `kitchen_hatch`
 
-A hole in the kitchen leading to the living room.
+A hole in the kitchen leading to the living room. Clicking on it will switch to the living room with Marjorie looking through the hatch.
 
 ##### `kitchen_left_cupboard`
+
+A small half-height cupboard.
+
+* If closed
+
+  > *MARJORIE*
+  >
+  > Just a cupboard.
+
+* If closed, using it
+
+  > *MARJORIE*
+  >
+  > Oh, it's mostly empty. Except for a stepladder.
+
+  Show the open cupboard with the `stepladder` in it.
+
+* If looked at open cupboard with stepladder in it
+
+  > *MARJORIE*
+  >
+  > There's only a stepladder in there.
+
+* If looked at open cupboard without stepladder in it
+
+  > *MARJORIE*
+  >
+  > It's empty now.
+
+* If opened, using it
+  Show the closed cupboard
+
 ##### `kitchen_right_drawer`
+
+A simple drawer.
+
+* Default
+
+  > *MARJORIE*
+  >
+  > It's a drawer. I guess for cutlery.
+
+* Using it
+
+  > *MARJORIE*
+  >
+  > Full of cutlery. (beat) oh, and a magnifying glass.
+
+  Take the `magnifying_glass`.
+
 ##### `kitchen_sink`
+
+A standard kitchen sink. If used with `day1_dishes` or `day2_dishes`, it triggers a cleaning animation
+
 ##### `kitchen_trash_can`
 ##### `kitchen_trashcan`
 ##### `knife`
@@ -1939,12 +2033,77 @@ A hole in the kitchen leading to the living room.
 ##### `living_room_hatch`
 ##### `living_room_table`
 ##### `magnifying_glass`
+
+A magnifying glass as a reading helper. Rectangular blue frame with a round magnifying glass inset.
+
+- If used with `bedroom_hook`
+
+  > *MARJORIE*
+  > 
+  > Those... Those are fibres. Hemp fibres.
+  > I... Then I wasn't hallucinating... There was really a noose hanging there. 
+  > 
+  > Oh my god. What the fuck is going on here? The noose, the diary. Is somebody trying to creep me out?
+
+- If used with `bedroom_hook` (again)
+
+  > *MARJORIE*
+  > 
+  > Hemp fibres. From the noose. They give me the creeps.
+
 ##### `makeshift_fingerprint_kit`
+
+A combination of the `makeup_brush`, `fingerprint_powder` and `tape`.
+
+- Use
+	- If used with `bedroom_hook`
+
+	  > *MARJORIE*
+	  > 
+	  > Okay... here we go. (pause) Yes! I got a print. Now, I need to compare it with another one.
+
+		Add `fingerprint_from_hook` to inventory
+
 ##### `makeshift_virgin_mary`
+
+A kitchen glass with a red liquid in it.
+
+- Look
+  > *MARJORIE*
+  > I've used up all my bartender skills for that.
+
 ##### `makeup_brush`
+
+A standard issue, but used makeup brush. Has a very bushy brush.
+
+- Look
+  > *MARJORIE*
+  > I guess, this is Rebeca's. I don't use brushes.
+
 ##### `mashed_tomatoes`
-##### `noose`
+
+A red pile of former tomatoes, mashed with `hammer`.
+
 ##### `padlock`
+
+- Look
+	> *MARJORIE*
+	> Strange. A padlock on a drawer.
+
+- Use
+	Show `CLOSEUP_PADLOCK`
+	#FIXME
+	- If combination is right
+
+		> *MARJORIE*
+		> 
+		> It fits! 
+
+		*SFX: Unlock*
+
+		`bedroom_wardrobe_drawer_lower`is now unlocked
+
+
 ##### `paperclip`
 
 ##### `paperclip`
