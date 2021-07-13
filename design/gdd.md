@@ -320,7 +320,7 @@ The end.
 
 *Cutscene starts*
 
-*SFX: We hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.*
+*SFX: Intro*
 
 *Music: None*
 
@@ -406,6 +406,7 @@ When *MARJORIE* unpacks the pants, her `smartphone` falls out and smashes on the
 - `battery`
 
 - `cover`
+- 
 
 - `simcard`
 
@@ -476,7 +477,7 @@ Take the `hairpin` and use it to reset the `smartphone`.
 
 #### PUZZLE 1.4: Finding the PIN
 
-*SFX: Dialtones, when buttons on phone are pressed*
+*SFX: Dialtones* (when buttons on phone are pressed)
 
 Find the note in the `purse`.
 
@@ -536,7 +537,7 @@ She turns around, pointing at *MARJORIE*
 >
 > (shouting) Christ!
 
-She exists the room, slamming the door. (*SFX: Door slam*, *Music: Stops*)
+She exists the room, slamming the door. (*SFX: Door slam*, *MUSIC: Stops*)
 
 *Fadeout*
 
@@ -696,7 +697,7 @@ A noose dangling from the lamp.
 
 > *MARJORIE*
 >
-> (shouting) Yes. By the lamp. Oh my *GOD*.
+> (shouting) Yes. By the lamp. Oh my *God*.
 
 *REBECA* runs past her up the stairs. Seconds pass.
 
@@ -1679,7 +1680,7 @@ A very basic wooden stool. Ikea-style.
 
 ##### `bedroom_wardrobe`
 
-A very basic wooden wardrobe, just two doors and two drawers under that. The lower drawer has a padlock attached to it.
+A very basic wooden wardrobe, just two doors and `bedroom_wardrobe_drawer_upper` and `bedroom_wardrobe_drawer_lower` under that. The lower drawer has a padlock attached to it.
 
 - Look
   - Default
@@ -1843,6 +1844,8 @@ Not really a diary, but rather loose pages held together with a paperclip at fir
   - If `paperclip` in inventory:
 
     Show `CLOSEUP_DIARY`
+	
+##### `fingerprint_from_hook`
 
 ##### `fingerprint_powder`
 
@@ -2300,6 +2303,8 @@ crushed it right and then,
 the really ugly spider
 could never climb again.
 
+##### `CLOSEUP_PADLOCK`
+
 ##### `CLOSEUP_PURSE`
 
 - Picture of *MARJORIE*s mother
@@ -2370,45 +2375,65 @@ The themes should reflect the characters personalities or functions in the game:
 
 Here's a list of all music references in the game (search for MUSIC:)
 
-- Brianna theme. Soft, calming
-- CALVIN theme with a jazzy backtune
-- Calvin theme, calm
-- Calvin theme, changing between shrieking and hectic
-- Calvin theme, hectic, chasing
-- Calvin theme, shrieking
-- Credits music. A happy and triumphant Marjorie theme
-- Eerie, very few notes. "Night atmosphere". Not too scary though.
-- Get's more eerie and downright scary
-- Horror strings
-- Marjorie theme, jazzy background
-- Marjorie theme, will swell up during her monologue, then cut off when Marjorie shuts off the light
-- Marjorie theme. Calming, relaxed
-- Marjorie-theme, calm
-- None
-- Panic!
-- Rumbling bass with shriek MARJORIE tunes, then: quiet.
-- The music gets dramatic and will culmulate when REBECA finds MARJORIE, then it underlines the shouting of REBECA and emotions of MARJORIE, ending with a dramatic MARJORIE theme line and a hard stop
-- back to "Night atmosphere"
-- horror string slide merging into a rumbling and hectic MARJORIE tune
-- none
+#### MUSIC: (stops)
+#### MUSIC: Brianna theme. Soft, calming
+#### MUSIC: CALVIN theme with a jazzy backtune
+#### MUSIC: Calvin theme, calm
+#### MUSIC: Calvin theme, changing between shrieking and hectic
+#### MUSIC: Calvin theme, hectic, chasing
+#### MUSIC: Calvin theme, shrieking
+#### MUSIC: Credits music. A happy and triumphant Marjorie theme
+#### MUSIC: Eerie, very few notes. "Night atmosphere". Not too scary though.
+#### MUSIC: Get's more eerie and downright scary
+#### MUSIC: Horror strings
+#### MUSIC: Marjorie theme, jazzy background
+#### MUSIC: Marjorie theme, will swell up during her monologue, then cut off when Marjorie shuts off the light
+#### MUSIC: Marjorie theme. Calming, relaxed
+#### MUSIC: Marjorie-theme, calm
+#### MUSIC: None
+#### MUSIC: Panic!
+#### MUSIC: Rumbling bass with shriek MARJORIE tunes, then: quiet.
+#### MUSIC: Stops
+#### MUSIC: The music gets dramatic and will culmulate when REBECA finds MARJORIE, then it underlines the shouting of REBECA and emotions of MARJORIE, ending with a dramatic MARJORIE theme line and a hard stop
+#### MUSIC: back to "Night atmosphere"
+#### MUSIC: eerie tunes from the Marjorie theme
+#### MUSIC: horror string slide merging into a rumbling and hectic MARJORIE tune
+#### MUSIC: none
 
 ### Sound effects and ambient noises
 
 Here's a list of all sound effect references in the game:
 
-- Dialtones
-- Dialtones, when buttons on phone are pressed
-- Door slam
-- Gunshot
-- Inserting an object
-- Object crashing on floor
-- Suitcase on bed, opening suitcase
-- Taking clothes
-- Unfolding paper
-- Unlock
-- Walking on wooden floor
-- We hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.
-- mobile keyboard sounds while typing the following
+#### SFX: Dialtones
+#### SFX: Door slam
+#### SFX: Drawer being opened and then closed
+#### SFX: Drawer closed
+#### SFX: Drawer open
+#### SFX: Gunshot
+#### SFX: Inserting an object
+#### SFX: Intro
+
+We hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.
+
+#### SFX: Object crashing on floor
+#### SFX: Screwing a bulb
+#### SFX: Suitcase on bed, opening suitcase
+#### SFX: Taking clothes
+#### SFX: Unfolding paper
+#### SFX: Unlock
+#### SFX: Walking on wooden floor
+#### SFX: closing drawer
+#### SFX: light switch
+#### SFX: mobile keyboard sounds while typing the following
+#### SFX: opening drawer
+
+Here's a list of ambient noises
+
+#### AMBIENT: (stop)
+#### AMBIENT: Eating sounds
+#### AMBIENT: Filling out a form
+#### AMBIENT: None
+#### AMBIENT: People eating
 
 ## Credits
 
