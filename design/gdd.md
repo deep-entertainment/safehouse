@@ -8,15 +8,11 @@ It covers all the details about the game’s concept, design, assets and story.
 
 ## Notes / Todo
 
-- [x] Complete abstract
-- [x] Complete characters
-- [x] Complete game structure
-- [x] Complete dialogs
 - [ ] Complete items descriptions and interactions
 - [ ] Complete location descriptions and interactions
-- [x] Complete puzzle 3.5
-- [x] Write puzzle 3.6
-- [x] Add the things Rebeca noticed about Calvin into the final dialog
+- [ ] Complete music descriptions
+- [ ] Complete sound descriptions
+- [ ] Complete ambient descriptions
 
 ## Short abstract
 
@@ -34,7 +30,9 @@ A mob murder witness is taken into a safe house by the police for five days befo
 
 ## Characters
 
-### *MARJORIE* Tailor, the main character
+### *MARJORIE*
+
+Marjorie Tailor, the main character
 
 *MARJORIE* is a black woman, aged 34. At the beginning of the game, she is calm and shy and insecure. Through the events in the game, she becomes confident and strong.
 
@@ -62,7 +60,9 @@ Throughout the game, she is scared (her fears growing with the events)
 
   - Pink shoes
 
-### *CALVIN* Andrews, a police officer
+### *CALVIN*
+
+Calvin Andrews, a police officer
 
 *CALVIN* is one of the two detectives that ought to protect *MARJORIE* in the safe house. However, he's actually also on Varone's payroll and staged the suicide of *JACOB* Grimes eighteen years ago. He tries to scare and eventually kill *MARJORIE* (which is only revealed on the last day)
 
@@ -88,7 +88,9 @@ Superficially, he's a nice and caring man in his 50s. Father-figure type. This i
 
   - Black shoes
 
-### *REBECA* Pliego, a police officer
+### *REBECA*
+
+Rebeca Pliego, a police officer
 
 *REBECA* is one of the two police officers that ought to protect *MARJORIE* in the safe house.
 
@@ -118,7 +120,9 @@ Because she finds about about *CALVIN*'s motives, she is killed by him on the fi
 
   - black shoes
 
-### *BRIANNA* Allison, district attorney
+### *BRIANNA*
+
+ Brianna Allison, district attorney
 
 *BRIANNA* is the district attorney in the case where *MARJORIE* is the key witness. She's a tough dog in the courtroom, but caring and cautious when she speaks to *MARJORIE*.
 
@@ -146,7 +150,9 @@ She doesn't have much character progression. Her character is used to tell the b
 
   - Black high heels
 
-### *IGINO* Varone, mob boss
+### *IGINO*
+
+Igino Varone, mob boss
 
 *IGINO* is the head of the New York City mafia. He's ruthless, mean, egocentric, and has a god complex.
 
@@ -174,7 +180,9 @@ He's only briefly seen in the game in a nightmare scene, but he's the glooming s
 
   - brown leather boots
 
-### *JACOB* Grimes, former witness (dead)
+### *JACOB*
+
+Jacob Grimes, former witness (dead)
 
 *JACOB* was a witness of another murder by *IGINO* killing an opposing drug dealer called Derek Cole eighteen years ago. He was found strangled while in witness protection. The death was labeled suicide, although it was staged by *CALVIN*.
 
