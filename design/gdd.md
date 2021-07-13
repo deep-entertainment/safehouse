@@ -1510,7 +1510,7 @@ Fadeout.
 
 The end. Roll the credits.
 
-## List of assets
+## Appendix
 
 ### Graphical assets
 
@@ -2365,9 +2365,9 @@ could never climb again.
 
 ### Music
 
-The idea for the music is, that the characters Marjorie, Calvin and Brianna have themes. Each of these themes have different variations and reprises, that are used throughout the game to gently hint which character is currently in focus of the game.
+The idea for the music is, that the characters Marjorie, Calvin and Brianna have themes. Each of these themes have different variations and reprises that are used throughout the game to gently hint which character is currently in focus of the game.
 
-The themes should reflect the characters personalities or functions in the game:
+The themes should reflect the character's personality or functions in the game:
 
 - Marjorie: caring, emotional. As Marjorie is the main character of the game, it should be the most "catchy" theme
 - Calvin: Calvin is a two-sided character. On the surface, he's caring and helpful, but under the surface lies a deeply immoral and greedy persona
@@ -2400,9 +2400,9 @@ Here's a list of all music references in the game (search for MUSIC:)
 #### MUSIC: horror string slide merging into a rumbling and hectic MARJORIE tune
 #### MUSIC: none
 
-### Sound effects and ambient noises
+### Sound effects
 
-Here's a list of all sound effect references in the game:
+Here's a list of all sound effect references in the game (search for SFX:):
 
 #### SFX: Dialtones
 #### SFX: Door slam
@@ -2427,7 +2427,11 @@ We hear a car driving over the pebbels of a driveway. The engine is turned off, 
 #### SFX: mobile keyboard sounds while typing the following
 #### SFX: opening drawer
 
-Here's a list of ambient noises
+### Ambients
+
+Ambient sounds are used as a backdrop in scenes and make the scene feel more natural.
+
+Here's a list of ambient sound references from the document (Search for AMBIENT:):
 
 #### AMBIENT: (stop)
 #### AMBIENT: Eating sounds
