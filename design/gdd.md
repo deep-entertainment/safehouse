@@ -30,71 +30,16 @@ A mob murder witness is taken into a safe house by the police for five days befo
 
 ## Characters
 
-### *MARJORIE*
-
-Marjorie Tailor, the main character
-
-*MARJORIE* is a black woman, aged 34. At the beginning of the game, she is calm and shy and insecure. Through the events in the game, she becomes confident and strong.
-
-Because *REBECA* is very rough to her, she begins to suspect, that she tries to scare her, but ultimatively, it's *CALVIN* that tries to attack her, and this gets settled in the very last scene.
-
-Throughout the game, she is scared (her fears growing with the events)
-
-- Age: 34
-
-- Gender: cis female
-
-- Height: 165 cm
-
-- Weight: 120 kg
-
-- Eyes: brown
-
-- Hair: Short, black
-
-- Skin tone: brown
-
-- Clothes:
-
-  - Blue short dress
-
-  - Pink shoes
-
-### *CALVIN*
-
-Calvin Andrews, a police officer
-
-*CALVIN* is one of the two detectives that ought to protect *MARJORIE* in the safe house. However, he's actually also on Varone's payroll and staged the suicide of *JACOB* Grimes eighteen years ago. He tries to scare and eventually kill *MARJORIE* (which is only revealed on the last day)
-
-Superficially, he's a nice and caring man in his 50s. Father-figure type. This is the (visual) progression that he goes through: Starting as nice and trustworthy and becoming mean and ruthless.
-
-- Age: 57
-
-- Gender: cis male
-
-- Height: 180cm
-
-- Weight: 90kg
-
-- Eyes: green
-
-- Hair: sparse, black/gray
-
-- Skin tone: gray
-
-- Clothes:
-
-  - Worn-out brown suit, light gray tie
-
-  - Black shoes
+- [[design/characters/marjorie.md|Marjorie]]
+- [[design/characters/calvin.md|Calvin]]
 
 ### *REBECA*
 
 Rebeca Pliego, a police officer
 
-*REBECA* is one of the two police officers that ought to protect *MARJORIE* in the safe house.
+*REBECA* is one of the two police officers that ought to protect [[marjorie]] in the safe house.
 
-She's young, rough and harsh and she's not really happy spending five days "babysitting" *MARJORIE* like she puts it. She comes from a family tradition of police officers, and her father and grandfather were highly renowned police officers.
+She's young, rough and harsh and she's not really happy spending five days "babysitting" [[marjorie]] like she puts it. She comes from a family tradition of police officers, and her father and grandfather were highly renowned police officers.
 
 After the event with the noose she gets suspcious of *CALVIN* and investigates behind his back which leads to a standoff of them two on day four.
 
@@ -122,13 +67,13 @@ Because she finds about about *CALVIN*'s motives, she is killed by him on the fi
 
 ### *BRIANNA*
 
- Brianna Allison, district attorney
+Brianna Allison, district attorney
 
-*BRIANNA* is the district attorney in the case where *MARJORIE* is the key witness. She's a tough dog in the courtroom, but caring and cautious when she speaks to *MARJORIE*.
+*BRIANNA* is the district attorney in the case where [[marjorie]] is the key witness. She's a tough dog in the courtroom, but caring and cautious when she speaks to [[marjorie]].
 
-She visits the house each day to prepare *MARJORIE* for her testimony.
+She visits the house each day to prepare [[marjorie]] for her testimony.
 
-She doesn't have much character progression. Her character is used to tell the back story of the murder through her talks with *MARJORIE*, and as the last safe resort and trust in the juridical system in the last scene.
+She doesn't have much character progression. Her character is used to tell the back story of the murder through her talks with [[marjorie]], and as the last safe resort and trust in the juridical system in the last scene.
 
 - Age: 42
 
@@ -156,7 +101,7 @@ Igino Varone, mob boss
 
 *IGINO* is the head of the New York City mafia. He's ruthless, mean, egocentric, and has a god complex.
 
-*MARJORIE* witnessed him shooting a shop owner in cold blood.
+[[marjorie]] witnessed him shooting a shop owner in cold blood.
 
 He's only briefly seen in the game in a nightmare scene, but he's the glooming shadow in the background throughout the game.
 
@@ -186,7 +131,7 @@ Jacob Grimes, former witness (dead)
 
 *JACOB* was a witness of another murder by *IGINO* killing an opposing drug dealer called Derek Cole eighteen years ago. He was found strangled while in witness protection. The death was labeled suicide, although it was staged by *CALVIN*.
 
-*CALVIN* weaves in the story of *JACOB* to scare *MARJORIE*, leaving scary notes and staging scary events. Jacob isn't actually seen in the game, but a picture of him could maybe be inserted in a report that *MARJORIE* finds online.
+*CALVIN* weaves in the story of *JACOB* to scare [[marjorie]], leaving scary notes and staging scary events. Jacob isn't actually seen in the game, but a picture of him could maybe be inserted in a report that [[marjorie]] finds online.
 
 - Age: 16
 
@@ -218,11 +163,11 @@ This is a short overview of the different scenes:
 
 #### Morning
 
-*MARJORIE*, *CALVIN* and *REBECA* arrive at the safe house in New Jersey. They make themselves at home. *MARJORIE* goes upstairs in her bedroom to unpack. She has smuggled a phone into the safe house and calls her mother, gets interrupted by *REBECA*, who screams at her, grabs her phone and storms off.
+[[marjorie]], *CALVIN* and *REBECA* arrive at the safe house in New Jersey. They make themselves at home. [[marjorie]] goes upstairs in her bedroom to unpack. She has smuggled a phone into the safe house and calls her mother, gets interrupted by *REBECA*, who screams at her, grabs her phone and storms off.
 
 #### Noon
 
-They talk over the dinner about what happened. *CALVIN* tries to comfort *MARJORIE*. *REBECA* is still irked at Marjorie.
+They talk over the dinner about what happened. *CALVIN* tries to comfort [[marjorie]]. *REBECA* is still irked at Marjorie.
 
 #### Afternoon
 
@@ -230,45 +175,45 @@ They talk over the dinner about what happened. *CALVIN* tries to comfort *MARJOR
 
 #### Evening
 
-*MARJORIE* goes up to her room to find a noose hanging from the ceiling. She screams, runs away and bumps into *CALVIN* in the hall. *CALVIN* calms her down, tells her to wait in the hall, goes into her room and quickly removes the noose (unknown to the player). At the same time, *REBECA* arrives and rushes up behind *CALVIN*.
+[[marjorie]] goes up to her room to find a noose hanging from the ceiling. She screams, runs away and bumps into *CALVIN* in the hall. *CALVIN* calms her down, tells her to wait in the hall, goes into her room and quickly removes the noose (unknown to the player). At the same time, *REBECA* arrives and rushes up behind *CALVIN*.
 
-*CALVIN* and *REBECA* come back and tell *MARJORIE* that there's no noose and she must have been hallucinating. *CALVIN* manages to calm her down. *REBECA* is strangely quiet and absent minded.
+*CALVIN* and *REBECA* come back and tell [[marjorie]] that there's no noose and she must have been hallucinating. *CALVIN* manages to calm her down. *REBECA* is strangely quiet and absent minded.
 
 ### Day 2
 
 #### Morning
 
-*MARJORIE*, *CALVIN* and *REBECA* eat breakfast. *CALVIN* reads the New York Standard. In the dialog, *MARJORIE* tries to gather more information about *IGINO* and La Famiglia.
+[[marjorie]], *CALVIN* and *REBECA* eat breakfast. *CALVIN* reads the New York Standard. In the dialog, [[marjorie]] tries to gather more information about *IGINO* and La Famiglia.
 
-After finishing the breakfast, *MARJORIE* goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads her to the combination of the padlock on the drawer in her room.
+After finishing the breakfast, [[marjorie]] goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads her to the combination of the padlock on the drawer in her room.
 
 She opens the lock with it and finds the fake diary of *JACOB* Grimes. Downstairs, she finds *REBECA* and talks to her. She reveals that *JACOB* Grimes was found dead 18 years ago. (It is not yet revealed, that *JACOB* hung himself or that *CALVIN* was assigned to that case)
 
-As *REBECA* doesn't tell her more, *MARJORIE* wants to investigate. She needs her phone for that.
+As *REBECA* doesn't tell her more, [[marjorie]] wants to investigate. She needs her phone for that.
 
-*REBECA* sits on the couch, *MARJORIE*'s phone sticking out of one of her pockets. *MARJORIE* needs to walk into the kitchen and look through the hatch to get it in the right moment.
+*REBECA* sits on the couch, [[marjorie]]'s phone sticking out of one of her pockets. [[marjorie]] needs to walk into the kitchen and look through the hatch to get it in the right moment.
 
-*MARJORIE*'s SIM is gone, so she needs wifi. There actually is wifi in the house used by the detectives, but it's locked.
+[[marjorie]]'s SIM is gone, so she needs wifi. There actually is wifi in the house used by the detectives, but it's locked.
 
-*MARJORIE* traces the wifi signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
+[[marjorie]] traces the wifi signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
 
 She logs into the wifi and searches for "*JACOB* Grimes" to find that he had hung himself in her room 18 years ago and that *CALVIN* was assigned to that case.
 
 #### Afternoon
 
-*BRIANNA* visits and *MARJORIE* asks her about *JACOB*'s story.
+*BRIANNA* visits and [[marjorie]] asks her about *JACOB*'s story.
 
 #### Night
 
-*MARJORIE* wakes up from a sound, sits up in her bed and sees *IGINO* in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's early morning in day 3.
+[[marjorie]] wakes up from a sound, sits up in her bed and sees *IGINO* in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's early morning in day 3.
 
 ### Day 3
 
 #### Early morning
 
-*MARJORIE* sits in her bed. Her room is dark, only the dim light of the windows sheds some light into their side of the room.
+[[marjorie]] sits in her bed. Her room is dark, only the dim light of the windows sheds some light into their side of the room.
 
-*MARJORIE* gets up to find the light switch, but the lamp can't be turned on since the bulb has blown.
+[[marjorie]] gets up to find the light switch, but the lamp can't be turned on since the bulb has blown.
 
 She finds the lamp, but it's too high for her. She finds a stepladder in one cupboard of the kitchen and uses it to get to the lamp.
 
@@ -284,11 +229,11 @@ She wants to investigate if somebody left fingerprints there. She suspects *REBE
 
 #### Morning
 
-*MARJORIE* and *CALVIN* sit and eat breakfast. *REBECA* is at the now open cupboard in the living room. *CALVIN* tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
+[[marjorie]] and *CALVIN* sit and eat breakfast. *REBECA* is at the now open cupboard in the living room. *CALVIN* tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
 
-As they are eating, *MARJORIE* tries to grill *REBECA* to find out wether she tries to scare her. At the same time, *REBECA* tries to test Calvin to find out more. They get into an argument. *CALVIN* gets in between them and something he says triggers something in *REBECA*, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
+As they are eating, [[marjorie]] tries to grill *REBECA* to find out wether she tries to scare her. At the same time, *REBECA* tries to test Calvin to find out more. They get into an argument. *CALVIN* gets in between them and something he says triggers something in *REBECA*, so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
 
-After breakfast, *MARJORIE* again takes the dishes to the kitchen. She wonders why the supplies seem to be fully stocked.
+After breakfast, [[marjorie]] again takes the dishes to the kitchen. She wonders why the supplies seem to be fully stocked.
 
 In the trash she finds a make-up brush.
 
@@ -298,11 +243,11 @@ As she's back in her room after getting all the things, *BRIANNA* arrives and sh
 
 #### Noon
 
-*BRIANNA* visits and *MARJORIE* questions her about *REBECA*.
+*BRIANNA* visits and [[marjorie]] questions her about *REBECA*.
 
 #### Evening
 
-In the meantime, *REBECA* is back. *MARJORIE* gets the fingerprints from the hook and tricks *REBECA* into drinking from a glass that *MARJORIE* snatches and gets her fingerprints off.
+In the meantime, *REBECA* is back. [[marjorie]] gets the fingerprints from the hook and tricks *REBECA* into drinking from a glass that [[marjorie]] snatches and gets her fingerprints off.
 
 She compares the fingerprints, and they match. She's now convinced that *REBECA* is trying to scare her.
 
@@ -310,7 +255,7 @@ She compares the fingerprints, and they match. She's now convinced that *REBECA*
 
 #### Early morning
 
-*MARJORIE* wakes up to the sound of a fight. She walks down to find *CALVIN* shooting *REBECA*. *CALVIN* turns around and comes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
+[[marjorie]] wakes up to the sound of a fight. She walks down to find *CALVIN* shooting *REBECA*. *CALVIN* turns around and comes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
 
 *CALVIN* first tries to sweet-talk her, but ultimatively looses his nerves and screams at her. He shoots and pushes against the door. The cupboard moves and the door opens. *CALVIN* comes in, but is gunned down by the wounded *REBECA*, who breaks down.
 
@@ -318,7 +263,7 @@ She compares the fingerprints, and they match. She's now convinced that *REBECA*
 
 #### Afternoon
 
-*MARJORIE* sits with *BRIANNA*. They talk about *CALVIN*. In the end, *MARJORIE* confirms to *BRIANNA* that she will appear in court and make her testimony.
+[[marjorie]] sits with *BRIANNA*. They talk about *CALVIN*. In the end, [[marjorie]] confirms to *BRIANNA* that she will appear in court and make her testimony.
 
 The end.
 
@@ -341,7 +286,7 @@ Starting credits:
 - VA Brianna
 - Safe House
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > So... this is it?
 
@@ -353,9 +298,9 @@ Fade in.
 
 ### DAY1 - HALL - MORNING
 
-*MARJORIE*, *CALVIN* and *REBECA* stand in the `HALL`, in front of the `front_door`. We see a bagpack, a bag and a `suitcase` in front of them. The bagpack belongs to *CALVIN*, the bag to *REBECA* and the `suitcase` to *MARJORIE*.
+[[marjorie]], *CALVIN* and *REBECA* stand in the `HALL`, in front of the `front_door`. We see a bagpack, a bag and a `suitcase` in front of them. The bagpack belongs to *CALVIN*, the bag to *REBECA* and the `suitcase` to [[marjorie]].
 
-They stand there for a few seconds, looking around. *MARJORIE* is frightened, she is taking in the uncommon surroundings. *REBECA* is annoyed, she is filling out a form.
+They stand there for a few seconds, looking around. [[marjorie]] is frightened, she is taking in the uncommon surroundings. *REBECA* is annoyed, she is filling out a form.
 
 *AMBIENT: Filling out a form*
 
@@ -373,17 +318,17 @@ They stand there for a few seconds, looking around. *MARJORIE* is frightened, sh
 
 (beat)
 
-*CALVIN* looks at *MARJORIE*, nods friendly. *MARJORIE* tries a smile. *CALVIN* takes his bagpack and walks off to the `LIVING_ROOM` as well.
+*CALVIN* looks at [[marjorie]], nods friendly. [[marjorie]] tries a smile. *CALVIN* takes his bagpack and walks off to the `LIVING_ROOM` as well.
 
 *SFX: Walking on wooden floor*
 
-*MARJORIE* grabs her `suitcase`.
+[[marjorie]] grabs her `suitcase`.
 
 ### DAY1 - BEDROOM - MORNING
 
 *MUSIC: Marjorie theme. Calming, relaxed*
 
-*MARJORIE* enters the `BEDROOM`, looks around, then puts her `suitcase` on the `bedroom_bed`, opens it.
+[[marjorie]] enters the `BEDROOM`, looks around, then puts her `suitcase` on the `bedroom_bed`, opens it.
 
 *SFX: Suitcase on bed, opening suitcase*
 
@@ -393,7 +338,7 @@ They stand there for a few seconds, looking around. *MARJORIE* is frightened, sh
 
 Click on the `suitcase`. Switch to `CLOSEUP_SUITCASE`
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Well. Time to unpack I guess.
 
@@ -407,20 +352,21 @@ Click (unpack) the items in the `suitcase`. Those items are presented in order:
 
 - Pants (*SFX: Taking clothes*)
 
-When *MARJORIE* unpacks the pants, her `smartphone` falls out and smashes on the floor into four pieces: (*SFX: Object crashing on floor*)
+When [[marjorie]] unpacks the pants, her `smartphone` falls out and smashes on the floor into four pieces: (*SFX: Object crashing on floor*)
 
 - `smartphone_incomplete`
 
 - `battery`
 
 - `cover`
-- 
+
+-
 
 - `simcard`
 
 They slide in all directions.
 
-> *MARJORIE* (shouts)
+> [[marjorie]] (shouts)
 >
 > DAMN.
 
@@ -433,7 +379,7 @@ Find the four items by examining the things in the `BEDROOM`:
 - `bedroom_nightstand`
 - `bedroom_stool`
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > I think that's all.
 
@@ -445,7 +391,7 @@ Combine the items with the `smartphone_incomplete`:
 
 - `cover` (*SFX: Inserting an object*)
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > There. It works again.
 >
@@ -465,7 +411,7 @@ Click the `suitcase` again and unpack further. Following items are unpacked:
 
 - `purse` (*SFX: Taking clothes*)
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Ah, there's my purse. I had already packed it!
 
@@ -473,7 +419,7 @@ Open the `purse`. Switch to `CLOSEUP_PURSE`
 
 Take the `hairpin` and use it to reset the `smartphone`.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > It's a bit too big for the hole, a paper clip would be better. (beat) But... (tries) yes, it works.
 >
@@ -491,7 +437,7 @@ Find the note in the `purse`.
 
 Using 4872 as the pin yields:
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > No, that's my credit card pin. I can remember that, because I use it more often.
 
@@ -503,9 +449,9 @@ Using RUBE(=7823) as the pin solves the puzzle
 
 *MUSIC: The music gets dramatic and will culmulate when REBECA finds MARJORIE, then it underlines the shouting of REBECA and emotions of MARJORIE, ending with a dramatic MARJORIE theme line and a hard stop*
 
-*MARJORIE* dials (*SFX: Dialtones*). After some moments, we hear:
+[[marjorie]] dials (*SFX: Dialtones*). After some moments, we hear:
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (very emotional) Mom? (beat) Hi, Mom. Yes, we arrived. (beat) Oh, it's okay, I guess. We're...
 
@@ -513,7 +459,7 @@ We hear *REBECA* from the outside:
 
 > *REBECA*
 >
-> *MARJORIE*, I have some shee...
+> [[marjorie]], I have some shee...
 
 *REBECA* has entered the door and sees her on the phone.
 
@@ -521,7 +467,7 @@ We hear *REBECA* from the outside:
 >
 > (shouting) You idiot!
 
-She rushes to *MARJORIE*, grabs the `smartphone`, rips of the `simcard`, throws it out of the window and hides the `smartphone`. *MARJORIE* starts to cry.
+She rushes to [[marjorie]], grabs the `smartphone`, rips of the `simcard`, throws it out of the window and hides the `smartphone`. [[marjorie]] starts to cry.
 
 > *REBECA*
 >
@@ -533,13 +479,13 @@ She walks up and down the room.
 >
 > (shouting) NOT only that I WASTE MY TIME AND FUCKING RISK MY LIFE babysitting her, she goes about and brings a FUCKING PHONE TO HER SAFE HOUSE.
 
-She turns around, pointing at *MARJORIE*
+She turns around, pointing at [[marjorie]]
 
 > *REBECA*
 >
 > (getting really mean) Do you want him to kill you right away? We could all save some time in that case.
 
-(beat, we hear *MARJORIE* sobbing)
+(beat, we hear [[marjorie]] sobbing)
 
 > *REBECA*
 >
@@ -551,7 +497,7 @@ She exists the room, slamming the door. (*SFX: Door slam*, *MUSIC: Stops*)
 
 ### DAY1 - LIVING ROOM - NOON
 
-*MARJORIE*, *REBECA* and *CALVIN* are sitting on the `living_room_table`, eating takeaway chinese food. `day1_leftovers` and `day1_dishes` are on the `living_room_table`. The mood is tense.
+[[marjorie]], *REBECA* and *CALVIN* are sitting on the `living_room_table`, eating takeaway chinese food. `day1_leftovers` and `day1_dishes` are on the `living_room_table`. The mood is tense.
 
 *AMBIENT: People eating*
 
@@ -585,7 +531,7 @@ She exists the room, slamming the door. (*SFX: Door slam*, *MUSIC: Stops*)
 >
 > Key to that, is that nobody knows where you are. You understand?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shy) ...Yes.
 
@@ -599,17 +545,17 @@ She exists the room, slamming the door. (*SFX: Door slam*, *MUSIC: Stops*)
 >
 > (Cont'd) Come to me. We're here for you if you need anything, okay?
 
-*CALVIN* smiles at *MARJORIE*.
+*CALVIN* smiles at [[marjorie]].
 
-*MARJORIE* shyly smiles back.
+[[marjorie]] shyly smiles back.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Thank you.
 
-*MARJORIE* turns to *REBECA*.
+[[marjorie]] turns to *REBECA*.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > And I'm sorry. Bringing the phone really was a dumb idea. I just... I just miss my mom and yes, this is all very creepy for me.
 
@@ -623,9 +569,9 @@ She exists the room, slamming the door. (*SFX: Door slam*, *MUSIC: Stops*)
 
 They have finished eating.
 
-*MARJORIE* rises.
+[[marjorie]] rises.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > You know what? Let me handle this.
 
@@ -653,7 +599,7 @@ The player is free to roam the house. They should do the following to continue:
 
 *MUSIC: *BRIANNA* theme. Soft, calming*
 
-*MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
+[[marjorie]] sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. [[marjorie]] is nervous.
 
 [They talk.](dialogs/brianna1.md)
 
@@ -667,9 +613,9 @@ Fadeout
 
 *CALVIN* and *REBECA* sit on opposite ends of the sofa with *CALVIN* sitting closer to the hall.
 
-*MARJORIE* stands behind them.
+[[marjorie]] stands behind them.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (yawns) Allright, I'm off to bed. Have a good night.
 
@@ -681,19 +627,19 @@ Fadeout
 >
 > Bye.
 
-*MARJORIE* exits the `LIVING_ROOM`, goes through the `HALL`, up the stairs, through the `UPPER_HALL` into the `BEDROOM` to find...
+[[marjorie]] exits the `LIVING_ROOM`, goes through the `HALL`, up the stairs, through the `UPPER_HALL` into the `BEDROOM` to find...
 
 A noose dangling from the lamp.
 
 *MUSIC: horror string slide merging into a rumbling and hectic MARJORIE tune*
 
-*MARJORIE* screams, then runs out of the `BEDROOM`, through the `UPPER_HALL`, down the stairs. In the `HALL`, she bumps into *CALVIN*.
+[[marjorie]] screams, then runs out of the `BEDROOM`, through the `UPPER_HALL`, down the stairs. In the `HALL`, she bumps into *CALVIN*.
 
 > *CALVIN*
 >
 > (concerned) What is it?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (freaked out, shouting) There's a noose in my room! Oh my god!
 
@@ -703,7 +649,7 @@ A noose dangling from the lamp.
 >
 > (tense) A noose?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shouting) Yes. By the lamp. Oh my *God*.
 
@@ -715,7 +661,7 @@ A noose dangling from the lamp.
 >
 > Marjorie?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Yes?
 
@@ -723,9 +669,9 @@ A noose dangling from the lamp.
 >
 > Can you come up please?
 
-*MARJORIE* climbs the stairs, passes the `UPPER_HALL` to see *CALVIN* and *REBECA* in the `BEDROOM`, but no noose. *CALVIN* is panting, but calm. *REBECA* is looking at *CALVIN* with an irritated look.
+[[marjorie]] climbs the stairs, passes the `UPPER_HALL` to see *CALVIN* and *REBECA* in the `BEDROOM`, but no noose. *CALVIN* is panting, but calm. *REBECA* is looking at *CALVIN* with an irritated look.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > What the?
 
@@ -733,7 +679,7 @@ A noose dangling from the lamp.
 >
 > Marjorie? Is everything alright?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (starts to cry, shouts) There was a noose! A fucking noose! I'm not crazy!
 
@@ -741,13 +687,13 @@ A noose dangling from the lamp.
 >
 > (goes to her, embraces her) It's okay, it's okay.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (into his jacket, distressed) I'm not crazy. It was there.
 
 *REBECA* snaps out, then exits the room. *CALVIN* looks after her.
 
-*MARJORIE* sobs.
+[[marjorie]] sobs.
 
 *Fadeout*
 
@@ -759,17 +705,17 @@ A noose dangling from the lamp.
 
 *AMBIENT: Eating sounds*
 
-*MARJORIE*, *CALVIN* and *REBECA* are having breakfast at the table. There's toast, scrambled eggs, bacon and jam. The bacon is next to *REBECA*. *CALVIN* reads a "New York Standard" paper and randomly sips from a cup of coffee, *REBECA* is eating Muesli out of a bowl and staring out of the window. *MARJORIE* tries to make conversation.
+[[marjorie]], *CALVIN* and *REBECA* are having breakfast at the table. There's toast, scrambled eggs, bacon and jam. The bacon is next to *REBECA*. *CALVIN* reads a "New York Standard" paper and randomly sips from a cup of coffee, *REBECA* is eating Muesli out of a bowl and staring out of the window. [[marjorie]] tries to make conversation.
 
 A [dialog](dialogs/day2breakfast.md) unfolds.
 
 *Cutscene starts*
 
-After it, we fade out, and fade in again. *REBECA* now sits against the wall with the hatch, reading a file. *CALVIN* has put the paper on the desk and reads. *MARJORIE* stands. `day2_dishes` and the `day2_leftovers` are on the `living_room_table`.
+After it, we fade out, and fade in again. *REBECA* now sits against the wall with the hatch, reading a file. *CALVIN* has put the paper on the desk and reads. [[marjorie]] stands. `day2_dishes` and the `day2_leftovers` are on the `living_room_table`.
 
 *MUSIC: Marjorie-theme, calm*
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Let me put myself to use and clean this up.
 
@@ -797,7 +743,7 @@ Go to the `LIVING_ROOM`. *CALVIN* is gone. [Talk to *REBECA*](dialogs/rebeca2.md
 
 #### PUZZLE 2.2: Getting the phone back
 
-Go into the `KITCHEN` and look through the `kitchen_hatch`. The scene is switched to `LIVING_ROOM` with *MARJORIE* looking through the `living_room_hatch`. Wait for the right moment to snatch the `smartphone` out of *REBECA*s `pocket`.
+Go into the `KITCHEN` and look through the `kitchen_hatch`. The scene is switched to `LIVING_ROOM` with [[marjorie]] looking through the `living_room_hatch`. Wait for the right moment to snatch the `smartphone` out of *REBECA*s `pocket`.
 
 #### PUZZLE 2.3: Finding the wifi router
 
@@ -813,7 +759,7 @@ Entering the password as-is into the `smartphone` doesn't work though.
 
 In the `kitchen_trash_can` you find the `password_note`, which, mentally combined with the password under the `upper_hall_wifi_router`,  reveals the actual wifi password. Enter it into the `smartphone` to connect to the wifi.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > There. Now, let's see what happened to Jacob Grimes. (pause)
 >
@@ -825,13 +771,13 @@ In the `kitchen_trash_can` you find the `password_note`, which, mentally combine
 >
 > "His body was found in his bedroom, where he apparently had hung himself. 'We can only assume, that the pressure and stress of the events affected him more than we realized. I deeply regret that we couldn't foresee this and help Jacob more', says (stops) Detective Calvin Andrews."
 
-*MARJORIE*  puts down the `smartphone`. Blackout.
+[[marjorie]]  puts down the `smartphone`. Blackout.
 
 ### DAY 2 - AFTERNOON - LIVING ROOM
 
 *MUSIC: Brianna theme. Soft, calming*
 
-*MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
+[[marjorie]] sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. [[marjorie]] is nervous.
 
 [They talk.](dialogs/brianna2.md)
 
@@ -843,11 +789,11 @@ In the `kitchen_trash_can` you find the `password_note`, which, mentally combine
 
 *AMBIENT: None*
 
-It's night. We see the `BEDROOM` only lit from the windows to the left. We see part of the bed with very hard shadows. *MARJORIE* lies in the bed. After a few seconds, Marjorie wakes up and rises in bed.
+It's night. We see the `BEDROOM` only lit from the windows to the left. We see part of the bed with very hard shadows. [[marjorie]] lies in the bed. After a few seconds, Marjorie wakes up and rises in bed.
 
 *SOUND: Creaking bed*
 
-Suddenly, the bedroom is lit up, we see *IGINO* standing in the door, slowly rising a gun. *MARJORIE* opens her mouth as if to scream, but no scream is heard.
+Suddenly, the bedroom is lit up, we see *IGINO* standing in the door, slowly rising a gun. [[marjorie]] opens her mouth as if to scream, but no scream is heard.
 
 *MUSIC: Panic!*
 
@@ -857,9 +803,9 @@ We switch back to the dark `BEDROOM` and barely see the small explosion of the l
 
 *MUSIC: None*
 
-*MARJORIE* startles up, screams. Then realizes, that she's safe. *MARJORIE* rises. She tries to turn on the `bedroom_lamp` using the `bedroom_light_switch` (*SFX: light switch*), which doesn't work.
+[[marjorie]] startles up, screams. Then realizes, that she's safe. [[marjorie]] rises. She tries to turn on the `bedroom_lamp` using the `bedroom_light_switch` (*SFX: light switch*), which doesn't work.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Hm. I guess the bulb's dead.
 
@@ -869,7 +815,7 @@ We switch back to the dark `BEDROOM` and barely see the small explosion of the l
 
 #### PUZZLE 3.1 - Fixing the lamp
 
-Go into the `KITCHEN`, get the `stepladder` from the `kitchen_left_cupboard`. Use the `stepladder` with the `bedroom_lamp`. *MARJORIE* walks up the `stepladder` and unscrews the `broken_bulb`.
+Go into the `KITCHEN`, get the `stepladder` from the `kitchen_left_cupboard`. Use the `stepladder` with the `bedroom_lamp`. [[marjorie]] walks up the `stepladder` and unscrews the `broken_bulb`.
 
 You can use the `broken_bulb` with all the lights in the house. Only the bulb from the `hall_lamp` matches. But it's too hot to touch. Find a `cloth` in the `KITCHEN` and use it to unscrew the `bulb`.
 
@@ -879,9 +825,9 @@ Screw the `bulb` into the `bedroom_lamp`
 
 *MUSIC: Get's more eerie and downright scary*
 
-The light flashes on and *MARJORIE* gasps, startles, leans back and falls down the `stepladder` onto the floor.
+The light flashes on and [[marjorie]] gasps, startles, leans back and falls down the `stepladder` onto the floor.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > What the?
 
@@ -889,7 +835,7 @@ She rises again, climbs the `stepladder` again and looks up. The screen switches
 
 *MUSIC: Horror strings*
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > That's... that's the hook the noose was hanging from. Are you fucking kidding me?
 >
@@ -911,13 +857,13 @@ Use the `magnifying_glass` with the `tiny_thing` on the hook.
 
 *MUSIC: Marjorie theme, will swell up during her monologue, then cut off when Marjorie shuts off the light*
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > What. The. Fuck? That's hemp. So there *was* an actual noose hanging here?
 
-*MARJORIE* climbs down the ladder and goes up and down the room.
+[[marjorie]] climbs down the ladder and goes up and down the room.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > I can't believe it. That's... (back and forth)
 >
@@ -933,7 +879,7 @@ Use the `magnifying_glass` with the `tiny_thing` on the hook.
 
 Blackout.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Me.
 
@@ -941,7 +887,7 @@ Blackout.
 
 *MUSIC: Marjorie theme, jazzy background*
 
-*MARJORIE* and *CALVIN* sit and eat breakfast. *REBECA* is at the now open `living_room_cupboard` making it `living_room_cupboard_unlocked`, fiddling around with its contents.
+[[marjorie]] and *CALVIN* sit and eat breakfast. *REBECA* is at the now open `living_room_cupboard` making it `living_room_cupboard_unlocked`, fiddling around with its contents.
 
 > *CALVIN*
 >
@@ -973,7 +919,7 @@ A [dialog](dialogs/day3breakfast.md) unfolds.
 >
 > (louder) *Ladies!*
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shouting) Oh, I'd grow up if you would be more empathic than a block of...
 
@@ -1001,7 +947,7 @@ Quiet. *REBECA* stares at *CALVIN*. Seconds pass.
 >
 > I'm... I'm sorry.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > No, please. I'm sorry. This was... I was...
 
@@ -1011,7 +957,7 @@ Quiet. *REBECA* stares at *CALVIN*. Seconds pass.
 
 Seconds pass. *CALVIN* starts to clean the table.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Ah, you know what? Why don't you sit down, and I take care of the dishes again? As an apology.
 
@@ -1019,7 +965,7 @@ Seconds pass. *CALVIN* starts to clean the table.
 >
 > You don't need to apologize, you know?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Thank you, but still... I just need something to do.
 
@@ -1049,7 +995,7 @@ Go to the `BEDROOM`.
 
 Marjorie takes a look at the lamp, sighs.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > *Coming!*
 
@@ -1057,7 +1003,7 @@ Marjorie takes a look at the lamp, sighs.
 
 *MUSIC: Brianna theme. Soft, calming*
 
-*MARJORIE* sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. *MARJORIE* is nervous.
+[[marjorie]] sits on the sofa with *BRIANNA*. *BRIANNA*'s open suitcase lies on the couch table, *BRIANNA* opened a big folder on her lap. [[marjorie]] is nervous.
 
 [They talk](dialogs/brianna3.md).
 
@@ -1065,17 +1011,17 @@ Marjorie takes a look at the lamp, sighs.
 
 *REBECA* reenters the `LIVING_ROOM`, she seems confused.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (suspicious) Got everything you wanted? (referring to getting groceries)
 
-*REBECA* subtly startles and looks at *MARJORIE*
+*REBECA* subtly startles and looks at [[marjorie]]
 
 > *REBECA*
 >
 > Huh?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > The groceries?
 
@@ -1133,7 +1079,7 @@ Give `makeshift_virgin_mary` to *REBECA*.
 >
 > Huh? What? Is that...
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > A makeshift Virgin Mary. As a peace offer.
 
@@ -1141,7 +1087,7 @@ Give `makeshift_virgin_mary` to *REBECA*.
 >
 > That's... That's genuinely nice. Thank you.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > You're welcome.
 
@@ -1151,7 +1097,7 @@ Give `makeshift_virgin_mary` to *REBECA*.
 >
 > Not as good as in my favorite club, but still very good. Thanks, Marjorie.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Here, let me take that.
 
@@ -1166,7 +1112,7 @@ This puzzle consists of two panes (the two tapes with fingerprints). One of the 
 
 *Cutscene starts*
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > They... they match.
 >
@@ -1180,17 +1126,17 @@ Fadeout.
 
 *MUSIC: none*
 
-We fadein to the night view of the `BEDROOM` and see *MARJORIE* sleeping.
+We fadein to the night view of the `BEDROOM` and see [[marjorie]] sleeping.
 
-After some seconds, we hear glass breaking downstairs and *MARJORIE* startles up.
+After some seconds, we hear glass breaking downstairs and [[marjorie]] startles up.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (to herself) What the?
 
 We hear muffled shouts from downstairs.
 
-*MARJORIE* gets up.
+[[marjorie]] gets up.
 
 *Cutscene ends*
 
@@ -1204,7 +1150,7 @@ Go down into the `LIVING_ROOM` to see light in the kitchen and the door opened. 
 >
 > (shouting) What the fuck, Calvin? You're a cop! Doesn't that mean anything to you?
 
-*MARJORIE* ducks down and slowly approaches the kitchen.
+[[marjorie]] ducks down and slowly approaches the kitchen.
 
 > *CALVIN*
 >
@@ -1214,7 +1160,7 @@ Go down into the `LIVING_ROOM` to see light in the kitchen and the door opened. 
 >
 > (shouting) And that would make you switch sides? Money? Come on, Calvin! That's so cliché!
 
-*MARJORIE* reaches the kitchen and we switch to the `KITCHEN` with her looking in. *REBECA* has backed up to the right side of the screen. *CALVIN* is in the middle of the room.
+[[marjorie]] reaches the kitchen and we switch to the `KITCHEN` with her looking in. *REBECA* has backed up to the right side of the screen. *CALVIN* is in the middle of the room.
 
 > *CALVIN*
 >
@@ -1228,7 +1174,7 @@ Go down into the `LIVING_ROOM` to see light in the kitchen and the door opened. 
 >
 > (suddenly calm, diabolic) Oh, I made sure nobody would find out. At least nobody alive...
 
-*CALVIN* raises a gun at *REBECA*. *MARJORIE* screams. We quickly switch back to the `LIVING_ROOM`. A shot is heard.
+*CALVIN* raises a gun at *REBECA*. [[marjorie]] screams. We quickly switch back to the `LIVING_ROOM`. A shot is heard.
 
 *MUSIC: Calvin theme, hectic, chasing*
 
@@ -1246,7 +1192,7 @@ Go through the `HALL`, the `UPPER_HALL` into the `BEDROOM`. Close the `bedroom_d
 
 *MUSIC: Calvin theme, changing between shrieking and hectic*
 
-*MARJORIE* goes to the left of her room. Then we hear *CALVIN* banging on the `bedroom_door`.
+[[marjorie]] goes to the left of her room. Then we hear *CALVIN* banging on the `bedroom_door`.
 
 > *CALVIN*
 >
@@ -1266,7 +1212,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > (shouting) Let's face it, Mister Varone won't accept your blabbermouth in court!
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shouting) I trusted you, Calvin!
 
@@ -1276,7 +1222,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > (shouting) Yeah, like I said, I'm sorry!
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shouting) You killed Rebeca!
 
@@ -1284,7 +1230,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > (shouting) She was getting too close! She was getting suspicious...
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shouting) She knew that you are a fucking bastard!
 
@@ -1294,7 +1240,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > Well, a man's gotta provide for himself!
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shouting) Did you kill Jacob too?
 
@@ -1308,7 +1254,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > He just didn't get the message, that little punk.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shouting) Why did you have to kill them?
 
@@ -1322,7 +1268,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > It's the same with you. Why didn't you just chicken out like they usually do?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (shouting) Usually?
 >
@@ -1340,7 +1286,7 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 
 *CALVIN* raises his gun.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (cries out) NO!
 
@@ -1348,9 +1294,9 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > You should have just been so petrified that you'd retract your testimony. But you're too stubborn for your own good.
 
-*CALVIN* points his gun at *MARJORIE*.
+*CALVIN* points his gun at [[marjorie]].
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (cries) nooo.
 
@@ -1360,13 +1306,13 @@ Seconds pass, *CALVIN* banging on the `bedroom_door`.
 >
 > Goodbye, Marjorie.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > NO!
 
 The screen flashes white, a *SFX: Gunshot* is heard.
 
-We see the `BEDROOM` again. *CALVIN* still stands in the middle of the room, with the raised gun. *MARJORIE* is on the left.
+We see the `BEDROOM` again. *CALVIN* still stands in the middle of the room, with the raised gun. [[marjorie]] is on the left.
 
 Suddenly *CALVIN* lowers his arm, we see blood on his shirt, he goes to his knees and then breaks down.
 
@@ -1376,7 +1322,7 @@ Blackout.
 
 ### DAY 5 - BLACK SCREEN
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (spoken as in the intro) So this is it?
 
@@ -1388,9 +1334,9 @@ Blackout.
 
 ### DAY 5 - NOON - COURTHOUSE ROOM
 
-We see the `COURTHOUSE_ROOM`. *MARJORIE* sits on one end of the table, *BRIANNA* beside her.
+We see the `COURTHOUSE_ROOM`. [[marjorie]] sits on one end of the table, *BRIANNA* beside her.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (exhales)
 
@@ -1398,7 +1344,7 @@ We see the `COURTHOUSE_ROOM`. *MARJORIE* sits on one end of the table, *BRIANNA*
 >
 > You okay?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Yes, I guess.
 
@@ -1406,7 +1352,7 @@ We see the `COURTHOUSE_ROOM`. *MARJORIE* sits on one end of the table, *BRIANNA*
 >
 > I'm so sorry about what happen...
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > It's okay, Brianna.
 
@@ -1414,7 +1360,7 @@ We see the `COURTHOUSE_ROOM`. *MARJORIE* sits on one end of the table, *BRIANNA*
 >
 > I just don't understand how Calvin could do that all those times. This is a disaster.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > No doubt.
 
@@ -1422,13 +1368,13 @@ We see the `COURTHOUSE_ROOM`. *MARJORIE* sits on one end of the table, *BRIANNA*
 >
 > And we have to revisit all the old cases. Each and every one where the witness bailed out in the last second. And that's a lot.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > All because of that fuck.
 
 Silence.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Oh, how's Rebeca?
 
@@ -1436,7 +1382,7 @@ Silence.
 >
 > She is... recovering. She sends her regards.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (surprised) She did?
 
@@ -1444,13 +1390,13 @@ Silence.
 >
 > Yeah. Specifically, she said "Kick this fucker's ass!"
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (laughs) Yeah, that sounds more like her.
 
 They laugh.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > She saved my life.
 
@@ -1460,7 +1406,7 @@ They laugh.
 >
 > And then Calvin said something about locking you up.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (nodding) When we were fighting. I remember.
 
@@ -1468,7 +1414,7 @@ They laugh.
 >
 > Yes, and it came to Rebecas mind, that Jacob was locked up as well and then she really got suspicious and started to investigate.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > (to herself) The groceries!
 
@@ -1476,7 +1422,7 @@ They laugh.
 >
 > What?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Rebeca said she was about to get groceries but the cupboards were full. She was investigating then.
 
@@ -1484,7 +1430,7 @@ They laugh.
 >
 > Yeah and the next morning they got into a... fight. But you know the details.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Yes. (pause)
 >
@@ -1494,7 +1440,7 @@ They laugh.
 >
 > I guess she did some investigating of her own there.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > I guess so.
 
@@ -1504,7 +1450,7 @@ Pause.
 >
 > You're ready?
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > Yeah.
 >
@@ -1530,13 +1476,9 @@ A smartphone battery from a phone where you can actually switch batteries.
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > It's the battery from my phone.
-
-- Use
-
-  n/a
 
 ##### `bedroom_bed`
 
@@ -1544,7 +1486,7 @@ A very basic bed with a wooden frame, a white mattress, white pillow and a red b
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > My bed. The mattress is too soft, it hurts my back.
 
@@ -1556,7 +1498,7 @@ A very basic bed with a wooden frame, a white mattress, white pillow and a red b
 
 - Use
 
-  > *MARJORIE*
+  > [[marjorie]]
   > I'm not sleepy right now.
 
 ##### `bedroom_door`
@@ -1565,7 +1507,7 @@ The door to Marjorie's bedroom. We need an open and closed state here. The open 
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   > This leads to the upper hall.
 
 - Use
@@ -1578,11 +1520,11 @@ A sturdy, metallic hook.
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   > Creepy.
 
 - Use
-  > *MARJORIE*
+  > [[marjorie]]
   > (creeped out) No thank you.
 
 ##### `bedroom_lamp`
@@ -1593,23 +1535,23 @@ A hanging lamp with a lampshade that hides a sturdy hook that the lamp is attach
 
   - If lamp is working
 
-  > *MARJORIE*
+  > [[marjorie]]
   > The light is a bit too bright for my taste, but it's all I got.
 
   - If lamp is not working
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > Oh, the bulb's dead. I need to replace it
 
-    *MARJORIE* unscrews the bulb. Add `broken_bulb` to inventory.
+    [[marjorie]] unscrews the bulb. Add `broken_bulb` to inventory.
 
   - If bulb was replaced before
 
     Show `CLOSEUP_BEDROOM_LAMP`
 - Use
 
-  > *MARJORIE*
+  > [[marjorie]]
   > There is no switch on the lamp itself.
 
 ##### `bedroom_light_switch`
@@ -1618,14 +1560,14 @@ A common light switch, clearly visible beside the door.
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   > The light switch for my bedroom.
 
 - Use
 
   - Default
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > I think, the light's fine as it is.
 
@@ -1633,7 +1575,7 @@ A common light switch, clearly visible beside the door.
 
   *SFX: light switch*
 
-      > *MARJORIE*
+      > [[marjorie]]
       >
       > Nothing. The bulb is dead.
 
@@ -1644,20 +1586,20 @@ A very basic nightstand. Just a wooden block with a drawer.
 - Look
   - Default
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > A nightstand. There's nothing interesting in the drawer.
 
   - When looking for the smartphone parts
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > Here's the cover.
 
     Add `cover`
 - Use
   *SFX: Drawer being opened and then closed*
-  > *MARJORIE*
+  > [[marjorie]]
   > Nope. Nothing.
 
 ##### `bedroom_stool`
@@ -1668,19 +1610,19 @@ A very basic wooden stool. Ikea-style.
 
   - Default
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > Well, my back hurts by even looking at that tiny stool. I'm not gonna sit there!
 
   - On day 3 early morning when searching for a way to reach the lamp
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > I'm not gonna use that. It looks as if it would break just by looking at it.
 
   - When looking for the smartphone parts
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > Ah, there's the battery.
 
@@ -1693,13 +1635,13 @@ A very basic wooden wardrobe, just two doors and `bedroom_wardrobe_drawer_upper`
 - Look
   - Default
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > A simple wardrobe for my clothes. I'll only be here for a few days.
 
   - When looking for the smartphone parts
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > There's that tiny phone card.
 
@@ -1710,20 +1652,20 @@ A very basic wooden wardrobe, just two doors and `bedroom_wardrobe_drawer_upper`
 The lower drawer of the wardrobe. We need a closed and an open state here.
 
 - Look
-  > *MARJORIE*
+  > [[marjorie]]
   > A drawer. With a padlock on it. (beat) Strange.
 
 - Use
   - if locked
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > It's locked.
 
   - if unlocked and diary is not in inventory
     *SFX: Drawer open*
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > What's this?
 
@@ -1733,7 +1675,7 @@ The lower drawer of the wardrobe. We need a closed and an open state here.
 
   - if unlocked and diary is in inventory:
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > It's empty.
 
@@ -1743,7 +1685,7 @@ The upper drawer of the wardrobe.
 
 - Look | Use
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > There's nothing in here.
 
@@ -1753,7 +1695,7 @@ A broken lightbulb. It isn't smashed, but has a burnt inside.
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Well that bulb is certainly dead and gone.
 
@@ -1761,7 +1703,7 @@ A broken lightbulb. It isn't smashed, but has a burnt inside.
 
   - If used with `bedroom_lamp`
 
-    > *MARJORIE*
+    > [[marjorie]]
     > I need to find a working lightbulb.
 
 ##### `bulb`
@@ -1769,20 +1711,20 @@ A broken lightbulb. It isn't smashed, but has a burnt inside.
 A working lightbulb.
 
 - Look
-  > *MARJORIE*
+  > [[marjorie]]
   > That light bulb seems to be working
 
 - Use
 
 - If used with `bedroom_lamp`
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > There we...
 
   *MUSIC: (stops)*
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > (gasps)
 
@@ -1790,7 +1732,7 @@ A working lightbulb.
 
   Show `CLOSEUP_BEDROOM_LAMP`
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > What the fuck is happening here?
 
@@ -1800,7 +1742,7 @@ A simple cotton cloth.
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > A cloth. I'm not gonna clean this place up, though.
 
@@ -1810,7 +1752,7 @@ The back cover of the `smartphone`.
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > It's the back of my smartphone.
 
@@ -1820,19 +1762,96 @@ The `jalapeno_peppers` cut into slices.
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Those look hot. I need to watch out to not touch them and my eyes after that.
 
+- Use with `glass` (if every other recipe was added)
+	
+	> [[marjorie]]
+	> Well, it's not perfect, but it's the best Virgin Mary you can find in this house.
+	
+	Add `makeshift_virgin_mary`
+	Remove `cut_peppers`
+
 ##### `day1_dishes`
+
+Plates and cutlery.
+
+- Look
+	
+	> [[marjorie]]
+	> All ate up.
+
+- Use with `kitchen_sink`
+	
+	*SFX: Cleaning dishes*
+	
+	> [[marjorie]]
+	> There you go. Everything's cleaned up.
+	
+	Remove `day1_dishes` from inventory.
 
 ##### `day1_leftovers`
 
+ Boxes from a chinese restaurant.
+ 
+ - Look
+  > *MAJRORIE*
+  > Ugh. I can't stand the smell anymore, now that I'm done with it. Better throw it away.
+
+- Use with `kitchen_trash_can`
+	
+	*SFX: Throwing something into the trash*
+	
+	Remove `day1_leftovers` from inventory.
+
 ##### `day2_dishes`
+
+Plates, cutlery and mugs from a breakfast.
+
+- Look
+	
+	> [[marjorie]]
+	> I love breakfast. Let's get those plates clean now.
+- If used with `kitchen_sink`
+	
+	*SFX: Cleaning dishes*
+	
+	> [[marjorie]]
+	> (humming/whistling)
+	
+	Remove `day2_dishes` from inventory
 
 ##### `day2_leftovers`
 
+Toast cuts, bacon leftovers, mashed eggs.
+
+- Look
+	
+	> [[marjorie]]
+	> Let's put this into the trash.
+
+- Used with `kitchen_trash_can`
+	
+	*SFX: Throwing something into the trash*
+	
+	Remove `day2_leftovers` from inventory
+
 ##### `day3_dishes`
+
+Plates
+
+- Look
+	
+	> [[marjorie]]
+	> There isn't really something on them. Should be easy to clean them
+	
+- Use with `kitchen_sink`
+	
+	*SFX: Cleaning dishes*
+	
+	Remove `day3_dishes` from inventory
 
 ##### `diary`
 
@@ -1841,7 +1860,7 @@ Not really a diary, but rather loose pages held together with a paperclip at fir
 - Look
   - if not `paperclip` in inventory:
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
 
@@ -1852,16 +1871,35 @@ Not really a diary, but rather loose pages held together with a paperclip at fir
   - If `paperclip` in inventory:
 
     Show `CLOSEUP_DIARY`
-	
+
 ##### `fingerprint_from_hook`
+
+A black fingerprint on a transparent tape
+
+- Look
+	> [[marjorie]]
+	> I've taken that fingerprint from the hook. I need another one to compare it against.
 
 ##### `fingerprint_powder`
 
 A black powder.
 
-> *MARJORIE*
->
-> Some black powder I got from that fingerprint set.
+- Look
+
+	> [[marjorie]]
+	>
+	> Some black powder I got from that fingerprint set.
+
+- Use
+	- With `tape` or `makeup_brush` while the other one is missing
+		> [[marjorie]]
+		> Hm. I still need something else to take fingerprints.
+	- With `tape` or `makeup_brush`
+		> [[marjorie]]
+		> Hmmmm! Yes. Together with the tape and the brush, this will help me take fingerprints
+		
+		Add `makeshift_fingerprint_kit`
+		Remove `fingerprint_powder`, `tape` and `makeup_brush`
 
 ##### `front_door`
 
@@ -1869,46 +1907,69 @@ The front door of the house. It's partly transparent and shows the outside. Ther
 
 - Look
 
-  > *MARJORIE*
+  > [[marjorie]]
   > It's the front door.
 
 - Use
   - Default
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > I can't leave now. I'm in danger outside.
   - On day 4, early morning
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > Shit! It's locked. I can't get out.
 
 ##### `glass`
 
-A common basic and cheap drinking glass.
+A common basic and cheap drinking glass. Is the base for mixing the ingredients for the `makeshift_virgin_mary`
 
-> *MARJORIE*
->
-> I can mix something in there.
+- Look
+	> [[marjorie]]
+	>
+	> I can mix something in there.
+
+##### `glass_with_tomatoes`
+
+The `glass` filled with the `mashed_potatoes`.
+
+- Look
+	> [[marjorie]]
+	> That's basically a tomatoe drink.
 
 ##### `gruesome_note`
 
 A worn-out paper.
 
-Open `CLOSEUP_GRUESOME_NOTE`
+- Look
+
+	Open `CLOSEUP_GRUESOME_NOTE`
 
 ##### `hairpin`
 
 A hair pin.
 
-> *MARJORIE*
-> A tiny hair pin
+- Look
+
+	> [[marjorie]]
+	> A tiny hair pin
+
+- Use with `smartphone`
+   See PUZZLE 1.3: Resetting the phone
 
 ##### `half_lemon`
 
 The `lemon`, cut in half.
 
-> *MARJORIE*
-> I've cut the lemon in half.
+- Look
+
+	> [[marjorie]]
+	> I've cut the lemon in half.
+
+- Use with `glass` (if googled for recipe)
+
+	> [[marjorie]]
+	> I should add the tomatoes first.
 
 ##### `hall_cupboard_drawer`
 
@@ -1917,7 +1978,7 @@ The drawer of a basic cupboard that can be used to e.g. put keys on. We need two
 - Default
   Marjorie opens the drawer *SFX: opening drawer*
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > There's a tape in here. I'll take it.
 
@@ -1927,7 +1988,7 @@ The drawer of a basic cupboard that can be used to e.g. put keys on. We need two
 
 - When `tape` in inventory
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Nothing more in here.
 
@@ -1937,20 +1998,20 @@ A wall lamp. The light is only seen in night scens and illuminates the room and 
 
 - Default
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > That actually looks quite comfy.
 
 - On day 3, early morning
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Ah. That lamps seems to have the bulb I need. But it's too hot!
 
 - On day 3, early morning when used with cloth
   *SFX: Screwing a bulb*
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > There we go.
 
@@ -1960,15 +2021,27 @@ A wall lamp. The light is only seen in night scens and illuminates the room and 
 
 A standard hammer.
 
-> *MARJORIE*
->
-> I'm not a DIY-girl. I'd hammer my thumb with this one certainly.
+- Look
+	> [[marjorie]]
+	> I'm not a DIY-girl. I'd hammer my thumb with this one certainly.
+- Use with `tomatoes` (if googled for recipe)
+	
+	> [[marjorie]]
+	> That's gonna be a mess, but...
+	
+	*SFX: The hammer mashes the tomatoes*
+	
+	> [[marjorie]] 
+	> Here we go.
+	
+	Remove `tomatoes`
+	Add `mashed_tomatoes`
 
 ##### `hook_fingerprints`
 
 Fingerprints on a tape.
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > I took those from the hook.
 
@@ -1976,9 +2049,20 @@ Fingerprints on a tape.
 
 Three red jalapeno peppers.
 
-> *MARJORIE*
->
-> I'm not a fan of hot food.
+- Look
+
+	> [[marjorie]]
+	>
+	> I'm not a fan of hot food.
+
+- Use with `glass` (if googled for recipe)
+	> [[marjorie]]
+	> I should add the tomatoes first
+- Use with `glass_with_tomatoes` (if googled for recipe)
+	> [[marjorie]]
+	> I have to slice it first to get the seeds.
+- Use with `knife`  (if googled for recipe)
+	See `knife`
 
 ##### `kitchen_hatch`
 
@@ -1990,13 +2074,13 @@ A small half-height cupboard.
 
 - If closed
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Just a cupboard.
 
 - If closed, using it
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Oh, it's mostly empty. Except for a stepladder.
 
@@ -2004,13 +2088,13 @@ A small half-height cupboard.
 
 - If looked at open cupboard with stepladder in it
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > There's only a stepladder in there.
 
 - If looked at open cupboard without stepladder in it
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > It's empty now.
 
@@ -2023,13 +2107,13 @@ A simple drawer.
 
 - Default
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > It's a drawer. I guess for cutlery.
 
 - Using it
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Full of cutlery. (beat) oh, and a magnifying glass.
 
@@ -2045,7 +2129,38 @@ A standard kitchen sink. If used with `day1_dishes` or `day2_dishes`, it trigger
 
 ##### `knife`
 
+A sharp kitchen knife.
+
+- Look
+	> [[marjorie]]
+	> Looks sharp. I should be cautious.
+- Use with `lemon` (if googled for recipe)
+	*SFX: Cutting the lemon*
+	
+	> [[marjorie]]
+	> Shit. I got some juice in my eye.
+	
+	Remove `knife` if also cut jalapeno peppers
+	Remove `lemon`
+	Add `half_lemon`
+- Use with `jalapeno_peppers` (if googled for recipe)
+	*SFX: Slicing with knife*
+	Remove `jalapeno_peppers`
+	Add `cut_peppers`
+	Remove `knife` (if also cut lemon)
+
 ##### `lemon`
+
+A fresh, yellow lemon.
+
+- Look
+	> [[marjorie]]
+	> I don't like eating lemons as is
+
+- Use with `glass`  (if googled for recipe)
+	> [[marjorie]]
+	> I should cut it to better squeeze it.
+- Use with `knife` (if googled for recipe): See `knife`
 
 ##### `living_room_cupboard_unlocked`
 
@@ -2061,7 +2176,7 @@ A magnifying glass as a reading helper. Rectangular blue frame with a round magn
 
 - If used with `bedroom_hook`
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Those... Those are fibres. Hemp fibres.
   > I... Then I wasn't hallucinating... There was really a noose hanging there.
@@ -2070,7 +2185,7 @@ A magnifying glass as a reading helper. Rectangular blue frame with a round magn
 
 - If used with `bedroom_hook` (again)
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Hemp fibres. From the noose. They give me the creeps.
 
@@ -2081,7 +2196,7 @@ A combination of the `makeup_brush`, `fingerprint_powder` and `tape`.
 - Use
   - If used with `bedroom_hook`
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > Okay... here we go. (pause) Yes! I got a print. Now, I need to compare it with another one.
 
@@ -2092,7 +2207,7 @@ A combination of the `makeup_brush`, `fingerprint_powder` and `tape`.
 A kitchen glass with a red liquid in it.
 
 - Look
-  > *MARJORIE*
+  > [[marjorie]]
   > I've used up all my bartender skills for that.
 
 ##### `makeup_brush`
@@ -2100,17 +2215,28 @@ A kitchen glass with a red liquid in it.
 A standard issue, but used makeup brush. Has a very bushy brush.
 
 - Look
-  > *MARJORIE*
+  > [[marjorie]]
   > I guess, this is Rebeca's. I don't use brushes.
 
 ##### `mashed_tomatoes`
 
 A red pile of former tomatoes, mashed with `hammer`.
 
+- Look
+	
+	> [[marjorie]]
+	> They're mashed, but still look pretty tasty
+- Use with `glass`  (if googled for recipe)
+	
+	*SFX: Filling something in a glass*
+	
+	Remove `mashed_tomatoes`
+	Add `glass_with_tomatoes`
+
 ##### `padlock`
 
 - Look
-  > *MARJORIE*
+  > [[marjorie]]
   > Strange. A padlock on a drawer.
 
 - Use
@@ -2118,7 +2244,7 @@ A red pile of former tomatoes, mashed with `hammer`.
   #FIXME
   - If combination is right
 
-    > *MARJORIE*
+    > [[marjorie]]
     >
     > It fits!
 
@@ -2128,17 +2254,30 @@ A red pile of former tomatoes, mashed with `hammer`.
 
 ##### `paperclip`
 
-##### `paperclip`
-
 Paper Clip
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > A paper clip. It held the diary pages together.
 
 ##### `password_note`
 
 ##### `pepper`
+
+Pepper in a pepper shaker with a P on the top.
+
+- Look
+	> [[marjorie]]
+	> Careful not to sneeze.
+- Use with `glass`  (if googled for recipe)
+	> [[marjorie]]
+	> I should add the tomatoes first
+- Use with `glass_with_tomatoes` (if done already)
+	> [[marjorie]]
+	> That's enough pepper I guess.
+- Use with `glass_with_tomatoes`
+	> [[marjorie]]
+	> Peppered tomatoe juice.
 
 ##### `pocket`
 
@@ -2152,11 +2291,26 @@ open `CLOSEUP_PURSE`
 
 ##### `salt`
 
+A salt shaker with an S on the top.
+
+- Look
+	> [[marjorie]]
+	> There's only little salt left in the shaker.
+- Use with `glass`
+	> [[marjorie]]
+	> I should add the tomatoes first.
+- Use with `glass_with_tomatoes` (if already done)
+	> [[marjorie]]
+	> I think, that's enough salt
+- Use with `glass_with_tomatoes`
+	> [[marjorie]]
+	> Salted tomatoe juice.
+
 ##### `simcard`
 
 SIM card
 
-> *MARJORIE*
+> [[marjorie]]
 >
 > That's the tiny card I need to call somebody.
 
@@ -2166,13 +2320,13 @@ Smartphone (rather cheap). Requires `battery`, `cover`, `simcard`
 
 - If examined
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > (grunt) I'm so clumsy. I hope, it isn't broken.
 
 - On adding the last item
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > There, it's booting up. At least the screen's not broken.
 
@@ -2184,13 +2338,13 @@ Smartphone (rather cheap), complete
 
 - If smartphone_reset:
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > My phone. It's a rather old model, but... it works.
 
 - If smartphone_pin:
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > It asks for my PIN.
 
@@ -2203,6 +2357,14 @@ Smartphone (rather cheap), complete
 ##### `tiny_thing`
 
 ##### `tomatoes`
+
+- Look
+	
+	> [[marjorie]]
+	> Fresh and red. They look pretty tasty.
+- Use with `glass`  (if googled for recipe)
+	> [[marjorie]]
+	> I should mash them first.
 
 ##### `upper_hall_loose_board`
 
@@ -2315,27 +2477,27 @@ could never climb again.
 
 ##### `CLOSEUP_PURSE`
 
-- Picture of *MARJORIE*s mother
+- Picture of [[marjorie]]s mother
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > My mom
 
 - Small amount of money
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > I never carry around much cash, I use the credit card usually.
 
 - Credit card
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > My card
 
 - `hairpin`
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > That may be useful.
 
@@ -2343,7 +2505,7 @@ could never climb again.
 
 - A note
 
-  > *MARJORIE*
+  > [[marjorie]]
   >
   > Oh, that's my secret note. Yeah, I know you shouldn't write your passwords down, but my brain's a sieve. I wrote down
   >
@@ -2384,28 +2546,51 @@ The themes should reflect the character's personality or functions in the game:
 Here's a list of all music references in the game (search for MUSIC:)
 
 #### MUSIC: (stops)
+
 #### MUSIC: Brianna theme. Soft, calming
+
 #### MUSIC: CALVIN theme with a jazzy backtune
+
 #### MUSIC: Calvin theme, calm
+
 #### MUSIC: Calvin theme, changing between shrieking and hectic
+
 #### MUSIC: Calvin theme, hectic, chasing
+
 #### MUSIC: Calvin theme, shrieking
+
 #### MUSIC: Credits music. A happy and triumphant Marjorie theme
+
 #### MUSIC: Eerie, very few notes. "Night atmosphere". Not too scary though.
+
 #### MUSIC: Get's more eerie and downright scary
+
 #### MUSIC: Horror strings
+
 #### MUSIC: Marjorie theme, jazzy background
+
 #### MUSIC: Marjorie theme, will swell up during her monologue, then cut off when Marjorie shuts off the light
+
 #### MUSIC: Marjorie theme. Calming, relaxed
+
 #### MUSIC: Marjorie-theme, calm
+
 #### MUSIC: None
+
 #### MUSIC: Panic!
+
 #### MUSIC: Rumbling bass with shriek MARJORIE tunes, then: quiet.
+
 #### MUSIC: Stops
+
 #### MUSIC: The music gets dramatic and will culmulate when REBECA finds MARJORIE, then it underlines the shouting of REBECA and emotions of MARJORIE, ending with a dramatic MARJORIE theme line and a hard stop
+
 #### MUSIC: back to "Night atmosphere"
+
 #### MUSIC: eerie tunes from the Marjorie theme
+
 #### MUSIC: horror string slide merging into a rumbling and hectic MARJORIE tune
+
 #### MUSIC: none
 
 ### Sound effects
@@ -2413,26 +2598,43 @@ Here's a list of all music references in the game (search for MUSIC:)
 Here's a list of all sound effect references in the game (search for SFX:):
 
 #### SFX: Dialtones
+
 #### SFX: Door slam
+
 #### SFX: Drawer being opened and then closed
+
 #### SFX: Drawer closed
+
 #### SFX: Drawer open
+
 #### SFX: Gunshot
+
 #### SFX: Inserting an object
+
 #### SFX: Intro
 
 We hear a car driving over the pebbels of a driveway. The engine is turned off, we hear three people exiting the car. Doors slam, the trunk is opened. They walk up the pathway, we hear keys jingling, slided into a door. The door is unlocked, the people walk through and slam the door.
 
 #### SFX: Object crashing on floor
+
 #### SFX: Screwing a bulb
+
 #### SFX: Suitcase on bed, opening suitcase
+
 #### SFX: Taking clothes
+
 #### SFX: Unfolding paper
+
 #### SFX: Unlock
+
 #### SFX: Walking on wooden floor
+
 #### SFX: closing drawer
+
 #### SFX: light switch
+
 #### SFX: mobile keyboard sounds while typing the following
+
 #### SFX: opening drawer
 
 ### Ambients
@@ -2442,9 +2644,13 @@ Ambient sounds are used as a backdrop in scenes and make the scene feel more nat
 Here's a list of ambient sound references from the document (Search for AMBIENT:):
 
 #### AMBIENT: (stop)
+
 #### AMBIENT: Eating sounds
+
 #### AMBIENT: Filling out a form
+
 #### AMBIENT: None
+
 #### AMBIENT: People eating
 
 ## Credits
