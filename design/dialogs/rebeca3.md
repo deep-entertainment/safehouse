@@ -1,3 +1,7 @@
+# Rebeca 3
+
+#dialogs 
+
 # Comment
 
 This dialogs depicts a highly confused Rebeca on the one side and a highly suspicious Marjorie on the other side.
@@ -10,59 +14,59 @@ Rebeca's basically just zoned out.
 
 # Start
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Rebeca, I... I need your help.
 
 Pause
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Rebeca?
 
 Pause
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > REBECA?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (snaps out) Huh? What?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Are you okay? You seem... lost.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > What? No, no. I'm... I'm fine. I just... (breathes) I just have a bad headache.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Oh, I'm sorry.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > It's okay. I manage.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Anything you want?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (jokingly) A Bloody Mary is what I want. Even a Virgin Mary.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Oh. (laughs)
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > But that has to wait after this assignment.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I see.
 > (to herself) A Virgin Mary, eh?

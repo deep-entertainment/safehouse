@@ -1,0 +1,3 @@
+# Bedroom lamp
+
+#FIXME #closeup 

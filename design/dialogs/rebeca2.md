@@ -1,3 +1,7 @@
+# Rebeca 2
+
+#dialogs 
+
 # Comment
 
 This dialog runs after Marjorie had found the fake diary of Jacob Grimes. She wants to ask Rebeca (Calvin is not around at this time) about this. Rebeca doesn't give out much. Only that the diary is about one "Jacob Grimes" and that he was found dead eighteen years ago.
@@ -6,137 +10,137 @@ However, during the course of the dialog, Marjorie reveals the diary to Rebeca. 
 
 # Start
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Do you know where Calvin is?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > No. Didn't see him.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Oh, okay.
 
 Seconds pass.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (sighs) What is it?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I... Does the name JAYGEE mean anything to you?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > You mean like initials?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > No, JAYGEE. J - A - Y - G - Double E.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (beat) Where did you hear that name?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I didn't hear it. I read it.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > What?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > So it does ring a bell.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Damn right it does. Where did you read it?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Who is that?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Was.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > What?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Who *was* that. His name was Jacob Grimes. Where did you read about him?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Is he dead?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Marjorie, where did you read about him?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I found this in a locked drawer in my room.
 
-*MARJORIE* hands *REBECA* the diary.
+[marjorie](../characters/marjorie.md) hands [rebeca](../characters/rebeca.md) the diary.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (to herself, in thought) What the fuck?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > So he *is* dead?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (absent-minded) Died eighteen years ago.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > That's terrible. How did he die?
 
 (pause)
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Rebeca?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Huh?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > How did he die?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > That can't be...
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > What?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (snaps out of it) Sorry, Marjorie. I can't tell you anything else. Can you please leave me alone?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > But...
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > *Please*, Marjorie.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Um... okay...
 

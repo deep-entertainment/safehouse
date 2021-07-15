@@ -1,42 +1,46 @@
+# Day 3 breakfast
+
+#dialogs 
+
 # Comment
 
 This dialog is the showdown between Marjorie and Rebeca. On a meta level, it is also the key point for Rebeca where she starts to seriously doubt Calvin motives. She finally storms off. To Marjorie and the player, this looks as if she's angry at them. Actually, Rebeca walks out and investigates more into the case of Jacob Grimes, which lead to the fight between Calvin and her on day 4.
 
 # Start
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > How did you two sleep?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > Honestly, I never sleep good in witness protection. I mean, usually nothing happens, but you're still quite tense.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I see.
 
-> *CALVIN* 
+> [calvin](../characters/calvin.md) 
 >
 > But I manage.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > How did you sleep, Rebeca?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Huh?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > How did you sleep?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (shrugs shoulders) okay, I guess.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Aha.
 
@@ -53,77 +57,77 @@ After the two questions are asked:
 
 # keepup
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > Well, you get some sort of training for things like this, but it's mostly experience and... well, you need to be made for the job, I guess.
 
-> *MARJORIE* 
+> [marjorie](../characters/marjorie.md) 
 >
 > (laughs) Yeah, I guess, it's no job for me.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (suddenly, jokingly) It's a job like every other job. It's just not well paid, right, Calvin?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > (laughs) Oh yes.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Unless you don't have some other... opportunities, right?
 
-*CALVIN* laugh becoms weaker. He looks at her, confused.
+[calvin](../characters/calvin.md) laugh becoms weaker. He looks at her, confused.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > What do you mean?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Ah, nothing. Nothing.
 
-*REBECA* continues to eat.
+[rebeca](../characters/rebeca.md) continues to eat.
 
 [Questions](#Questions)
 
 # witnessprotection
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > Phew, I lost count. I was on... maybe thirty.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > It's my third.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > (laughs) Our fledgling.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Yeah. Can't beat your experience.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > You get there.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > With the help of the right people!
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > You have the best chief for that. Lindsey's doing an awesome job.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Oh, yes. The help of the right people on the force as well. That's true.
 
-*CALVIN* is irritated.
+[calvin](../characters/calvin.md) is irritated.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > Ah... yes.
 
@@ -131,70 +135,70 @@ After the two questions are asked:
 
 # jacob
 
-*CALVIN* startles and some seconds pass. *REBECA* looks at *CALVIN*. 
+[calvin](../characters/calvin.md) startles and some seconds pass. [rebeca](../characters/rebeca.md) looks at [calvin](../characters/calvin.md). 
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > I... Thank you, Marjorie.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I'm sorry. I hope that didn't reopen any old wounds.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 >
 > No. No, it's okay.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (diabolic) I guess, Jacob couldn't stand the pressure.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Maybe somebody put more pressure on him.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (confused) What?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I mean, if somebody tried to scare *me* over and over again, I don't know if I could stand the pressure either.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > Scare you?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Yes. I don't know... leaving scary notes lying around for example, Rebeca.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > What... (getting angry) What are you trying to say here?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (getting angry) Oh, nothing. I just don't like to be scared. I'm scary enough already.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (getting louder) Well, not scared enough to make an unencrypted phone call to your mother as it seems.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (getting louder) Maybe I was just trying to talk to somebody to ease down the pressure. But that way has been perfectly blocked by you now as it seems.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 >
 > (shouting) You can always talk to us instead.
 
-*REBECA* stood up.
+[rebeca](../characters/rebeca.md) stood up.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (shouting) As if you would be interested in talking to me!
 
-*MARJORIE* stood up.
+[marjorie](../characters/marjorie.md) stood up.
 
 END

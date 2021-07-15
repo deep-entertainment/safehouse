@@ -1,3 +1,7 @@
+# Brianna 3
+
+#dialogs 
+
 # Comment
 
 In this brianna dialog, Marjorie asks Brianna about Rebeca, because she's her main suspect for trying to scare her to cancel her testimony. Marjorie starts with general questions about Rebeca and then trying more and more to get into possible wrongdoings by Rebeca which is the point at which Brianna asks her if something's wrong and Marjorie backs off and they continue their usual preparations for the testimony.
@@ -10,41 +14,41 @@ Things to establish here:
 
 # Start
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Hello, Brianna.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Hello, Marjorie. How are you holding up?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I'm... holding up I guess. It takes time to get accustomed.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > I can imagine that.
 >
 > (beat) Ok then. Should we continue?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Can I ask you something about Rebeca?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (confused) Rebeca? You mean Officer Pliego?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Yes.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (still confused) Okay...? What's on your mind?
 
-[Questions](questions)
+[Questions](#questions)
 
 # questions
 
@@ -53,27 +57,27 @@ Things to establish here:
 
 After both questions were answered, the dialog continues:
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Overall, you can feel safe with Officer Pliego around. She will take good care of you.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (dark) I guess she will.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Marjorie?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (ignoring her) Allright. Are we going to repeat everything again today?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > I guess so.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (sigh) Okay then.
 
@@ -81,23 +85,23 @@ END
 
 # howwell
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Me? Not well actually. We met for the first time on this case. But I've read her file.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > What does it say?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (Reluctantly) That Rebeca is a highly trained and competent officer. She graduated as one of the best of the year in the Academy.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > How old is she?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Um... (thinks) 28 I think. But she's very experienced.
 
@@ -105,60 +109,60 @@ END
 
 # doesntlike
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Oh, Marjorie. I don't think so.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > She's mean.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > She's... she's not a people person.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Yes.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > I heard she's very... um... correct. Maybe overly correct at times.
 >
 > But she's very professional. She has a strong sense for justice.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (grunt) "Correct..."
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (not noticing Marjorie) Sometimes even a bit too much for our own good.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > What do you mean?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Huh?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > "Too much for our own good"? What do you mean?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (sigh) She has had some complaints about not acting properly because she can be hot-headed at times.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (louder) Exactly! Hot-headed. She always goes berserk.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (interrupting) ...but all cases were minor ones and eventually dropped.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (grunt) Whatever.

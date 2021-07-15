@@ -1,3 +1,7 @@
+# Rebeca 1
+
+#dialogs 
+
 # Comment
 
 This dialog introduces Rebeca to the player. It characterizes her as mean, tense and unempathic. The player shouldn't really like her at this point.
@@ -14,11 +18,11 @@ One random of
 
 # greeting1
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Rebeca?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Uh-huh?
 
@@ -26,11 +30,11 @@ One random of
 
 # greeting2
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Do you have a second, Rebeca?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Yeah, I guess.
 
@@ -38,11 +42,11 @@ One random of
 
 # greeting3
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Can I ask you something, Rebeca?
 
-> *REBECA* (grunting)
+> [rebeca](../characters/rebeca.md) (grunting)
 > 
 > If you must.
 
@@ -58,31 +62,31 @@ One random of
 
 # apologize
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Yeah, whatever
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > It was really a dumb idea, I guess.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Hell yeah! You know, it's not only the police that can track those things down! *Especially* organized crime fuckers have *huge* resources!
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > I wasn't aware of that.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Well now you are. Just stay put, okay?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Okay.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Okay.
 
@@ -90,49 +94,49 @@ One random of
 
 # phone
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Negative.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Oh, come on. There are some games on there I could play.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Should've thought about that before you put us all in danger here!
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Yes. (beat) Okay. (beat) Sorry.
 
-> *REBECA* (grunts)
+> [rebeca](../characters/rebeca.md) (grunts)
 
 [Questions](#Questions)
 
 # career
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Signed up right after turning 21.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Sound's like you really wanted this job?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Yup. My mom was a cop. I've grown up with the Force, so to say.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > I never knew what I wanted to become. Well, aside from a pet doctor and a princess. (laughs)
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > (...)
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Anyways...
 
@@ -140,35 +144,35 @@ One random of
 
 # padlock
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > A padlock?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Yes, hanging on the drawer.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Never noticed it. Did you open it?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Can't.
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Weird.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > So you don't know something about it?
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Nope.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Hm. Okay.
 
@@ -176,7 +180,7 @@ One random of
 
 # thanks
 
-> *REBECA*
+> [rebeca](../characters/rebeca.md)
 > 
 > Whatever
 

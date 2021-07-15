@@ -1,3 +1,7 @@
+# Brianna 2
+
+#dialogs 
+
 # Comment
 
 In this dialog, the main topic is the death of Jacob Grimes. Marjorie has searched online about it, but hasn't got any details. She wants to know the official version.
@@ -15,87 +19,87 @@ It is pointed out, that:
 
 # Start
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Marjorie! Nice to see you again. How was your first night?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > ...
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Marjorie?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (dark) It was... (beat) okay.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Are you alright, Marjorie?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Can I ask you something?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Of course.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Do you know about Jacob Grimes?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (shocked) (beat)
 >
 > (haltingly) I know his case, yes.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > You should've told me about him.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Marjorie...
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (interrupting, shouting) You should've fucking told me about him!
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > That was 18 years ago!
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (still shouting) He was killed by the same people you want me to testify against!
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (getting louder) He killed himself!
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (still shouting) They made him do that!
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (shouting) No! We did that!
 
 *pause*
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (quiet again) We didn't know about his condition.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > What do you mean? Condition?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > He was... He was too stressed out and we didn't realize that. We kept pushing and pushing him because we wanted to have a solid case against La Famiglia for once.
 >
@@ -103,21 +107,21 @@ It is pointed out, that:
 
 *pause*
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > What was that case about?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > I'm not allowed to tell you...
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (interrupts) Brianna, please, I need to know.
 
 *pause*
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (sigh) Okay. What do you want to know?
 
@@ -132,19 +136,19 @@ It is pointed out, that:
 
 # witnessprotection
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Yes, he was. He was kept in this house actually. It was the first time we used it as a safehouse.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > So he... He stayed in the very same room I'm in?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (realizes) I... I guess so, yes. Oh god, Marjorie.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (pause, then confident) It's okay.
 
@@ -152,7 +156,7 @@ It is pointed out, that:
 
 # varone
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (dark) It's always about him.
 >
@@ -160,17 +164,17 @@ It is pointed out, that:
 >
 > There was this drug dealer in his gang... (thinks) Derek. Yes, Derek Cole was his name. And well, he was in an area that belongs to La Famiglia.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > Bad idea.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Bad idea.
 >
 > Jacob saw Varone... taking care of the problem.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (whispering) Oh fuck.
 
@@ -178,31 +182,31 @@ It is pointed out, that:
 
 # suicide
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > (shocked from Marjorie's directness) Y-yes, yes he did.
 >
 > (calms herself) Calv... I mean the police officers found him hanging in his bedroom on the day of the trial.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I've already read that Calvin was involved.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > He was devastated.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I believe so.
 
 *pause*
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > But Jacob did definitely kill himself?
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Yes. Calvin had to break his door when he wasn't responding.
 
@@ -210,19 +214,19 @@ It is pointed out, that:
 
 # end
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Don't tell anyone, please. This could get me in trouble.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > I swear.
 
-> *BRIANNA*
+> [brianna](../characters/brianna.md)
 >
 > Great. Let's continue preparing you for the trial, shall we?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 >
 > (sigh) Okay.
 

@@ -1,3 +1,7 @@
+# Calvin 1
+
+#dialogs 
+
 # Comment
 
 This dialog introduces Calvin to the player. Its purpose is to characterize Calvin as caring, understanding and helpful. This is the image, that Calvin wants to show Marjorie and the player is tricked to think the same about him at first.
@@ -14,11 +18,11 @@ One random of
 
 # greeting1
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Can I ask you something, Calvin?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Sure. What's on your mind?
 
@@ -26,11 +30,11 @@ One random of
 
 # greeting2
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Calvin?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Yes, Marjorie?
 
@@ -38,11 +42,11 @@ One random of
 
 # greeting3
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Do you have a second, Calvin?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Absolutely. What's on your mind?
 
@@ -62,35 +66,35 @@ One random of
 
 # apology
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > It's okay, Marjorie. It's your first witness protection, I presume? *laughs*
 
-> *MARJORIE* (laughs)
+> [marjorie](../characters/marjorie.md) (laughs)
 > 
 > Yes, it is.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > See? All is good. You just have to be careful. It's only five days.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Yes.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Marjorie?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Yes?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > You got this.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > I... yes. Yes, I got this. Thanks, Calvin.
 
@@ -98,15 +102,15 @@ One random of
 
 # howdoesthiswork
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Well, we sit and wait.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Nothing more?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Nothing more.
 > 
@@ -114,31 +118,31 @@ One random of
 > 
 > Well, in the best case at least. Let's just hope nothing happens. (to himself) Unlike last time.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Last time?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Hm?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > You said, you hope, that nothing happens *unlike last time*?
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > I did?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Yes.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > I... I meant... Look, Marjorie. This is a tense situation. We just stay put and wait until the trial and then it's over. Easy as that.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Okay.
 
@@ -146,23 +150,23 @@ One random of
 
 # abouthouse
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Not *often*, but sometimes. We have several objects like this.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > It's neat.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Yes... Yes, I guess it is *neat*. Never thought of it this way, actually. I'm only here, when I'm on the clock.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > I guess. It's a bit more for me.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Yeah... I see.
 
@@ -170,27 +174,27 @@ One random of
 
 # padlock
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > A padlock?
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Yes.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > That's strange.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Indeed.
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Well, I don't know the combination if that's what you're asking.
 
-> *MARJORIE*
+> [marjorie](../characters/marjorie.md)
 > 
 > Hm. Okay. Thanks.
 
@@ -198,7 +202,7 @@ One random of
 
 # thanks
 
-> *CALVIN*
+> [calvin](../characters/calvin.md)
 > 
 > Anytime. If you need something, we're here for you.
 
