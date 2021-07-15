@@ -10,9 +10,9 @@ It covers all the details about the game’s concept, design, assets and story.
 
 - [ ] Complete items descriptions and interactions
 - [ ] Complete location descriptions and interactions
-- [ ] Complete music descriptions
-- [ ] Complete sound descriptions
-- [ ] Complete ambient descriptions
+- [x] Complete music descriptions
+- [x] Complete sound descriptions
+- [x] Complete ambient descriptions
 
 ## Short abstract
 
