@@ -1,6 +1,6 @@
 # Cloth
 
-#item #bedroom 
+#item #kitchen  (in the [kitchen_right_drawer](kitchen_right_drawer.md))
 
 A simple cotton cloth.
 
@@ -9,3 +9,7 @@ A simple cotton cloth.
   > [marjorie](characters/marjorie.md)
   >
   > A cloth. I'm not gonna clean this place up, though.
+
+- Use
+	
+	Add  [cloth](cloth.md)

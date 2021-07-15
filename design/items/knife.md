@@ -1,6 +1,6 @@
 # Knife
 
-#item #kitchen 
+#item #kitchen in the [kitchen_right_drawer](kitchen_right_drawer.md)
 
 A sharp kitchen knife.
 

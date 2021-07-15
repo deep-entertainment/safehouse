@@ -1,6 +1,6 @@
 # Lemon
 
-#item
+#item #livingroom 
 
 A fresh, yellow lemon.
 

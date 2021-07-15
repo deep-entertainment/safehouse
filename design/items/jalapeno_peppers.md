@@ -1,6 +1,6 @@
 # Jalapeño Peppers
 
-#item #kitchen
+#item #kitchen (in the [kitchen_fridge](kitchen_fridge.md))
 
 Three red jalapeno peppers.
 

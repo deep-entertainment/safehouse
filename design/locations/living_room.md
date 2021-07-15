@@ -2,6 +2,12 @@
 
 #FIXME #location #livingroom 
 
+## Concept art
+
+## Description
+
+We need a night and a day variant.
+
 ## SFX
 
 Walking plays [footsteps_wood](../sfx/footsteps_wood.md)

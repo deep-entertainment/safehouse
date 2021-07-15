@@ -1,6 +1,6 @@
 # Hammer
 
-#item #kitchen 
+#item #hall (in the [hall_drawer](hall_drawer.md))
 
 A standard hammer.
 

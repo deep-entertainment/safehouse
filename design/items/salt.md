@@ -1,6 +1,6 @@
 # Salt
 
-#item
+#item #livingroom 
 
 A salt shaker with an S on the top.
 

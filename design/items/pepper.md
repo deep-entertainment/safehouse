@@ -1,6 +1,6 @@
 # Pepper
 
-#item
+#item #livingroom 
 
 Pepper in a pepper shaker with a P on the top.
 

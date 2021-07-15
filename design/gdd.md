@@ -635,9 +635,9 @@ Go into the [kitchen](locations/kitchen.md) and look through the [kitchen_hatch]
 
 Turn on the [smartphone](items/smartphone.md). Switch to [smartphone](closeups/smartphone.md), it shows no mobile connection, but an accessible wifi. Connecting to it requires a password though.
 
-The wifi signal display is set to 2 of 4 bars in the [kitchen](locations/kitchen.md) and the `LIVING ROOM`. It shows 3 of 4 bars in the [hall](locations/hall.md) and the [bedroom](locations/bedroom.md). It shows 4 of 4 bars in the `UPPER HALL`.
+The wifi signal display is set to 2 of 4 bars in the [kitchen](locations/kitchen.md) and the [living_room](locations/living_room.md). It shows 3 of 4 bars in the [hall](locations/hall.md) and the [bedroom](locations/bedroom.md). It shows 4 of 4 bars in the [upper_hall](locations/upper_hall.md).
 
-Looking at the [smartphone](items/smartphone.md) and selecting the wifi signal in the  `UPPER HALL`  reveals a [upper_hall_loose_board](items/upper_hall_loose_board.md). It can be pried loose using a [knife](items/knife.md) from the [kitchen](locations/kitchen.md). Under the [upper_hall_loose_board](items/upper_hall_loose_board.md) the [upper_hall_wifi_router](items/upper_hall_wifi_router.md) is revealed. Using it switches to [wifi router](closeups/wifi_router.md) When turning it around, a wifi password is revealed.
+Looking at the [smartphone](items/smartphone.md) and selecting the wifi signal in the  [upper_hall](locations/upper_hall.md)  reveals a [upper_hall_loose_board](items/upper_hall_loose_board.md). It can be pried loose using a [knife](items/knife.md) from the [kitchen](locations/kitchen.md). Under the [upper_hall_loose_board](items/upper_hall_loose_board.md) the [upper_hall_wifi_router](items/upper_hall_wifi_router.md) is revealed. Using it switches to [wifi router](closeups/wifi_router.md) When turning it around, a wifi password is revealed.
 
 Entering the password as-is into the [smartphone](closeups/smartphone.md) doesn't work though.
 
@@ -942,8 +942,8 @@ Get the following items:
 - [glass](items/glass.md) from a cupboard in the [kitchen](locations/kitchen.md)
 - [knife](items/knife.md) from the drawer in the [kitchen](locations/kitchen.md)
 - [lemon](items/lemon.md) from a bowl in the [living room](locations/living_room.md)
-- [tomatoes](items/tomatoes.md) and [jalapeno_peppers](items/jalapeno_peppers.md) from the fridge in the [kitchen](locations/kitchen.md)
-- [hammer](items/hammer.md) from a drawer in the [hall](locations/hall.md)
+- [tomatoes](items/tomatoes.md) and [jalapeno_peppers](items/jalapeno_peppers.md) from the [kitchen_fridge](items/kitchen_fridge.md) in the [kitchen](locations/kitchen.md)
+- [hammer](items/hammer.md) from the [hall_drawer](items/hall_drawer.md) in the [hall](locations/hall.md)
 - [salt](items/salt.md) and [pepper](items/pepper.md) from the table in the [living room](locations/living_room.md)
 
 Combine:

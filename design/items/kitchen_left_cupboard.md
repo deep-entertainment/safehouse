@@ -2,7 +2,7 @@
 
 #item #kitchen 
 
-A small half-height cupboard.
+A small half-height cupboard. It has two doors.
 
 - If closed
 
