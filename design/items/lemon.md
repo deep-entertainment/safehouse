@@ -1,6 +1,6 @@
 # Lemon
 
-#item #livingroom 
+#item #livingroom (in [bowl](bowl.md)) 
 
 A fresh, yellow lemon.
 

@@ -9,7 +9,7 @@ It covers all the details about the game’s concept, design, assets and story.
 ## Notes / Todo
 
 - [ ] Complete items descriptions and interactions
-- [ ] Complete location descriptions and interactions
+- [x] Complete location descriptions and interactions
 - [x] Complete music descriptions
 - [x] Complete sound descriptions
 - [x] Complete ambient descriptions
@@ -163,11 +163,15 @@ The end.
 
 ## Scene description
 
-### INTRODUCTION - BLACK SCREEN
+### INTRODUCTION
 
 *Cutscene starts*
 
-Play [sfx/intro.md](sfx/intro.md) (No music is played)
+Location: None (Black screen)
+
+Music: None
+
+Play [sfx/intro.md](sfx/intro.md)
 
 Starting credits:
 
@@ -178,9 +182,11 @@ Starting credits:
 - VA Brianna
 - Safe House
 
+After the sound effect ended:
+
 > [marjorie](characters/marjorie.md)
 >
-> So... this is it?
+> So this is it?
 
 > [calvin](characters/calvin.md)
 >
@@ -188,7 +194,9 @@ Starting credits:
 
 Fade in.
 
-### DAY1 - HALL - MORNING
+### DAY1 - INTRODUCTION - MORNING
+
+Location: [Hall](locations/hall.md#Hall)
 
 Music: None
 
@@ -214,7 +222,9 @@ They stand there for a few seconds, looking around. [marjorie](characters/marjor
 
 [marjorie](characters/marjorie.md) grabs her [suitcase](items/suitcase.md).
 
-### DAY1 - BEDROOM - MORNING
+### DAY1 - MORNING
+
+Location: [Bedroom](locations/bedroom.md#Bedroom)
 
 Music: [Marjorie Relaxed](music/marjorie.md#Marjorie%20Relaxed)
 
@@ -331,9 +341,11 @@ Using 4872 as the pin yields:
 
 Using RUBE(=7823) as the pin solves the puzzle
 
-### DAY1 - BEDROOM - MORNING
+### DAY1 - CONTINUED - MORNING
 
 *Cutscene starts*
+
+Location: [Bedroom](locations/bedroom.md#Bedroom)
 
 Music: [Marjorie Conflict](music/marjorie.md#Marjorie%20Conflict)
 
@@ -383,13 +395,15 @@ She exists the room, slamming the door. (Play [door_slam](sfx/door_slam.md), Mus
 
 *Fadeout*
 
-### DAY1 - LIVING ROOM - NOON
+### DAY1 - NOON
 
-[marjorie](characters/marjorie.md), [rebeca](characters/rebeca.md) and [calvin](characters/calvin.md) are sitting on the [living_room_table](items/living_room_table.md), eating takeaway chinese food. [day1_leftovers](items/day1_leftovers.md) and [day1_dishes](items/day1_dishes.md) are on the [living_room_table](items/living_room_table.md). The mood is tense.
+Location: [Living room](locations/living_room.md#Living%20room)
+
+Music: [Calvin jazzy](music/calvin.md#Calvin%20jazzy)
 
 Play [people_eating](sfx/people_eating.md)
 
-Music: [Calvin jazzy](music/calvin.md#Calvin%20jazzy)
+[marjorie](characters/marjorie.md), [rebeca](characters/rebeca.md) and [calvin](characters/calvin.md) are sitting on the [living_room_table](items/living_room_table.md), eating takeaway chinese food. [day1_leftovers](items/day1_leftovers.md) and [day1_dishes](items/day1_dishes.md) are on the [living_room_table](items/living_room_table.md). The mood is tense.
 
 > [calvin](characters/calvin.md)
 >
@@ -483,7 +497,9 @@ The player is free to roam the house. They should do the following to continue:
 
 - Talk to [[rebeca](characters/rebeca.md)](dialogs/rebeca1.md)
 
-### DAY1 - LIVING ROOM - AFTERNOON
+### DAY1 - AFTERNOON
+
+Location: [Living room](locations/living_room.md#Living%20room)
 
 Music: [brianna](music/brianna.md)
 
@@ -493,11 +509,13 @@ Music: [brianna](music/brianna.md)
 
 Fadeout
 
-### DAY1 - LIVING ROOM - EVENING
+### DAY1 - EVENING
 
-*Cutscene starts*
+Location: [Living room](locations/living_room.md#Living%20room)
 
 No music.
+
+*Cutscene starts*
 
 [calvin](characters/calvin.md) and [rebeca](characters/rebeca.md) sit on opposite ends of the sofa with [calvin](characters/calvin.md) sitting closer to the hall.
 
@@ -583,15 +601,17 @@ Music: [Marjorie Horror](music/marjorie.md#Marjorie%20Horror)
 
 *Fadeout*
 
-### DAY 2 - MORNING - LIVING ROOM
+### DAY 2 - MORNING
 
 *Cutscene ends*
+
+Location: [living_room](locations/living_room.md)
 
 Music: [Calvin jazzy](music/calvin.md#Calvin%20jazzy)
 
 Play [people_eating](sfx/people_eating.md)
 
-[marjorie](characters/marjorie.md), [calvin](characters/calvin.md) and [rebeca](characters/rebeca.md) are having breakfast at the table. There's toast, scrambled eggs, bacon and jam. The bacon is next to [rebeca](characters/rebeca.md). [calvin](characters/calvin.md) reads a "New York Standard" paper and randomly sips from a cup of coffee, [rebeca](characters/rebeca.md) is eating Muesli out of a bowl and staring out of the window. [marjorie](characters/marjorie.md) tries to make conversation.
+[marjorie](characters/marjorie.md), [calvin](characters/calvin.md) and [rebeca](characters/rebeca.md) are having breakfast at the [living_room_table](items/living_room_table.md). There's toast, scrambled eggs, bacon and jam. The bacon is next to [rebeca](characters/rebeca.md). [calvin](characters/calvin.md) reads a "New York Standard" paper and randomly sips from a cup of coffee, [rebeca](characters/rebeca.md) is eating Muesli out of a bowl and staring out of the window. [marjorie](characters/marjorie.md) tries to make conversation.
 
 A [dialog](dialogs/day2breakfast.md) unfolds.
 
@@ -657,7 +677,9 @@ In the [kitchen_trash_can](items/kitchen_trash_can.md) you find the [password_no
 
 [marjorie](characters/marjorie.md)  puts down the [smartphone](items/smartphone.md). Blackout.
 
-### DAY 2 - AFTERNOON - LIVING ROOM
+### DAY 2 - AFTERNOON
+
+Location: [Living room](locations/living_room.md#Living%20room)
 
 Music: [brianna](music/brianna.md)
 
@@ -665,9 +687,11 @@ Music: [brianna](music/brianna.md)
 
 [They talk.](dialogs/brianna2.md)
 
-### DAY 2 - NIGHT - BEDROOM
+### DAY 2 - NIGHT
 
 *Cutscene starts*
+
+Location: [Bedroom](locations/bedroom.md#Bedroom)
 
 No music.
 
@@ -681,7 +705,9 @@ Suddenly, the bedroom is lit up, we see [igino](characters/igino.md) standing in
 
 Music: [Marjorie Panic](music/marjorie.md#Marjorie%20Panic)
 
-### DAY 3 - EARLY MORNING - BEDROOM
+### DAY 3 - EARLY MORNING
+
+Location: [Bedroom](locations/bedroom.md#Bedroom)
 
 We switch back to the dark [bedroom](locations/bedroom.md) and barely see the small explosion of the lightbulb, which makes a [plop](sfx/plop.md), which makes it blur to the gun scene.
 
@@ -769,7 +795,9 @@ Blackout.
 
 Play [light_switch](sfx/light_switch.md)
 
-### DAY 3 - MORNING - LIVING ROOM
+### DAY 3 - MORNING
+
+Location: [Living room](locations/living_room.md#Living%20room)
 
 Music: [Marjorie Relaxed](music/marjorie.md#Marjorie%20Relaxed)
 
@@ -885,7 +913,9 @@ Marjorie takes a look at the lamp, sighs.
 >
 > *Coming!*
 
-### DAY 3 - NOON - LIVING ROOM
+### DAY 3 - NOON
+
+Location: [Living room](locations/living_room.md#Living%20room)
 
 Music: [brianna](music/brianna.md)
 
@@ -893,7 +923,9 @@ Music: [brianna](music/brianna.md)
 
 [They talk](dialogs/brianna3.md).
 
-### DAY 3 - EVENING - LIVING ROOM
+### DAY 3 - EVENING
+
+Location: [Living room](locations/living_room.md#Living%20room)
 
 [rebeca](characters/rebeca.md) reenters the [living_room](locations/living_room.md), she seems confused.
 
@@ -1008,7 +1040,9 @@ This puzzle consists of two panes (the two tapes with fingerprints). One of the 
 
 Fadeout.
 
-### DAY 4 - EARLY MORNING - BEDROOM
+### DAY 4 - EARLY MORNING
+
+Location: [Bedroom](locations/bedroom.md#Bedroom)
 
 No music.
 
@@ -1206,7 +1240,11 @@ A wounded [rebeca](characters/rebeca.md) limps into the room, looks at [calvin](
 
 Blackout.
 
-### DAY 5 - BLACK SCREEN
+### DAY 5 - NOON
+
+Location: Unknown (black screen)
+
+Music: None
 
 > [marjorie](characters/marjorie.md)
 >
@@ -1218,7 +1256,11 @@ Blackout.
 >
 > This is it.
 
-### DAY 5 - NOON - COURTHOUSE ROOM
+### DAY 5 - NOON CONTINUED
+
+Location: [Courthouse room](locations/courthouse_room.md#Courthouse%20room)
+
+Music: None
 
 We see the [courthouse room](locations/courthouse_room.md). [marjorie](characters/marjorie.md) sits on one end of the table, [brianna](characters/brianna.md) beside her.
 
