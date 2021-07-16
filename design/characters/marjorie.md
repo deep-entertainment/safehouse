@@ -20,3 +20,8 @@ Throughout the game, she is scared (her fears growing with the events)
 - Clothes:
   - Blue short dress
   - Pink shoes
+- Voice:
+  - soft
+  - warm
+  - low to middle
+  - emotional
