@@ -1120,6 +1120,8 @@ Music: [Calvin switching](music/calvin.md#Calvin%20switching)
 
 Seconds pass, [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md).
 
+Play [door_bang](sfx/door_bang.md)
+
 > [calvin](characters/calvin.md)
 >
 > (shouting) Open up! This is the police! (laughs)
@@ -1127,6 +1129,8 @@ Seconds pass, [calvin](characters/calvin.md) banging on the [bedroom_door](items
 > (falling back to his "nice" voice) Listen, Marjorie! I'm really sorry, I really am! You just happened to be at the wrong place at the wrong time I'm afraid.
 
 [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md).
+
+Play [door_bang](sfx/door_bang.md)
 
 > [calvin](characters/calvin.md)
 >
@@ -1137,6 +1141,9 @@ Seconds pass, [calvin](characters/calvin.md) banging on the [bedroom_door](items
 > (shouting) I trusted you, Calvin!
 
 [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) is shaking.
+
+Play [door_bang](sfx/door_bang.md)
+Play [wardrobe_moving](sfx/wardrobe_moving.md)
 
 > [calvin](characters/calvin.md)
 >
@@ -1156,6 +1163,9 @@ Seconds pass, [calvin](characters/calvin.md) banging on the [bedroom_door](items
 
 [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) is moving.
 
+Play [door_bang](sfx/door_bang.md)
+Play [wardrobe_moving](sfx/wardrobe_moving.md)
+
 > [calvin](characters/calvin.md)
 >
 > Well, a man's gotta provide for himself!
@@ -1170,6 +1180,9 @@ Seconds pass, [calvin](characters/calvin.md) banging on the [bedroom_door](items
 
 [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) moves some step away, the [bedroom_door](items/bedroom_door.md) is visible.
 
+Play [door_bang](sfx/door_bang.md)
+Play [wardrobe_moving](sfx/wardrobe_moving.md)
+
 > [calvin](characters/calvin.md)
 >
 > He just didn't get the message, that little punk.
@@ -1183,6 +1196,8 @@ Seconds pass, [calvin](characters/calvin.md) banging on the [bedroom_door](items
 > Because there was no other way!
 
 [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) gives in, moves further away and the [bedroom_door](items/bedroom_door.md) swings open. [calvin](characters/calvin.md) comes in.
+
+Play [wardrobe_giving_in](sfx/wardrobe_giving_in.md)
 
 > [calvin](characters/calvin.md)
 >
