@@ -1,8 +1,8 @@
 # Wardrobe lower drawer
 
-#item #bedroom 
+#item #bedroom
 
-The lower drawer of the wardrobe. We need a closed and an open state here.
+The lower drawer of the wardrobe. We need a closed and an open state here. It strangely has a padlock on it.
 
 - Look
   > [marjorie](characters/marjorie.md)
@@ -16,7 +16,8 @@ The lower drawer of the wardrobe. We need a closed and an open state here.
     > It's locked.
 
   - if unlocked and diary is not in inventory
-    *SFX: Drawer open*
+
+    Play [drawer_opening](../sfx/drawer_opening.md)
 
     > [marjorie](characters/marjorie.md)
     >
@@ -24,7 +25,7 @@ The lower drawer of the wardrobe. We need a closed and an open state here.
 
     Add [diary](items/diary.md) to inventory
 
-    *SFX: Drawer closed*
+    Play [drawer_opening](../sfx/drawer_opening.md)
 
   - if unlocked and diary is in inventory:
 

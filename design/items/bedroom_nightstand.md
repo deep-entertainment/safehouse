@@ -19,6 +19,10 @@ A very basic nightstand. Just a wooden block with a drawer.
 
     Add [cover](items/cover.md)
 - Use
-  *SFX: Drawer being opened and then closed*
+  
+  Play [drawer_opening](../sfx/drawer_opening.md)
+  
   > [marjorie](characters/marjorie.md)
   > Nope. Nothing.
+  
+  Play [drawer_closing](../sfx/drawer_closing.md)

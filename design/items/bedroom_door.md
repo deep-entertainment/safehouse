@@ -1,6 +1,6 @@
 # Bedroom door
 
-#item
+#item #bedroom 
 
 The door to Marjorie's bedroom. We need an open and closed state here. The open state shows part of the [upper_hall](../locations/upper_hall.md).
 

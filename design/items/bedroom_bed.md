@@ -1,6 +1,6 @@
 # Bed
 
-#item
+#item #bedroom 
 
 A very basic bed with a wooden frame, a white mattress, white pillow and a red blanket.
 

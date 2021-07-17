@@ -1,7 +1,6 @@
 # Light switch
 
-#item
-#bedroom 
+#item #bedroom
 
 A common light switch, clearly visible beside the door.
 
@@ -20,8 +19,8 @@ A common light switch, clearly visible beside the door.
 
   - On day 3 early morning when the bulb's dead
 
-  *SFX: light switch*
+	Play [broken_light_switch](../sfx/broken_light_switch.md)
 
-      > [marjorie](characters/marjorie.md)
-      >
-      > Nothing. The bulb is dead.
+    > [marjorie](characters/marjorie.md)
+    >
+    > Nothing. The bulb is dead.

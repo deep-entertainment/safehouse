@@ -1,6 +1,6 @@
 # Hook
 
-#item
+#item #bedroom (visible in [bedroom_lamp](../closeups/bedroom_lamp.md))
 
 A sturdy, metallic hook.
 

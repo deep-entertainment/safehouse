@@ -9,6 +9,7 @@ It covers all the details about the game’s concept, design, assets and story.
 ## Notes / Todo
 
 - [ ] Complete items descriptions and interactions
+- [ ] Complete closeups
 - [x] Complete location descriptions and interactions
 - [x] Complete music descriptions
 - [x] Complete sound descriptions
@@ -272,10 +273,10 @@ They slide in all directions.
 
 Find the four items by examining the things in the [bedroom](locations/bedroom.md):
 
-- [bedroom_bed](items/bedroom_bed.md)
-- [bedroom_wardrobe](items/bedroom_wardrobe.md)
-- [bedroom_nightstand](items/bedroom_nightstand.md)
-- [bedroom_stool](items/bedroom_stool.md)
+- [smartphone_incomplete](items/smartphone_incomplete.md) under [bedroom_bed](items/bedroom_bed.md)
+- [simcard](items/simcard.md) under [bedroom_wardrobe](items/bedroom_wardrobe.md)
+- [cover](items/cover.md) under [bedroom_nightstand](items/bedroom_nightstand.md)
+- [battery](items/battery.md) under [bedroom_stool](items/bedroom_stool.md)
 
 > [marjorie](characters/marjorie.md)
 >
