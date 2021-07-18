@@ -2,7 +2,7 @@
 
 #item #kitchen (in the [kitchen_fridge](kitchen_fridge.md))
 
-Three red jalapeno peppers.
+Three red jalapeño peppers.
 
 - Look
 

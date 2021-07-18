@@ -25,10 +25,10 @@ The lower drawer of the wardrobe. We need a closed and an open state here. It st
 
     Add [diary](items/diary.md) to inventory
 
-    Play [drawer_opening](../sfx/drawer_opening.md)
+	Play [drawer_closing](../sfx/drawer_closing.md)
 
   - if unlocked and diary is in inventory:
 
     > [marjorie](characters/marjorie.md)
     >
-    > It's empty.
+    > It's empty now.

@@ -1,8 +1,8 @@
 # Jalapeno (cut)
 
-#item #bedroom 
+#item
 
-The [jalapeno_peppers](items/jalapeno_peppers.md) cut into slices.
+The [jalapeno_peppers](items/jalapeno_peppers.md), cut into slices.
 
 - Look
 

@@ -13,3 +13,8 @@ The [lemon](items/lemon.md), cut in half.
 
   > [marjorie](characters/marjorie.md)
   > I should add the tomatoes first.
+
+- Use with [glass_with_tomatoes](glass_with_tomatoes.md)
+	> [marjorie](../characters/marjorie.md)
+	> Squeezing it.
+	Remove [half_lemon](half_lemon.md)

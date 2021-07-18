@@ -12,7 +12,7 @@ A standard hammer.
   > [marjorie](characters/marjorie.md)
   > That's gonna be a mess, but...
 
-  *SFX: The hammer mashes the tomatoes*
+  Play [../sfx/hammer_mash_tomatoes](../sfx/hammer_mash_tomatoes.md)
 
   > [marjorie](characters/marjorie.md)
   > Here we go.

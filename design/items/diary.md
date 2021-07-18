@@ -12,6 +12,9 @@ Not really a diary, but rather loose pages held together with a paperclip at fir
     > Two pages of what looks like a diary, held together by a paper clip. Let me take that off.
 
     Add [paperclip](items/paperclip.md) to inventory
+	
+	> [marjorie](../characters/marjorie.md)
+	> There we go. Let's take a look.
 
     Show [closeup_diary](../closeups/diary.md)
 

@@ -896,7 +896,7 @@ He sits down again.
 
 #### PUZZLE 3.3: Getting the fingerprint kit
 
-Take the [makeup_brush](items/makeup_brush.md) from the [kitchen_trash_can](items/kitchen_trash_can.md). Take the [tape](items/tape.md) from a [hall_cupboard_drawer](items/hall_cupboard_drawer.md). Get the [fingerprint_powder](items/fingerprint_powder.md) from the [living_room_cupboard_unlocked](items/living_room_cupboard_unlocked.md).
+Take the [makeup_brush](items/makeup_brush.md) from the [kitchen_trash_can](items/kitchen_trash_can.md). Take the [tape](items/tape.md) from [hall_sideboard](items/hall_sideboard.md). Get the [fingerprint_powder](items/fingerprint_powder.md) from the [living_room_cupboard_unlocked](items/living_room_cupboard_unlocked.md).
 
 Go to the [bedroom](locations/bedroom.md).
 

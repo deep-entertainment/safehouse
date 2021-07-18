@@ -2,7 +2,7 @@
 
 #item #bedroom 
 
-A broken lightbulb. It isn't smashed, but has a burnt inside.
+A broken lightbulb. It isn't smashed, but burnt inside.
 
 - Look
 

@@ -4,9 +4,16 @@
 
 A simple sideboard with one [hall_drawer](hall_drawer.md).
 
-There's nothing on it.
+There's a [tape](tape.md) on it.
 
-- Look
+- Look | Use
 	
-	> *MARJORIE*
+	> [marjorie](../characters/marjorie.md)
 	> I guess, you usually put your car keys on that.
+
+- Use (if [tape](tape.md) wasn't added)
+	
+	> [marjorie](../characters/marjorie.md)
+	> Well, somebody put a tape there.
+	
+	Add [tape](tape.md)
