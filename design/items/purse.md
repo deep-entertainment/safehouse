@@ -1,7 +1,8 @@
 # Purse
 
-#FIXME #item
+#item #bedroom (in [suitcase](suitcase.md))
 
-Purse
+A small, pink purse.
 
-open [CLOSEUP_PURSE](../closeups/purse.md)
+- Look | Use
+  open [CLOSEUP_PURSE](../closeups/purse.md)

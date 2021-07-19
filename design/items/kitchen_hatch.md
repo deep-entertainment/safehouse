@@ -2,7 +2,7 @@
 
 #item #kitchen 
 
-A hole in the kitchen leading to the living room. Clicking on it will switch to the living room with Marjorie looking through the hatch.
+A hole in the kitchen leading to the living room. Clicking on it will switch to the living room with Marjorie looking through the hatch. It's the kitchen side of [living_room_hatch](living_room_hatch.md)
 
 - Look | Use
 	
