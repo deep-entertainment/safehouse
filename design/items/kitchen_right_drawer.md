@@ -1,8 +1,8 @@
 # Right drawer
 
-#item #kitchen 
+#item #kitchen
 
-A simple drawer.
+A simple drawer in [kitchen_right_cupboard](kitchen_right_cupboard.md)
 
 - Default
 
@@ -12,8 +12,11 @@ A simple drawer.
 
 - Using it
 
+  Play [drawer_opening](../sfx/drawer_opening.md)
+
   > [marjorie](characters/marjorie.md)
   >
   > Full of cutlery. (beat) oh, and a magnifying glass.
 
   Take the [magnifying_glass](items/magnifying_glass.md).
+  Play [drawer_closing](../sfx/drawer_closing.md)

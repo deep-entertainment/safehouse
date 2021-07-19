@@ -1,6 +1,6 @@
 # Dishes (Day 2)
 
-#item #livingroom 
+#item #livingroom
 
 Plates, cutlery and mugs from a breakfast.
 
@@ -10,7 +10,7 @@ Plates, cutlery and mugs from a breakfast.
   > I love breakfast. Let's get those plates clean now.
 - If used with [kitchen_sink](items/kitchen_sink.md)
 
-  *SFX: Cleaning dishes*
+  Play [cleaning_dishes](../sfx/cleaning_dishes.md)
 
   > [marjorie](characters/marjorie.md)
   > (humming/whistling)

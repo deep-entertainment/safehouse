@@ -5,10 +5,13 @@
 A sharp kitchen knife.
 
 - Look
+  
   > [marjorie](characters/marjorie.md)
   > Looks sharp. I should be cautious.
+  
 - Use with [lemon](items/lemon.md) (if googled for recipe)
-  *SFX: Cutting the lemon*
+
+  Play [../sfx/cutting_lemon](../sfx/cutting_lemon.md)
 
   > [marjorie](characters/marjorie.md)
   > Shit. I got some juice in my eye.
@@ -16,8 +19,11 @@ A sharp kitchen knife.
   Remove [knife](items/knife.md) if also cut jalapeno peppers
   Remove [lemon](items/lemon.md)
   Add [half_lemon](items/half_lemon.md)
+
 - Use with [jalapeno_peppers](items/jalapeno_peppers.md) (if googled for recipe)
-  *SFX: Slicing with knife*
+
+  Play [slicing_peppers](../sfx/slicing_peppers.md)
+
   Remove [jalapeno_peppers](items/jalapeno_peppers.md)
   Add [cut_peppers](items/cut_peppers.md)
   Remove [knife](items/knife.md) (if also cut lemon)

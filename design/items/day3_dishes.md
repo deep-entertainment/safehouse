@@ -11,6 +11,6 @@ Plates
 
 - Use with [kitchen_sink](items/kitchen_sink.md)
 
-  *SFX: Cleaning dishes*
+  Play [cleaning_dishes](../sfx/cleaning_dishes.md)
 
   Remove [day3_dishes](items/day3_dishes.md) from inventory

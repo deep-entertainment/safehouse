@@ -1,34 +1,39 @@
 # Left cupboard
 
-#item #kitchen 
+#item #kitchen
 
-A small half-height cupboard. It has two doors.
+A small half-height cupboard. It has two doors. We need three views here: closed, opened with stepladder and opened without stepladder.
 
-- If closed
+- Look
+  - If closed
 
-  > [marjorie](characters/marjorie.md)
-  >
-  > Just a cupboard.
+    > [marjorie](characters/marjorie.md)
+    >
+    > Just a cupboard.
+  - If opened when [stepladder](stepladder.md) wasn't taken
+    > [marjorie](../characters/marjorie.md)
+    > There's a stepladder in it
+  - If open
+    > [marjorie](../characters/marjorie.md)
+    > It's empty now
 
-- If closed, using it
+- Use
+  - if closed and [stepladder](stepladder.md) wasn't taken
 
-  > [marjorie](characters/marjorie.md)
-  >
-  > Oh, it's mostly empty. Except for a stepladder.
+    Play [cupboard_opening](../sfx/cupboard_opening.md)
 
-  Show the open cupboard with the [stepladder](items/stepladder.md) in it.
+    > [marjorie](characters/marjorie.md)
+    >
+    > Oh, it's mostly empty. (beat) Except for a stepladder.
 
-- If looked at open cupboard with stepladder in it
+    Show the open cupboard with the [stepladder](items/stepladder.md) in it.
 
-  > [marjorie](characters/marjorie.md)
-  >
-  > There's only a stepladder in there.
+  - if opened and [stepladder](stepladder.md) wasn't taken
 
-- If looked at open cupboard without stepladder in it
+    Add [stepladder](stepladder.md).
+    Remove stepladder from view.
 
-  > [marjorie](characters/marjorie.md)
-  >
-  > It's empty now.
+  - if opened and [stepladder](stepladder.md) was taken
 
-- If opened, using it
-  Show the closed cupboard
+    Play [cupboard_closing](../sfx/cupboard_closing.md)
+	Show closed view

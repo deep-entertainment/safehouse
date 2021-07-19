@@ -1,6 +1,6 @@
 # Dishes (Day 1)
 
-#item #livingroom 
+#item #livingroom
 
 Plates and cutlery.
 
@@ -11,7 +11,7 @@ Plates and cutlery.
 
 - Use with [kitchen_sink](items/kitchen_sink.md)
 
-  *SFX: Cleaning dishes*
+  Play [cleaning_dishes](../sfx/cleaning_dishes.md)
 
   > [marjorie](characters/marjorie.md)
   > There you go. Everything's cleaned up.

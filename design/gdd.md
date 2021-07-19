@@ -195,7 +195,7 @@ After the sound effect ended:
 
 Fade in.
 
-### DAY1 - INTRODUCTION - MORNING
+### DAY 1 - INTRODUCTION - MORNING
 
 Location: [Hall](locations/hall.md#Hall)
 
@@ -223,7 +223,7 @@ They stand there for a few seconds, looking around. [marjorie](characters/marjor
 
 [marjorie](characters/marjorie.md) grabs her [suitcase](items/suitcase.md).
 
-### DAY1 - MORNING
+### DAY 1 - MORNING
 
 Location: [Bedroom](locations/bedroom.md#Bedroom)
 
@@ -342,7 +342,7 @@ Using 4872 as the pin yields:
 
 Using RUBE(=7823) as the pin solves the puzzle
 
-### DAY1 - CONTINUED - MORNING
+### DAY 1 - CONTINUED - MORNING
 
 *Cutscene starts*
 
@@ -396,7 +396,7 @@ She exists the room, slamming the door. (Play [door_slam](sfx/door_slam.md), Mus
 
 *Fadeout*
 
-### DAY1 - NOON
+### DAY 1 - NOON
 
 Location: [Living room](locations/living_room.md#Living%20room)
 
@@ -498,7 +498,7 @@ The player is free to roam the house. They should do the following to continue:
 
 - Talk to [[rebeca](characters/rebeca.md)](dialogs/rebeca1.md)
 
-### DAY1 - AFTERNOON
+### DAY 1 - AFTERNOON
 
 Location: [Living room](locations/living_room.md#Living%20room)
 
@@ -510,7 +510,7 @@ Music: [brianna](music/brianna.md)
 
 Fadeout
 
-### DAY1 - EVENING
+### DAY 1 - EVENING
 
 Location: [Living room](locations/living_room.md#Living%20room)
 
