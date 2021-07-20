@@ -10,7 +10,7 @@ A magnifying glass as a reading aid. Rectangular blue frame with a round magnify
 	> It's a magnifying glass. I guess it's used as a reading aid.
 	
 - Use
-	- With [bedroom_hook](items/bedroom_hook.md)
+	- With [tiny_thing](tiny_thing.md)
 
 	  > [marjorie](characters/marjorie.md)
 	  >
@@ -19,7 +19,7 @@ A magnifying glass as a reading aid. Rectangular blue frame with a round magnify
 	  >
 	  > Oh my god. What the fuck is going on here? The noose, the diary. Is somebody trying to creep me out?
 
-	- With [bedroom_hook](items/bedroom_hook.md) (again)
+	- With [tiny_thing](tiny_thing.md) (again)
 
 	  > [marjorie](characters/marjorie.md)
 	  >

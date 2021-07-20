@@ -1,6 +1,6 @@
 # Tomatoes
 
-#item #FIXME #kitchen (in the [kitchen_fridge](kitchen_fridge.md))
+#item #kitchen (in the [kitchen_fridge](kitchen_fridge.md))
 
 - Look
 

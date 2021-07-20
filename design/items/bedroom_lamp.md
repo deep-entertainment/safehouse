@@ -17,12 +17,19 @@ A hanging lamp with a lampshade that hides a sturdy hook that the lamp is attach
     >
     > Oh, the bulb's dead. I need to replace it
 
-    [marjorie](characters/marjorie.md) unscrews the bulb. Add [broken_bulb](items/broken_bulb.md) to inventory.
-
   - If bulb was replaced before
 
     Show [bedroom_lamp](../closeups/bedroom_lamp.md)
 - Use
+  - If [stepladder](stepladder.md) was used and [broken_bulb](broken_bulb.md) was not taken:
 
-  > [marjorie](characters/marjorie.md)
-  > There is no switch on the lamp itself.
+    [marjorie](characters/marjorie.md) unscrews the bulb. Add [broken_bulb](items/broken_bulb.md) to inventory.
+  - If [stepladder](stepladder.md) was used and [broken_bulb](broken_bulb.md) was taken:
+    Show [bedroom_lamp](../closeups/bedroom_lamp.md)
+  - if [stepladder](stepladder.md) was not used on [Day 3](../gdd.md#Day%203):
+    > [marjorie](../characters/marjorie.md)
+    > I can't reach it
+  - Default
+
+    > [marjorie](characters/marjorie.md)
+    > There is no switch on the lamp itself.

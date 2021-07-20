@@ -15,5 +15,6 @@ Pepper in a pepper shaker with a P on the top.
 	  > [marjorie](characters/marjorie.md)
 	  > That's enough pepper I guess.
 	- With [glass_with_tomatoes](items/glass_with_tomatoes.md)
+	  Play [pouring_salt_pepper](../sfx/pouring_salt_pepper.md)
 	  > [marjorie](characters/marjorie.md)
 	  > Peppered tomatoe juice.

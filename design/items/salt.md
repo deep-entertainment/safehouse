@@ -14,5 +14,6 @@ A salt shaker with an S on the top.
   > [marjorie](characters/marjorie.md)
   > I think, that's enough salt
 - Use with [glass_with_tomatoes](items/glass_with_tomatoes.md)
+  Play [pouring_salt_pepper](../sfx/pouring_salt_pepper.md)
   > [marjorie](characters/marjorie.md)
   > Salted tomatoe juice.

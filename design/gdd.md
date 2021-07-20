@@ -8,7 +8,7 @@ It covers all the details about the game’s concept, design, assets and story.
 
 ## Notes / Todo
 
-- [ ] Complete items descriptions and interactions
+- [x] Complete items descriptions and interactions
 - [ ] Complete closeups
 - [x] Complete location descriptions and interactions
 - [x] Complete music descriptions

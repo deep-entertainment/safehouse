@@ -9,23 +9,22 @@ A working lightbulb.
   > That light bulb seems to be working
 
 - Use
+	- With [bedroom_lamp](items/bedroom_lamp.md)
 
-- If used with [bedroom_lamp](items/bedroom_lamp.md)
+	  > [marjorie](characters/marjorie.md)
+	  >
+	  > There we...
 
-  > [marjorie](characters/marjorie.md)
-  >
-  > There we...
+	  Music stops
 
-  *MUSIC: (stops)*
+	  > [marjorie](characters/marjorie.md)
+	  >
+	  > (gasps)
 
-  > [marjorie](characters/marjorie.md)
-  >
-  > (gasps)
+	  Music: [Marjorie Horror Strings](../music/marjorie.md#Marjorie%20Horror%20Strings)
 
-  *MUSIC: eerie tunes from the Marjorie theme*
+	  Show [bedroom_lamp](../closeups/bedroom_lamp.md)
 
-  Show [bedroom_lamp](../closeups/bedroom_lamp.md)
-
-  > [marjorie](characters/marjorie.md)
-  >
-  > What the fuck is happening here?
+	  > [marjorie](characters/marjorie.md)
+	  >
+	  > What the fuck is happening here?

@@ -7,4 +7,4 @@ It's a crumbled piece of paper with some scribbling on it.
 - Look
 	
 	> [marjorie](../characters/marjorie.md)
-	> It says: "Remember to shift by three." (pause) Huh.
+	> It says: "Remember to shift right by three." (pause) Huh.
