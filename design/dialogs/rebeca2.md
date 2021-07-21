@@ -1,6 +1,6 @@
 # Rebeca 2
 
-#dialogs 
+#dialogs #livingroom 
 
 # Comment
 

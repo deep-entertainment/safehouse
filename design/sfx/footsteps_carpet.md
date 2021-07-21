@@ -1,3 +1,5 @@
 # Footsteps (carpet)
 
-#FIXME #sfx 
+#sfx 
+
+Walking on carpet.

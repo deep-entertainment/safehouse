@@ -1,3 +1,5 @@
 # Footsteps (wood)
 
-#FIXME #sfx 
+#sfx 
+
+Walking on a wooden floor.

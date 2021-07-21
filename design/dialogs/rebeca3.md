@@ -1,6 +1,6 @@
 # Rebeca 3
 
-#dialogs 
+#dialogs #kitchen 
 
 # Comment
 

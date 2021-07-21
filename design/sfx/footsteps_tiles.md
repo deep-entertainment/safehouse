@@ -1,4 +1,5 @@
 # Footsteps (tiles)
 
-#FIXME 
 #sfx 
+
+Walking on a tiled floor.

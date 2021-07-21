@@ -2,7 +2,7 @@
 
 #item #bedroom
 
-A hanging lamp with a lampshade that hides a sturdy hook that the lamp is attached to. The light is only visible in the night scenes and accentuates the area around the door, but doesn't cast hard shadows for the rest of the room.
+A hanging lamp with spherical, green lampshade that hides a sturdy hook that the lamp is attached to. The light is only visible in the night scenes and accentuates the area around the door, but doesn't cast hard shadows for the rest of the room.
 
 - Look
 

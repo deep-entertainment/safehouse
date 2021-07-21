@@ -6,15 +6,6 @@ This is the game design document for "Safe House", an atmospheric point and clic
 
 It covers all the details about the game’s concept, design, assets and story.
 
-## Notes / Todo
-
-- [x] Complete items descriptions and interactions
-- [ ] Complete closeups
-- [x] Complete location descriptions and interactions
-- [x] Complete music descriptions
-- [x] Complete sound descriptions
-- [x] Complete ambient descriptions
-
 ## Short abstract
 
 A mob murder witness is taken into a safe house by the police for five days before her testimony. Although she's protected by two police officers, the house might not be as safe as everybody thinks.
@@ -80,7 +71,7 @@ They talk over the dinner about what happened. [calvin](characters/calvin.md) tr
 
 [marjorie](characters/marjorie.md), [calvin](characters/calvin.md) and [rebeca](characters/rebeca.md) eat breakfast. [calvin](characters/calvin.md) reads the New York Standard. In the dialog, [marjorie](characters/marjorie.md) tries to gather more information about [igino](characters/igino.md) and La Famiglia.
 
-After finishing the breakfast, [marjorie](characters/marjorie.md) goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads her to the combination of the padlock on the drawer in her room.
+After finishing the breakfast, [marjorie](characters/marjorie.md) goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads her to the combination of the [padlock](items/padlock.md) on the [bedroom_wardrobe_drawer_lower](items/bedroom_wardrobe_drawer_lower.md) in her room.
 
 She opens the lock with it and finds the fake diary of [jacob](characters/jacob.md) Grimes. Downstairs, she finds [rebeca](characters/rebeca.md) and talks to her. She reveals that [jacob](characters/jacob.md) Grimes was found dead 18 years ago. (It is not yet revealed, that [jacob](characters/jacob.md) hung himself or that [calvin](characters/calvin.md) was assigned to that case)
 
@@ -243,15 +234,7 @@ Click on the [suitcase](items/suitcase.md). Switch to [suitcase](closeups/suitca
 >
 > Well. Time to unpack I guess.
 
-Click (unpack) the items in the [suitcase](items/suitcase.md). Those items are presented in order:
-
-- Shirts (Play [taking_clothes](sfx/taking_clothes.md))
-
-- Sweaters (Play [taking_clothes](sfx/taking_clothes.md))
-
-- Today's newspaper. Swiches to [newspaper](closeups/newspaper.md) (Play [unfolding_paper](sfx/unfolding_paper.md))
-
-- Pants (Play [taking_clothes](sfx/taking_clothes.md))
+Click (unpack) the items in the [suitcase](items/suitcase.md).
 
 When [marjorie](characters/marjorie.md) unpacks the pants, her [smartphone](items/smartphone.md) falls out and smashes on the floor into four pieces: (Play [object_crashing](sfx/object_crashing.md))
 
@@ -300,15 +283,7 @@ Combine the items with the [smartphone_incomplete](items/smartphone_incomplete.m
 
 #### PUZZLE 1.3: Resetting the phone
 
-Click the [suitcase](items/suitcase.md) again and unpack further. Following items are unpacked:
-
-- Toiletries bag (Play [taking_clothes](sfx/taking_clothes.md))
-
-- Underwear (Play [taking_clothes](sfx/taking_clothes.md))
-
-- Bras (Play [taking_clothes](sfx/taking_clothes.md))
-
-- [purse](items/purse.md) (Play [taking_clothes](sfx/taking_clothes.md))
+Click the [suitcase](items/suitcase.md) again and unpack further. 
 
 > [marjorie](characters/marjorie.md)
 >

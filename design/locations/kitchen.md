@@ -14,6 +14,8 @@ We see a very functional kitchen with a [kitchen_fridge](../items/kitchen_fridge
 
 An invisible door in the foreground leads back to the [living_room](../ambients/living_room.md). The [door_storeroom](../items/door_storeroom.md) in the back leads to a store room, but is locked.
 
+There's a window here and we see the root of a tree in the garden.
+
 We need a night and a day variant.
 
 ## SFX

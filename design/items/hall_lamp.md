@@ -2,7 +2,7 @@
 
 #item #hall
 
-A wall lamp. The light is only seen in night scens and illuminates the room and accentuates the wall and the ceiling over it.
+A three-cornered wall lamp. The light is only seen in night scens and illuminates the room and accentuates the wall and the ceiling over it. The lamp itself is strangely tinted blue.
 
 - Default
 

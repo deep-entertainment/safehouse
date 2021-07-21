@@ -1,6 +1,12 @@
 # Purse
 
-#FIXME #closeup 
+#closeup 
+
+A closeup of an opened, pink purse with movable items stacked one of another. The items can be clicked and vanish. Play [taking_item](../sfx/taking_item.md) upon taking each item.
+
+The exit leads back to [bedroom](../locations/bedroom.md)
+
+The stash is:
 
 - Picture of [marjorie](characters/marjorie.md)s mother
 
@@ -39,3 +45,6 @@
   > RUBE
   >
   > caTerp1llar
+
+  Add [password_note](../items/password_note.md)
+  Close back to [bedroom](../locations/bedroom.md)

@@ -1,10 +1,8 @@
 # Courthouse room
 
-#FIXME #location #courthouse_room
+#location #courthouse_room
 
 ## Concept art
-
-#FIXME 
 
 https://nytaxattorney.com/consultations-2/conference-room-3/
 

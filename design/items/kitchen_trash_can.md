@@ -2,7 +2,7 @@
 
 #item #kitchen 
 
-A standard issue trash can.
+A cubic, red issue trash can, that can be opened and closed using a foot pedal.
 
 - Look | Use
 	- On [DAY 2 - MORNING](../gdd.md#DAY%202%20-%20MORNING) if [password_note](password_note.md) wasn't added
