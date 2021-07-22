@@ -14,8 +14,7 @@
 		
 		> [marjorie](../characters/marjorie.md)
 		> Nah. She wouldn't let me.
-		
-	- from [living_room_hatch](living_room_hatch.md)
+	- from [living_room_hatch](living_room_hatch.md) if Rebeca leans to the left and reads the file
 		
 		> [marjorie](../characters/marjorie.md)
 		> (whispers) Careful...
@@ -27,3 +26,8 @@
 		
 		Add [smartphone](smartphone.md)
 		Disable [pocket](pocket.md)
+	- from [living_room_hatch](living_room_hatch.md)
+		Marjorie reaches down, but immediately pulls back her hand.
+		
+		> [marjorie](../characters/marjorie.md)
+		> (whispers) Phew, that was close. I should be more careful.

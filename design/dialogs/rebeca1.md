@@ -46,9 +46,9 @@ One random of
 > 
 > Can I ask you something, Rebeca?
 
-> [rebeca](../characters/rebeca.md) (grunting)
+> [rebeca](../characters/rebeca.md)
 > 
-> If you must.
+> (grunting) If you must.
 
 [Questions](#Questions)
 
@@ -110,7 +110,8 @@ One random of
 > 
 > Yes. (beat) Okay. (beat) Sorry.
 
-> [rebeca](../characters/rebeca.md) (grunts)
+> [rebeca](../characters/rebeca.md)
+> (grunts)
 
 [Questions](#Questions)
 

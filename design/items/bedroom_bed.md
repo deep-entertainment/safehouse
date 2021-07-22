@@ -1,20 +1,27 @@
 # Bed
 
-#item #bedroom 
+#item #bedroom
 
 A very basic bed with a wooden frame, a white mattress, white pillow and a red blanket.
 
 - Look
+  - On [Day 1](../gdd.md#Day%201)
 
-  > [marjorie](characters/marjorie.md)
-  >
-  > My bed. The mattress is too soft, it hurts my back.
+    > [marjorie](../characters/marjorie.md)
+    > It's my bed, I guess.
 
-- Look (When looking for the smartphone parts)
+  - After [Day 1](../gdd.md#Day%201)
 
-  > Oh, there's the phone.
+    > [marjorie](characters/marjorie.md)
+    >
+    > My bed. The mattress is too soft, it hurts my back.
 
-  Add [smartphone_incomplete](items/smartphone_incomplete.md)
+  - During [PUZZLE 1 2 Assembling the phone](../gdd.md#PUZZLE%201%202%20Assembling%20the%20phone)
+
+    > [marjorie](../characters/marjorie.md)
+    > Oh, there's the phone.
+
+    Add [smartphone_incomplete](items/smartphone_incomplete.md)
 
 - Use
 

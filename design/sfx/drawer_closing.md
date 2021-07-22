@@ -1,3 +1,5 @@
 # Drawer (closing)
 
-Opening a drawer.
+#sfx
+
+Closing a drawer.

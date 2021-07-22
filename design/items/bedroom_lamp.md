@@ -25,7 +25,14 @@ A hanging lamp with spherical, green lampshade that hides a sturdy hook that the
 
     [marjorie](characters/marjorie.md) unscrews the bulb. Add [broken_bulb](items/broken_bulb.md) to inventory.
   - If [stepladder](stepladder.md) was used and [broken_bulb](broken_bulb.md) was taken:
-    Show [bedroom_lamp](../closeups/bedroom_lamp.md)
+
+	> [marjorie](../characters/marjorie.md)
+    > Let's find a replacement for the broken bulb.
+
+  - with [bulb](bulb.md) If [stepladder](stepladder.md) was used:
+
+    See [PUZZLE 3 1: Fixing the lamp](../gdd.md#PUZZLE%203%201:%20Fixing%20the%20lamp)
+
   - if [stepladder](stepladder.md) was not used on [Day 3](../gdd.md#Day%203):
     > [marjorie](../characters/marjorie.md)
     > I can't reach it

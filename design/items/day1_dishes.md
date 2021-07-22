@@ -7,7 +7,7 @@ Plates and cutlery.
 - Look
 
   > [marjorie](characters/marjorie.md)
-  > All ate up.
+  > All ate up. Let's quickly clean it up.
 
 - Use with [kitchen_sink](items/kitchen_sink.md)
 

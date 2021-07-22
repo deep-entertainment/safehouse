@@ -11,20 +11,4 @@ A working lightbulb.
 - Use
 	- With [bedroom_lamp](items/bedroom_lamp.md)
 
-	  > [marjorie](characters/marjorie.md)
-	  >
-	  > There we...
-
-	  Music stops
-
-	  > [marjorie](characters/marjorie.md)
-	  >
-	  > (gasps)
-
-	  Music: [Marjorie Horror Strings](../music/marjorie.md#Marjorie%20Horror%20Strings)
-
-	  Show [bedroom_lamp](../closeups/bedroom_lamp.md)
-
-	  > [marjorie](characters/marjorie.md)
-	  >
-	  > What the fuck is happening here?
+	  see [PUZZLE 3 1 - Fixing the lamp](../gdd.md#PUZZLE%203%201%20-%20Fixing%20the%20lamp) 

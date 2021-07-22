@@ -1,6 +1,6 @@
 # Wifi router
 
-#item #upperhall 
+#item #upperhall in [wifi_router](../closeups/wifi_router.md)
 
 A WIFI router, fantasy vendor and model. There are cables going in and two antennas, some blinking lights.
 

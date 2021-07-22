@@ -17,4 +17,4 @@ The front door of the house. It's partly transparent and shows the outside. Ther
   - On day 4, early morning
     > [marjorie](characters/marjorie.md)
     >
-    > Shit! It's locked. I can't get out.
+    > (scared, hectic) Shit! It's locked. I can't get out.

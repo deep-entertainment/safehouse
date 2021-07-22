@@ -18,7 +18,7 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 
 > [brianna](../characters/brianna.md)
 > 
-> I see. (beat) (friendly) So. Have you settled in?
+> I see. (beat) (friendly) Well. Have you settled in?
 
 > [marjorie](../characters/marjorie.md)
 > 
@@ -248,9 +248,9 @@ Some seconds pass and we just hear Marjorie crying and sobbing. Then:
 > 
 > Can you continue?
 
-> [marjorie](../characters/marjorie.md) (still sobbing, but getting herself together)
+> [marjorie](../characters/marjorie.md)
 > 
-> Yes... yes, okay. (breath) Jazir wasn't breathing anymore, so I took the phone and called 911.
+> (still sobbing, but getting herself together) Yes... yes, okay. (breath) Jazir wasn't breathing anymore, so I took the phone and called 911.
 
 > [brianna](../characters/brianna.md)
 > 

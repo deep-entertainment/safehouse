@@ -10,7 +10,9 @@ A combination of the [makeup_brush](items/makeup_brush.md), [fingerprint_powder]
   > It should be enough to lift fingerprints and compare them
 
 - Use
-  - With [bedroom_hook](items/bedroom_hook.md)
+  - With [bedroom_hook](bedroom_hook.md) on [PUZZLE 3 3 Getting the fingerprint kit](../gdd.md#PUZZLE%203%203%20Getting%20the%20fingerprint%20kit)
+  	See [PUZZLE 3 3 Getting the fingerprint kit](../gdd.md#PUZZLE%203%203%20Getting%20the%20fingerprint%20kit)
+  - With [bedroom_hook](items/bedroom_hook.md) on [PUZZLE 3 4 Lifting fingerprints](../gdd.md#PUZZLE%203%204%20Lifting%20fingerprints)
 
     > [marjorie](characters/marjorie.md)
     >
@@ -18,11 +20,11 @@ A combination of the [makeup_brush](items/makeup_brush.md), [fingerprint_powder]
 
     Add [fingerprint_from_hook](items/fingerprint_from_hook.md) to inventory
 
-  - With [used_glass](used_glass.md)
+	- With [used_glass](used_glass.md)
+	
+		 > [marjorie](../characters/marjorie.md)
+		 > Time to get your (pause) fingerprints (pause) bitch.
      
-     > [marjorie](../characters/marjorie.md)
-     > Time to get your (pause) fingerprints (pause) bitch.
-     
-	 Add [rebeka_fingerprints](rebeka_fingerprints.md)
-	 Remove [makeshift_fingerprint_kit](makeshift_fingerprint_kit.md)
-	 Remove [used_glass](used_glass.md)
+		Add [rebeka_fingerprints](rebeka_fingerprints.md)
+		Remove [makeshift_fingerprint_kit](makeshift_fingerprint_kit.md)
+		Remove [used_glass](used_glass.md)

@@ -14,4 +14,7 @@ A small, sturdy stepladder made from aluminium.
 	> [marjorie](../characters/marjorie.md)
 	> That should help getting up there
 	
+	Marjorie climbs up and unscrews the broken bulb
+	
 	Remove [stepladder](stepladder.md)
+	Add [broken_bulb](broken_bulb.md)

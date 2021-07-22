@@ -11,13 +11,8 @@ A magnifying glass as a reading aid. Rectangular blue frame with a round magnify
 	
 - Use
 	- With [tiny_thing](tiny_thing.md)
-
-	  > [marjorie](characters/marjorie.md)
-	  >
-	  > Those... Those are fibres. Hemp fibres.
-	  > I... Then I wasn't hallucinating... There was really a noose hanging there.
-	  >
-	  > Oh my god. What the fuck is going on here? The noose, the diary. Is somebody trying to creep me out?
+		
+		See [PUZZLE 3 2 - Inspecting the hook](../gdd.md#PUZZLE%203%202%20-%20Inspecting%20the%20hook)
 
 	- With [tiny_thing](tiny_thing.md) (again)
 

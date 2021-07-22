@@ -21,4 +21,8 @@ The back cover of the [smartphone](items/smartphone.md).
 	> [marjorie](../characters/marjorie.md)
 	> Okay, everything's back together.
 	
+	Remove [smartphone_incomplete](smartphone_incomplete.md)
+	Remove [cover](cover.md)
+	Add [smartphone](smartphone.md)
+	
 	See end of [PUZZLE 1 2 Assembling the phone](../gdd.md#PUZZLE%201%202%20Assembling%20the%20phone) 

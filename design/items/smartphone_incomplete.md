@@ -2,7 +2,7 @@
 
 #item #bedroom (under [bedroom_bed](bedroom_bed.md))
 
-Smartphone (rather cheap). Requires [battery](items/battery.md), [cover](items/cover.md), [simcard](items/simcard.md)
+The incomplete smartphone base. Requires [battery](items/battery.md), [cover](items/cover.md), [simcard](items/simcard.md)
 
 - If examined
 

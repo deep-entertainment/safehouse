@@ -157,7 +157,7 @@ END
 
 > [marjorie](../characters/marjorie.md)
 >
-> (louder) Exactly! Hot-headed. She always goes berserk.
+> (louder) Exactly! Hot-headed. She's a freak!
 
 > [brianna](../characters/brianna.md)
 >
@@ -166,3 +166,5 @@ END
 > [marjorie](../characters/marjorie.md)
 >
 > (grunt) Whatever.
+
+[questions](#questions)

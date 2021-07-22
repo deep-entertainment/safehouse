@@ -19,7 +19,7 @@ A silver american-style fridge. We need an open and closed state. When opened, t
 		Add [tomatoes](tomatoes.md)
 		
 		> [marjorie](../characters/marjorie.md)
-		> Oh, and Jalapeños!
+		> Oh, and Jalapeños! I could use them instead of Tabasco.
 		
 		Add [jalapeno_peppers](jalapeno_peppers.md)
 		

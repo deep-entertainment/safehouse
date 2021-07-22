@@ -15,4 +15,6 @@ A smartphone battery from a phone where you can actually switch batteries.
 	> [marjorie](../music/marjorie.md)
 	> This... should go... there. Yes.
 	
+	Play [inserting_object](../sfx/inserting_object.md)
+	
 	Remove [battery](battery.md)

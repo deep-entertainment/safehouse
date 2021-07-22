@@ -11,6 +11,6 @@ Toast cuts, bacon leftovers, mashed eggs.
 
 - Used with [kitchen_trash_can](items/kitchen_trash_can.md)
 
-  *SFX: Throwing something into the trash*
+  Play [throwing_into_the_trash](../sfx/throwing_into_the_trash.md)
 
   Remove [day2_leftovers](items/day2_leftovers.md) from inventory

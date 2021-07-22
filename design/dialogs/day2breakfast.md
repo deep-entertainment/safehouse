@@ -70,9 +70,9 @@ We also push up the tension between Marjorie and Rebeca more.
 > 
 > He wasn't afraid or anything?
 
-> [rebeca](../characters/rebeca.md) (hard laugh)
+> [rebeca](../characters/rebeca.md)
 > 
-> Varone? That guy? That guy isn't afraid of anything. Not with all the lawyers, his (making fun of the name) "La Famiglia" suckers and bribed cops.
+> (hard laugh) Varone? That guy? That guy isn't afraid of anything. Not with all the lawyers, his (making fun of the name) "La Famiglia" suckers and bribed cops.
 
 > [calvin](../characters/calvin.md)
 > 
@@ -94,7 +94,7 @@ We also push up the tension between Marjorie and Rebeca more.
 
 > [calvin](../characters/calvin.md)
 > 
-> [rebeca](../characters/rebeca.md)!
+> Rebeca!
 > 
 > Marjorie, what Rebeca means is that they know there's a witness in the case. That's in the documents for the trial. However, they do *not* know who you are and especially where you are right now.
 

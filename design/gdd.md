@@ -18,16 +18,16 @@ A mob murder witness is taken into a safe house by the police for five days befo
 
 ## Abstract
 
-A mob murder witness is taken into a safe house by the police for five days before her court appearance. She's protected by two police officers. One of them is on the mob murder's payroll and has already staged a suicide of a witness 18 years ago. He first tries to scare the witness with the story about the suicide by leaving scary notes and intimidating her. On the fourth day, his masquerade is dropped, and he first tries to kill the other officer. The witness interrupts him, and then he tries to kill her, but she can hold him back and is saved in the last minute by the other officer.
+A mob murder witness is taken into a safe house by the police for five days before her court appearance. She's protected by two police officers. One of them is on the mob murder's payroll and has already staged a suicide of a witness 18 years ago. He first tries to scare the witness with the story about the suicide by leaving scary notes and intimidating her. On the fourth day, his masquerade is dropped, and he first tries to kill the other officer. The witness interrupts him, and then he tries to kill her, but she can hold him back and is saved in the last minute by the other officer, who was injured but lives.
 
 ## Characters
 
-- [marjorie](characters/marjorie.md)
-- [calvin](characters/calvin.md)
-- [rebeca](characters/rebeca.md)
-- [brianna](characters/brianna.md)
-- [igino](characters/igino.md)
-- [jacob](characters/jacob.md)
+- [Marjorie](characters/marjorie.md#Marjorie), the witness
+- [Calvin](characters/calvin.md#Calvin), a police office
+- [Rebeca](characters/rebeca.md#Rebeca), a police officer
+- [Brianna](characters/brianna.md#Brianna), the district attorney
+- [Igino](characters/igino.md#Igino), the mob boss
+- [Jacob](characters/jacob.md#Jacob), the former victim (deceased)
 
 ## Music
 
@@ -39,6 +39,10 @@ The themes should reflect the character's personality or functions in the game:
 - [Calvin](music/calvin.md#Calvin)
 - [Brianna](music/brianna.md#Brianna)
 
+## Location
+
+The game takes place in a New Jersey suburb. The place is merely a setting though and has no further importance for the game itself.
+
 ## Game structure
 
 The game is structured by chapters for each day. The chapters aren't visible to the player though, and can only be distinguished by the change of scenery with morning/noon/evening/night scenes.
@@ -49,7 +53,7 @@ This is a short overview of the different scenes:
 
 #### Morning
 
-[marjorie](characters/marjorie.md), [calvin](characters/calvin.md) and [rebeca](characters/rebeca.md) arrive at the safe house in New Jersey. They make themselves at home. [marjorie](characters/marjorie.md) goes upstairs in her bedroom to unpack. She has smuggled a phone into the safe house and calls her mother, gets interrupted by [rebeca](characters/rebeca.md), who screams at her, grabs her phone and storms off.
+[marjorie](characters/marjorie.md), [calvin](characters/calvin.md) and [rebeca](characters/rebeca.md) arrive at the safe house in a New Jersey suburb. They make themselves at home. [marjorie](characters/marjorie.md) goes upstairs in her bedroom to unpack. She has smuggled a phone into the safe house and calls her mother, gets interrupted by [rebeca](characters/rebeca.md), who screams at her, grabs her phone and storms off.
 
 #### Noon
 
@@ -119,7 +123,7 @@ She wants to investigate if somebody left fingerprints there. She suspects [rebe
 
 As they are eating, [marjorie](characters/marjorie.md) tries to grill [rebeca](characters/rebeca.md) to find out wether she tries to scare her. At the same time, [rebeca](characters/rebeca.md) tries to test Calvin to find out more. They get into an argument. [calvin](characters/calvin.md) gets in between them and something he says triggers something in [rebeca](characters/rebeca.md), so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
 
-After breakfast, [marjorie](characters/marjorie.md) again takes the dishes to the kitchen. She wonders why the supplies seem to be fully stocked.
+After breakfast, [marjorie](characters/marjorie.md) again takes the dishes to the kitchen.
 
 In the trash she finds a make-up brush.
 
@@ -143,7 +147,7 @@ She compares the fingerprints, and they match. She's now convinced that [rebeca]
 
 [marjorie](characters/marjorie.md) wakes up to the sound of a fight. She walks down to find [calvin](characters/calvin.md) shooting [rebeca](characters/rebeca.md). [calvin](characters/calvin.md) turns around and comes at her. In fear, she turns around and runs into her room and pushes a cupboard in front of her door.
 
-[calvin](characters/calvin.md) first tries to sweet-talk her, but ultimatively looses his nerves and screams at her. He shoots and pushes against the door. The cupboard moves and the door opens. [calvin](characters/calvin.md) comes in, but is gunned down by the wounded [rebeca](characters/rebeca.md), who breaks down.
+[calvin](characters/calvin.md) first tries to sweet-talk her, but ultimatively looses his nerves and screams at her. He pushes against the door. The cupboard moves and the door opens. [calvin](characters/calvin.md) comes in, but is gunned down by the wounded [rebeca](characters/rebeca.md), who breaks down.
 
 ### Day 5
 
@@ -184,7 +188,7 @@ After the sound effect ended:
 >
 > This is it.
 
-Fade in.
+*Fade in.*
 
 ### DAY 1 - INTRODUCTION - MORNING
 
@@ -214,11 +218,15 @@ They stand there for a few seconds, looking around. [marjorie](characters/marjor
 
 [marjorie](characters/marjorie.md) grabs her [suitcase](items/suitcase.md).
 
+*Fade out*
+
 ### DAY 1 - MORNING
 
 Location: [Bedroom](locations/bedroom.md#Bedroom)
 
 Music: [Marjorie Relaxed](music/marjorie.md#Marjorie%20Relaxed)
+
+*Fade in*
 
 [marjorie](characters/marjorie.md) enters the [bedroom](locations/bedroom.md), looks around, then puts her [suitcase](items/suitcase.md) on the [bedroom_bed](items/bedroom_bed.md), opens it.
 
@@ -228,13 +236,9 @@ Play [suitcase_bed](sfx/suitcase_bed.md)
 
 #### PUZZLE 1.1: Unpack
 
-Click on the [suitcase](items/suitcase.md). Switch to [suitcase](closeups/suitcase.md)
+Click on the [suitcase](items/suitcase.md).
 
-> [marjorie](characters/marjorie.md)
->
-> Well. Time to unpack I guess.
-
-Click (unpack) the items in the [suitcase](items/suitcase.md).
+Click (unpack) the items in the [suitcase](closeups/suitcase.md).
 
 When [marjorie](characters/marjorie.md) unpacks the pants, her [smartphone](items/smartphone.md) falls out and smashes on the floor into four pieces: (Play [object_crashing](sfx/object_crashing.md))
 
@@ -248,9 +252,9 @@ When [marjorie](characters/marjorie.md) unpacks the pants, her [smartphone](item
 
 They slide in all directions.
 
-> [marjorie](characters/marjorie.md) (shouts)
+> [marjorie](characters/marjorie.md)
 >
-> DAMN.
+> (shouts) Damn!
 
 #### PUZZLE 1.2: Assembling the phone
 
@@ -267,23 +271,23 @@ Find the four items by examining the things in the [bedroom](locations/bedroom.m
 
 Combine the items with the [smartphone_incomplete](items/smartphone_incomplete.md):
 
-- [simcard](items/simcard.md) (Play [inserting_object](sfx/inserting_object.md))
+- [simcard](items/simcard.md)
 
-- [battery](items/battery.md) (Play [inserting_object](sfx/inserting_object.md))
+- [battery](items/battery.md)
 
-- [cover](items/cover.md) (Play [inserting_object](sfx/inserting_object.md))
+- [cover](items/cover.md)
 
 > [marjorie](characters/marjorie.md)
 >
 > There. It works again.
 >
-> (beat)
+> (pause)
 >
 > Ugh, it needs to be reset due to the clash. There's this tiny button on the side. I need something small. Like a paper clip or needle or something.
 
 #### PUZZLE 1.3: Resetting the phone
 
-Click the [suitcase](items/suitcase.md) again and unpack further. 
+Click the [suitcase](items/suitcase.md) again and unpack further. After unpacking the purse:
 
 > [marjorie](characters/marjorie.md)
 >
@@ -305,17 +309,7 @@ Take the [hairpin](items/hairpin.md) and use it to reset the [smartphone](items/
 
 #### PUZZLE 1.4: Finding the PIN
 
-Enter numbers on [smartphone](closeups/smartphone.md)
-
-Find the note in the [purse](items/purse.md).
-
-Using 4872 as the pin yields:
-
-> [marjorie](characters/marjorie.md)
->
-> No, that's my credit card pin. I can remember that, because I use it more often.
-
-Using RUBE(=7823) as the pin solves the puzzle
+Find the note in the [purse](items/purse.md). Enter the correct number in [PIN screen](closeups/smartphone.md#PIN%20screen)
 
 ### DAY 1 - CONTINUED - MORNING
 
@@ -369,7 +363,7 @@ She turns around, pointing at [marjorie](characters/marjorie.md)
 
 She exists the room, slamming the door. (Play [door_slam](sfx/door_slam.md), Music stops hard)
 
-*Fadeout*
+*Blackout*
 
 ### DAY 1 - NOON
 
@@ -379,11 +373,13 @@ Music: [Calvin jazzy](music/calvin.md#Calvin%20jazzy)
 
 Play [people_eating](sfx/people_eating.md)
 
+*Fade in*
+
 [marjorie](characters/marjorie.md), [rebeca](characters/rebeca.md) and [calvin](characters/calvin.md) are sitting on the [living_room_table](items/living_room_table.md), eating takeaway chinese food. [day1_leftovers](items/day1_leftovers.md) and [day1_dishes](items/day1_dishes.md) are on the [living_room_table](items/living_room_table.md). The mood is tense.
 
 > [calvin](characters/calvin.md)
 >
-> (without looking up) REBECA?
+> (without looking up) Rebeca?
 
 > [rebeca](characters/rebeca.md)
 >
@@ -391,7 +387,7 @@ Play [people_eating](sfx/people_eating.md)
 
 > [calvin](characters/calvin.md)
 >
-> (looking at [rebeca](characters/rebeca.md)) REBECA?
+> (looking at [rebeca](characters/rebeca.md)) Rebeca?
 
 > [rebeca](characters/rebeca.md)
 >
@@ -403,9 +399,9 @@ Play [people_eating](sfx/people_eating.md)
 >
 > (sighs)
 >
-> What REBECA *tries* to say, is:
+> What Rebeca *tries* to say, is:
 >
-> We're here to protect you for the next five days, MARJORIE. That's our *job*.
+> We're here to protect you for the next five days, Marjorie. That's our *job*.
 >
 > Key to that, is that nobody knows where you are. You understand?
 
@@ -461,7 +457,7 @@ They have finished eating.
 
 #### PUZZLE 1.5: Exploring
 
-The player is free to roam the house. They should do the following to continue:
+The player is free to roam the house. They need to do the following to continue:
 
 - Take the [day1_leftovers](items/day1_leftovers.md) and [day1_dishes](items/day1_dishes.md) from the [living_room_table](items/living_room_table.md)
 
@@ -469,9 +465,20 @@ The player is free to roam the house. They should do the following to continue:
 
 - Clean the [day1_dishes](items/day1_dishes.md) in the [kitchen_sink](items/kitchen_sink.md)
 
-- Talk to [[calvin](characters/calvin.md)](dialogs/calvin1.md)
+- Talk to [calvin](characters/calvin.md): [calvin1](dialogs/calvin1.md)
 
-- Talk to [[rebeca](characters/rebeca.md)](dialogs/rebeca1.md)
+- Talk to [rebeca](characters/rebeca.md): [rebeca1](dialogs/rebeca1.md)
+
+Play [closing_front_door](sfx/closing_front_door.md).
+
+> [brianna](characters/brianna.md)
+> (shouting) Marjorie?
+
+> [marjorie](characters/marjorie.md)
+> (shouting) Coming!
+
+*Fade out*
+
 
 ### DAY 1 - AFTERNOON
 
@@ -479,11 +486,13 @@ Location: [Living room](locations/living_room.md#Living%20room)
 
 Music: [brianna](music/brianna.md)
 
-[marjorie](characters/marjorie.md) sits on the sofa with [brianna](characters/brianna.md). [brianna](characters/brianna.md)'s open suitcase lies on the couch table, [brianna](characters/brianna.md) opened a big folder on her lap. [marjorie](characters/marjorie.md) is nervous.
+*Fade in*
+
+[marjorie](characters/marjorie.md) sits on the [living_room_sofa](items/living_room_sofa.md) with [brianna](characters/brianna.md). [brianna](characters/brianna.md)'s open suitcase lies on the couch table, [brianna](characters/brianna.md) opened a big folder on her lap. [marjorie](characters/marjorie.md) is nervous.
 
 [They talk.](dialogs/brianna1.md)
 
-Fadeout
+*Fadeout*
 
 ### DAY 1 - EVENING
 
@@ -492,6 +501,8 @@ Location: [Living room](locations/living_room.md#Living%20room)
 No music.
 
 *Cutscene starts*
+
+*Fade in*
 
 [calvin](characters/calvin.md) and [rebeca](characters/rebeca.md) sit on opposite ends of the sofa with [calvin](characters/calvin.md) sitting closer to the hall.
 
@@ -537,9 +548,9 @@ Music: [Marjorie Horror](music/marjorie.md#Marjorie%20Horror)
 
 [rebeca](characters/rebeca.md) runs past her up the stairs. Seconds pass.
 
-> [calvin](characters/calvin.md) (from above)
+> [calvin](characters/calvin.md)
 >
-> Marjorie?
+> (from above) Marjorie?
 
 > [marjorie](characters/marjorie.md)
 >
@@ -553,11 +564,11 @@ Music: [Marjorie Horror](music/marjorie.md#Marjorie%20Horror)
 
 > [marjorie](characters/marjorie.md)
 >
-> What the?
+> What the...?
 
-> [calvin](characters/calvin.md) (interrupts, calm)
+> [calvin](characters/calvin.md)
 >
-> Marjorie? Is everything alright?
+> (interrupts, calm) Marjorie? Is everything alright?
 
 > [marjorie](characters/marjorie.md)
 >
@@ -593,7 +604,9 @@ A [dialog](dialogs/day2breakfast.md) unfolds.
 
 *Cutscene starts*
 
-After it, we fade out, and fade in again. [rebeca](characters/rebeca.md) now sits against the wall with the hatch, reading a file. [calvin](characters/calvin.md) has put the paper on the desk and reads. [marjorie](characters/marjorie.md) stands. [day2_dishes](items/day2_dishes.md) and the [day2_leftovers](items/day2_leftovers.md) are on the [living_room_table](items/living_room_table.md).
+After it, we fade out, and fade in again. [rebeca](characters/rebeca.md) now sits on the [living_room_sofa](items/living_room_sofa.md) against the wall with the hatch, reading a file. She has a glass of water on the table in front of her. She leans a bit to the left while reading the file, but rises up from time to time to drink a sip from a glass before her.
+
+[calvin](characters/calvin.md) has put the paper on the desk and reads. [marjorie](characters/marjorie.md) stands. [day2_dishes](items/day2_dishes.md) and the [day2_leftovers](items/day2_leftovers.md) are on the [living_room_table](items/living_room_table.md).
 
 Music: [Marjorie Relaxed](music/marjorie.md#Marjorie%20Relaxed)
 
@@ -621,11 +634,14 @@ Solve the note puzzle to get the combination.
 
 Open the [padlock](items/padlock.md) at the [bedroom_wardrobe_drawer_lower](items/bedroom_wardrobe_drawer_lower.md) using the combination. Find the [diary](items/diary.md). Read the [diary](items/diary.md).
 
-Go to the [living_room](locations/living_room.md). [calvin](characters/calvin.md) is gone. [Talk to [rebeca](characters/rebeca.md)](dialogs/rebeca2.md).
+Go to the [living_room](locations/living_room.md). [calvin](characters/calvin.md) is gone. Talk to [rebeca](characters/rebeca.md): [rebeca2](dialogs/rebeca2.md)
+
+> [marjorie](characters/marjorie.md)
+> Jacob Grimes. Maybe I can find something about him online. (beat) If I'd only have my damn phone.
 
 #### PUZZLE 2.2: Getting the phone back
 
-Go into the [kitchen](locations/kitchen.md) and look through the [kitchen_hatch](items/kitchen_hatch.md). The scene is switched to [living_room](locations/living_room.md) with [marjorie](characters/marjorie.md) looking through the [living_room_hatch](items/living_room_hatch.md). Wait for the right moment to snatch the [smartphone](items/smartphone.md) out of [rebeca](characters/rebeca.md)s [pocket](items/pocket.md).
+Go into the [kitchen](locations/kitchen.md) and look through the [kitchen_hatch](items/kitchen_hatch.md). The scene is switched to [living_room](locations/living_room.md) with [marjorie](characters/marjorie.md) looking through the [living_room_hatch](items/living_room_hatch.md). Wait for [rebeca](characters/rebeca.md) to lean to the left and read the file to snatch the [smartphone](items/smartphone.md) out of [rebeca](characters/rebeca.md)s [pocket](items/pocket.md).
 
 #### PUZZLE 2.3: Finding the wifi router
 
@@ -645,7 +661,7 @@ In the [kitchen_trash_can](items/kitchen_trash_can.md) you find the [password_no
 >
 > (to herself) Grimes, Grimes, Gri... Jacob Grimes. There you are. A New York Standard article from eighteen years ago.
 >
-> (reading) "Jacob Grimes, witness in the La Famiglia trial on the murder of Yared Mike Getahun, was found dead this Thursday afternoon while in (stops) witness protection of the New York Police."
+> (reading) "Jacob Grimes, witness in the La Famiglia trial on the murder of Derek Cole, was found dead this Thursday afternoon while in (stops) witness protection of the New York Police."
 >
 > (puts down the [smartphone](items/smartphone.md) briefly, then continues to read)
 >
@@ -659,9 +675,11 @@ Location: [Living room](locations/living_room.md#Living%20room)
 
 Music: [brianna](music/brianna.md)
 
-[marjorie](characters/marjorie.md) sits on the sofa with [brianna](characters/brianna.md). [brianna](characters/brianna.md)'s open suitcase lies on the couch table, [brianna](characters/brianna.md) opened a big folder on her lap. [marjorie](characters/marjorie.md) is nervous.
+[marjorie](characters/marjorie.md) sits on the sofa with [brianna](characters/brianna.md). [brianna](characters/brianna.md)'s open suitcase lies on the couch table, [brianna](characters/brianna.md) opened a big folder on her lap. [marjorie](characters/marjorie.md) is scared.
 
 [They talk.](dialogs/brianna2.md)
+
+*Fade out*
 
 ### DAY 2 - NIGHT
 
@@ -672,6 +690,8 @@ Location: [Bedroom](locations/bedroom.md#Bedroom)
 No music.
 
 *No ambient*
+
+*Directly show the scene*
 
 It's night. We see the [bedroom](locations/bedroom.md) only lit from the windows to the left. We see part of the bed with very hard shadows. [marjorie](characters/marjorie.md) lies in the bed. After a few seconds, Marjorie wakes up and rises in bed.
 
@@ -689,7 +709,7 @@ We switch back to the dark [bedroom](locations/bedroom.md) and barely see the sm
 
 No music.
 
-[marjorie](characters/marjorie.md) startles up, screams. Then realizes, that she's safe. [marjorie](characters/marjorie.md) rises. She tries to turn on the [bedroom_lamp](items/bedroom_lamp.md) using the [bedroom_light_switch](items/bedroom_light_switch.md) (Play [broken_light_switch](sfx/broken_light_switch.md)), which doesn't work.
+[marjorie](characters/marjorie.md) startles up. Then realizes, that she's safe. [marjorie](characters/marjorie.md) rises. She tries to turn on the [bedroom_lamp](items/bedroom_lamp.md) using the [bedroom_light_switch](items/bedroom_light_switch.md) (Play [broken_light_switch](sfx/broken_light_switch.md)), which doesn't work.
 
 > [marjorie](characters/marjorie.md)
 >
@@ -699,11 +719,11 @@ No music.
 
 Music: [Marjorie Night](music/marjorie.md#Marjorie%20Night)
 
-#### PUZZLE 3.1 - Fixing the lamp
+#### PUZZLE 3.1: Fixing the lamp
 
 Go into the [kitchen](locations/kitchen.md), get the [stepladder](items/stepladder.md) from the [kitchen_left_cupboard](items/kitchen_left_cupboard.md). Use the [stepladder](items/stepladder.md) with the [bedroom_lamp](items/bedroom_lamp.md). [marjorie](characters/marjorie.md) walks up the [stepladder](items/stepladder.md) and unscrews the [broken_bulb](items/broken_bulb.md).
 
-You can use the [broken_bulb](items/broken_bulb.md) with all the lights in the house. Only the bulb from the [hall_lamp](items/hall_lamp.md) matches. But it's too hot to touch. Find a [cloth](items/cloth.md) in the [kitchen](locations/kitchen.md) and use it to unscrew the [bulb](items/bulb.md).
+Look at the lamps in the house. Only the bulb from the [hall_lamp](items/hall_lamp.md) matches. But it's too hot to touch. Find a [cloth](items/cloth.md) in the [kitchen](locations/kitchen.md) and use it to unscrew the [bulb](items/bulb.md).
 
 Screw the [bulb](items/bulb.md) into the [bedroom_lamp](items/bedroom_lamp.md)
 
@@ -762,14 +782,12 @@ Music: [Marjorie Gaining Confidence](music/marjorie.md#Marjorie%20Gaining%20Conf
 > Does she want to scare me? Is she involved in this? (goes to the light switch)
 >
 > Nuh-uh, bitch. You can't scare me. Not. (hand on the light switch)
-
-Blackout.
-
-> [marjorie](characters/marjorie.md)
 >
 > Me.
 
 Play [light_switch](sfx/light_switch.md)
+
+*Blackout*
 
 ### DAY 3 - MORNING
 
@@ -787,7 +805,7 @@ No answer.
 
 > [calvin](characters/calvin.md)
 >
-> [rebeca](characters/rebeca.md)?
+> Rebeca?
 
 > [rebeca](characters/rebeca.md) (grunts)
 >
@@ -863,17 +881,28 @@ Seconds pass. [calvin](characters/calvin.md) starts to clean the table.
 >
 > Okay then. Thank you.
 
-He sits down again.
+He sits down again. She takes the [day3_dishes](items/day3_dishes.md) and goes to the [kitchen](locations/kitchen.md). As she wants to empty the dishes into the [kitchen_trash_can](items/kitchen_trash_can.md) (Play [trashcan_opens](sfx/trashcan_opens.md)), she stops.
+
+Then she takes the [makeup_brush](items/makeup_brush.md) from the [kitchen_trash_can](items/kitchen_trash_can.md)
+
+> [marjorie](characters/marjorie.md)
+> I wonder... maybe that bitch left her fingerprints on the hook. Then I'd have proof.
+
+She empties the dishes and closes the trashcan. Play [trashcan_closes](sfx/trashcan_closes.md)
+
+Add [makeup_brush](items/makeup_brush.md).
 
 *Cutscene ends*
 
-- Take the [day3_dishes](items/day3_dishes.md) and clean them in the [kitchen](locations/kitchen.md)
+(optional) Clean the [day3_dishes](items/day3_dishes.md) in the [kitchen_sink](items/kitchen_sink.md).
 
 #### PUZZLE 3.3: Getting the fingerprint kit
 
 Take the [makeup_brush](items/makeup_brush.md) from the [kitchen_trash_can](items/kitchen_trash_can.md). Take the [tape](items/tape.md) from [hall_sideboard](items/hall_sideboard.md). Get the [fingerprint_powder](items/fingerprint_powder.md) from the [living_room_cupboard_unlocked](items/living_room_cupboard_unlocked.md).
 
-Go to the [bedroom](locations/bedroom.md).
+Combine them all into [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md).
+
+Go to the [bedroom](locations/bedroom.md). Look at the [bedroom_lamp](closeups/bedroom_lamp.md) and use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) on the hook.
 
 *Cutscene starts*
 
@@ -882,6 +911,8 @@ Play [closing_front_door](sfx/closing_front_door.md)
 > [brianna](characters/brianna.md)
 >
 > (shouting up) Marjorie? I'm here.
+
+We exit the [bedroom_lamp](closeups/bedroom_lamp.md).
 
 Marjorie takes a look at the lamp, sighs.
 
@@ -895,15 +926,19 @@ Location: [Living room](locations/living_room.md#Living%20room)
 
 Music: [brianna](music/brianna.md)
 
-[marjorie](characters/marjorie.md) sits on the sofa with [brianna](characters/brianna.md). [brianna](characters/brianna.md)'s open suitcase lies on the couch table, [brianna](characters/brianna.md) opened a big folder on her lap. [marjorie](characters/marjorie.md) is nervous.
+[marjorie](characters/marjorie.md) sits on the sofa with [brianna](characters/brianna.md). [brianna](characters/brianna.md)'s open suitcase lies on the couch table, [brianna](characters/brianna.md) opened a big folder on her lap. [marjorie](characters/marjorie.md) is angry.
 
 [They talk](dialogs/brianna3.md).
+
+*Fadeout*
 
 ### DAY 3 - EVENING
 
 Location: [Living room](locations/living_room.md#Living%20room)
 
-[rebeca](characters/rebeca.md) reenters the [living_room](locations/living_room.md), she seems confused.
+Music: [Marjorie Relaxed](music/marjorie.md#Marjorie%20Relaxed)
+
+Marjorie sits on the [living_room_sofa](items/living_room_sofa.md) as [rebeca](characters/rebeca.md) enters the [living_room](locations/living_room.md), she seems confused.
 
 > [marjorie](characters/marjorie.md)
 >
@@ -925,15 +960,11 @@ Location: [Living room](locations/living_room.md#Living%20room)
 
 [rebeca](characters/rebeca.md) exits the [living room](locations/living_room.md) and enters the [kitchen](locations/kitchen.md).
 
+Marjorie stands up.
+
 #### PUZZLE 3.4: Lifting fingerprints
 
-Go to the [bedroom](locations/bedroom.md). Combine the following items:
-
-- [tape](items/tape.md)
-- [fingerprint_powder](items/fingerprint_powder.md)
-- [makeup_brush](items/makeup_brush.md)
-
-This will yield the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md).
+Go to the [bedroom](locations/bedroom.md).
 
 Use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) with the [bedroom_hook](items/bedroom_hook.md) to get [fingerprint_from_hook](items/fingerprint_from_hook.md).
 
@@ -959,13 +990,11 @@ Combine:
 - [hammer](items/hammer.md) with [tomatoes](items/tomatoes.md) to get [mashed_tomatoes](items/mashed_tomatoes.md)
 - [mashed_tomatoes](items/mashed_tomatoes.md) with [glass](items/glass.md)
 - [lemon](items/lemon.md) with [knife](items/knife.md) to get [half_lemon](items/half_lemon.md)
-- [half_lemon](items/half_lemon.md) with [glass](items/glass.md)
-- [salt](items/salt.md) with [glass](items/glass.md)
-- [pepper](items/pepper.md) with [glass](items/glass.md)
+- [half_lemon](items/half_lemon.md) with [glass_with_tomatoes](items/glass_with_tomatoes.md)
+- [salt](items/salt.md) with [glass_with_tomatoes](items/glass_with_tomatoes.md)
+- [pepper](items/pepper.md) with [glass_with_tomatoes](items/glass_with_tomatoes.md)
 - [knife](items/knife.md) with [jalapeno_peppers](items/jalapeno_peppers.md) to get [cut_peppers](items/cut_peppers.md)
-- [cut_peppers](items/cut_peppers.md) with [glass](items/glass.md)
-
-After combining [mashed_tomatoes](items/mashed_tomatoes.md), [half_lemon](items/half_lemon.md), [salt](items/salt.md), [pepper](items/pepper.md)and [cut_peppers](items/cut_peppers.md) are combined with [glass](items/glass.md) the player gets the [makeshift_virgin_mary](items/makeshift_virgin_mary.md).
+- [cut_peppers](items/cut_peppers.md) with [glass_with_tomatoes](items/glass_with_tomatoes.md) to get [makeshift_virgin_mary](items/makeshift_virgin_mary.md)
 
 Give [makeshift_virgin_mary](items/makeshift_virgin_mary.md) to [rebeca](characters/rebeca.md).
 
@@ -979,7 +1008,7 @@ Give [makeshift_virgin_mary](items/makeshift_virgin_mary.md) to [rebeca](charact
 
 > [rebeca](characters/rebeca.md)
 >
-> That's... That's genuinely nice. Thank you.
+> That's... (pause) That's genuinely nice. Thank you.
 
 > [marjorie](characters/marjorie.md)
 >
@@ -1002,7 +1031,9 @@ Takes the [used_glass](items/used_glass.md) from [rebeca](characters/rebeca.md).
 - Use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) with [used_glass](items/used_glass.md) to get [rebeka_fingerprints](items/rebeka_fingerprints.md)
 - Use [rebeka_fingerprints](items/rebeka_fingerprints.md) with [fingerprint_from_hook](items/fingerprint_from_hook.md)
 
-This puzzle consists of two panes (the two tapes with fingerprints). One of the panes is movable and has to be adjusted (rotated, panned) so that the two fingerprints match.
+Marjorie exits the [kitchen](locations/kitchen.md), enters the [living_room](locations/living_room.md) and goes to the [living_room_table](items/living_room_table.md).
+
+Switch to [closeups/puzzle_fingerprints](closeups/puzzle_fingerprints.md)
 
 *Cutscene starts*
 
@@ -1014,7 +1045,7 @@ This puzzle consists of two panes (the two tapes with fingerprints). One of the 
 >
 > You. Bitch.
 
-Fadeout.
+*Fade out*
 
 ### DAY 4 - EARLY MORNING
 
@@ -1022,21 +1053,21 @@ Location: [Bedroom](locations/bedroom.md#Bedroom)
 
 No music.
 
-We fadein to the night view of the [bedroom](locations/bedroom.md) and see [marjorie](characters/marjorie.md) sleeping.
+We fade in to the night view of the [bedroom](locations/bedroom.md) and see [marjorie](characters/marjorie.md) sleeping.
 
-After some seconds, we hear glass breaking downstairs and [marjorie](characters/marjorie.md) startles up.
+After some seconds, play [glass_breaking](sfx/glass_breaking.md) and [marjorie](characters/marjorie.md) startles up.
 
 > [marjorie](characters/marjorie.md)
 >
 > (to herself) What the?
 
-We hear muffled shouts from downstairs.
+We hear [muffled_shouts](sfx/muffled_shouts.md) from downstairs.
 
 [marjorie](characters/marjorie.md) gets up.
 
 *Cutscene ends*
 
-Go down into the [living_room](locations/living_room.md) to see light in the kitchen and the door opened. Here, we can clearly hear the shouting:
+Go down into the [living_room](locations/living_room.md) (the [muffled_shouts](sfx/muffled_shouts.md) change in volume as the player approaches) to see light in the kitchen and the door opened. Here, we can clearly hear the shouting:
 
 Music: [Calvin revealing](music/calvin.md#Calvin%20revealing)
 
@@ -1056,7 +1087,7 @@ Music: [Calvin revealing](music/calvin.md#Calvin%20revealing)
 >
 > (shouting) And that would make you switch sides? Money? Come on, Calvin! That's so cliché!
 
-[marjorie](characters/marjorie.md) reaches the kitchen and we switch to the [kitchen](locations/kitchen.md) with her looking in. [rebeca](characters/rebeca.md) has backed up to the right side of the screen. [calvin](characters/calvin.md) is in the middle of the room.
+[marjorie](characters/marjorie.md) reaches the kitchen and we switch to the [kitchen](locations/kitchen.md) with her looking in. [rebeca](characters/rebeca.md) has backed up to the right side of the screen. [calvin](characters/calvin.md) is in the middle of the room. They don't notice Marjorie.
 
 > [calvin](characters/calvin.md)
 >
@@ -1070,7 +1101,7 @@ Music: [Calvin revealing](music/calvin.md#Calvin%20revealing)
 >
 > (suddenly calm, diabolic) Oh, I made sure nobody would find out. At least nobody alive...
 
-[calvin](characters/calvin.md) raises a gun at [rebeca](characters/rebeca.md). [marjorie](characters/marjorie.md) screams. We quickly switch back to the [living_room](locations/living_room.md). A shot is heard.
+[calvin](characters/calvin.md) raises a gun at [rebeca](characters/rebeca.md). [marjorie](characters/marjorie.md) screams and runs out of the kitchen. We quickly switch back to the [living_room](locations/living_room.md). A [gunshot](sfx/gunshot.md) is heard and we see a short flicker from the kitchen door.
 
 Music: [Calvin chasing](music/calvin.md#Calvin%20chasing)
 
@@ -1080,7 +1111,7 @@ Play [gunshot](sfx/gunshot.md)
 
 #### PUZZLE 4.1: Survive!
 
-From this on we need to hurry. Staying in the [living_room](locations/living_room.md), the [hall](locations/hall.md), the [upper hall](locations/upper_hall.md) or the (unboarded) [bedroom](locations/bedroom.md) more than 5 seconds will make [calvin](characters/calvin.md) appear and shoot. If that happens, we're taken back to the beginning of this puzzle.
+From this on we need to hurry. Staying in the [living_room](locations/living_room.md), the [hall](locations/hall.md), the [upper hall](locations/upper_hall.md) or the (unboarded) [bedroom](locations/bedroom.md) more than 5 seconds will make [calvin](characters/calvin.md) appear and shoot (Play [gunshot](sfx/gunshot.md)). If that happens, we're taken back to the beginning of this puzzle.
 
 Go through the [hall](locations/hall.md), the [upper hall](locations/upper_hall.md) into the [bedroom](locations/bedroom.md). Close the [bedroom_door](items/bedroom_door.md) and use the [bedroom_wardrobe](items/bedroom_wardrobe.md) to push it in front of the door.
 
@@ -1088,7 +1119,7 @@ Go through the [hall](locations/hall.md), the [upper hall](locations/upper_hall.
 
 Music: [Calvin switching](music/calvin.md#Calvin%20switching)
 
-[marjorie](characters/marjorie.md) goes to the left of her room. Then we hear [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md).
+[marjorie](characters/marjorie.md) goes to the left of her room, trips and falls. Then we hear [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md).
 
 > [calvin](characters/calvin.md)
 >
@@ -1223,11 +1254,17 @@ Play [wardrobe_giving_in](sfx/wardrobe_giving_in.md)
 
 The screen flashes white, a [gunshot](sfx/gunshot.md) is heard.
 
+*Music stops*
+
 We see the [bedroom](locations/bedroom.md) again. [calvin](characters/calvin.md) still stands in the middle of the room, with the raised gun. [marjorie](characters/marjorie.md) is on the left.
 
-Suddenly [calvin](characters/calvin.md) lowers his arm, we see blood on his shirt, he goes to his knees and then breaks down.
+Suddenly [calvin](characters/calvin.md) lowers his arm, we see blood on his shirt, he goes to his knees and then breaks down. (Play [calvin_breaking_down](sfx/calvin_breaking_down.md)])
 
-A wounded [rebeca](characters/rebeca.md) limps into the room, looks at [calvin](characters/calvin.md)s body, then breaks down as well.
+(beat)
+
+A wounded [rebeca](characters/rebeca.md) limps into the room, looks at [calvin](characters/calvin.md)s body, then breaks down as well. (Play [rebeca_breaking_down](sfx/rebeca_breaking_down.md))
+
+(beat)
 
 Blackout.
 
@@ -1273,7 +1310,7 @@ We see the [courthouse room](locations/courthouse_room.md). [marjorie](character
 
 > [marjorie](characters/marjorie.md)
 >
-> It's okay, Brianna.
+> (interrputs) It's okay, Brianna.
 
 > [brianna](characters/brianna.md)
 >
@@ -1322,7 +1359,8 @@ They laugh.
 > [brianna](characters/brianna.md)
 >
 > I guess so. She said, on that evening with the noose, Calvin came rushing out of your bedroom with something tacked in his suit, but when he came back it was gone.
->
+
+> [brianna](characters/brianna.md)
 > And then Calvin said something about locking you up.
 
 > [marjorie](characters/marjorie.md)

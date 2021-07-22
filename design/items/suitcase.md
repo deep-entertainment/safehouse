@@ -5,6 +5,14 @@
 A small suitcase for Marjorie's stay. Marjorie puts it on the bed in the intro and it stays there until [DAY 1 - EVENING](../gdd.md#DAY%201%20-%20EVENING). After that, it will be placed on the [bedroom_wardrobe](bedroom_wardrobe.md).
 
 - Look | Use
+	- First time
+		
+		> [marjorie](characters/marjorie.md)
+		>
+		> Well. Time to unpack I guess.
+		
+		Show [suitcase](../closeups/suitcase.md)
+		
 	- On day 1 (before [purse](purse.md) was taken)
 		
 		Show [suitcase](../closeups/suitcase.md)

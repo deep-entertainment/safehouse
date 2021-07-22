@@ -8,7 +8,7 @@
 
 ## Description
 
-The upper hall is a windowless room connecting the [bedroom](bedroom.md) and the [hall](hall.md) downstairs. There's also an [../items/other_door](../items/other_door.md) leading to the (inaccessible) room, where [calvin](../characters/calvin.md) and [rebeca](../characters/rebeca.md) stay.
+The upper hall is a windowless room connecting the [bedroom](bedroom.md) and the [hall](hall.md) downstairs. There's also an [other_door](../items/other_door.md) leading to the (inaccessible) room, where [calvin](../characters/calvin.md) and [rebeca](../characters/rebeca.md) stay.
 
 There's [upper_hall_lamp](../items/upper_hall_lamp.md) on the wall.
 

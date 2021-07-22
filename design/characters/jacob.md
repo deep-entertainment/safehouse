@@ -2,7 +2,7 @@
 
 #character
 
-Jacob Grimes, former witness (dead)
+Jacob Grimes, former witness (deceased)
 
 Jacob was a witness of another murder by [igino](igino.md) killing an opposing drug dealer called Derek Cole eighteen years ago. He was found strangled while in witness protection. The death was labeled suicide, although it was staged by [calvin](calvin.md).
 

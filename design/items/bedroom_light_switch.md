@@ -19,7 +19,7 @@ A common light switch, clearly visible beside the door.
 
   - On day 3 early morning when the bulb's dead
 
-	Play [broken_light_switch](../sfx/broken_light_switch.md)
+    Play [broken_light_switch](../sfx/broken_light_switch.md)
 
     > [marjorie](characters/marjorie.md)
     >

@@ -8,7 +8,7 @@ An atmospheric point and click thriller
 
 Welcome to the design repository of Safehouse. Here you can find the following things:
 
-* [The Safehouse Game Design Document](design/gdd.md) (and [instructions](design/gdd_design.md) for it)
+* [The Safehouse Game Design Document](design/gdd.md)
 * [The dialogs from the game](design/dialogs)
 * [The blender sources used in the game](design/blender)
 * The [preliminary house designs](design/house.sh3d) made with [Sweet Home 3D](http://www.sweethome3d.com/de/)

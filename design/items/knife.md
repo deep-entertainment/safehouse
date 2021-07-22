@@ -8,22 +8,31 @@ A sharp kitchen knife.
   
   > [marjorie](characters/marjorie.md)
   > Looks sharp. I should be cautious.
-  
-- Use with [lemon](items/lemon.md) (if googled for recipe)
+- Use
+	- With [upper_hall_loose_board](upper_hall_loose_board.md)
+		
+		> [marjorie](../characters/marjorie.md)
+		> That might work. Let's see...
+		
+		Play [prying_board](../sfx/prying_board.md)
+		
+		> [marjorie](../characters/marjorie.md)
+		> Yes!
+		
+		Show [wifi_router](../closeups/wifi_router.md)
+	- With [lemon](items/lemon.md) (if googled for recipe)
 
-  Play [../sfx/cutting_lemon](../sfx/cutting_lemon.md)
+	  Play [cutting_lemon](../sfx/cutting_lemon.md)
 
-  > [marjorie](characters/marjorie.md)
-  > Shit. I got some juice in my eye.
+	  > [marjorie](characters/marjorie.md)
+	  > Shit. I got some juice in my eye.
 
-  Remove [knife](items/knife.md) if also cut jalapeno peppers
-  Remove [lemon](items/lemon.md)
-  Add [half_lemon](items/half_lemon.md)
+	  Remove [lemon](items/lemon.md)
+	  Add [half_lemon](items/half_lemon.md)
 
-- Use with [jalapeno_peppers](items/jalapeno_peppers.md) (if googled for recipe)
+	- With [jalapeno_peppers](items/jalapeno_peppers.md) (if googled for recipe)
 
-  Play [slicing_peppers](../sfx/slicing_peppers.md)
+	  Play [slicing_peppers](../sfx/slicing_peppers.md)
 
-  Remove [jalapeno_peppers](items/jalapeno_peppers.md)
-  Add [cut_peppers](items/cut_peppers.md)
-  Remove [knife](items/knife.md) (if also cut lemon)
+	  Add [cut_peppers](items/cut_peppers.md)
+	  Remove [knife](items/knife.md) (if also cut lemon)

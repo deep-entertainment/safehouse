@@ -70,9 +70,9 @@ One random of
 > 
 > It's okay, Marjorie. It's your first witness protection, I presume? *laughs*
 
-> [marjorie](../characters/marjorie.md) (laughs)
+> [marjorie](../characters/marjorie.md)
 > 
-> Yes, it is.
+> (laughs) Yes, it is.
 
 > [calvin](../characters/calvin.md)
 > 

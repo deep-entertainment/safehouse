@@ -88,7 +88,9 @@ Seconds pass.
 >
 > I found this in a locked drawer in my room.
 
-[marjorie](../characters/marjorie.md) hands [rebeca](../characters/rebeca.md) the diary.
+[marjorie](../characters/marjorie.md) hands [rebeca](../characters/rebeca.md) the [diary](../items/diary.md).
+
+Remove [diary](../items/diary.md)
 
 > [rebeca](../characters/rebeca.md)
 >
