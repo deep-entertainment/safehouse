@@ -2,7 +2,7 @@
 
 #item #hall 
 
-The front door of the house. It's partly transparent and shows the outside. There are windows next to it showing more of the outside. The outside is sunny and welcoming in day scenes and eerie in the night scenes.
+The front door of the house. It's partly transparent and shows the exterior. There are windows next to it showing more of the outside. The exterior is sunny and welcoming in day scenes, and eerie in the night scenes.
 
 - Look
 

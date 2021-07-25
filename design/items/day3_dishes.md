@@ -7,7 +7,7 @@ Plates
 - Look
 
   > [marjorie](characters/marjorie.md)
-  > There isn't really something on them. Should be easy to clean them
+  > There isn't really anything on them. Should be easy to clean them.
 
 - Use with [kitchen_sink](items/kitchen_sink.md)
 

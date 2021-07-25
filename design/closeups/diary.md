@@ -2,7 +2,7 @@
 
 #closeup 
 
-The diary is just an old ring-bound notepad with ballpen scriblings on it. They are readable of course, but show the rising pressure and tension of the writer. It's fake though. It wasn't *actually* written by Jacob Grimes, it's something Calvin uses to scare Marjorie. Each day starts a new page.
+The diary is just an old ring-bound notepad with ballpen scriblings on it. They are readable of course, but show the rising pressure and tension of the writer. It's fake though. It wasn't *actually* written by Jacob Grimes, it's something Calvin that uses to scare Marjorie. Each day starts a new page.
 
 On the first page it reads: "JAYGEE's diary"
 

@@ -2,4 +2,4 @@
 
 #ambient 
 
-The kitchen ambient is mixed from the wind outside and the fridge humming. Maybe even a water drop from time to time.
+The kitchen ambient is a mix of the wind outside and the humming fridge. A  drop of water can be added sporadically.

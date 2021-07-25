@@ -12,7 +12,7 @@ A small, sturdy stepladder made from aluminium.
 - Use with [bedroom_lamp](bedroom_lamp.md)
 	
 	> [marjorie](../characters/marjorie.md)
-	> That should help getting up there
+	> That should help getting up there.
 	
 	Marjorie climbs up and unscrews the broken bulb
 	

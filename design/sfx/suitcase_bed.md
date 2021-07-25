@@ -2,4 +2,4 @@
 
 #sfx 
 
-Putting a suitcase on the bed, opening the suitcase.
+Placing a suitcase on the bed, and opening it.

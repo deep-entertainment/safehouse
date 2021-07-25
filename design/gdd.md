@@ -41,7 +41,7 @@ The themes should reflect the character's personality or functions in the game:
 
 ## Location
 
-The game takes place in a New Jersey suburb. The place is merely a setting though and has no further importance for the game itself.
+The game takes place in a New Jersey suburb. The place is merely a setting, and has no significance for the game itself.
 
 ## Game structure
 
@@ -57,7 +57,7 @@ This is a short overview of the different scenes:
 
 #### Noon
 
-They talk over the dinner about what happened. [calvin](characters/calvin.md) tries to comfort [marjorie](characters/marjorie.md). [rebeca](characters/rebeca.md) is still irked at Marjorie.
+They talk over dinner about what happened. [calvin](characters/calvin.md) tries to comfort [marjorie](characters/marjorie.md). [rebeca](characters/rebeca.md) is still irked at Marjorie.
 
 #### Afternoon
 
@@ -77,17 +77,17 @@ They talk over the dinner about what happened. [calvin](characters/calvin.md) tr
 
 After finishing the breakfast, [marjorie](characters/marjorie.md) goes into her room and finds a gruesome drawing with an eerie children's poem on her bed, which ultimatively leads her to the combination of the [padlock](items/padlock.md) on the [bedroom_wardrobe_drawer_lower](items/bedroom_wardrobe_drawer_lower.md) in her room.
 
-She opens the lock with it and finds the fake diary of [jacob](characters/jacob.md) Grimes. Downstairs, she finds [rebeca](characters/rebeca.md) and talks to her. She reveals that [jacob](characters/jacob.md) Grimes was found dead 18 years ago. (It is not yet revealed, that [jacob](characters/jacob.md) hung himself or that [calvin](characters/calvin.md) was assigned to that case)
+She opens the lock with the combination, and finds the fake diary of [jacob](characters/jacob.md) Grimes. Downstairs, she finds [rebeca](characters/rebeca.md) and talks to her. She reveals that [jacob](characters/jacob.md) Grimes was found dead 18 years ago. (It is not yet revealed, that [jacob](characters/jacob.md) hung himself or that [calvin](characters/calvin.md) was assigned to that case).
 
 As [rebeca](characters/rebeca.md) doesn't tell her more, [marjorie](characters/marjorie.md) wants to investigate. She needs her phone for that.
 
 [rebeca](characters/rebeca.md) sits on the couch, [marjorie](characters/marjorie.md)'s phone sticking out of one of her pockets. [marjorie](characters/marjorie.md) needs to walk into the kitchen and look through the hatch to get it in the right moment.
 
-[marjorie](characters/marjorie.md)'s SIM is gone, so she needs wifi. There actually is wifi in the house used by the detectives, but it's locked.
+[marjorie](characters/marjorie.md)'s SIM card is gone, so she needs wifi. There actually is Wi-Fi in the house used by the detectives, but it's locked.
 
-[marjorie](characters/marjorie.md) traces the wifi signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
+[marjorie](characters/marjorie.md) traces the Wi-Fi signal to a loose board in the upstairs hall. She gets a knife from the kitchen and pries open the board to find the router. She turns the router around to finds a password. It isn't the right one, though. A paper in the junk in the kitchen shows how to decipher it.
 
-She logs into the wifi and searches for "[jacob](characters/jacob.md) Grimes" to find that he had hung himself in her room 18 years ago and that [calvin](characters/calvin.md) was assigned to that case.
+She logs into the Wi-Fi and searches for "[jacob](characters/jacob.md) Grimes" to find that he had hung himself in her room 18 years ago and that [calvin](characters/calvin.md) was assigned to that case.
 
 #### Afternoon
 
@@ -95,13 +95,13 @@ She logs into the wifi and searches for "[jacob](characters/jacob.md) Grimes" to
 
 #### Night
 
-[marjorie](characters/marjorie.md) wakes up from a sound, sits up in her bed and sees [igino](characters/igino.md) in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's early morning in day 3.
+[marjorie](characters/marjorie.md) wakes up from a sound, sits up in her bed and sees [igino](characters/igino.md) in the doorway, aiming a gun at her. He shoots and she wakes up and quickly sits up, gasping. It's early morning on day 3.
 
 ### Day 3
 
 #### Early morning
 
-[marjorie](characters/marjorie.md) sits in her bed. Her room is dark, only the dim light of the windows sheds some light into their side of the room.
+[marjorie](characters/marjorie.md) sits in her bed. Her room is dark, and only the dim light from the windows shed some light into the room.
 
 [marjorie](characters/marjorie.md) gets up to find the light switch, but the lamp can't be turned on since the bulb has blown.
 
@@ -1028,8 +1028,8 @@ Takes the [used_glass](items/used_glass.md) from [rebeca](characters/rebeca.md).
 
 #### PUZZLE 3.6: Comparing fingerprints
 
-- Use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) with [used_glass](items/used_glass.md) to get [rebeka_fingerprints](items/rebeka_fingerprints.md)
-- Use [rebeka_fingerprints](items/rebeka_fingerprints.md) with [fingerprint_from_hook](items/fingerprint_from_hook.md)
+- Use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) with [used_glass](items/used_glass.md) to get [rebeka_fingerprints](rebeca_fingerprints.md)
+- Use [rebeka_fingerprints](rebeca_fingerprints.md) with [fingerprint_from_hook](items/fingerprint_from_hook.md)
 
 Marjorie exits the [kitchen](locations/kitchen.md), enters the [living_room](locations/living_room.md) and goes to the [living_room_table](items/living_room_table.md).
 

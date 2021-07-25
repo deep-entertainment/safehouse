@@ -2,4 +2,4 @@
 
 #sfx 
 
-Unfolding a newspaper, straighten it.
+Unfolding a newspaper, and straighten it.

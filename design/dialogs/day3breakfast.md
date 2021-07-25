@@ -183,11 +183,11 @@ After the two questions are asked:
 
 > [rebeca](../characters/rebeca.md)
 >
-> (getting louder) Well, not scared enough to make an unencrypted phone call to your mother as it seems.
+> (getting louder) Well, not scared enough to make an unencrypted phone call to your mother, as it seems.
 
 > [marjorie](../characters/marjorie.md)
 >
-> (getting louder) Maybe I was just trying to talk to somebody to ease down the pressure. But that way has been perfectly blocked by you now as it seems.
+> (getting louder) Maybe I was just trying to talk to somebody to ease down the pressure. But that approach has been perfectly prevented by you now, as it seems.
 
 > [rebeca](../characters/rebeca.md)
 >

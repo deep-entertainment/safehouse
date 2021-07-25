@@ -8,7 +8,7 @@ This dialogs depicts a highly confused Rebeca on the one side and a highly suspi
 
 Rebeca is just on the brink of realizing Calvin's role in all this and Marjorie still thinks, Rebeca wants to scare her to give up her testimony.
 
-Marjorie's intention is to get Rebecas finger prints so she can compare them with the ones from the hook. 
+Marjorie's intention is to get Rebeca's finger prints so she can compare them with the ones from the hook. 
 
 Rebeca's basically just zoned out.
 

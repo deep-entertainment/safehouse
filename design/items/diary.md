@@ -2,7 +2,7 @@
 
 #item #bedroom 
 
-Not really a diary, but rather loose pages held together with a paperclip at first. We need two states here: Pages held with a paperclip and the loose pages themselves.
+Not really a diary, but rather loose pages, initially held together with a paperclip. We need two states here: Pages held with a paperclip and the loose pages themselves.
 
 - Look
 	> [marjorie](../characters/marjorie.md)

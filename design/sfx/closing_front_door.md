@@ -2,4 +2,4 @@
 
 #sfx
 
-Distant closing the front door.
+Distant closing of the front door.

@@ -2,7 +2,7 @@
 
 #closeup
 
-A rather cheap [smartphone](../items/smartphone.md). It display several screens:
+A rather cheap [smartphone](../items/smartphone.md). It displays several screens:
 
 # Screens
 
@@ -40,13 +40,13 @@ Used at [PUZZLE 2 3 Finding the wifi router](../gdd.md#PUZZLE%202%203%20Finding%
 > [marjorie](../characters/marjorie.md)
 > Well, the SIM card's gone. But maybe there's a wifi around.
 
-We shortly see the dashboard, then the WIFI-symbol is highlighted (as if touched) and the screen changes to a list of WIFIs with a strength indicator.
+We shortly see the dashboard, then the Wi-Fi symbol is highlighted (as if touched) and the screen changes to a list of Wi-Fi's with a strength indicator.
 
 The WIFI Bluth1155 is the only one shown.
 
-The wifi signal display is set to 2 of 4 bars in the [kitchen](locations/kitchen.md) and the [living_room](locations/living_room.md). It shows 3 of 4 bars in the [hall](locations/hall.md) and the [bedroom](locations/bedroom.md). It shows 4 of 4 bars in the [upper_hall](locations/upper_hall.md).
+The Wi-Fi signal display is set to 2 of 4 bars in the [kitchen](locations/kitchen.md) and the [living_room](locations/living_room.md). It shows 3 of 4 bars in the [hall](locations/hall.md) and the [bedroom](locations/bedroom.md). It shows 4 of 4 bars in the [upper_hall](locations/upper_hall.md).
 
-The wifi can be clicked, upon which a prompt asks for "Please enter WIFI password for Bluth1155".
+The Wi-Fi can be clicked, upon which a prompt asks for "Please enter Wi-Fi password for Bluth1155".
 
 > [marjorie](../characters/marjorie.md)
 > (grunts) Locked with a password. Just my luck. No where can I find that password?

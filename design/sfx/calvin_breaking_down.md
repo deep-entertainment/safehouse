@@ -2,4 +2,4 @@
 
 #sfx 
 
-After being shot, calvin sinks to his knees and the falls to the floor.
+After being shot, Calvin sinks to his knees and then falls to the floor.

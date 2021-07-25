@@ -96,7 +96,7 @@ We also push up the tension between Marjorie and Rebeca more.
 > 
 > Rebeca!
 > 
-> Marjorie, what Rebeca means is that they know there's a witness in the case. That's in the documents for the trial. However, they do *not* know who you are and especially where you are right now.
+> Marjorie, what Rebeca means is that they know there's a witness in the case. It's in the documents for the trial. However, they do *not* know who you are and certainly not where you are right now.
 
 > [rebeca](../characters/rebeca.md)
 > 

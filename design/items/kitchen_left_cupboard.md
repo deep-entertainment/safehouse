@@ -12,10 +12,10 @@ A small half-height cupboard. It has two doors. We need three views here: closed
     > Just a cupboard.
   - If opened when [stepladder](stepladder.md) wasn't taken
     > [marjorie](../characters/marjorie.md)
-    > There's a stepladder in it
+    > There's a stepladder in it.
   - If opened
     > [marjorie](../characters/marjorie.md)
-    > It's empty now
+    > It's empty now.
 
 - Use
   - if closed and [stepladder](stepladder.md) wasn't taken

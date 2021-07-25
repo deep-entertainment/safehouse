@@ -5,12 +5,12 @@
 Smartphone (rather cheap), completed from [smartphone_incomplete](smartphone_incomplete.md), [battery](battery.md), [simcard](simcard.md) and [cover](cover.md)
 
 - Look | Use
-  - If not been resetted
+  - If not reset.
 
     > [marjorie](../characters/marjorie.md)
     > There's a message saying, the phone needs to be reset. (grunts)
 
-  - If resetted:
+  - If reset:
 
     > [marjorie](characters/marjorie.md)
     >

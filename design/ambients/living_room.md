@@ -2,7 +2,7 @@
 
 #ambient 
 
-An ambient mixed from static, wind on the outside, sometimes a chair creaking or rustling from the sofa, because people use them
+An ambient mixed from static and wind on the outside. Sometimes a chair creaks or the sofa rustles, since people are using them.
 
 # Living room night
 
