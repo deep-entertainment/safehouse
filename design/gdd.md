@@ -121,11 +121,11 @@ She wants to investigate if somebody left fingerprints there. She suspects [rebe
 
 [marjorie](characters/marjorie.md) and [calvin](characters/calvin.md) sit and eat breakfast. [rebeca](characters/rebeca.md) is at the now open cupboard in the living room. [calvin](characters/calvin.md) tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
 
-As they are eating, [marjorie](characters/marjorie.md) tries to grill [rebeca](characters/rebeca.md) to find out wether she tries to scare her. At the same time, [rebeca](characters/rebeca.md) tries to test Calvin to find out more. They get into an argument. [calvin](characters/calvin.md) gets in between them and something he says triggers something in [rebeca](characters/rebeca.md), so she backs off and tells him that she will go shopping and leaves (the cupboard is still open)
+As they are eating, [marjorie](characters/marjorie.md) tries to grill [rebeca](characters/rebeca.md) to find out wether she tries to scare her. At the same time, [rebeca](characters/rebeca.md) tries to test Calvin to find out more. They get into an argument. [calvin](characters/calvin.md) intervenes, and something he says triggers a reaction by [rebeca](characters/rebeca.md). Rebeka backs off and tells Calvin that she will go shopping, and leaves (the cupboard is still open).
 
-After breakfast, [marjorie](characters/marjorie.md) again takes the dishes to the kitchen.
+After breakfast, [marjorie](characters/marjorie.md) takes the dishes once again to the kitchen.
 
-In the trash she finds a make-up brush.
+[marjorie](characters/marjorie.md) finds a make-up brush in the trash.
 
 She additionally gathers adhesive tape from a drawer in the hall, and the fingerprint powder from the unlocked cupboard.
 
@@ -200,7 +200,7 @@ Play [filling_form](sfx/filling_form.md)
 
 [marjorie](characters/marjorie.md), [calvin](characters/calvin.md) and [rebeca](characters/rebeca.md) stand in the [[locations/hall]], in front of the [front_door](items/front_door.md). We see a bagpack, a bag and a [suitcase](items/suitcase.md) in front of them. The bagpack belongs to [calvin](characters/calvin.md), the bag to [rebeca](characters/rebeca.md) and the [suitcase](items/suitcase.md) to [marjorie](characters/marjorie.md).
 
-They stand there for a few seconds, looking around. [marjorie](characters/marjorie.md) is frightened, she is taking in the uncommon surroundings. [rebeca](characters/rebeca.md) is annoyed, she is filling out a form.
+They stand there for a few seconds, looking around. [marjorie](characters/marjorie.md) is frightened, she is taking in the uncommon surroundings. [rebeca](characters/rebeca.md) is annoyed, and is filling out a form.
 
 [calvin](characters/calvin.md) calmly looks around.
 
@@ -208,13 +208,13 @@ They stand there for a few seconds, looking around. [marjorie](characters/marjor
 
 > [rebeca](characters/rebeca.md) (harsh)
 >
-> Living room is right this way, kitchen to the left, the bathroom and the bedrooms are upstairs. Your room is just across the stairs. Can't miss it.
+> Living room is right this way, kitchen to the left, the bathroom and the bedrooms are upstairs. Your room is just across the stairs. You can't miss it.
 
 [rebeca](characters/rebeca.md) takes her bag and walks off to the [living_room](locations/living_room.md).
 
 (beat)
 
-[calvin](characters/calvin.md) looks at [marjorie](characters/marjorie.md), nods friendly. [marjorie](characters/marjorie.md) tries a smile. [calvin](characters/calvin.md) takes his bagpack and walks off to the [living_room](locations/living_room.md) as well.
+[calvin](characters/calvin.md) looks at [marjorie](characters/marjorie.md), and nods friendly. [marjorie](characters/marjorie.md) tries a smile. [calvin](characters/calvin.md) takes his bagpack and walks off to the [living_room](locations/living_room.md) as well.
 
 [marjorie](characters/marjorie.md) grabs her [suitcase](items/suitcase.md).
 
@@ -240,7 +240,7 @@ Click on the [suitcase](items/suitcase.md).
 
 Click (unpack) the items in the [suitcase](closeups/suitcase.md).
 
-When [marjorie](characters/marjorie.md) unpacks the pants, her [smartphone](items/smartphone.md) falls out and smashes on the floor into four pieces: (Play [object_crashing](sfx/object_crashing.md))
+When [marjorie](characters/marjorie.md) unpacks the pants, her [smartphone](items/smartphone.md) falls out and smashes into four pieces on the floor : (Play [object_crashing](sfx/object_crashing.md))
 
 - [smartphone_incomplete](items/smartphone_incomplete.md)
 
@@ -641,7 +641,7 @@ Go to the [living_room](locations/living_room.md). [calvin](characters/calvin.md
 
 #### PUZZLE 2.2: Getting the phone back
 
-Go into the [kitchen](locations/kitchen.md) and look through the [kitchen_hatch](items/kitchen_hatch.md). The scene is switched to [living_room](locations/living_room.md) with [marjorie](characters/marjorie.md) looking through the [living_room_hatch](items/living_room_hatch.md). Wait for [rebeca](characters/rebeca.md) to lean to the left and read the file to snatch the [smartphone](items/smartphone.md) out of [rebeca](characters/rebeca.md)s [pocket](items/pocket.md).
+Go into the [kitchen](locations/kitchen.md) and look through the [kitchen_hatch](items/kitchen_hatch.md). The scene is switched to [living_room](locations/living_room.md) with [marjorie](characters/marjorie.md) looking through the [living_room_hatch](items/living_room_hatch.md). Wait for [rebeca](characters/rebeca.md) to lean to the left and read the file to snatch the [smartphone](items/smartphone.md) out of [rebeca](characters/rebeca.md)'s [pocket](items/pocket.md).
 
 #### PUZZLE 2.3: Finding the wifi router
 
@@ -651,7 +651,7 @@ The wifi signal display is set to 2 of 4 bars in the [kitchen](locations/kitchen
 
 Looking at the [smartphone](items/smartphone.md) and selecting the wifi signal in the  [upper_hall](locations/upper_hall.md)  reveals a [upper_hall_loose_board](items/upper_hall_loose_board.md). It can be pried loose using a [knife](items/knife.md) from the [kitchen](locations/kitchen.md). Under the [upper_hall_loose_board](items/upper_hall_loose_board.md) the [upper_hall_wifi_router](items/upper_hall_wifi_router.md) is revealed. Using it switches to [wifi router](closeups/wifi_router.md) When turning it around, a wifi password is revealed.
 
-Entering the password as-is into the [smartphone](closeups/smartphone.md) doesn't work though.
+Entering the password as-is on the [smartphone](closeups/smartphone.md) doesn't work.
 
 In the [kitchen_trash_can](items/kitchen_trash_can.md) you find the [password_note](items/password_note.md), which, mentally combined with the password under the [upper_hall_wifi_router](items/upper_hall_wifi_router.md),  reveals the actual wifi password. Enter it into the [smartphone](items/smartphone.md) to connect to the wifi.
 
@@ -709,7 +709,7 @@ We switch back to the dark [bedroom](locations/bedroom.md) and barely see the sm
 
 No music.
 
-[marjorie](characters/marjorie.md) startles up. Then realizes, that she's safe. [marjorie](characters/marjorie.md) rises. She tries to turn on the [bedroom_lamp](items/bedroom_lamp.md) using the [bedroom_light_switch](items/bedroom_light_switch.md) (Play [broken_light_switch](sfx/broken_light_switch.md)), which doesn't work.
+[marjorie](characters/marjorie.md) startles up. Then realizes that she's safe. [marjorie](characters/marjorie.md) rises. She tries to turn on the [bedroom_lamp](items/bedroom_lamp.md) using the [bedroom_light_switch](items/bedroom_light_switch.md) (Play [broken_light_switch](sfx/broken_light_switch.md)), which doesn't work.
 
 > [marjorie](characters/marjorie.md)
 >
@@ -737,7 +737,7 @@ The light flashes on and [marjorie](characters/marjorie.md) gasps, startles, lea
 >
 > What the?
 
-She rises again, climbs the [stepladder](items/stepladder.md) again and looks up. The screen switches to [bedroom lamp](closeups/bedroom_lamp.md): We see, that the lamps hangs on a sturdy metallic hook.
+She rises again, climbs the [stepladder](items/stepladder.md) again and looks up. The screen switches to [bedroom lamp](closeups/bedroom_lamp.md): We see that the lamps hangs on a sturdy metallic hook.
 
 Music: [Marjorie Horror Strings](music/marjorie.md#Marjorie%20Horror%20Strings)
 
@@ -1133,7 +1133,7 @@ Play [door_bang](sfx/door_bang.md)
 >
 > (shouting) Open up! This is the police! (laughs)
 >
-> (falling back to his "nice" voice) Listen, Marjorie! I'm really sorry, I really am! You just happened to be at the wrong place at the wrong time I'm afraid.
+> (falling back to his "nice" voice) Listen, Marjorie! I'm really sorry, I really am! You just happened to be at the wrong place at the wrong time, I'm afraid.
 
 [calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md).
 
@@ -1185,7 +1185,7 @@ Play [wardrobe_moving](sfx/wardrobe_moving.md)
 >
 > Ahh, the kid.
 
-[calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) moves some step away, the [bedroom_door](items/bedroom_door.md) is visible.
+[calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) moves some step away. The [bedroom_door](items/bedroom_door.md) is visible.
 
 Play [door_bang](sfx/door_bang.md)
 Play [wardrobe_moving](sfx/wardrobe_moving.md)
@@ -1262,7 +1262,7 @@ Suddenly [calvin](characters/calvin.md) lowers his arm, we see blood on his shir
 
 (beat)
 
-A wounded [rebeca](characters/rebeca.md) limps into the room, looks at [calvin](characters/calvin.md)s body, then breaks down as well. (Play [rebeca_breaking_down](sfx/rebeca_breaking_down.md))
+A wounded [rebeca](characters/rebeca.md) limps into the room, looks at [calvin](characters/calvin.md)'s body, then breaks down as well. (Play [rebeca_breaking_down](sfx/rebeca_breaking_down.md))
 
 (beat)
 
@@ -1340,7 +1340,7 @@ Silence.
 
 > [marjorie](characters/marjorie.md)
 >
-> (surprised) She did?
+> (surprised) She does?
 
 > [brianna](characters/brianna.md)
 >
@@ -1369,7 +1369,7 @@ They laugh.
 
 > [brianna](characters/brianna.md)
 >
-> Yes, and it came to Rebecas mind, that Jacob was locked up as well and then she really got suspicious and started to investigate.
+> Yes, and it came to Rebeca's mind, that Jacob was locked up as well and then she really got suspicious and started to investigate.
 
 > [marjorie](characters/marjorie.md)
 >
