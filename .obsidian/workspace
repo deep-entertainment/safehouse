@@ -89,6 +89,7 @@
   "active": "1e503024fb30e74b",
   "lastOpenFiles": [
     "design/gdd.md",
+    "design/dialogs/rebeca2.md",
     "design/sfx/muffled_shouts.md",
     "design/sfx/wifi_router_turned_around.md",
     "design/sfx/wardrobe_moving.md",
@@ -96,7 +97,6 @@
     "design/sfx/unlock_padlock.md",
     "design/sfx/unfolding_paper.md",
     "design/sfx/turning_dials.md",
-    "design/sfx/trashcan_closes.md",
-    "design/sfx/trashcan_opens.md"
+    "design/sfx/trashcan_closes.md"
   ]
 }

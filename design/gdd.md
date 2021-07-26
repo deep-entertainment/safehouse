@@ -101,7 +101,7 @@ She logs into the Wi-Fi and searches for "[jacob](characters/jacob.md) Grimes" t
 
 #### Early morning
 
-[marjorie](characters/marjorie.md) sits in her bed. Her room is dark, and only the dim light from the windows shed some light into the room.
+[marjorie](characters/marjorie.md) sits in her bed. Her room is dark, and only the dim light from the windows sheds some light into the room.
 
 [marjorie](characters/marjorie.md) gets up to find the light switch, but the lamp can't be turned on since the bulb has blown.
 
@@ -121,7 +121,7 @@ She wants to investigate if somebody left fingerprints there. She suspects [rebe
 
 [marjorie](characters/marjorie.md) and [calvin](characters/calvin.md) sit and eat breakfast. [rebeca](characters/rebeca.md) is at the now open cupboard in the living room. [calvin](characters/calvin.md) tells her to join them, to which she reluctantly agrees to. She leaves the cupboard open.
 
-As they are eating, [marjorie](characters/marjorie.md) tries to grill [rebeca](characters/rebeca.md) to find out wether she tries to scare her. At the same time, [rebeca](characters/rebeca.md) tries to test Calvin to find out more. They get into an argument. [calvin](characters/calvin.md) intervenes, and something he says triggers a reaction by [rebeca](characters/rebeca.md). Rebeka backs off and tells Calvin that she will go shopping, and leaves (the cupboard is still open).
+As they are eating, [marjorie](characters/marjorie.md) tries to grill [rebeca](characters/rebeca.md) to find out wether she tries to scare her. At the same time, [rebeca](characters/rebeca.md) tries to test Calvin to find out more. They get into an argument. [calvin](characters/calvin.md) intervenes, and something he says triggers a reaction by [rebeca](characters/rebeca.md). Rebeca backs off and tells Calvin that she will go shopping, and leaves (the cupboard is still open).
 
 After breakfast, [marjorie](characters/marjorie.md) takes the dishes once again to the kitchen.
 
@@ -1028,8 +1028,8 @@ Takes the [used_glass](items/used_glass.md) from [rebeca](characters/rebeca.md).
 
 #### PUZZLE 3.6: Comparing fingerprints
 
-- Use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) with [used_glass](items/used_glass.md) to get [rebeka_fingerprints](rebeca_fingerprints.md)
-- Use [rebeka_fingerprints](rebeca_fingerprints.md) with [fingerprint_from_hook](items/fingerprint_from_hook.md)
+- Use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) with [used_glass](items/used_glass.md) to get [rebeka_fingerprints]((items/reebca_fingerprints.md))
+- Use [rebeka_fingerprints]((items/reebca_fingerprints.md)) with [fingerprint_from_hook](items/fingerprint_from_hook.md)
 
 Marjorie exits the [kitchen](locations/kitchen.md), enters the [living_room](locations/living_room.md) and goes to the [living_room_table](items/living_room_table.md).
 
