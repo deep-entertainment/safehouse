@@ -6,7 +6,7 @@ A working lightbulb.
 
 - Look
   > [marjorie](characters/marjorie.md)
-  > That light bulb seems to be working
+  > That light bulb seems to be working.
 
 - Use
 	- With [bedroom_lamp](items/bedroom_lamp.md)

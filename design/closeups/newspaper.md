@@ -16,7 +16,7 @@ The trial will start on Friday, 4pm, court room 10.
 
 **HOMELESS SHELTER GOES UP IN FLAMES** by Jasmine Guyot
 
-East village - a building used as a homeless shelter burnt down to the ground yesterday evening. Officer Mike Greyson, who was the first at the crime scene, told the New York Standard that arson can not be ruled out at this point. Until the police has other leads, the remains of the shelter will be treated as a crime scene. It's recommended to stay clear of the area due to the probable instability of the building. The gruesome numbers are as of yet: 12 casualties, 34 people with burn injuries, that have been taken to Beth Israel Hospital.
+East Village - a building used as a homeless shelter burnt down to the ground yesterday evening. Officer Mike Greyson, who was the first at the crime scene, told the New York Standard that arson can not be ruled out at this point. Until the police has other leads, the remains of the shelter will be treated as a crime scene. It's recommended to stay clear of the area due to the probable instability of the building. The gruesome numbers are as of yet 12 casualties and 34 people with burn injuries, that have been taken to Beth Israel Hospital.
 
 **VISIT SWEDEN! A TRAVEL COMMENTARY** by Carol Reed
 

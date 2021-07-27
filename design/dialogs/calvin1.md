@@ -192,7 +192,7 @@ One random of
 
 > [calvin](../characters/calvin.md)
 > 
-> Well, I don't know the combination if that's what you're asking.
+> Well, I don't know the combination, if that's what you're asking.
 
 > [marjorie](../characters/marjorie.md)
 > 

@@ -7,7 +7,7 @@ A cupboard with a lockable door. This is just the closed state of [living_room_c
 - Look
 	
 	> [marjorie](../characters/marjorie.md)
-	> It's a cupboard, Calvin and Rebeca are using. It's locked.
+	> It's a cupboard that Calvin and Rebeca uses. It's locked.
 	
 - Use
 	

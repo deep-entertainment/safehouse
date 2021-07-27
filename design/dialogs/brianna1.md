@@ -4,7 +4,7 @@
 
 # Comment
 
-This non-interactive dialog shows Brianna introducing herself and going through Marjorie's testimony. It depicts the extreme stress, Marjorie is in and how horrific the event was.
+This non-interactive dialog shows Brianna introducing herself and going through Marjorie's testimony. It depicts the extreme stress Marjorie is in, and how horrific the crime she has witnessed was.
 
 # Start
 
@@ -14,7 +14,7 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 
 > [marjorie](../characters/marjorie.md)
 > 
-> Yes, I know who you are. Calvin told me that you'll come.
+> Yes, I know who you are. Calvin told me that you'd come.
 
 > [brianna](../characters/brianna.md)
 > 
@@ -74,7 +74,7 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 
 > [brianna](../characters/brianna.md)
 > 
-> Yes, I know. I try to protect you at all times, but there will be questions the judge will allow and that you have to answer. Do you understand?
+> Yes, I know. I will try to protect you at all times, but there will be questions the judge will allow and that you have to answer. Do you understand?
 
 > [marjorie](../characters/marjorie.md)
 > 
@@ -158,7 +158,7 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 
 > [marjorie](../characters/marjorie.md)
 > 
-> I don't know. This Varone guy kept shouting: "You think you can fuck with me? You really think you can fuck with me". Those kind of words.
+> I don't know. This Varone guy kept shouting: "You think you can fuck with me? You really think you can fuck with me". Those kinds of words.
 
 > [brianna](../characters/brianna.md)
 > 
@@ -200,7 +200,7 @@ This non-interactive dialog shows Brianna introducing herself and going through 
 > 
 > Yes. And he said, that he didn't know what Varone was talking about. And then... (still shocked from the events)
 > 
-> All of the sudden... he drew a gun and... pointed at him, I quickly hid behind a shelf.
+> All of the sudden... he drew a gun and... pointed at him, and I quickly hid behind a shelf.
 
 > [brianna](../characters/brianna.md)
 > 
@@ -266,7 +266,7 @@ Some seconds pass and we just hear Marjorie crying and sobbing. Then:
 
 > [marjorie](../characters/marjorie.md)
 > 
-> Okay I... I freaked. It was all too much, you know?
+> Okay I... I freaked out. It was all too much, you know?
 
 > [brianna](../characters/brianna.md)
 > 

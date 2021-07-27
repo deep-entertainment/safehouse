@@ -10,11 +10,11 @@ https://www.dreamstime.com/law-library-conference-room-oklahoma-city-judiciary-b
 
 ## Description
 
-The court room is a backdrop for the epilogue scene between [marjorie](../characters/marjorie.md) and [brianna](../characters/brianna.md). It symbolizes safety. It should not only make [marjorie](../characters/marjorie.md) feel safe, but the player as well. It is grand and old and emits nobility. Pretty much styled like the courthouse meeting rooms in "Law & Order"
+The court room is a backdrop for the epilogue scene between [marjorie](../characters/marjorie.md) and [brianna](../characters/brianna.md). It symbolizes safety. It should not only make [marjorie](../characters/marjorie.md) feel safe, but the player as well. It is grand and old and emits nobility. It's pretty much styled like the courthouse meeting rooms in "Law & Order"
 
 There are bookshelves filling the walls.
 
-It's a meeting room in the courthouse. The walls are made of oak wood, there's a dark brown carpet on the floor.
+There's also a meeting room in the courthouse. The walls are made of oak wood, there's a dark brown carpet on the floor.
 
 ## SFX
 

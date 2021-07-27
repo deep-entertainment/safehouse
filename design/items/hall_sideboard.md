@@ -14,6 +14,6 @@ There's a [tape](tape.md) on it.
 - Use (if [tape](tape.md) wasn't added)
 	
 	> [marjorie](../characters/marjorie.md)
-	> Well, somebody put a tape there.
+	> Well, somebody put some tape there.
 	
 	Add [tape](tape.md)

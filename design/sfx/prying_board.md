@@ -2,4 +2,4 @@
 
 #sfx
 
-Prying a loose board open with a kitchen knife. Screeches and then gives way.
+Prying a loose board open with a kitchen knife. It screeches, and then comes off.

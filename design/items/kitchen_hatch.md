@@ -6,4 +6,4 @@ A hole in the kitchen leading to the living room. Clicking on it will switch to 
 
 - Look | Use
 	
-	Switch scene to [living_room](../locations/living_room.md) with [marjorie](../characters/marjorie.md) looking through the hatch
+	Switch scene to [living_room](../locations/living_room.md) with [marjorie](../characters/marjorie.md) looking through the hatch.

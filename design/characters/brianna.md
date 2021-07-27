@@ -8,7 +8,7 @@ Brianna Allison, district attorney
 
 She visits the house each day to prepare [marjorie](marjorie.md) for her testimony.
 
-She doesn't have much character progression. Her character is used to tell the back story of the murder through her talks with [marjorie](marjorie.md), and as the last safe resort and trust in the juridical system in the last scene.
+She doesn't have much character progression. Her character is used to tell the backstory of the murder through her talks with [marjorie](marjorie.md), and as the last safe resort and trust in the juridical system in the last scene.
 
 - Age: 42
 - Gender: cis female or non-binary

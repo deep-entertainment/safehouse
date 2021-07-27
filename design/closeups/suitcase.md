@@ -2,11 +2,11 @@
 
 #closeup 
 
-An open, small, black [suitcase](../items/suitcase.md) for Marjorie's stay in the house. We see into it, it's neatly and cleanly packed.
+An open, small, black [suitcase](../items/suitcase.md) for Marjorie's stay in the house. We can look inside it, and it's neatly and cleanly packed.
 
-There is a stack of items upon each other, which can be clicked and trigger responses. Each click plays [wardrobe_moving](../sfx/wardrobe_moving.md) and removes the item
+There is a stack of items upon each other, which can be clicked and trigger responses. Each click plays [wardrobe_moving](../sfx/wardrobe_moving.md) and removes the item.
 
-The exit leads to [bedroom](../locations/bedroom.md)
+The exit leads to [bedroom](../locations/bedroom.md).
 
 # Unpacking
 

@@ -2,4 +2,4 @@
 
 #ambient 
 
-[hall](hall.md), but played on a lower volume.
+[hall](hall.md), but played at a lower volume.

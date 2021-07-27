@@ -2,4 +2,4 @@
 
 #sfx 
 
-A sound of glass breaking, distant but strong enough to let Marjorie wake up.
+A sound of glass breaking, distant but strong enough to wake up Marjorie.

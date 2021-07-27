@@ -4,11 +4,11 @@
 
 Marjorie Tailor, the main character
 
-Marjorie is a black woman, aged 34. At the beginning of the game, she is calm and shy and insecure. Through the events in the game, she becomes confident and strong.
+Marjorie is a black woman, aged 34. At the beginning of the game, she is calm, shy and insecure. Through the events in the game, she becomes confident and strong.
 
-Because [rebeca](rebeca.md) is very rough to her, she begins to suspect, that she tries to scare her, but ultimatively, it's [calvin](calvin.md) that tries to attack her, and this gets settled in the very last scene.
+Because [rebeca](rebeca.md) is very rough to her, she begins to suspect that she tries to scare her, but ultimatively, it's [calvin](calvin.md) that tries to attack her. This gets settled in the very last scene.
 
-Throughout the game, she is scared (her fears growing with the events)
+Throughout the game, she is scared (her fears growing with the events).
 
 - Age: 34
 - Gender: cis female

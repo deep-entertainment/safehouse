@@ -39,4 +39,4 @@ A hanging lamp with spherical, green lampshade that hides a sturdy hook that the
   - Default
 
     > [marjorie](characters/marjorie.md)
-    > There is no switch on the lamp itself.
+    > There's no switch on the lamp itself.
