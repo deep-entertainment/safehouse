@@ -25,3 +25,8 @@ She doesn't have much character progression. Her character is used to tell the b
   - Direct
   - Well-chosen
   - Middle
+
+## Animations
+
+- [brianna_sitting](../animations/brianna_sitting.md)
+- [brianna_talking](brianna_talking.md)
