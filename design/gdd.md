@@ -43,6 +43,14 @@ The themes should reflect the character's personality or functions in the game:
 
 The game takes place in a New Jersey suburb. The place is merely a setting, and has no significance for the game itself.
 
+## Hint system
+
+If the player doesn't take any relevant action anymore to solve the current puzzle, [marjorie](characters/marjorie.md) will speak one of the lines tagged with #hints of the current puzzle.
+
+The lines spoken depend on what actions the player already took or hasn't done.
+
+The lines are spoken like thoughts.
+
 ## Game structure
 
 The game is structured by chapters for each day. The chapters aren't visible to the player though, and can only be distinguished by the change of scenery with morning/noon/evening/night scenes.
@@ -228,13 +236,17 @@ Music: [Marjorie Relaxed](music/marjorie.md#Marjorie%20Relaxed)
 
 *Fade in*
 
-[marjorie](characters/marjorie.md) enters the [bedroom](locations/bedroom.md), looks around, then puts her [suitcase](items/suitcase.md) on the [bedroom_bed](items/bedroom_bed.md), opens it.
+[marjorie](characters/marjorie.md) enters the [bedroom](locations/bedroom.md) and puts her [suitcase](items/suitcase.md) on the [bedroom_bed](items/bedroom_bed.md).
 
 Play [suitcase_bed](sfx/suitcase_bed.md)
+
+She looks around in the rooms and lets out a sigh.
 
 *Cutscene ends*
 
 #### PUZZLE 1.1: Unpack
+
+#hints "I think, I should unpack.", "Maybe it's time to unpack."
 
 Click on the [suitcase](items/suitcase.md).
 
@@ -257,6 +269,8 @@ They slide in all directions.
 > (shouts) Damn!
 
 #### PUZZLE 1.2: Assembling the phone
+
+#hints "Damn! Where did all the phone arts go?", "I need to fix my phone.", "I'm so clumsy. Damn phone."
 
 Find the four items by examining the things in the [bedroom](locations/bedroom.md):
 
@@ -287,6 +301,8 @@ Combine the items with the [smartphone_incomplete](items/smartphone_incomplete.m
 
 #### PUZZLE 1.3: Resetting the phone
 
+#hints "Mmmm. Something small and pointy.", "I think, I packed something.", "Let's check out the suitcase again."
+
 Click the [suitcase](items/suitcase.md) again and unpack further. After unpacking the purse:
 
 > [marjorie](characters/marjorie.md)
@@ -308,6 +324,8 @@ Take the [hairpin](items/hairpin.md) and use it to reset the [smartphone](items/
 > Ugh, now what was my PIN again? I always forget stuff like that.
 
 #### PUZZLE 1.4: Finding the PIN
+
+#hints "Hm. Now what was my PIN code again?", "I need to remember my PIN code."
 
 Find the note in the [purse](items/purse.md). Enter the correct number in [PIN screen](closeups/smartphone.md#PIN%20screen)
 
@@ -469,6 +487,8 @@ The player is free to roam the house. They need to do the following to continue:
 
 - Talk to [rebeca](characters/rebeca.md): [rebeca1](dialogs/rebeca1.md)
 
+#hints "I better clean up the table.", "Let's clean the dishes.", "Let's throw away the trash.", "Maybe I should apologize to Rebeca.", "Maybe I should talk to Calvin."
+
 Play [closing_front_door](sfx/closing_front_door.md).
 
 > [brianna](characters/brianna.md)
@@ -628,6 +648,8 @@ The player has to complete the following puzzles:
 
 #### PUZZLE 2.1: The Diary
 
+#hints "I'm still tired.", "What's that on my bed?", "A locked drawer. Strange.", "I wonder what's in that locked drawer.", "I should ask the others about this strange diary."
+
 Go up to [bedroom](locations/bedroom.md), find the [gruesome_note](items/gruesome_note.md).
 
 Solve the note puzzle to get the combination.
@@ -641,9 +663,13 @@ Go to the [living_room](locations/living_room.md). [calvin](characters/calvin.md
 
 #### PUZZLE 2.2: Getting the phone back
 
+#hints "I need my phone back.", "How can I get my phone back?"
+
 Go into the [kitchen](locations/kitchen.md) and look through the [kitchen_hatch](items/kitchen_hatch.md). The scene is switched to [living_room](locations/living_room.md) with [marjorie](characters/marjorie.md) looking through the [living_room_hatch](items/living_room_hatch.md). Wait for [rebeca](characters/rebeca.md) to lean to the left and read the file to snatch the [smartphone](items/smartphone.md) out of [rebeca](characters/rebeca.md)'s [pocket](items/pocket.md).
 
 #### PUZZLE 2.3: Finding the wifi router
+
+#hints "Let's look Jacob up online.", "Maybe I can find the password for the Wifi somewhere.", "Don't they write the password of Wifis on these internet boxes?", "There needs to be one of this internet boxes somewhere!", "I wonder, what's under this floor board.", "The password doesn't work on the internet box. But why would they write it there then?", "Maybe that note from the trash can helps with the Wifi password."
 
 Turn on the [smartphone](items/smartphone.md). Switch to [smartphone](closeups/smartphone.md), it shows no mobile connection, but an accessible wifi. Connecting to it requires a password though.
 
@@ -721,6 +747,8 @@ Music: [Marjorie Night](music/marjorie.md#Marjorie%20Night)
 
 #### PUZZLE 3.1: Fixing the lamp
 
+#hints "I need to replace the light bulb. I need some light in here.", "I'm too small to reach the lamp.", "Now where's a lightbulb that fits into the socket?", "The lightbulb should fit."
+
 Go into the [kitchen](locations/kitchen.md), get the [stepladder](items/stepladder.md) from the [kitchen_left_cupboard](items/kitchen_left_cupboard.md). Use the [stepladder](items/stepladder.md) with the [bedroom_lamp](items/bedroom_lamp.md). [marjorie](characters/marjorie.md) walks up the [stepladder](items/stepladder.md) and unscrews the [broken_bulb](items/broken_bulb.md).
 
 Look at the lamps in the house. Only the bulb from the [hall_lamp](items/hall_lamp.md) matches. But it's too hot to touch. Find a [cloth](items/cloth.md) in the [kitchen](locations/kitchen.md) and use it to unscrew the [bulb](items/bulb.md).
@@ -754,6 +782,8 @@ Back to Music: [Marjorie Night](music/marjorie.md#Marjorie%20Night)
 *Cutscene ends*
 
 #### PUZZLE 3.2 - Inspecting the hook
+
+#hints "What's that on the hook?", "There's this thing on the hook, but it's too small to see."
 
 Get the [magnifying_glass](items/magnifying_glass.md) from the  [kitchen_right_drawer](items/kitchen_right_drawer.md).
 
@@ -898,6 +928,8 @@ Add [makeup_brush](items/makeup_brush.md).
 
 #### PUZZLE 3.3: Getting the fingerprint kit
 
+#hints "How do they take fingerprints in the movies again?", "I need some powder.", "How do I apply the powder onto the prints without messing them up?", "I need something to lift off the fingerprints.", "Time to get the fingerprints!"
+
 Take the [makeup_brush](items/makeup_brush.md) from the [kitchen_trash_can](items/kitchen_trash_can.md). Take the [tape](items/tape.md) from [hall_sideboard](items/hall_sideboard.md). Get the [fingerprint_powder](items/fingerprint_powder.md) from the [living_room_cupboard_unlocked](items/living_room_cupboard_unlocked.md).
 
 Combine them all into [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md).
@@ -964,11 +996,15 @@ Marjorie stands up.
 
 #### PUZZLE 3.4: Lifting fingerprints
 
+#hints "Finally I can take the fingerprints."
+
 Go to the [bedroom](locations/bedroom.md).
 
 Use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) with the [bedroom_hook](items/bedroom_hook.md) to get [fingerprint_from_hook](items/fingerprint_from_hook.md).
 
 #### PUZZLE 3.5: Getting fingerprints from Rebeca
+
+#hints "I need to get the prints from Rebeca.", "How can I get prints from Rebeca?", "Maybe she'd like a drink.", "Where do I get a virgin mary in this hellhole?", "I still need things for the virgin mary.", "I think I got everything for the virgin mary now. Let's mix it.", 
 
 Go to the [kitchen](locations/kitchen.md). [rebeca](characters/rebeca.md) stands to the right, looking out the window.
 
@@ -1027,6 +1063,8 @@ Give [makeshift_virgin_mary](items/makeshift_virgin_mary.md) to [rebeca](charact
 Takes the [used_glass](items/used_glass.md) from [rebeca](characters/rebeca.md).
 
 #### PUZZLE 3.6: Comparing fingerprints
+
+#hints "Okay, bitch! Time to get your fingerprints.", "I wonder, if the fingerprints match."
 
 - Use the [makeshift_fingerprint_kit](items/makeshift_fingerprint_kit.md) with [used_glass](items/used_glass.md) to get [rebeka_fingerprints]((items/reebca_fingerprints.md))
 - Use [rebeka_fingerprints]((items/reebca_fingerprints.md)) with [fingerprint_from_hook](items/fingerprint_from_hook.md)
@@ -1111,6 +1149,8 @@ Play [gunshot](sfx/gunshot.md)
 
 #### PUZZLE 4.1: Survive!
 
+#hints "**Fuck! He's after me!**", "**Run!**"
+
 From this on we need to hurry. Staying in the [living_room](locations/living_room.md), the [hall](locations/hall.md), the [upper hall](locations/upper_hall.md) or the (unboarded) [bedroom](locations/bedroom.md) more than 5 seconds will make [calvin](characters/calvin.md) appear and shoot (Play [gunshot](sfx/gunshot.md)). If that happens, we're taken back to the beginning of this puzzle.
 
 Go through the [hall](locations/hall.md), the [upper hall](locations/upper_hall.md) into the [bedroom](locations/bedroom.md). Close the [bedroom_door](items/bedroom_door.md) and use the [bedroom_wardrobe](items/bedroom_wardrobe.md) to push it in front of the door.
@@ -1143,68 +1183,7 @@ Play [door_bang](sfx/door_bang.md)
 >
 > (shouting) Let's face it, Mister Varone won't accept your blabbermouth in court!
 
-> [marjorie](characters/marjorie.md)
->
-> (shouting) I trusted you, Calvin!
-
-[calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) is shaking.
-
-Play [door_bang](sfx/door_bang.md)
-Play [wardrobe_moving](sfx/wardrobe_moving.md)
-
-> [calvin](characters/calvin.md)
->
-> (shouting) Yeah, like I said, I'm sorry!
-
-> [marjorie](characters/marjorie.md)
->
-> (shouting) You killed Rebeca!
-
-> [calvin](characters/calvin.md)
->
-> (shouting) She was getting too close! She was getting suspicious...
-
-> [marjorie](characters/marjorie.md)
->
-> (shouting) She knew that you are a fucking bastard!
-
-[calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) is moving.
-
-Play [door_bang](sfx/door_bang.md)
-Play [wardrobe_moving](sfx/wardrobe_moving.md)
-
-> [calvin](characters/calvin.md)
->
-> Well, a man's gotta provide for himself!
-
-> [marjorie](characters/marjorie.md)
->
-> (shouting) Did you kill Jacob too?
-
-> [calvin](characters/calvin.md)
->
-> Ahh, the kid.
-
-[calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) moves some step away. The [bedroom_door](items/bedroom_door.md) is visible.
-
-Play [door_bang](sfx/door_bang.md)
-Play [wardrobe_moving](sfx/wardrobe_moving.md)
-
-> [calvin](characters/calvin.md)
->
-> He just didn't get the message, that little punk.
-
-> [marjorie](characters/marjorie.md)
->
-> (shouting) Why did you have to kill them?
-
-> [calvin](characters/calvin.md)
->
-> Because there was no other way!
-
-[calvin](characters/calvin.md) banging on the [bedroom_door](items/bedroom_door.md). The [bedroom_wardrobe](items/bedroom_wardrobe.md) gives in, moves further away and the [bedroom_door](items/bedroom_door.md) swings open. [calvin](characters/calvin.md) comes in.
-
-Play [wardrobe_giving_in](sfx/wardrobe_giving_in.md)
+Now [showdown](dialogs/showdown.md) is played. After all questions are answered, the [bedroom_wardrobe](items/bedroom_wardrobe.md) gives in, the [bedroom_door](items/bedroom_door.md) swings open and [calvin](characters/calvin.md) enters.
 
 > [calvin](characters/calvin.md)
 >
@@ -1226,7 +1205,7 @@ Play [wardrobe_giving_in](sfx/wardrobe_giving_in.md)
 >
 > Igino Varone is a... busy man.
 
-[calvin](characters/calvin.md) raises his gun.
+[calvin](characters/calvin.md) takes out his gun.
 
 > [marjorie](characters/marjorie.md)
 >
@@ -1430,3 +1409,4 @@ Dennis Ploeger
 ### Creative Consultant
 
 Mikael Nyqvist
+Jon Ingold
