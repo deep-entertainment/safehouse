@@ -198,7 +198,7 @@ Again?
 
 BRIANNA:
 
-Yes. I have to prepare you for the time during the trial. You will have to repeat it there as well and be prepared for questions from the defense attorney.
+Yes. I have to prepare you for the trial. You will have to repeat it there as well and be prepared for questions from the defense attorney.
 
 MARJORIE:
 
@@ -206,7 +206,7 @@ MARJORIE:
 
 BRIANNA:
 
-Yes, I know. I will try to protect you at all times, but there will be questions the judge will allow and that you have to answer. Do you understand?
+Yes, I know. I will try to protect you at all times, but there will be questions the judge will allow that you have to answer. Do you understand?
 
 MARJORIE:
 
@@ -218,7 +218,7 @@ Yes. I guess.
 
 BRIANNA
 
-Okay, so what happened on Friday?
+Okay, so what happened Friday night?
 
 MARJORIE
 
@@ -344,7 +344,7 @@ Okay, please continue.
 
 MARJORIE
 
-I went to the fridge to get some milk when I heard an argue over at the counter.
+I went to the fridge to get some milk when I heard an argument over at the counter.
 
 { not stalling2.did_stall:
 
@@ -506,7 +506,7 @@ Yes. And he said, that he didn't know what Varone was talking about. And then...
     
     -> stalling3
 
-* [All of the sudden...]
+* [All of a sudden...]
 
 -> continue3
 
@@ -514,7 +514,7 @@ Yes. And he said, that he didn't know what Varone was talking about. And then...
 
 MARJORIE
 
-All of the sudden... he drew a gun and... pointed at him, and I quickly hid behind a shelf.
+All of a sudden... he drew a gun and... pointed at him, and I quickly hid behind a shelf.
 
 BRIANNA
 
@@ -618,11 +618,11 @@ Okay I... I freaked out. It was all too much, you know?
 
 MARJORIE
 
-Nothing! He was death!
+Nothing! He was dead!
 
 BRIANNA
 
-Remember to tell things exactly and completely as they were. If you leave things out, the defense will rip you open on those.
+Remember to recount things exactly and completely as they were. If you leave things out, the defense will rip you open on those.
 
 MARJORIE
 
@@ -642,7 +642,7 @@ Yes, I understand. What did you do?
 
 MARJORIE
 
-I just ran. I ran home and locked my doors. I expected to get shot every second. I only opened when the police knocked as they were questioning the neighborhood.
+I just ran. I ran home and locked my doors. I expected to get shot any second. I only opened when the police knocked at my door when they had started questioning the neighborhood.
 
 BRIANNA
 
@@ -670,7 +670,7 @@ They will ask something like that?
 
 BRIANNA
 
-Look, you're the witness. That makes you the defense's enemy. If they can't prove, that you're lying, they have to render you unreliable.
+Look, you're the witness. That makes you the defense's enemy. If they can't prove that you're lying, they have to render you unreliable.
 
 MARJORIE
 
@@ -678,7 +678,7 @@ Okay.
 
 BRIANNA
 
-The best thing is to stay calm and I know how hard that is. Stay calm and answer their questions truthfully.
+The best thing is to stay calm, and I know how hard that is. Stay calm and answer their questions truthfully.
 
 MARJORIE
 
