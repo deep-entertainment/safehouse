@@ -10,17 +10,17 @@ Beats:
 * Marjorie wants to follow this through though, because she thinks, it's the right thing to do
 */
 
-BRIANNA:
+BRIANNA
 
 Marjorie, I'm Brianna Alison. I'm the district attorney and will lead the case against Igino Varone.
 
-* [Hello]
+* [Hello.]
 
-    MARJORIE:
+    MARJORIE
     
     (sigh) Hello Brianna.
     
-    BRIANNA:
+    BRIANNA
     
     I guess it's not easy.
     
@@ -32,11 +32,11 @@ Marjorie, I'm Brianna Alison. I'm the district attorney and will lead the case a
     
 * [Can we get this over with quickly?]
 
-    MARJORIE:
+    MARJORIE
     
     Hello. Can we get this over with quickly?
     
-    BRIANNA:
+    BRIANNA
     
     (determined) Yes, of course.
     
@@ -44,11 +44,11 @@ Marjorie, I'm Brianna Alison. I'm the district attorney and will lead the case a
 
 == calvin_told_me ==
 
-MARJORIE:
+MARJORIE
 
 Yes, I know who you are. Calvin told me that you'd come.
 
-BRIANNA:
+BRIANNA
 
 I see.
 
@@ -60,33 +60,33 @@ I see.
 
 Have you settled in?
 
-MARJORIE:
+MARJORIE
 
 Well... yes. I guess. It's... It is like it is.
 
-BRIANNA:
+BRIANNA
 
 Yes, I understand. It's not easy.
 
 }
 
-* [No]
+* [No.]
 
-    MARJORIE:
+    MARJORIE
     
     No, it isn't.
     
     -> manage
 
-* [Hell no]
+* [Hell no!]
 
-    MARJORIE:
+    MARJORIE
     
     Hell no!
     
     -> manage
 
-* [I got this]
+* [I got this.]
 
     MARJORIE
     
@@ -96,11 +96,11 @@ Yes, I understand. It's not easy.
 
 = manage
 
-BRIANNA:
+BRIANNA
 
 But you manage?
 
-MARJORIE:
+MARJORIE
 
 I... (reassuring herself) Yes, I got this.
 
@@ -108,15 +108,15 @@ I... (reassuring herself) Yes, I got this.
 
 = got_this
 
-BRIANNA:
+BRIANNA
 
 Great. Thank you so much for your support.
 
-MARJORIE:
+MARJORIE
 
 I hope it helps.
 
-BRIANNA:
+BRIANNA
 
 Oh, it definitely does. -> the_story
 
@@ -126,30 +126,30 @@ Oh, it definitely does. -> the_story
 
 So, if it's okay with you, can we {|now} go back to last Friday{! please}?
 
-* [Yes]
+* [Yes.]
 
-    MARJORIE:
+    MARJORIE
     
     Yes, okay.
     -> tell
 
 * {starting == 1}[Do we have to?]
 
-    MARJORIE:
+    MARJORIE
     
     Do we have to?
     
-    BRIANNA:
+    BRIANNA
     
     -> stalling
 
-* {starting == 1}[I don't want to]
+* {starting == 1}[I don't want to!]
 
-    MARJORIE:
+    MARJORIE
     
     I... I don't want to do this.
     
-    BRIANNA:
+    BRIANNA
     
     Marjorie, we need to prepare you for court or you won't be ready when the defense hits you.
     -> stalling
@@ -158,27 +158,27 @@ So, if it's okay with you, can we {|now} go back to last Friday{! please}?
     
 I know, how hard this is for you.
     
-MARJORIE:
+MARJORIE
 
 (shouts) You don't have a fucking clue!
 
-BRIANNA:
+BRIANNA
 
 (calming her) Yes, of course. But I understand it. I've supported many clients on their way.
 
-MARJORIE:
+MARJORIE
 
 (calms down) I guess, they weren't a mess like I am.
 
-BRIANNA:
+BRIANNA
 
 (firm) Actually. They were even more broken than you are.
 
-MARJORIE:
+MARJORIE
 
 They were?
 
-BRIANNA:
+BRIANNA
 
 Yes.
 
@@ -188,27 +188,27 @@ Yes.
 
 = tell
 
-BRIANNA:
+BRIANNA
 
 {not stalling: I know it's hard, Marjorie. But c|C}an you please tell me what happened?
 
-MARJORIE:
+MARJORIE
 
 Again?
 
-BRIANNA:
+BRIANNA
 
 Yes. I have to prepare you for the trial. You will have to repeat it there as well and be prepared for questions from the defense attorney.
 
-MARJORIE:
+MARJORIE
 
 (sighs)
 
-BRIANNA:
+BRIANNA
 
 Yes, I know. I will try to protect you at all times, but there will be questions the judge will allow that you have to answer. Do you understand?
 
-MARJORIE:
+MARJORIE
 
 Yes. I guess.
 
@@ -228,33 +228,33 @@ BRIANNA
 
 What time was it?
 
-* [6 to 6:30 pm]
+* [6 to 6:30 pm.]
 
-    MARJORIE:
+    MARJORIE
     
     6 to 6:30 pm
     
-    BRIANNA:
+    BRIANNA
     
     6 or 6:30 pm?
     
     -> wrong_time
 
-* [7 to 7:30 pm]
+* [7 to 7:30 pm.]
 
-    MARJORIE:
+    MARJORIE
     
     7 to 7:30 pm
     
-    BRIANNA:
+    BRIANNA
     
     7 or 7:30 pm?
     
     -> pinpoint
 
-* [7:30 to 8 pm]
+* [7:30 to 8 pm.]
 
-    MARJORIE:
+    MARJORIE
     
     7:30 to 8 pm
     
@@ -300,7 +300,7 @@ Okay, please continue.
 
 == stalling2 ==
 
-* {stalling2.did_stall == 0}[Say nothing]
+* {stalling2.did_stall == 0}[(Say nothing)]
 
     MARJORIE
     
@@ -316,7 +316,7 @@ Okay, please continue.
     
     -> did_stall
 
-* {stalling2.did_stall == 0}[Poor Jazir]
+* {stalling2.did_stall == 0}[Poor Jazir.]
 
     MARJORIE
     
@@ -332,7 +332,7 @@ Okay, please continue.
     
     -> did_stall
     
-* [I went to the fridge]
+* [I went to the fridge.]
 
     -> continue2
 
@@ -362,41 +362,41 @@ BRIANNA
 
 Do you know his name?
 
-* [I don't remember]
+* [I don't remember.]
 
-MARJORIE
+    MARJORIE
+    
+    I don't remember.
+    
+    BRIANNA
+    
+    Please, take your time.
+    
+    MARJORIE
+    
+    (beat) Varone.
 
-I don't remember.
+* [I don't want to say his name.]
 
-BRIANNA
+    MARJORIE
+    
+    I can't say his fucking name.
+    
+    BRIANNA
+    
+    Marjorie, please. You need to brace yourself for court.
+    
+    MARJORIE
+    
+    (to herself) Fuck.
+    
+    (aloud) Varone.
 
-Please, take your time.
-
-MARJORIE
-
-(beat) Varone.
-
-* [I don't want to say his name]
-
-MARJORIE
-
-I can't say his fucking name.
-
-BRIANNA
-
-Marjorie, please. You need to brace yourself for court.
-
-MARJORIE
-
-(to herself) Fuck.
-
-(aloud) Varone.
-
-* [I know his name]
-
-MARJORIE:
-
-Varone.
+* [I know his name.]
+    
+    MARJORIE
+    
+    Varone.
 
 -
 
@@ -428,23 +428,23 @@ BRIANNA
 
 What do you mean that you all know who he is?
 
-* (killer)[Killer]
+* (killer)[A killer.]
 
-MARJORIE
+    MARJORIE
+    
+    He's a killer. Everybody knows that!
 
-He's a killer. Everybody knows that!
+* (drug_dealer)[A drug dealer.]
 
-* (drug_dealer)[Drug dealer]
+    MARJORIE
+    
+    He's selling drugs. Everybody knows that!
 
-MARJORIE
+* [He's "La famiglia".]
 
-He's selling drugs. Everybody knows that!
-
-* [La famiglia]
-
-MARJORIE
-
-He's "La Famiglia". He's doing all sorts of stuff. Killing people, selling drugs, prostitution...
+    MARJORIE
+    
+    He's "La Famiglia". He's doing all sorts of stuff. Killing people, selling drugs, prostitution...
 
 -
 
@@ -478,7 +478,7 @@ Yes. And he said, that he didn't know what Varone was talking about. And then...
 
 == stalling3 ==
 
-* [Say nothing]
+* [(Say nothing)]
 
     MARJORIE
     
@@ -494,7 +494,7 @@ Yes. And he said, that he didn't know what Varone was talking about. And then...
     
     -> stalling3
 
-* [I don't want to go on]
+* [I don't want to go on.]
 
     MARJORIE
     
@@ -536,41 +536,41 @@ BRIANNA
 
 Should we take a break?
 
-* [Yes]
+* [Yes.]
 
-BRIANNA
+    BRIANNA
+    
+    Okay. Relax. Breathe.
+    
+    MARJORIE
+    
+    (breathes in)
+    
+    (breathes out)
+    
+    (drinks)
+    
+    BRIANNA
+    
+    Do you think, you can go on?
+    
+    MARJORIE
+    
+    I... Yes, I think so.
+    
+    BRIANNA
+    
+    So what happened then?
 
-Okay. Relax. Breathe.
+* [No.]
 
-MARJORIE
-
-(breathes in)
-
-(breathes out)
-
-(drinks)
-
-BRIANNA
-
-Do you think, you can go on?
-
-MARJORIE
-
-I... Yes, I think so.
-
-BRIANNA
-
-So what happened then?
-
-* [No]
-
-MARJORIE
-
-No, it's... It's fine. Thank you.
-
-BRIANNA
-
-Okay.
+    MARJORIE
+    
+    No, it's... It's fine. Thank you.
+    
+    BRIANNA
+    
+    Okay.
 
 -
 
@@ -601,38 +601,38 @@ BRIANNA
 And then?
 
 * [What do you mean?]
-
-MARJORIE
-
-What do you mean?
-
-BRIANNA
-
-You have to tell things exactly and completely as they were. If you leave things out, the defense will rip you open on those.
-
-MARJORIE
-
-Okay I... I freaked out. It was all too much, you know?
+    
+    MARJORIE
+    
+    What do you mean?
+    
+    BRIANNA
+    
+    You have to tell things exactly and completely as they were. If you leave things out, the defense will rip you open on those.
+    
+    MARJORIE
+    
+    Okay I... I freaked out. It was all too much, you know?
 
 * [Nothing!]
 
-MARJORIE
-
-Nothing! He was dead!
-
-BRIANNA
-
-Remember to recount things exactly and completely as they were. If you leave things out, the defense will rip you open on those.
-
-MARJORIE
-
-(angry) Fine. I freaked out. It was all too much, you know?
+    MARJORIE
+    
+    Nothing! He was dead!
+    
+    BRIANNA
+    
+    Remember to recount things exactly and completely as they were. If you leave things out, the defense will rip you open on those.
+    
+    MARJORIE
+    
+    (angry) Fine. I freaked out. It was all too much, you know?
 
 * [I freaked out.]
 
-MARJORIE
-
-I freaked out. It was all too much, you know?
+    MARJORIE
+    
+    I freaked out. It was all too much, you know?
 
 -
 
